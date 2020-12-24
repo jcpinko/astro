@@ -1,0 +1,68 @@
+
+body {
+  margin: 5px 5px;
+/* none repeat scroll 0% 50%; */
+  font-family: 'Lucida Grande','LucidaGrande','Lucida','Helvetica','Arial','sans-serif';
+  font-stretch: normal;
+/* For Light background with Black font. */
+/*  color: #000000;
+/*  background-color: #ffffff;
+/*  direction: ltr;  */
+/* For Dark background with light font. */
+  color: #e8e8ec;
+  background-color: #2d280f;
+  direction: ltr;
+/* Other */
+  font-size: 1.0em;
+  font-size-adjust: none;
+  letter-spacing: 0.5px;
+  font-variant: normal;
+  font-weight: normal;
+ /* text-align: center; */
+  font-style: normal;
+  line-height: normal;
+}
+
+/* Use an "id" for a table */
+#mysched {
+    font-family: Arial, Helvetica, sans-serif;
+  /*  width: 100%; */
+     border-collapse: collapse;
+}
+#mysched td, #mysched th {  /* header and normal columns */
+  /*  font-size: 1em; */
+    border: 2px solid ;
+  /*  padding: 3px 7px 2px 7px; Top Right Bot Left */
+    padding: 14px 12px 14px 12px;
+    text-align: center;
+}
+#mysched th {        /* header columns */
+    font-size: 1.1em;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    width: 150px;
+   }
+#mysched td.time {
+    width: 70px;
+   }
+#mysched td.cred {
+    background-color: rgb(180,40,40);
+   }
+#mysched td.cgold {
+    background-color: rgb(220,170,0);
+   }
+#mysched td.cgreyr {
+    background-color: rgb(170,150,150);
+   }
+#mysched td.cgrey {
+    background-color: rgb(170,170,170);
+   }
+#mysched td.clab {
+    background-color: rgb(51, 153, 153);
+   }
+#mysched td.clab2 {
+    background-color: rgb(41, 103, 143);
+   }
+#mysched td.cgreen {
+    background-color: rgb(1,203,1);
+   }
