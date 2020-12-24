@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Technicalinfo</title>
+  <meta http-equiv="content-type"
+ content="text/html; charset=ISO-8859-1">
+</head>
+<body alink="#0000ee" bgcolor="#000000" link="#0000ee" text="#000000"
+ vlink="#551a8b">
+<h2><font color="#ff9900">Credits</font></h2>
+<br>
+<font color="#ffcc33">This work was supported by {\it HST} grants to
+the <i>Nuker</i> team, and by NASA grant NAG 5-8238 to D. Richstone.</font><font
+ color="#ffcc33"> Support for the <i>HST</i> proposals GO-7388, GO-8591,
+GO-9106, and GO-9107 was provided by NASA through grants from the Space
+Telescope Science
+Institute, which is operated by the Association of Universities
+for
+Research in Astronomy, Inc., under NASA contract NAS 5-26555.</font><font
+ color="#ffcc33"><br>
+<br>
+<b><font color="#ff9900">Rachel Brown</font></b> - combined and rotated
+CCD images using IRAF. Made postscript and jpeg images using DS9,
+created web page. Funded by ONU.<br>
+<span style="color: rgb(255, 153, 0); font-weight: bold;">Michael Garee</span>
+- </font><font color="#ffcc33">combined and rotated
+CCD images using IRAF. </font><font color="#ffcc33">Made some
+jpeg images using DS9,<br>
+<span style="color: rgb(255, 153, 0); font-weight: bold;">Brian Sacash</span>
+- </font><font color="#ffcc33">Made improved jpeg images using
+DS9. Redid individual galaxy displays. Made first tuning
+fork images.</font><br>
+<span style="color: rgb(255, 153, 0); font-weight: bold;">Peter Kircher</span>
+- </font><font color="#ffcc33">Made improved jpeg images using DS9, 
+added new galaxies, added new jpeg images to prexsisting galaxies, modified 
+individual galaxy displays, and transfered site to new address.</font><br>
+<font color="#ffcc33"> <b><font color="#ff9900">Jason Pinkney</font></b>
+- principle observer at MDM, processing of CCD images, combining CCD
+images, web page supervision. Funded by a Faculty Development
+Grant at ONU (2004) and through NASA grants to D. Richstone between
+1999-2002.<br>
+<b><font color="#ff9900">Monique Aller</font></b> - observer at MDM.<br>
+<b><font color="#ff9900">Douglas Richstone</font></b> - principle
+investigator on HST proposals.<br>
+<b><font color="#ff9900">Nuker Team</font></b>- co-investigators on HST
+proposals. The team includes: JASON PINKNEY, KARL GEBHARDT,
+MONIQUE
+ALLER, RALF BENDER, GARY BOWER, ALAN DRESSLER, S. M. FABER,
+ALEXEI
+V. FILIPPENKO, RICHARD GREEN, LUIS C. HO, JOHN KORMENDY, TOD R.
+LAUER,
+JOHN MAGORRIAN, DOUGLAS RICHSTONE, SCOTT TREMAINE <br>
+<br>
+This research also benefitted from the NASA/IPAC Extragalactic Database
+(NED) which is operated by the Jet Propulsion Laboratory,
+Caltech,
+under contract with NASA.</font><br>
+<font color="#ffcc33"><br>
+</font><br>
+<br>
+</body>
+</html>
