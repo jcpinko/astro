@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>lang=&quot;x-default&quot; M42- Orion Nebula</caption>
+  <note>M42, the Orion Nebula. This star-forming region is easily visible to the naked eye as a fuzzy patch of sky underneath Orion&apos;s belt in the winter.</note>
+  <place/>
+  <time value="2011:10:27 14:53:56"/>
+  <categories>
+    <category value="Nebulae"/>
+    <category value="Galactic"/>
+  </categories>
+</comment>

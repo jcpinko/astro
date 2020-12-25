@@ -1,0 +1,127 @@
+/* Style for Astro pages, public events */
+
+a:link { color: #5050ff }
+a:visited { color: #5030bb } 
+a:hover { color: #a5aa8b }
+a:active { color: #f0f0f0 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255,255,180); 
+    background-color: rgb(10,0,0);
+    background-image: url(starry-night.jpg);
+}
+/* Universal box sizing with inheritance. This forces any
+padding or border width to be inside of the requested  box
+(e.g., a <div> or <p>). */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+   text-align: center;
+}
+h2 {
+   text-align: center;
+   margin: 10px;
+}
+
+/* An unordered list class. */
+ul.mylist {
+   list-style-type: circle;
+   color: rgb(255,255,102);  /* yellow */
+}
+
+/* TABLES  Use an "id" for a table */
+#mytab {
+    width: 90%; 
+/*  border-collapse: collapse; */
+    text-align: center;
+    font-size: 1.1em;
+    border-style: solid;
+    border-width: 4px ;  /* or "border: 4px solid ;" also works */
+    border-radius: 15px;
+}
+#mytab td, #mytab th {  /* header and normal columns */
+  /*  font-size: 1em; */
+  /*  padding: 6px 5px 6px 5px; /* Top Right Bot Left */
+    padding: 15px; 
+    text-align: left;
+}
+#mytab th {        /* header columns */
+    padding-top: 5px;
+    padding-bottom: 4px;
+    width: 140px;
+   }
+
+/* TEXT BOXES.  Use a "class" for a text containers (boxes, quotes or divs) */
+.cancel {                 /* For Cancellations */
+   color: rgb(250,0,0);  /* red */
+   background-color: rgb(0,0,0); 
+   font-size: 1.0em;
+   padding-left: 30px;
+}
+.itson {                 /* For confirming that events are on */
+   color: rgb(0,250,0);  /* green */
+   background-color: rgb(0,0,0); 
+   font-size: 1.0em;
+   padding-left: 30px;
+}
+.mynote {
+/*   color: rgb(163,114,66); */ /* Light brown */
+   color: rgb(190,140,100);     /* Lighter brown */
+   background-color: rgb(0,0,0); 
+   font-size: 0.9em;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+}
+.mynote2 {
+   color: rgb(63,154,180);  /* blue-green */
+   background-color: rgb(0,0,0); 
+   font-size: 0.9em;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+}
+.footnote {
+   color: rgb(102,51,0);  /* Dark brown */
+   font-size: 0.9em;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 15px;
+   padding-bottom: 3px;
+}
+.byellowital {
+   color: rgb(255,255,180);  /* Light yellow-blue */
+   font-size: 1.0em;
+   font-style: italic;
+   width: 60%;
+  /*  padding: 6px 5px 6px 5px; /* Top Right Bot Left */
+   padding: 20px 5px 5px 5px;
+}
+.byellow {
+   color: rgb(255,255,180);  /* Light yellow-blue */
+   font-size: 1.2em;
+   font-style: normal;
+   width: 40%;
+   padding: 20px 5px 5px 5px;
+}
+.yellow {
+   color: rgb(255,255,102);  /* yellow */
+   font-size: 1.1em;
+   font-style: normal;
+   /* width: 40%; */
+   padding-top: 250px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

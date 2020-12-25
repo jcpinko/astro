@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>M42</caption>
+  <note>M42, the Orion Nebula.
+
+DSI II CCD, Meade 80mm apochromatic refractor.</note>
+  <place/>
+  <time value="2011:10:27 14:55:42"/>
+  <categories>
+    <category value="Nebulae"/>
+    <category value="Galactic"/>
+  </categories>
+</comment>

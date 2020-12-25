@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Observatory plans</caption>
+  <note>The plans for the observatory.</note>
+  <place/>
+  <time value="2011:08:04 14:58:01"/>
+  <categories>
+    <category value="Observatory"/>
+  </categories>
+</comment>
