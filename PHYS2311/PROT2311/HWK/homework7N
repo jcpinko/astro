@@ -1,0 +1,64 @@
+
+P231 Homework 7
+[Old: Serway and Jewett 7th Ed.]
+[ Ch. 8 P. 3,4,5,13,14,17,18,19,21,26,28,29,32]
+
+Serway and Jewett 8th Ed.
+Ch. 8 P. 1,5,6,13,14,15,18, 20,22,23,29,30,38
+
+X  1. a) DeltE_int = Q + T_ET + T_ER 
+X  b) DeltaK + DeltaU + DeltE_int = W + Q + T_ET + T_ER    SKIP #1
+X  c) DeltaU = Q + T_MT 
+X  d) 0 = Q + T_ET + T_MT + T_ER 
+   
+1.a) Toaster takes in E from electrical transmission,
+     increases its E_int, sends heat and EM radiation
+     into surroundings.
+     Thus,   Delta E_int = Q + T_ET + T_ER
+  b) Car takes in energy by mass transfer (T_MT) which 
+     boosts its chemical potential energy (U), KE increases
+     it gives out heat in exhaust and does work on the air
+     as it moves, and produces some sound.
+     Thus,   Delt K + Delt U + Delt E_int = W + Q + T_MW + T_MT
+  c) Similarly,  Delt U = Q + T_MT
+  d) Similarly,  0 = Q + T_MT + T_ET + T_ER
+5. v = sqrt(3.0gR)
+   n = 0.098 N downwards
+6. a) 5.94 m/s at B, 7.67 m/s at C
+   b) 147 J
+13. d = (v^2)/(2*mu_k*g)
+14. a) 650 J
+    b) 588 J
+    c) 0
+    d) 0
+    e) 62.0 J
+    f) 1.76 m/s
+15. a) 0.791 m/s    
+     b) 0.531 m/s
+18. a) v_B = 1.65 m/s
+    b) the green bead arrives at B with a higher speed 
+       because it travels the shorter path length and 
+       therefore looses more mechan energy to friction.
+20. a) U_f=22.0 J, E=40.0 J
+    b) Yes, DeltaE_mech = Delta K + DeltaU is not equal to zero,
+	so some non-conservative force must act.  
+22. 3.74 m/s
+23. a) -160 J
+29. 1.23 kW
+30.  Badly phrased problem. 
+     Take literally, the answers are a)  P_min = 0 W
+     and b) because the minimum speed is 0 m/s.
+     They really want you to find the *average* power.  
+     This gives:   a) 8.01 W
+     This is a minimum because b) there would also be
+     energy lost to friction, mechanical resistance, and sound.
+38. a) 5910 W
+    b) P=11,100 W   (or 14.9 hp)
+
+Please check #15, and #29.  No more than 2 pts off
+per problem. -1/2 pt for omitting a problem.
+
+Please alphabetize these homeworks.
+
+Thanks mucho!!
+

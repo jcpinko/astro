@@ -1,0 +1,403 @@
+<html>
+<Head>
+<title>PracQzwk9</title>
+<script language="JavaScript">
+
+<!--
+
+// This JavaScript Code is the property of Brownstone Research Group and may not
+// be reused.
+
+function ComputeGrade(form) {
+
+var NumRadioCorrect = 0;
+var NumRadio = 0;
+var NumOfQues = 14;
+var NumOfAns = 70;
+var QT = new Array(14);
+var AT = new Array(70);
+var RT = new Array(0);
+var RD = new Array(0);
+var Re = new Array(70);
+var GRe = new Array(14);
+var UA = new Array(14);
+var CA = new Array(14);
+
+for (var j = 0; j < NumOfQues; j++) {
+  UA[j] = 0;
+  GRe[j] = "";
+}
+for (var j = 0; j < NumOfAns; j++) {
+  Re[j] = "";
+}
+
+
+QT[0] = "*:5:One revolution per minute is about:";
+AT[0] = "0.0524 rad/s";
+AT[1] = "0.105 rad/s";
+AT[2] = "0.95 rad/s";
+AT[3] = "1.57 rad/s";
+AT[4] = "6.28 rad/s";
+QT[1] = "*:5:If a wheel turns with constant angular speed then:";
+AT[5] = "each point on its rim moves with constant velocity";
+AT[6] = "each point on its rim moves with constant acceleration";
+AT[7] = "the wheel turns through equal angles in equal times";
+AT[8] = "the angle through which the wheel turns in each second increases as time goes on";
+AT[9] = "the angle through which the wheel turns in each second decreases as time goes on";
+QT[2] = "*:5:A flywheel, initially at rest, has a constant angular acceleration. After 9 s the flywheel has rotated 450 rad. Its angular acceleration in rad/s<sup>2</sup> is:";
+AT[10] = "100";
+AT[11] = "1.77";
+AT[12] = "50";
+AT[13] = "11.1";
+AT[14] = "15.9";
+QT[3] = "*:5:Ten seconds after an electric fan is turned on, the fan rotates at 300 rev/min. Its average angular acceleration is:";
+AT[15] = "3.14 rad/s<sup>2</sup>";
+AT[16] = "30 rad/s<sup>2</sup>";
+AT[17] = "30 rev/s<sup>2</sup>";
+AT[18] = "50 rev/min<sup>2</sup>";
+AT[19] = "1800 rev/s<sup>2</sup>";
+QT[4] = "*:5:A wheel initially has an angular velocity of 18 rad/s but it is slowing at a rate of 2.0 rad/s<font size=\"+0\"><sup>2</sup></font>. The time it takes to stop is:";
+AT[20] = "3.0 s";
+AT[21] = "6.0 s";
+AT[22] = "9.0 s";
+AT[23] = "12 s";
+AT[24] = "never stops";
+QT[5] = "*:5:A wheel initially has an angular velocity of 18 rad/s but it is slowing at a rate of 2.0 rad/s<font size=\"+0\"><sup>2</sup></font>. By the time it stops it will have turned through:";
+AT[25] = "13 rev";
+AT[26] = "26 rev";
+AT[27] = "39 rev";
+AT[28] = "52 rev";
+AT[29] = "65 rev";
+QT[6] = "*:5:If the angular velocity vector of a spinning body points out of the page then, when viewed from above the page, the body is spinning:";
+AT[30] = "clockwise about an axis that is perpendicular to the page";
+AT[31] = "counterclockwise about an axis that is perpendicular to the page";
+AT[32] = "about an axis that is parallel to the page";
+AT[33] = "about an axis that is changing orientation";
+AT[34] = "about an axis that is getting longer";
+QT[7] = "*:5:A particle moves in a circular path of radius 0.10 m with a constant angular speed of 5 rev/s. The acceleration of the particle is:";
+AT[35] = "0.10<font face=\"symbol\">p</font> m/s<font size=\"+0\"><sup>2</sup></font>";
+AT[36] = "0.50 m/s<font size=\"+0\"><sup>2</sup></font>";
+AT[37] = "500<font face=\"symbol\">p</font> m/s<font size=\"+0\"><sup>2</sup></font>";
+AT[38] = "1000<font face=\"symbol\">p</font><font size=\"+0\"><sup>2</sup></font> m/s<font size=\"+0\"><sup>2</sup></font>";
+AT[39] = "10<font face=\"symbol\">p</font><font size=\"+0\"><sup>2</sup></font> m/s<font size=\"+0\"><sup>2</sup></font>";
+QT[8] = "*:5:[FIXED] A flywheel of diameter 2.4 m has a constant angular acceleration of 5.0 rad/s<sup>2</sup>. The tangential acceleration of a point on its rim is:";
+AT[40] = "5.0 rad/s<sup>2</sup>";
+AT[41] = "3.0 m/s<sup>2</sup>";
+AT[42] = "5.0 m/s<sup>2</sup>";
+AT[43] = "6.0 m/s<sup>2</sup>";
+AT[44] = "12 m/s<sup>2</sup>";
+QT[9] = "*:5:Two wheels are identical but wheel B is spinning with twice the angular velocity of wheel A.  The ratio of the radial acceleration of a point on the rim of B to the radial acceleration of a point on the rim of A is:";
+AT[45] = "1";
+AT[46] = "2";
+AT[47] = "1/2";
+AT[48] = "4";
+AT[49] = "1/4";
+QT[10] = "*:5:<p>Three identical balls are tied by light strings to the same rod and rotate around it, as shown below. Rank the balls according to their rotational inertia, least to greatest.<br><br></p><p align=center><img src=\"f11042.jpg\"><br></p><p><br></p>";
+AT[50] = "1, 2, 3";
+AT[51] = "3, 2, 1";
+AT[52] = "3, then 1 and 2 tie";
+AT[53] = "1, 3, 2";
+AT[54] = "All are the same";
+QT[11] = "*:5:<p>Three identical objects, each of mass <i>M</i>, are fastened to a massless rod of length <i>L</i> as shown. The rotational inertia about one end of the rod of this array is:<br><br></p><p align=center><img src=\"f11044.jpg\"><br></p><p><br></p>";
+AT[55] = "<i>ML</i><sup>2</sup>/2";
+AT[56] = "<i>ML</i><sup>2</sup>";
+AT[57] = "3<i>ML</i><sup>2</sup>/2";
+AT[58] = "5<i>ML</i><sup>2</sup>/4";
+AT[59] = "3<i>ML</i><sup>2</sup>";
+QT[12] = "*:5:Two objects, X and Y, are held at rest on a horizontal frictionless surface. A spring is compressed between X and Y. The mass of X is 2/5 times the mass of Y. When the objects are released, the ratio of the kinetic energy of X to that of Y is:";
+AT[60] = "2/5";
+AT[61] = "4/25";
+AT[62] = "25/4";
+AT[63] = "5/2";
+AT[64] = "1";
+QT[13] = "*:5:<p>The <i>x</i>,<i>y</i> coordinates in meters of the center of mass of the three-particle system shown below are:<br><br></p><p align=center><img src=\"f09002.jpg\"><br></p><p><br></p>";
+AT[65] = "0, 0";
+AT[66] = "1.3 m, 1.7 m";
+AT[67] = "1.4 m, 1.9 m";
+AT[68] = "1.9 m, 2.5 m";
+AT[69] = "1.4 m, 2.5 m";
+
+
+var QuesNum = 0;
+var AnsNum = 0;
+
+for (var i = 0; i < form.elements.length; i++) {
+  if (form.elements[i].name.substring(0, 2) == "As") {
+     if (QuesNum != form.elements[i].name.substring(2, form.elements[i].name.length)) {
+       NumRadio++;
+       QuesNum = form.elements[i].name.substring(2, form.elements[i].name.length);
+       AnsNum = 1;
+     } else {
+       AnsNum++;
+     }
+     if (form.elements[i].checked) {
+        UA[QuesNum - 1] = AnsNum;
+        if (form.elements[i].value == 1) {
+          NumRadioCorrect++;
+        }
+     }
+     if (form.elements[i].value == 1) {
+       CA[QuesNum - 1] = AnsNum;
+     }
+  } else if (form.elements[i].name.substring(0, 2) == "TA") {
+     QuesNum++;
+     UA[QuesNum - 1] = form.elements[i].value;
+  }
+
+}
+
+document.open();
+document.writeln("<HTML><HEAD><TITLE>Results Form</TITLE></HEAD>");
+document.writeln("<BODY bgcolor=\"#FFFFFF\">");
+
+var Results_As_Percentage = Math.round(100 * (NumRadioCorrect / NumRadio));
+
+if (NumRadio != 0) {
+  document.writeln("<table width=100% border=0><tr><td align=left>");
+  document.writeln("<font size=+2><b>" + Results_As_Percentage + "%</b></font> (" + NumRadioCorrect + " out of " + NumRadio + " correct)<br>");
+  document.writeln("</td><td align=right>");
+  document.writeln("</td></tr></table><br><br>");
+}
+
+var QuesPtr = 0;
+var AnsPtr = 0;
+var RefPtr = 0;
+var RspPtr = 0;
+var ColPos = 0;
+var NxtColPos = 0;
+var NumOfQuesAns = 0;
+var AnswerLetter = "";
+for (QuesPtr = 0; QuesPtr < NumOfQues; QuesPtr++) {
+
+  RspPtr = AnsPtr;
+  NumOfQuesAns = 0;
+  ColPos = QT[QuesPtr].indexOf(":");
+  RefPtr = QT[QuesPtr].substring(0, ColPos);
+  NxtColPos = QT[QuesPtr].indexOf(":", ColPos + 1);
+  NumOfQuesAns = QT[QuesPtr].substring(ColPos + 1, NxtColPos);
+  if (NumOfQuesAns > 1) {
+    if (UA[QuesPtr] == CA[QuesPtr]) {
+      document.writeln("<table border=0 cellpadding=5><tr><td valign=top><image src=\"correct.jpg\" alt=\"CORRECT\"></td><td valign=top><b>" + (QuesPtr + 1) + ".</b></td><td valign=top> ");
+      if (RefPtr != "*") {
+        document.writeln("<table border=1 cellpadding=2 cellspacing=1>");
+        document.writeln("<tr><td bgcolor=\"#D9D9D9\">" + RT[RefPtr - 1] + "</td></tr>");
+        document.writeln("<tr><td bgcolor=\"#FFFFD7\"><small>R-" + RefPtr + " " + RD[RefPtr - 1] + "</small></td></tr>");
+        document.writeln("</table><p>");
+      }
+      document.writeln(QT[QuesPtr].substring(NxtColPos + 1) + "<br>");
+    } else {
+      document.writeln("<table border=0 cellpadding=5><tr><td valign=top><image src=\"x.jpg\" alt=\"WRONG\"></td><td valign=top><b>" + (QuesPtr + 1) + ".</b></td><td valign=top> ");
+      if (RefPtr != "*") {
+        document.writeln("<table border=1 cellpadding=2 cellspacing=1>");
+        document.writeln("<tr><td bgcolor=\"#D9D9D9\">" + RT[RefPtr - 1] + "</td></tr>");
+        document.writeln("<tr><td bgcolor=\"#FFFFD7\"><small>R-" + RefPtr + " " + RD[RefPtr - 1] + "</small></td></tr>");
+        document.writeln("</table><p>");
+      }
+      document.writeln(QT[QuesPtr].substring(NxtColPos + 1) + "<br>");
+    }
+    for (var i = 1; i <= NumOfQuesAns; i++) {
+      AnswerLetter = "%" + (40 + i);
+      if (i == UA[QuesPtr]) {
+        document.writeln("<table border=0><tr><td valign=top nowrap><image src=\"radioon.jpg\" alt=\"X\"> <b>" + unescape(AnswerLetter) + ".</b> </td><td valign=top> " + AT[AnsPtr] + "<br></td></tr></table>");
+      } else {
+        if (i == CA[QuesPtr]) {
+          document.writeln("<table border=0><tr><td valign=top nowrap><image src=\"radiocrt.jpg\" alt=\"C\"> <b>" + unescape(AnswerLetter) + ".</b> </td><td valign=top> " + AT[AnsPtr] + "<br></td></tr></table>");
+        } else {
+          document.writeln("<table border=0><tr><td valign=top nowrap><image src=\"radiooff.jpg\" alt=\"O\"> <b>" + unescape(AnswerLetter) + ".</b> </td><td valign=top> " + AT[AnsPtr] + "<br></td></tr></table>");
+        }
+      }
+      AnsPtr++;
+    } //FOR
+    if (UA[QuesPtr] == 0) { //THEY DID NOT ANSWER
+      if (GRe[QuesPtr] != "") {
+        document.writeln("<br><img src=\"response.jpg\"> " + GRe[QuesPtr]);
+      }
+    } else {  //THEY DID ANSWER
+      if (Re[RspPtr +  UA[QuesPtr] - 1] != "") {
+        document.writeln("<br><img src=\"response.jpg\"> " + Re[RspPtr +  UA[QuesPtr] - 1]);
+      } else if (GRe[QuesPtr] != "") {
+        document.writeln("<br><img src=\"response.jpg\"> " + GRe[QuesPtr]);
+      }
+    }
+  } else {
+    document.writeln("<table border=0><tr><td valign=top><image src=\"text.jpg\" alt=\"TEXT\"></td><td valign=top><font=+1><b>" + (QuesPtr + 1) + ".<b></font></td><td valign=top> " + QT[QuesPtr].substring(NxtColPos + 1) + "<br><br>");
+    document.writeln("<font size=-2>YOUR ANSWER:</font><b> " + UA[QuesPtr] + "</b><br>");
+    if (GRe[QuesPtr] != "") {
+      document.writeln("<br><img src=\"response.jpg\"> The suggested answer is <b>" + AT[AnsPtr] + "</b> " + GRe[QuesPtr]);
+    } else {
+      document.writeln("<br><img src=\"response.jpg\"> The suggested answer is <b>" + AT[AnsPtr] + "</b>");
+    }
+    AnsPtr++;
+  }
+
+  document.writeln("</td></tr></table><br><br><br>"); //CLOSE QUESTION AND ANSWERS
+} //FOR
+
+
+
+
+
+if (navigator.appName == "Microsoft Internet Explorer") {
+  if (navigator.appVersion.substring(0, 1) >= 4) {
+    document.writeln("<P><a href=\"" + location.href + "\">Retake Test</a></P>");
+  } else if (navigator.appVersion.substring(0, 1) >= 2) {
+    document.writeln("<FORM><INPUT TYPE=\"button\" VALUE=\"Retake Test\" onClick=\"history.go(0)\"></FORM>");
+  }
+} else if (navigator.appName == "Netscape"){
+  if (navigator.appVersion.substring(0, 1) >= 4) {
+    document.writeln("<P><a href=\"" + location.href + "\">Retake Test</a></P>");
+  } else if (navigator.appVersion.substring(0, 1) >= 3) {
+    document.writeln("<P><a href=\"" + location.href + "\">Retake Test</a></P>");
+  }
+}
+document.writeln("</BODY></HTML>");
+if (NumRadio != 0) {
+  confirm("The test has been graded.  You correctly answered " + Results_As_Percentage + "% of the questions.");
+} else {
+  confirm("The test has been graded. You may now review your answers.");
+}
+document.close();
+
+}
+
+// -->
+
+</script>
+
+</Head>
+<body bgcolor="#FFFFFF">
+
+<form method="get">
+
+<table border=0 cellpadding=5><tr><td valign=top><b> 1.</b></td><td valign=top>
+One revolution per minute is about:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As1" value="0"><b>A.</b></td><td>0.0524 rad/s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As1" value="1"><b>B.</b></td><td>0.105 rad/s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As1" value="0"><b>C.</b></td><td>0.95 rad/s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As1" value="0"><b>D.</b></td><td>1.57 rad/s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As1" value="0"><b>E.</b></td><td>6.28 rad/s<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 2.</b></td><td valign=top>
+If a wheel turns with constant angular speed then:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As2" value="0"><b>A.</b></td><td>each point on its rim moves with constant velocity<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As2" value="0"><b>B.</b></td><td>each point on its rim moves with constant acceleration<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As2" value="1"><b>C.</b></td><td>the wheel turns through equal angles in equal times<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As2" value="0"><b>D.</b></td><td>the angle through which the wheel turns in each second increases as time goes on<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As2" value="0"><b>E.</b></td><td>the angle through which the wheel turns in each second decreases as time goes on<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 3.</b></td><td valign=top>
+A flywheel, initially at rest, has a constant angular acceleration. After 9 s the flywheel has rotated 450 rad. Its angular acceleration in rad/s<sup>2</sup> is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As3" value="0"><b>A.</b></td><td>100<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As3" value="0"><b>B.</b></td><td>1.77<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As3" value="0"><b>C.</b></td><td>50<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As3" value="1"><b>D.</b></td><td>11.1<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As3" value="0"><b>E.</b></td><td>15.9<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 4.</b></td><td valign=top>
+Ten seconds after an electric fan is turned on, the fan rotates at 300 rev/min. Its average angular acceleration is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As4" value="1"><b>A.</b></td><td>3.14 rad/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As4" value="0"><b>B.</b></td><td>30 rad/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As4" value="0"><b>C.</b></td><td>30 rev/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As4" value="0"><b>D.</b></td><td>50 rev/min<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As4" value="0"><b>E.</b></td><td>1800 rev/s<sup>2</sup><br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 5.</b></td><td valign=top>
+A wheel initially has an angular velocity of 18 rad/s but it is slowing at a rate of 2.0 rad/s<font size="+0"><sup>2</sup></font>. The time it takes to stop is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As5" value="0"><b>A.</b></td><td>3.0 s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As5" value="0"><b>B.</b></td><td>6.0 s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As5" value="1"><b>C.</b></td><td>9.0 s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As5" value="0"><b>D.</b></td><td>12 s<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As5" value="0"><b>E.</b></td><td>never stops<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 6.</b></td><td valign=top>
+A wheel initially has an angular velocity of 18 rad/s but it is slowing at a rate of 2.0 rad/s<font size="+0"><sup>2</sup></font>. By the time it stops it will have turned through:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As6" value="1"><b>A.</b></td><td>13 rev<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As6" value="0"><b>B.</b></td><td>26 rev<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As6" value="0"><b>C.</b></td><td>39 rev<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As6" value="0"><b>D.</b></td><td>52 rev<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As6" value="0"><b>E.</b></td><td>65 rev<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 7.</b></td><td valign=top>
+If the angular velocity vector of a spinning body points out of the page then, when viewed from above the page, the body is spinning:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As7" value="0"><b>A.</b></td><td>clockwise about an axis that is perpendicular to the page<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As7" value="1"><b>B.</b></td><td>counterclockwise about an axis that is perpendicular to the page<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As7" value="0"><b>C.</b></td><td>about an axis that is parallel to the page<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As7" value="0"><b>D.</b></td><td>about an axis that is changing orientation<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As7" value="0"><b>E.</b></td><td>about an axis that is getting longer<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 8.</b></td><td valign=top>
+A particle moves in a circular path of radius 0.10 m with a constant angular speed of 5 rev/s. The acceleration of the particle is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As8" value="0"><b>A.</b></td><td>0.10<font face="symbol">p</font> m/s<font size="+0"><sup>2</sup></font><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As8" value="0"><b>B.</b></td><td>0.50 m/s<font size="+0"><sup>2</sup></font><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As8" value="0"><b>C.</b></td><td>500<font face="symbol">p</font> m/s<font size="+0"><sup>2</sup></font><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As8" value="0"><b>D.</b></td><td>1000<font face="symbol">p</font><font size="+0"><sup>2</sup></font> m/s<font size="+0"><sup>2</sup></font><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As8" value="1"><b>E.</b></td><td>10<font face="symbol">p</font><font size="+0"><sup>2</sup></font> m/s<font size="+0"><sup>2</sup></font><br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 9.</b></td><td valign=top>
+[FIXED] A flywheel of diameter 2.4 m has a constant angular acceleration of 5.0 rad/s<sup>2</sup>. The tangential acceleration of a point on its rim is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As9" value="0"><b>A.</b></td><td>5.0 rad/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As9" value="0"><b>B.</b></td><td>3.0 m/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As9" value="0"><b>C.</b></td><td>5.0 m/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As9" value="1"><b>D.</b></td><td>6.0 m/s<sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As9" value="0"><b>E.</b></td><td>12 m/s<sup>2</sup><br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 10.</b></td><td valign=top>
+Two wheels are identical but wheel B is spinning with twice the angular velocity of wheel A.  The ratio of the radial acceleration of a point on the rim of B to the radial acceleration of a point on the rim of A is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As10" value="0"><b>A.</b></td><td>1<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As10" value="0"><b>B.</b></td><td>2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As10" value="0"><b>C.</b></td><td>1/2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As10" value="1"><b>D.</b></td><td>4<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As10" value="0"><b>E.</b></td><td>1/4<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 11.</b></td><td valign=top>
+<p>Three identical balls are tied by light strings to the same rod and rotate around it, as shown below. Rank the balls according to their rotational inertia, least to greatest.<br><br></p><p align=center><img src="f11042.jpg"><br></p><p><br></p><br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As11" value="1"><b>A.</b></td><td>1, 2, 3<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As11" value="0"><b>B.</b></td><td>3, 2, 1<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As11" value="0"><b>C.</b></td><td>3, then 1 and 2 tie<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As11" value="0"><b>D.</b></td><td>1, 3, 2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As11" value="0"><b>E.</b></td><td>All are the same<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 12.</b></td><td valign=top>
+<p>Three identical objects, each of mass <i>M</i>, are fastened to a massless rod of length <i>L</i> as shown. The rotational inertia about one end of the rod of this array is:<br><br></p><p align=center><img src="f11044.jpg"><br></p><p><br></p><br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As12" value="0"><b>A.</b></td><td><i>ML</i><sup>2</sup>/2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As12" value="0"><b>B.</b></td><td><i>ML</i><sup>2</sup><br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As12" value="0"><b>C.</b></td><td>3<i>ML</i><sup>2</sup>/2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As12" value="1"><b>D.</b></td><td>5<i>ML</i><sup>2</sup>/4<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As12" value="0"><b>E.</b></td><td>3<i>ML</i><sup>2</sup><br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 13.</b></td><td valign=top>
+Two objects, X and Y, are held at rest on a horizontal frictionless surface. A spring is compressed between X and Y. The mass of X is 2/5 times the mass of Y. When the objects are released, the ratio of the kinetic energy of X to that of Y is:<br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As13" value="0"><b>A.</b></td><td>2/5<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As13" value="0"><b>B.</b></td><td>4/25<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As13" value="0"><b>C.</b></td><td>25/4<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As13" value="1"><b>D.</b></td><td>5/2<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As13" value="0"><b>E.</b></td><td>1<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<table border=0 cellpadding=5><tr><td valign=top><b> 14.</b></td><td valign=top>
+<p>The <i>x</i>,<i>y</i> coordinates in meters of the center of mass of the three-particle system shown below are:<br><br></p><p align=center><img src="f09002.jpg"><br></p><p><br></p><br>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As14" value="0"><b>A.</b></td><td>0, 0<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As14" value="0"><b>B.</b></td><td>1.3 m, 1.7 m<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As14" value="1"><b>C.</b></td><td>1.4 m, 1.9 m<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As14" value="0"><b>D.</b></td><td>1.9 m, 2.5 m<br></td></tr></table>
+<table border=0><tr><td valign=top nowrap><input type="radio" name="As14" value="0"><b>E.</b></td><td>1.4 m, 2.5 m<br></td></tr></table>
+</td></tr></table>
+<br><br>
+<br>
+<img src="stop.jpg"> This is the end of the test.  When you have completed all the questions and reviewed your answers, press the button below to grade the test.<p>
+<input type="submit" value="Grade the Test" onClick="ComputeGrade(this.form)">
+</form>
+</body>
+</html>
