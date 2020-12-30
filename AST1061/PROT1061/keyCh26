@@ -1,0 +1,165 @@
+
+AT 7th Ed.
+Review and Discussion
+Assigned Ch. 26 RD 1,2,3,7,8,11,14
+
+1. What evidence do we have that there is no structure in the
+    universe on very large scales?  How large is "very large"?
+The Sloan Digital Sky Survey provides evidence that there
+are no structures larger than about 300 Mpc.  (So "very large"
+is greater than 300 Mpc.)  Other consistent observations are 
+pencil-beam surveys, Hubble Deep Fields,
+and the distribution of radio galaxies (not in text).
+
+2. What is the Cosmological Principle?
+The cosmological principle is made up of two assumptions fundamental to 
+cosmology. They are homogeneity and isotropy. At a large enough scale, the 
+universe is homogeneous; one part is pretty much like any other part. 
+Isotropy means that it looks the same in all directions. The cosmological 
+principle tells us there can be no edge to the universe and there is 
+no center to it either.
+
+3. What is Olber's paradox?  How is it resolved?
+    Olber's paradox was that, if the universe is infinitely large,
+old, homogeneous and isotropic, the sky should be as bright as the
+surface of the Sun.  It is resolved by accepting that the
+universe is not infinitely large and old. Actually, you could
+relax the restriction to just "not infinitely old". (You would
+still have a dark night sky if the universe was infinitely large.)
+
+[ 4. Explain how an accurate measure of Hubble's constant can lead to
+an estimate of the age of the universe.
+Hubble’s law is a relationship between velocity of recession of objects in the 
+universe and their distance, v = H0d. Since we know that velocity is distance 
+divided by time, the Hubble constant, H0, is a measure of one divided by time, 
+the time of the expansion of the universe to its present size. It turns out 
+that this time gives an age for the universe for the case
+of zero acceleration (or deceleration). ]
+
+[ 5. Why isn't it correct to say that the expansion of theuniverse
+involves galaxies flying outward into empty space?
+Since the Hubble flow is an expansion of space itself, galaxies are not 
+rushing outward into unoccupied parts of the universe. The universe is 
+evenly filled with matter but space is expanding, which gives rise to an 
+appearance of galaxies flying outward from us. ]
+
+[ 6. Where did the Big Bang occur?
+    It occurred equally everwhere. ]
+
+7. How does the cosmological redshift relate to the expansion of the
+universe?
+     A wave of electromagnetic radiation, as it moves through the universe, 
+will experience the same expansion as the universe itself.
+As the wave travels farther and farther, it expands more and more. By the 
+time it is observed, it appears redshifted in proportion to the distance 
+(and time) it has traveled.  The expansion factor is 1+z for both
+the space and the wavelength, so W_observed/W_emitted = 1+z = D_now/D_emitted,
+where D stands for distance between us and a galaxy and W stands
+for wavelength.
+
+8. What properties of the universe determine whether it will
+or will not expand forever?
+    One important factor is the total density of matter in 
+the universe.  Matter exerts the attractive force of gravity 
+and so inhibits expansion.  Another important factor is the
+amount (density) of dark energy.  Dark energy contributes to the 
+expansion of the universe.
+
+[ . What will be the ultimate fate of the universe if it does
+expand forever?
+(See F. Adam's "The Five Ages of the Universe" for a detailed description.)
+Everything continues to expand; eventually no galaxies are even visible 
+from Earth. Stars will die out and the universe will experience a 
+“heat death.” Everything will get cold and dark.  Even black holes
+will gradually evaporate. ]
+
+[ 11. Is there enough luminous matter to halt the current cosmic
+expansion?
+    No.  The luminous matter density is only about 1-3% of what
+is required to close the universe (assuming no acceleration).
+]
+
+[ . Is there enough dark matter to halt the current cosmic
+expansion?
+    There does not appear to be, although it is difficult to
+estimate the amount of dark matter.  Assuming the ratio of 
+dark matter to luminous matter in the universe has the same 
+density as in clusters of galaxies, the dark matter density appears 
+to be only about 25% of what is required to close the universe.  
+(luminous+dark ~ 27%)
+]
+
+11. What do observations of distant supernovae tell us about
+the expansion of the universe?
+	They tell us that the universes' expansion is accelerating.
+The type Ia supernovae are standard candles - we can tell
+their luminosity by their light curves and so we can figure
+out their distances without using the Hubble Law.  Thus, we
+measure the Hubble constant at different epoch's of the universe.
+It appears that the far away SN are expanding slower than
+they are now.
+
+[ 14. What is the cosmological constant, and what does it have to
+do with the future of the universe?
+The cosmological constant is a factor used to “adjust” how the universe 
+expands. Previously thought to be zero, it now is estimated to have a 
+value that accounts for the acceleration of the universe that distant 
+supernovae suggests is occurring. What it actually is or what causes it is 
+not known.
+]
+
+[ 13. Why are measurements of globular cluster ages important
+to cosmology?
+	Because they provide a high, lower limit for the age of
+the universe.  For example, if stellar evolution theory shows
+globulars to be 12 Gyrs old, then the universe should be older
+than 12 Gyrs.
+]
+
+14. What is the significance of the cosmic microwave background?
+	Just after the Big Bang occurred, the universe was filled 
+with X-ray and gamma-ray radiation. Since that period, it has traveled 
+through the universe, its wavelength expanding
+
+[ . Why does the temperature of the microwave background fall
+as the universe expands?
+The cosmic microwave background radiation is black body radiation. 
+The wavelength of all radiation gets increased with the Hubble
+expansion.  As the wavelength of peak intensity increases,
+the representative temperature must drop, according to Wien’s law.
+]
+
+[ . How can we measure Earth's motion with respect to the universe?
+	The cosmic microwave background (CMB) has a slightly
+different temperature/redshift on one side of the sky than the
+other.  This is caused by the motion of the Earth with respect
+to the universe by about 300 km/s.
+]
+
+[ . Many cultures throughout history have developed their own 
+cosmologies.  Do you think the modern scientific cosmology is 
+more likely to endure than any other?  Why or why not?
+(Opinion) Modern cosmology is based upon specific scientific principles, 
+which are testable. It also makes predictions which are also testable. 
+This approach may not, in the end, preserve our current cosmological 
+theories, but it will lead to a more thorough understanding of the 
+universe and a consistent theory of its formation and evolution.
+  Also, we can already disprove most of the older theories or else
+they are so vague and in such a non-scientific language as to be
+un-testable.]
+
+[ 15. Do you think it is good science to explain the
+universe mainly in terms of dark matter and dark energy,
+neither of which is known or understood?
+	In general, it isn't good science, but it is the
+best scientists can do for the moment.
+	Dark matter and dark energy, at this time, are simply names to 
+things that appear to exist but for which there is no known explanation. 
+Actually, explanations exist but astronomers are uncertain whether any are 
+correct! Is it good science? Right now, astronomers seem to be given little 
+choice in the matter because observations have contradictions to classical 
+theories. Many new things have been discovered, about this there is no doubt. 
+Whether dark matter or energy are the correct explanations will be determined 
+through more good science and observation.
+]
+

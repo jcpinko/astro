@@ -1,0 +1,267 @@
+
+Homework from
+Astronomy Today   9e
+
+Homework on stellar evolution
+[ Ch. 18 Q(How many figures...?), ] <- not used spring 2019
+Ch. 18 RD 2,7,13
+Ch. 19 RD 1,2,3,11
+Ch. 20 RD 1,2,8,9,11,13
+
+-------------------------------------------
+  Ch. 18
+
+[  Q: How many figures show all 3 types of nebula (emission,
+  reflection, and dark) in the same picture?
+    Definite examples: Figs. 4,6,7,8,13,19  (6)
+    Possible others: Figs. 0(opening), 1, 5,9,10,14,20 (7) 
+     Thus, 6-13 is acceptable   ]
+  
+2. What is the composition of the interstellar gas? What about
+   interstellar dust?
+   The gas is about 90% H, 9% He, and <1% metals (by number).
+   The dust grains are dominated by Al,Fe,Mg,C,and Si.  In
+   cold regions, they can also contain ices (H20, CO2, NH3, 
+   methanol, etc).
+
+7. What is an emission nebula?
+ 	An emission nebula is a region of hot glowing gas (mostly 
+	hydrogen) surrounding a newly formed star or group of 
+	stars.  The atoms of the gas absorbUV light emitted by the 
+	bright young stars, and in return, they emit a variety
+	of emission lines characteristic of the elements in
+	the cloud.  One of the brightest hydrogen emission lines
+	is H-alpha, which has a red color.  It is so strong that
+	it often overwhelms all other emissions and colors that
+	might be seen.
+
+13. What is 21-cm radiation?  With what element is it associated?
+    Why is it useful to astronomers?
+    21-cm radiation is a kind of electromagnetic radiation in the
+    radio part of the spectrum (1.4 GHz).  It is produced by the
+    "spin-flip" transition of hydrogen (the electron flips its
+    spin from parallel to anti-parallel relative to the proton).
+    This radiation is extremely important to astronomers because
+    it is emitted by gas clouds making up galaxies (especially spirals)
+    and doppler shifting of the line allows them to figure out 
+    the motions of the different parts of the galaxies.  21-cm
+    radiation has given us the best mapping of our Milky Way galaxy.
+
+[15. How does a molecular cloud differ from other interstellar
+    matter?
+        Molecular clouds are colder and denser than other phases
+        of the ISM, but mostly they are distinguished by the
+        presence of molecules (especially molecular hydrogen, H_2).]
+
+---------------------------
+Ch. 19
+
+1.  Briefly describe the basic chain of events leading to the formation
+of a star like the Sun.
+	The Sun-like star begins as a large interstellar cloud containing
+        cold molecular hydrogen.  Gravity makes it start collapsing
+        and overdensities within the big cloud make it fragment
+        into smaller clouds.  These clouds collapse fairly quickly
+        (10^4 yrs) because the grav potential energy goes into 
+        breaking H_2 bonds instead of increasing the gas temperature
+        and pressure.  After those bonds are broken, collapse goes
+        more slowly as it is accompanied by increased temperature
+        and pressure.  The protostar gets hot and produces winds which
+	blow away the outer parts of the cloud.  Gas and dust remain
+        the longest in a protoplanetary disk but eventually gets cleared.
+        The center of the protostar finally starts fusion when its
+        temperature gets above about 10 million K.  After that there
+        is some more slow collapse and heating of the center as the star
+        settles onto the main sequence. 
+
+2.  What are the roles of heat, rotation, and magnetism in the process 
+    of stellar birth?
+        Heat: heating during the collapse of gas clouds creates gas
+      pressure which is the main factor resisting gravitational collapse.
+        Rotation:
+	As an interstellar cloud collapses, it must spin faster as 
+	it conserves angular momentum.  This can actually
+	hinder star formation, as the rotation tends to fling material out
+	of the cloud, opposing gravity.  Thus, a rotating cloud needs a 
+	stronger gravitational pull and more mass to collapse than a
+	cloud that is spinning slowly or not at all.  Rapid spin also
+	causes the cloud to flatten into a disk.  Although most of
+	the mass is still concentrated in the center, the material in
+	the disk could form into planets.
+        Magnetism:
+	As the collapsing cloud gets heated it gets progressively more
+	ionized.  Ionized gas is deflected by magnetic field lines
+	so that gas can move more easily along field lines than across
+	them.  This means that collapse is slowed down except in
+	the direction parallel to the field lines.  This also influences
+	the shape of the cloud.
+
+3. What is an evolutionary track?
+        It is a curve on the H-R diagram which shows the path a star
+        of a given main sequence mass will take as it evolves.
+
+7. What are T-Tauri stars?
+	A T-Tauri star is a protostar that has heated up to the point in 
+	which extreme activity on the surface generates a powerful 
+        "protostellar wind".  These winds can drive away material in the
+	outer portions of the cloud.
+
+[8. Stars live longer than we do, so how do astronomers test the
+    accuracy of theories of star formation?
+	They study many, many stars that are in different stages
+        of evolution.  They rely on star clusters to compare
+        the evolutionary stages of stars which have the same age
+        but have a range of masses.  Another important part of checking 
+        theories is computer modeling and simulations.]
+
+[9.  At what evolutionary stages must astronomers use radio and
+    infrared radiation to study prestellar objects?  Why can't they
+    use visible light?
+	Radio and infrared are most crucial for studying star formation
+        for the early stages when the gas is in its cold and medium
+        temperature stages.  Cold H_2 does not produce or absorb much
+        visible radiation.  Neither does HI.  H_2 is traced by 
+        molecules like CO which produce emission in radio, and HI produces
+        21 cm radio waves.  The dust in the cold gas absorbs visible light
+        and makes it impossible to see through, but IR and radio
+        can see warm "clumps" inside of these clouds.
+        
+11. Explain the usefulness of the H-R diagram in studying the evolution
+    of stars.  Why can't evolutionary stages 1-3 be plotted on the
+    diagram?
+    H-R diagrams are ideal for studying stellar evolution because it
+    has a logarithmic luminosity axis which is capable of showing a
+    huge range in luminosities.  Individual stars can change their
+    L by over 100x as they evolve into giants and supergiants.  Stars
+    also change in surface temperature (generally cooling as the expand),
+    and the horizontal axis allows temperature changes to be shown.
+    	Stages 1-3 can't be plotted because there is no clear surface to
+    the star.  That means that the surface temperature and color are
+    not well-defined.  It may not even be distinct from other fragments
+    in the molecular cloud.
+
+[Old #  Why has it been difficult until recently to demonstrate that stars
+     and protostars actually exist within star-forming regions?
+	The smallest objects, the proplyds, are just out of reach of
+        ground-based resolution.  But with Hubble, they can just
+        barely be resolved.  Also, IR observations are relatively
+        new (1980's) compared to visible. ]
+
+[Old #  Compare the times necessary for the various stages in the formation
+     of a star like the Sun.  Why are some so short and others so long?
+	The times are very short for the first few stages of development,
+	because during those stages, gravity essentially has free reign
+	and the cloud is in free fall.  This is largely due to the presence
+        of molecular H (H_2): the energy of collapse goes into its
+	dissociation rather than raising the temperature and pressure
+        of the gas.  As the protostar becomes hotter and denser, the
+	internal pressure generated begins to fight the force of
+	gravity.  This slows down the evolution. ]
+
+[13. Compare and contrast the observed properties of open star clusters
+     with globular star clusters.
+	The open clusters are found in the plane of the galaxy, while
+        globular clusters (GC's) are found in its halo.  OC's have 
+        many fewer stars than GC's.  OC's are usually less compact.
+        OC's contain young, blue stars, while GC's generally do not.
+        OC's are young, GC's are old.  OC's are higher in metals than
+        GC's.
+
+[19.  How can we tell whether a star cluster is young or old?
+	The age of a star cluster is determined by the type of star
+	that is about to leave its main sequence.  The more massive a
+	star is, the faster it uses up hydrogen fuel on the main sequence,
+	so as the star ages, the more massive stars leave the main
+	sequence first.   If we can identify the star with the largest
+	mass still on the main sequence, the cluster's age will be
+	the same as the main sequence lifetime of that star.]
+
+---------------------------
+Ch. 20
+
+1. Why don't stars live forever?  Which types of stars live the
+   longest?
+	Because they have a limited supply of "fuel" for the fusion
+	processes in their cores.  The low mass stars live the longest,
+	even though they have less fuel, because they burn their fuel
+	at such a slow rate.
+
+2. How long can a star like the Sun keep burning hydrogen in its core?
+	About 10 billion years.
+
+[12. How do astronomers test the theory of stellar evolution?
+	Star clusters provide important checks on our theory
+        of stellar evolution.  A given cluster contains a bunch
+	of stars with different masses but the same age.  By
+        looking at many clusters with different ages, we can
+	see that stars start out along the main sequence and
+        then evolve off it, starting with the massive stars.
+	Computer simulations can also be used to check the
+        stability of stars with different masses and compositions.]
+        	
+
+[Old # Why is the depletion of hydrogen in a star such an important
+   event?
+	Because that signifies the end of the longest stage of
+        a stars life - the main sequence.  The depletion of H
+	means that the core has lost its fuel supply for the
+        main fusion process, the p-p chain.  This leads to 
+	the collapse of the core and the onset of H shell burning
+        on the sub-giant and giant branches.]
+
+[7. Describe an important way in which winds from red-giant stars
+    are linked to the interstellar medium.
+	The winds from red-giant stars contain some products of 
+        nuclear fusion (these are "dredged" up during the red-giant 
+        phase).  So they are a means of enriching the ISM with dust 
+        and metals (elements higher than He on the periodic chart).  
+        Although supernovae can produce much higher elements, they 
+        are less commonplace than red-giants, so red giants make a 
+        big difference in the evolution of the ISM. ]
+
+8. What is the internal structure of a star on the asymptotic
+    giant branch?
+        A star on the asymptotic giant branch has a carbon
+        core and is fusing Helium into carbon in a shell.  (Above
+        that He shell would be the usual H and Helium.)
+
+9. What is a planetary nebula?  Why do so many P.N. appear as rings?
+        A planetary nebula is the blown off outer atmosphere of an
+        evolved star.  The central remnant is a white dwarf.  These
+        usually appear as rings because the intrinsic shapes are
+        either spherical shells, or double lobes.  
+	A translucent, glowing shell will appear like a ring 
+        because there is more gas along a sightline through the edge
+        than through the center.  Double lobes can also appear ring
+        like when viewed along their symmetry axis.
+
+[10. Why are white dwarfs hard to observe?
+	Because they have very low luminosities.  Their luminosities
+	are low, in turn, because of their small size. ]
+
+11. How do the late evolutionary stages of high-mass stars differ
+    from those of low-mass stars?
+	Their tracks on the H-R diagram are more horizontal (zig-zagging
+	to the right), while low mass stars move primarily upward.
+        Also, the high-mass stars go through more types of fusion in
+	their cores than low-mass stars, and many of those types of fusion
+        can happen simultaneously because of the shell-burning that occurs.
+	More specifically, low-mass stars fuse H to He, and He to Carbon, but
+	cannot fuse carbon.  High-mass stars can fuse carbon into oxygen
+	and also create Neon, Silicon and iron. 
+
+13. How can astronomers measure the age of a star cluster?
+	They can plot the stars on an H-R diagram and look for
+	the turn-off point.  This point marks the highest mass star 
+        which is still on the main sequence.  Theory can tell us the
+	age of a star of that mass, and that age will be the age of 
+        the entire cluster.
+
+[14. What are the Roche lobes of a binary system?
+	They are tear-drop shaped regions of space that mark
+	transition region between the gravitational attraction
+        to one star and the other.  In particular, the two lobes
+	meet at a point between the two stars where the pulls
+	are equal.  If a star expands out of its Roche lobe,
+	it's out atmosphere will be pulled down onto its companion. ]
+---------------------------

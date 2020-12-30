@@ -1,0 +1,102 @@
+
+AT 7th Ed.
+Ch. 2 Homework
+Assigned:  R&D 1,2,4,5,7-10
+           M-C 1-7
+(Other answers are also be shown for completeness.)
+
+1.  The Chinese contributed a calendar and records of 
+  celestial events like comets and novae which are still used today.
+  The Islamic culture built on the Almagest by Ptolemy during
+  the dark ages.  They gave most stars the names we use today.
+  They established trigonometric and algebraic methods important
+  in astronomy.
+2.  The geocentric model has the Earth at rest at the center 
+  with the Sun and Moon orbitting it. The inferior planets moved on
+  epicycles which were centered on a bar between the Earth and
+  the Sun.  The superior planets were also modelled as moving on 
+  epicycles which moved on deferents, but the deferents were
+  beyond the Sun.  The stars were on the most distant "sphere".
+3. I consider its basic flaw to be the fact that the Earth
+  is fixed at the center.  It is also complex, but that is not so
+  much a flaw as an undesireable quality.
+4. Copernicus brought back the heliocentric system.  It was
+  still flawed in that it insisted on circular motions.
+5. A theory in its weakest definition is just a hypothesis. 
+   For its stronger definition, it is a set of related ideas 
+   which describe a large collection of observations.
+   A theory cannot be proved to be true, only disproved.
+7. The Copernican Principle is, most generally, that we are
+   not special.  Originally, this meant that the Earth is not
+   at the center of the solar system.  Since then it has been
+   extended to include our Galaxy, our local group of galaxies,
+   our local supercluster, and the universe.  It is also cited
+   when considering life in the universe - we may not be the 
+   only place with life or even intelligent life.
+8. The gibbous phase of Venus disproved the Ptolemaic model.
+   The presence of moons orbitting Jupiter showed that not
+   all objects circled the Earth.
+   The sunspots showed that the Sun was marred and imperfect.
+9.  First Law: the orbits of planets are in the shape of an ellipse
+   with the Sun at one focus.  Second Law: a line connecting the
+   Sun and a planet sweeps out equal areas in equal time intervals.
+   Third Law: the square of the orbital period is proportional
+   to the cube of the semi-major axis.
+10.  Tycho made meticulous observations of the positions of
+   planets over many years.  Kepler then analyzed this data
+   and determined the true orbits of the planets around the Sun.
+11.  When Venus is near inferior conjunction, it is possible to
+   bounce radar waves off of it and measure the time for radar
+   to make the trip to Venus and back to Earth.  The relative 
+   size (0.7 AU) and shape of Venus's orbit were known, so the 
+   distance to Venus during inferior conjunction (about 28 million 
+   miles) could be used to calculate the AU.  For example, 
+   1 AU * 0.3 = 28 million miles gives 1 AU = 93 million miles.  
+12. Astronomers used triangulation of Venus as it transitted the 
+   Sun.  By finding the distance to Venus during transit, they 
+   could find the sizes of Venus' orbit.  Since Venus'
+   orbit had to be about 0.7 AU in radius (in order to explain 
+   the maximum elongations of Venus), they could derive the size 
+   of the AU.
+13. Kepler's laws are empirical because they were based on
+   analysis of observational data.  They are descriptive laws
+   which don't explain why the planets move as they do.
+14.  1st law:  every body continues in a state of rest or in 
+   uniform motion in a straight line unless it experiences
+   some net force.  2nd law: when a force F acts on a body
+   of mass m it causes the body to accelerate at a rate a=F/m
+   3rd law: for every force there is an equal but opposite
+   force.
+15. The two modification by Newton to Kepler's laws:
+   1) For the first law, one focus of each elliptical orbit
+      was located at the center-of-mass of the solar system
+      rather than on the Sun itself.
+   2) For the 3rd law, the mass of the system should be
+      taken into account to make it more widely applicable ...
+	 P^2 = R^3/M_tot
+16.  The Earth moves in response to the baseball but its motion
+    is not noticeable because it is so slight.  Since Newton's
+    2nd law states that an object's acceleration is inversely
+    proportional to its mass (a=F/m), the smaller mass will
+    accelerate more for a given force.
+18. When the force of gravity pulls an object toward the Earth,
+    the object is said to be "falling".  The Moon is being
+    pulled continuously toward the Earth by gravity, sometimes
+    it moves towards Earth and sometimes it moves away, but 
+    continuously falling.
+20. If the Sun's gravity suddenly stopped, Earth would continue
+    at its current velocity but in a straight line path.  The
+    gravitational pull between the Earth and Sun is what causes
+    the curved, elliptical orbit of the Earth.
+
+Mult Choice
+1. a
+2. d
+3. b
+4. c
+5. c
+6. a
+7. c
+8. b
+9. c
+10. a

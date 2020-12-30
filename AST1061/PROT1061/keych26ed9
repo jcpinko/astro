@@ -1,0 +1,149 @@
+
+AT 9th Ed.
+Discussion
+Assigned Ch. 26 RD 1,2,3,5,8,11,14
+
+1. What evidence do we have that there is no structure in the
+    universe on very large scales?  How large is "very large"?
+The Sloan Digital Sky Survey provides evidence that there
+are no structures larger than about 300 Mpc.  (So "very large"
+is greater than 300 Mpc.)  Other consistent observations are 
+pencil-beam surveys, Hubble Deep Fields,
+and the distribution of radio galaxies (not in text).
+
+2. What is the Cosmological Principle?
+The cosmological principle is made up of two assumptions fundamental to 
+cosmology. They are homogeneity and isotropy. At a large enough scale, the 
+universe is homogeneous; one part is pretty much like any other part. 
+Isotropy means that it looks the same in all directions. The cosmological 
+principle tells us there can be no edge to the universe and there is 
+no center to it either.
+
+3. What is Olber's paradox?  How is it resolved?
+    Olber's paradox was that, if the universe is infinitely large,
+old, homogeneous and isotropic, the sky should be as bright as the
+surface of the Sun.  It is resolved by accepting that the
+universe is not infinitely large and old. Actually, you could
+relax the restriction to just "not infinitely old". (You would
+still have a dark night sky if the universe was infinitely large.)
+
+[ 4. Explain how an accurate measure of Hubble's constant can lead to
+an estimate of the age of the universe.
+Hubble’s law is a relationship between velocity of recession of objects in the 
+universe and their distance, v = H0d. Since we know that velocity is distance 
+divided by time, the Hubble constant, H0, is a measure of one divided by time, 
+the time of the expansion of the universe to its present size. It turns out 
+that this time gives an age for the universe for the case
+of zero acceleration (or deceleration).]
+
+5. Why isn't it correct to say that the expansion of the universe
+involves galaxies flying outward into empty space?
+Since the Hubble flow is an expansion of space itself, galaxies are not 
+rushing outward into unoccupied parts of the universe. The universe is 
+evenly filled with matter but space is expanding, which gives rise to an 
+appearance of galaxies flying outward from us.
+
+[ 6. Where did the Big Bang occur?
+  It occurred equally everwhere.  ]
+
+[ 7. How does the cosmological redshift relate to the expansion of the
+universe?
+     A wave of electromagnetic radiation, as it moves through the universe, 
+will experience the same expansion of the space experienced by the universe. 
+As the wave travels farther and farther, it expands more and more. By the 
+time it is observed, it appears redshifted in proportion to the distance it 
+has traveled. ]
+
+
+8. What properties of the universe determine whether it will
+or will not expand forever?
+    One important factor is the total density of matter in 
+the universe.  Matter exerts the attractive force of gravity 
+and so inhibits expansion.  Another important factor is the
+amount (density) of dark energy.  Dark energy contributes to the 
+expansion of the universe. 
+
+[ 9. Is there enough luminous matter to halt the current cosmic
+expansion?
+    No.  The luminous matter density is only about 1-3% of what
+is required to close the universe (assuming no acceleration).  ]
+
+11. (or 10.) Do we live in a flat universe?
+Yes, we think the universe has a "flat" geometry on large scales.
+The term comes from the 2D analogs of the universe: a "closed"
+universe is like the surface of a sphere, an "open" universe
+is like a saddle surface, and a "flat" universe is like a flat plane.
+On a surface, one can draw parallel lines and they will stay parallel
+on a flat plane, diverge on a saddle, and converge on a sphere.
+In 3 dimensional space, we can "draw parallel lines" by firing two
+lasers parallel to one another.  In a curved universe the beams will 
+eventually converge together (and then go all the way around the 
+universe to return to the starting point). In a flat universe,
+the beams stay parallel and never return.  Actual measurements to
+determine flatness are done by counting galaxies in different
+redshift ranges.  If the universe is flat, the counts will go
+up as a function of distance/redshift such that you get 8 times
+more galaxies with every doubling of distance.  If the universe
+is closed, you will get less than 8 times more per doubling.
+Also, the angular diameter of galaxies can actually increase
+with redshift instead of decrease if you have a closed universe
+but it should decrease linearly with distance/redshift for a flat 
+universe.
+Another way that we observe flatness is by imaging the small 
+fluctuations in the CMB.  Planck, WMAP and COBE all found a
+characteristic angular scale for the fluctuations.  This scale
+would be larger for a closed universe and smaller for an open 
+universe.
+Finally, the observations of Type Ia supernovae are consistent with a 
+flat universe in which Omega=1.  A plot of redshift versus distance
+is mostly linear with a little dip at the end.  This is consistent
+with an Omega=1 universe which has about 68% dark energy. Omega
+is the ratio of the actual density to the critical density and
+it is related to the geometry as follows: Omega > 1 gives a closed
+universe, Omega < 1 gives an open universe, and Omega=1 is a
+flat universe). 
+Inflation theory also suggests a flat universe.
+
+[12. What do observations of distant supernovae tell us about
+the expansion of the universe?
+	They tell us that the universes' expansion is accelerating.
+The type Ia supernovae are standard candles - we can tell
+their luminosity by their light curves and so we can figure
+out their distances without using the Hubble Law.  Thus, we
+measure the Hubble constant at different epoch's of the universe.
+It appears that the far away SN are expanding slower than
+they are now.]
+
+14. Why are measurements of globular cluster ages important
+to cosmology?
+	Because they provide a high, lower limit for the age of
+the universe.  For example, if stellar evolution theory shows
+globulars to be 12 Gyrs old, then the universe must be older
+than 12 Gyrs. 
+
+[ 15. What is the significance of the cosmic microwave background?
+        It is the radiation from a time about 400,000 years after
+the big bang when the protons and electrons were first combining
+to form neutral H atoms.  This was before stars or galaxies formed,
+but small density variations existed which would later grow to
+form structure.  This is observed as slight variations in the temperature
+of the CMB.  It is the farthest "thing" we can observe.  The radiation
+is also greatly redshifted from travelling through expanding spacetime -
+it began as a spectrum of a ~5000-10000 K blackbody and now appears
+to have the spectrum of a 2.74 K blackbody.
+Thus, the CMB is one of the pillars of evidence for the big bang. ]
+
+[ 16. Do you think it constitutes good science to explain the
+universe mainly in terms of dark matter and dark energy,
+neither of which is known or understood?
+	In general, it isn't good science, but it is the
+best scientists can do for the moment.
+	Dark matter and dark energy, at this time, are simply names to 
+things that appear to exist but for which there is no known explanation. 
+Actually, explanations exist but astronomers are uncertain whether any are 
+correct! Is it good science? Right now, astronomers seem to be given little 
+choice in the matter because observations have contradictions to classical 
+theories. Many new things have been discovered, about this there is no doubt. 
+Whether dark matter or energy are the correct explanations will be determined 
+through more good science and observation.  ]
+

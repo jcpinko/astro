@@ -1,0 +1,198 @@
+
+Assign 
+Ch. 3 (1),2,4-6,8-13,15
+    (Note #10 and 11 are a bit redundent, next time
+     assign: 2,4-6,8-10,12-14.)
+
+Ch. 4 1,2,5,8-12,15
+
+Ch. 3
+1. (Bad question "What is motion wave?")
+
+2. What is the relationship between wavelength, wave frequency, and
+   wave velocity?
+   The wave velocity is equal to the product of wavelength and freq.,
+   i.e., v = w*f, where w=wavelength.  There is an inverse relationship
+   between wavelength and frequency, an increase in w means a decrease in
+   f.
+
+4. Why is light referred to as an electromagnetic wave?
+   Because the quantities that oscillate as the wave passes are
+   electric and magnetic fields.
+
+5. What effect does a positive charge have on a nearby neagatively
+   charged particle?  What effect does a positive charge have on a
+   nearby positively charged particled?
+   A positive charge exerts a force of attraction on a negatively
+   charged particle ("opposites attract").  A + charge would repel
+   another + charge ("like charges repel").
+
+6. What's so special about c?
+   "c" stands for the speed of light in a vacuum.  This speed is special
+   because all types of E-M waves travel at this same speed through a
+   vacuum (they will slow down in a transparent medium). This is also
+   nature's speed limit - nothing can go faster.  Also, in special 
+   relativity, light travels at the same speed to any observer in an
+   inertial reference frame (e.g., in a spaceship moving at a constant
+   speed).
+
+8. Explain how light allows us to learn about distant astronomical
+   objects.
+   Light can travel great distances through the vacuum of space with
+   little alteration (it just decreases in intensity with distance).
+   Light can approach the Earth from a distant star or galaxy and then
+   it runs into Earth's atmosphere.  If there are no clouds, visible
+   wavelengths can make it all the way down to telescopes on the Earth's
+   surface.  The light refracts a little bit in the atmosphere, but
+   we can figure out which way the light came from and thus map out 
+   the stars in the sky. 
+
+9. If Earth were comletely blanketed with clouds and we couldn't see the 
+   sky, could we learn about the realm beyond the clouds?  What forms
+   of radiation might be received?
+   Yes, we could learn about thing beyond the clouds but only in the
+   radio part of the E-M spectrum.  Wavelengths between about 10m and
+   1 mm get through.
+   
+10. Name the colors that make up white light.  What properties of these
+   colors are different, and what do they have in common?
+   In order of in creasing frequency, the colors are Red, Orange, Yellow,
+   Green, Blue, Violet. The wavelengths, frequencies and energy per photo
+   vary with color.  They will also refract at slightly different angles
+   when passing from one medium into another.  They have in common a
+   speed of propogation of 3x10^8 m/s and they are all electromagnetic 
+   waves.
+
+11. What do radio waves, infrared radiation, visible light, UV, X-rays,
+   and gamma rays have in common?   How do they differ?
+   These are all composed of electric and magnetic fields, i.e., electro-
+   magnetic radiation.  They all travel at c.  They differ in wavelength,
+   frequency, and energy per photon.  They also differ in the extent to
+   which they are absorbed and scattered by various media.
+   
+12. What is a blackbody?  What are the main characteristics of the
+   radiation it emits?
+   A blackbody is a hypothetical object that absorbs 100% of the light
+   hitting it and emits light with a particular spectrum (the Planck
+   spectrum).  The radiation emitted has a particular mathematical
+   formula describing its spectrum (a plot of intensity vs frequency).
+   The spectrum is smooth, featureless except for a single peak.
+   The peak is inversely proportional to the temperature, and the total
+   energy leaving the BB (the area under the spectrum) is proportional
+   to temperature raised to the fourth power.
+
+13. In terms of its blackbody curve, describe what happens as a 
+   red-hot glowing coal cools.
+   The peak of the spectrum will shift to longer wavelengths as
+   the temperature drops.
+
+[14. What does Wien's law reveal about stars in the sky?
+    That blue stars have a hotter surface than red stars. ]
+
+15. How do astronomers use the Doppler effect to determine the
+    velocities of astronomical objects?  What are some possible
+    limitations to this approach?
+    We have to measure the wavelength of spectral features (see Ch. 4)
+    like emission and absorption lines and compare the observed
+    wavelength (Wobs) with the rest wavelength measured in the
+    lab (Wres).  Then we define redshift, z=(Wobs-Wres)/Wres.
+    Finally, the velocity of recession is given by v=cz, where
+    c is the speed of light.  The limitation is that we can only 
+    measure velocity along the line of sight (radial velocity) not
+    across the line of sight (tangential velocity).
+
+------------------------------------------------------------------
+Ch. 4 Discussion  1,2,5,8-12,15
+
+1. What is an absorption spectrum? An emission spectrum? How are
+   they related?
+   An absorption spectrum shows dips in light intensity at certain
+   wavelengths (absorption lines).  An emission spectrum shows peaks
+   in light intensity at certain wavelengths (emission lines). 
+   For a given gas, like hydrogen, the wavelengths of the absorption
+   lines are the same as the wavelength of the emission lines.
+
+2. What is spectroscopy?  How can spectroscopy be used to infer the
+   composition and temperature of a star?
+   Spectroscopy is the observation and study of light by spreading
+   out (dispersing) the light into a spectrum.  This reveals emission
+   and/or absorption lines.  The strength of those lines depends on
+   the temperature and abundance of the species of gas which produces
+   them.  Thus line strengths can tell us about the temperature and
+   composition.
+
+[3. Describe the basic components of a simple spectroscope and the 
+   additional components in spectrographs used by astronomers for
+   modern observations.
+   The most essential component is a dispersive element - this can
+   be used with the eye to make a simple spectroscope.  A spectrograph
+   involves a telescope for gathering and focusing light on a slit, 
+   a dispersive element (grating or prism) for spreading out the light
+   after the slit, and a collimator to focus the spectrum on a screen or 
+   a camera. ]
+
+5. In the particle description of light, what is color?
+   Color corresponds to different photon energies.  Blue is higher
+   energy per photon than red.
+
+[7. Give a brief description of a hydrogen atom.
+   It consists of a positively charged proton for a nucleus and
+   a single electron.  A rare isotope is deuterium which has a neutron
+   joined to the proton.  ]
+
+   When a physical quantity is quantized, it means that it can take 
+   on only specific values rather than a continuous range of values.
+   We think light is quantized because of experiments like the photo-
+   electric effect where light acts like a particle.
+
+9. What is the normal condition for atoms?  What is an excited atom?
+   What are orbitals?
+   Atoms are normally in the "ground" state, meaning that the electron
+   is in the lowest energy state (n=1).  An excited atom has its electron
+   in a higher orbital (n>1) which means that the atom has more energy
+   than when in the ground state.  Orbitals are the different quantized
+   energy levels of the atom.  The electrons are not actually confined
+   to narrow paths like a planet's orbit, but that name "orbital" stuck
+   from an early "planetary" model of the atom.  Electrons are confined
+   to precise energies (this is why we say "quantized").
+
+10. Why do excited atoms absorb and reemit radiation at characteristic
+   In order for a photon to be absorbed, it has to have an energy that is 
+   precisely equal to the energy difference between two energy levels, 
+   the lower level of which is occupied by an electron.  The electron 
+   absorbs the photon and moves to the higher energy level.  Very quickly 
+   thereafter the electron moves back down to the lower energy level 
+   emitting a photon of equal energy to the energy difference between the 
+   two levels.
+
+11. How are absorption and emission lines produced in a stellar spectrum?
+   What information might absorption lines in the spectrum of a star
+   reveal about the cloud of cool gas lying between us and the star?
+   A star's interior produces a continuous spectrum.  However, this light 
+   passes through a cooler layer of gas that surrounds the star.  Specific 
+   wavelengths are absorbed by this gas and the resulting spectrum 
+   appears as an absorption spectrum,  a continuous spectrum with specific 
+   wavelengths missing.  Emission lines are not normally found in a 
+   stellar spectrum because they are produced in a hot, low density gas.  
+   Most stars have a layer of cool, low density gas forming an 
+   absorption spectrum.  However, in some cases, a hot low density layer 
+   can form or can be found in clouds of gas between stars and an emission 
+   spectrum is seen.   Information about the composition and temperature 
+   of the cool gas, along with its motions, can be determined from the 
+   absorption lines.
+
+12. Why might spectral lines of an element in a star's spectrum be weak,
+   even though that element is abundant in the star?
+  
+   Not only must the element be present, but its electron(s) must be in 
+   the proper state (energy levels) for the transition.  For example, the 
+   H-alpha absorption line of hydrogen results from electrons jumping from 
+   the second to the third atomic orbital.  Because the Sun's lower 
+   atmosphere is rather cool, relatively few atoms have electrons in the 
+   second orbital; most are in the ground state.  Hence, in sunlight, the 
+   H-alpha line is weak. 
+
+15. List three properties of stars that can be determined from the
+    observations of their spectra.
+    1. Composition   2. surface temperature  3. rotation rate
+    4. turbulence,  5. surface gravity   6. magnetic field strength

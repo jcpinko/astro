@@ -1,0 +1,6 @@
+AuthName "Private PHYS1061 Page"
+SSLRequireSSL
+AuthType CAS
+require valid-user
+# require user j-pinkney 
+# Note: no htpasswd file needed.

@@ -1,0 +1,57 @@
+
+	PHYS 1051/1061 Intro Astronomy
+
+Astronomy Today, 8th Ed.
+	
+Week 2.  M-C 1-4,8-10     (2nd assignment from Ch. 1)
+         Prob 3,5-7
+
+Problems 3,5-7
+3. Ophiuchus.  Scorpius, Libra, and Sagittarius are also acceptable
+   given the low precision of using Fig 1.15.
+   If Stellarium is set to 10,000 AD, the VE is in Ophiuchus about
+   3.75 degrees from Scorpius.
+   8000yrs/26000 yrs = 0.31 of way around zodiac.  
+                       0.3x12~ 3.6 constellations.
+
+5 At what distance is an object if its parallax, as measured from
+  either end of a 1000-km baseline, is 
+  a) 1 deg  
+    ANS: D = 1000 km * 360 / 2*pi*1 deg 
+           = 57,296 km (using book equation, assuming curved baseline)
+         D = 57,294 km (using tan f'n, assuming straight baseline)
+    Or let baseline B=LD in my small-angle formula A(deg)=57.3 LD/D.
+    Then 1 deg = 57.3 B/D so D = 57.3 B/1 = 57.3 (1000km) = 57,300 km
+  b) 1'
+    ANS: 3.44x10^6 km  (60x last answer)
+  c) 1"
+    ANS: 2.06x10^8 km  (60x last answer)
+   Using correct def of parallax you get:
+   a) 28,700 km         b) 1,719,000  km    c) 1.03x10^8 km
+
+6. Given the angular size of Venus is 55" when the planet is
+   45,000,000 km from Earth, calculate Venus's diameter (in km).
+     A(deg) = 57.3 LD/D 
+     A('') = 206265 LD/D, so (55*D)/206265 = LD = 11999~12000 km.
+
+7. The Moon lies 384,000 km from Earth, and the Sun lies
+   150,000,000 km away.  If both have the same angular size as
+   seen from Earth, how many times larger than the Moon is the
+   Sun?
+   Using similar triangles: 
+      150,000,000/384,000 = LD_Sun/LD_Moon= 391 times ~ 400.
+   Or, use the class notes which mention the magic number 400.
+
+Chap 1 Multiple Choice
+1. (b)
+2. (b)
+3. (d) (actually, none of the above.  Sun is in Sag and Capric in Jan.)
+4. (a) 
+ [Not assigned:
+  5. (c) waning phase
+  6. (a)
+  7. (c) (b is also good, except it should be "a more precise distance ...")
+ ]
+8. (c)
+9. (a) smaller parallax angle
+10.(d) geometry

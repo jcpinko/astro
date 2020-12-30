@@ -1,0 +1,144 @@
+Homework from
+Astronomy Today 
+8th Ed.
+
+Ch. 23   The Milky Way Galaxy
+R&D 1-15 (odd) were assigned
+Answers in [brackets] were not assigned.
+Ch. 24 R&D 3,6,8
+
+Review and Discussion 
+
+1. What evidence do we have that we live in a disk galaxy?
+A wide band of light completely surrounds us and is known as the Milky Way. 
+Perpendicular to this band are relatively few stars. Our perspective is 
+from within a large disk of stars. 
+
+[2. Why is it difficult to map out our Galaxy from our vantage
+point on Earth?
+Since we are inside the disk of the Galaxy, it is hard to determine what 
+it looks like from the outside. Dust clouds obscure most features that 
+are distant. And it is difficult to tell how far the visible features
+extend. ]
+
+5. What important discoveries were made early in the 20th century by using 
+RR Lyrae variables?
+RR Lyrae variables are very useful for determining distances to globular 
+clusters. By knowing how the globular clusters are distributed in 
+the Galaxy, the halo component is mapped out. Harlow Shapley used the 
+globular clusters in this way and could tell that center of our galaxy 
+was not at our Sun but offset in the direction of Sagittarius.
+This also provides a rough estimate of the size of the Milky Way
+and our distance from the center.
+
+[6. Of what use is radio astronomy in the study of Galactic structure?
+In the radio part of the spectrum, atomic hydrogen gas emits 21-cm radiation. 
+Because its long wavelength allows it to travel throughout the Galaxy, 
+astronomers can use it to map the structure of gas clouds in the Galaxy. 
+Molecular hydrogen is very difficult to observe, but other molecules, such 
+as carbon monoxide, are used to map molecular clouds. ]
+
+7. Contrast the motions of disk and halo stars.
+The stars in the Galactic disk move in roughly circular orbits around the 
+center of the Galaxy. The orbits all lie in the plane of the disk. The halo 
+stars have approximately the same velocities as the disk stars but are moving 
+in random directions relative to the disk, forming a spherical halo around 
+the Galaxy. These stars pass in and out of the disk, towards the center of 
+the Galaxy and back out again into the halo. When seen locally, they appear 
+to have high velocities relative to the Sun and other disk stars and their
+orbits are highly inclined with respect to the plane of the disk.
+
+9. Explain why galactic spiral arms are thought to be regions of recent
+and ongoing star formation.
+The spiral arms of a galaxy are visually defined by both dust lanes,
+and by strands of luminous, blue stars, 
+open star clusters, and emission nebulae. All of these objects are found 
+in star formation regions and are all considered young objects. Luminous
+O and B stars MUST be young because they simply don't last long.
+Even open clusters evaporate in a billion years and so are a sign
+of ongoing star formation.
+
+[10. What is self-propagating star formation?
+Imagine a chain or matrix of interstellar gas clouds.  If one cloud
+collapses, fragments and produces stars, it will be a source of
+winds and shock waves when its most massive stars break free
+of their cocoons and go supernova.
+These winds and waves can trigger new star formation in a neighboring cloud. 
+Similarly, when that neighboring cloud starts producing massive
+stars, they can cause the collapse of still another cloud.
+The formation of one group of stars provides the mechanism for the 
+formation of more stars. ]
+
+11. What does the rotation curve of our Galaxy tell us about the Galaxy's 
+total mass?
+The rotation curve is a plot of orbital speed versus distance from
+the center of the Galaxy.  The orbital speed of a star depends on
+how much matter is contained within a sphere centered on the Galaxy's
+center, and with a radius equal to that of the star's orbit.
+So the rotation curve tells us how much matter is contained within
+any radius.  At the largest radii, we can estimate the total
+mass of the Galaxy.  It appears to be 5-10 x 10^11 solar masses.
+More total mass is implied by the rotation curve than can be 
+accounted for by counting stars, gas, and dust.  This
+is strong evidence for the presence of a halo of "dark matter" 
+around our Galaxy.
+
+[. Possible candidates for dark matter:
+Some are: brown dwarfs, black 
+dwarfs, black holes, WIMPS, MACHOS, ... ]
+
+13. What is gravitational lensing, and can astronomers use it to
+search for dark matter?
+Gravitational lensing is the bending of light by a gravitational field. 
+If one star passes directly in front of another, the light of the more 
+distant star may be bent in such a way that the star appears to brighten. 
+Dark matter in the form of MACHOs (Massive Compact Halo Objects)
+can be searched for with gravitational (micro-)lensing.  A telescope
+must stare at far away groups of stars (ideally, the magellanic
+clouds) and look for an increase in brightness which has the
+signature of a lensing event.  
+
+15. Why do astronomers think that a supermassive black hole lies
+at the center of the Milky Way galaxy?
+The central regions of the Galaxy are obscured by thick clouds of 
+interstellar dust. Visible light cannot penetrate these clouds. 
+However, infrared and especially radio waves can easily penetrate 
+these clouds and so we can see the center of the Galaxy at these wavelengths. 
+We see individual stars so close to the center that we can see
+their elliptical orbits take shape over time.  We know the
+size and period of these orbits, so Kepler's 3rd law allows
+us to determine the mass of the unseen object at the center
+of mass of the central star cluster.
+
+Ch. 24
+
+3. Describe the four rungs in the distance-measurement ladder
+used to determine the distance to a galaxy lying 5 Mpc away.
+First, find the size of the AU using radar ranging to Venus.
+Second, use trig parallax to find distances to stars out to
+~200 pc which can be used to calibrated spectroscopic parallax.
+Third, use spectroscopic parallax to find distances to clusters
+containing Cepheids to calibrate the P-L relationship.
+Fourth, use Cepheids to get the distance to the galaxy of
+interest.
+
+6. What are standard candles, and why are they important to
+astronomy?
+Standard candles are astronomical objects that have a 
+predictable luminosity and can be identified by some
+means (light curve or spectrum).  They are most useful
+for determining distances if they are also very luminous.
+
+8. What is Hubble's law?  How is it used by astronomers
+to measure distances to galaxies?
+The Hubble law is the proportionality between recession
+velocity and distance.  The recession velocity is actually
+measured from the redshift of a galaxy's light.  So 
+astronomers must take a spectrum of the galaxy and 
+measure the wavelength, W_obs, of identifying features in their
+spectrum (e.g., calcium H&K absorption or H-alpha emission).
+They then compare this to the rest wavelength, W_rest, to get 
+the redshift:  (W_obs - W_rest )/W_rest = z, where z is redshift.
+Then V = cz is used in V = HoD.  Solve for D to get the 
+distance.
+
