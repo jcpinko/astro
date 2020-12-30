@@ -1,0 +1,73 @@
+\documentclass[12pt,thmsa]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \input astro.tex
+
+% Page enlargement commands
+\setlength{\topmargin}{-0.4in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\textwidth}{7in}
+\setlength{\textheight}{9in}
+
+\begin{document}
+
+% Original Lecture and Date:
+% Quiz 1, Week 1. 12/6/02.
+%
+
+\begin{centering}
+{\Huge  Physics 235.  Heat, Sound and Light Laboratory}
+\end{centering}
+\bigskip 
+
+\noindent 
+{\bf Error Propogation}   
+
+\bigskip 
+
+\begin{enumerate}
+\item $Q$ is a {\bf sum or difference} of independent measurements 
+$x_i$, $x_j$, $x_k$, ... 
+with errors $\delta x_i$, $\delta x_j$, $\delta x_k$, ... .
+% \underline{~~~~~~~~~~~~~~~~~~}
+\[
+\delta Q = \sqrt{\delta x{_i}^2 + \delta x{_j}^2 + \delta x{_k}^2 + \cdots }
+\]   
+ \begin{itemize}
+   \item Ex.) If $Q = a + b - c$. Then $\delta Q = \sqrt{\delta a^2 + \delta b^2 + \delta c^2}$.   
+   \item Ex.) If $a\pm\delta a$=5$\pm 2$, $b\pm\delta b$=6$\pm 2$, 
+    $c\pm\delta c$=3$\pm 1$, then $Q \pm \delta Q = 8\pm 3$.
+ \end{itemize}  
+\item $Q$ is a {\bf product or ratio} of independent measurements 
+$x_i$, $x_j$, $x_k$, ... , 
+with errors $\delta x_i$, $\delta x_j$, $\delta x_k$, ... .
+\[
+\frac{\delta Q}{Q} = \sqrt{(\frac{\delta x{_i}}{{x_i}})^2 + 
+(\frac{\delta x{_j}}{{x_j}})^2 + 
+(\frac{\delta x{_k}}{{x_k}})^2 + \cdots }
+\]
+  \begin{itemize}
+    \item Ex) $Q = \frac{ab}{c}$.  Then $\delta Q = Q 
+\sqrt{ (\frac{\delta a}{a})^2 + (\frac{\delta b}{b})^2 + 
+(\frac{\delta c}{c})^2 } $
+    \item Ex.) If $Q = \frac{(9\pm1) \cdot (50\pm 5)}{4\pm 0.5}$, then
+$Q \pm \delta Q = 113 \pm 22$ which rounds to $110\pm 20$.
+  \end{itemize}
+
+\item $Q = kx$, where $k$ is known exactly (i.e., a constant like $\pi$).
+\[
+ \delta Q = |k| \delta x
+\]
+
+\item $Q= x^{n}$, where $n$ is a power and $x$ is the measurement.
+\[
+ \frac{\delta Q}{Q} = |n| \frac{\delta x}{|x|}
+\]
+\item $Q$ is {\it any} function of one variable $x$.
+\[
+ \delta Q = \left|\frac{dq}{dx}\right| \delta x
+\]
+\end{enumerate}
+
+
+\end{document}

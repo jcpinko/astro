@@ -1,0 +1,78 @@
+			4/14/04
+
+here is that lab grading rubrik that I worked out
+with Debbie C and R. Merrill.
+
+Prelab ........ ........................... 2 pts
+Answer the questions in the lab manual..... 3 pts (correct & complete)
+Error analysis/propogation................. 2 pts
+Missing units.............................. 2 pts
+Conclusion................................. 1 pt  
+                           Total           10 pts
+
+The points column represents the maximum points that can
+be taken off for that category.
+
+Other possible reasons to deduct:
+	messiness
+        not fixing problems that can be fixed (e.g. measurement blunders)
+        incorrect calculations
+        Writing reflects understanding
+
+Note: I encourage students to express
+the difference between the accepted value and their
+measurement in terms of "sigma's".  #sigmas = (x_obs - x_accepted)/sigma
+where "sigma" is the error in x_obs.  A difference
+of less than 2 sigma is good.  If they have a 4 sigma or
+larger difference, they probably did something very WRONG.
+I discourage students to give the "percentage error"
+because it is usually meaningless.  
+%error = (x_obs - x_accepted)/x_accepted
+
+
+---------------------------------------------------------------
+	E-mail to Debbie G.  on 9/8/04
+
+Dear Debbie,
+
+here is the grading rubrik that I used previously
+with Debbie C. and Robbie.
+
+Prelab ........ ........................... 2 pts
+Answer the questions in the lab manual..... 3 pts 
+    - correctness & completeness
+    - writing should reflect good understanding
+Error analysis/propogation................. 2 pts
+    - thoroughness
+Missing units.............................. 2 pts
+Conclusion................................. 1 pt  
+    - writing should reflect good understanding
+                           Total           10 pts
+
+The points column represents the *maximum* points that can
+be deducted for that category.
+
+You can deduct points for other reasons as well.  Just
+try to be fair and consistent. Other possible reasons to 
+deduct up to 1 pt:
+        messiness
+        not fixing problems that can be fixed (e.g. measurement 
+          blunders, claiming "human error")
+        incorrect calculations (in addition to mistakes in "Answer
+	  the questions in the lab manual" above)
+
+You can correct grammar and spelling, but let's not get
+into deductions for these.
+
+I encourage students to express the difference between the 
+accepted value and their measurement in terms of "sigma's".  
+Here,  the #sigmas = (x_obs - x_accepted)/sigma
+where "sigma" is the error in x_obs.  A difference
+of less than 2 sigma is good.  If they have a 4 sigma or
+larger difference, they probably did something WRONG.
+I discourage students to give the "percentage error"
+because it is usually meaningless.  
+%error = (x_obs - x_accepted)/x_accepted
+
+cheers,
+Dr. Pinkney

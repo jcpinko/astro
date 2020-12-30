@@ -1,0 +1,23 @@
+body {
+  border-style: hidden;
+  border-width: 1cm;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: medium;
+  line-height: normal;
+  color: #c8c8dc;
+  background-color: #2d280f;
+}
+h2 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 1.7em;
+  line-height: 0.5cm;
+  color: #c8c8dc;
+  background-color: #2d280f;
+}
+p {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 1.1em;
+  line-height: normal;
+  color: #c8c8dc;
+  background-color: #2d280f;
+}
