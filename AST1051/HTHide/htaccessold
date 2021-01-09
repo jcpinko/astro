@@ -1,0 +1,12 @@
+
+AuthName "Private Access"
+SSLRequireSSL
+AuthType Basic
+require user rbeer 
+
+AuthUserFile /home/austin/j-pinkney/www/AST252/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Password Protected Astro 252 Files"
+AuthType Basic
+
+require valid-user

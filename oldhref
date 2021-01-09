@@ -1,0 +1,16 @@
+
+Needed:
+:1,$s/www2\.onu\.edu\/\~j-pinkney/jpastro.net
+:1,$s/http:\/\/www2\.onu\.edu\/%7Ej-pinkney/https:\/\/jpastro.net
+
+:1,$s/jcpinko\.github\.io\/astro/jpastro.net
+Also:
+:1,$s/www2\.onu\.edu\/%7Ej-pinkney/jpastro.net
+:1,$s/http:\/\/www2\.onu\.edu\/\~j-pinkney/https:\/\/jpastro.net
+
+:1,$s/www-new\.//
+  (apparently www-new.onu.edu forwards to onu.edu)
+
+ONU Physics:
+"https://onu.edu/academics/physics">The ONU Physics Homepage
+
