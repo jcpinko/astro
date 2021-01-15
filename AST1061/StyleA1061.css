@@ -39,7 +39,30 @@ body {
   line-height: normal;
 }
 
-/* Use an "id" for a table */
+/* Use an "id" for a table for grades */
+#mygrades {
+    font-family: Arial, Helvetica, sans-serif;
+  /*  width: 100%; */
+     border-collapse: collapse;
+}
+#mygrades td, #grades th {  /* header and normal columns */
+  /*  font-size: 1em; */
+    border: 2px solid ;
+    padding: 5px 15px 5px 15px; /*Top Right Bot Left */
+    text-align: center;
+}
+#mygrades tr.reg {
+    font-size: 1.0em;
+    background-color: rgb(255,255,235) ;
+   }
+#mygrades tr.grey {
+    background-color: rgb(215, 215, 215);   /* grey for breaks */
+    font-size: 0.9em;
+    font-weight: bold;
+   }
+
+
+/* Use an "id" for a table for schedules. */
 #mysched {
     font-family: Arial, Helvetica, sans-serif;
   /*  width: 100%; */
