@@ -28,8 +28,9 @@ body {
 #mysched td, #mysched th {  /* header and normal columns */
   /*  font-size: 1em; */
     border: 2px solid ;
-    padding: 6px 2px 6px 2px; /* Top Right Bot Left */
-  /*  padding: 14px 12px 14px 12px; */
+    /* padding: 3px 7px 2px 7px; /* Top Right Bot Left */
+    /* padding: 6px 2px 6px 2px; Top Right Bot Left */
+    padding: 14px 12px 14px 12px; 
     text-align: center;
 }
 #mysched th {        /* header columns */
