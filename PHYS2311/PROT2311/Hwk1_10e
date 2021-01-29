@@ -1,0 +1,65 @@
+
+P2311 Homework 1
+Serway and Jewett 10th Ed.
+Ch. 1 P. 1a,8,9,11,16,20,21
+Ch. 2 P. 2-6
+
+Ch. 1:
+1. a) Calculate the avg density of the Earth
+      Ans: 5520 kg/m^3
+8. Show  [x] = [ka^mt^n]
+    L  = (L/T^2)^m (T)^n    m=1, n=2
+    L  = L^1/T^2 * T^2
+    L  = L
+9. a) L/T = L/T + L^2/T^2  is not dim correct
+   b) y = 2m cos(kx)  where k=2 m^-1  is dim correct
+11. Find density of lead in SI units given that 23.94 g
+    of lead occupies 2.10 cm^3.
+    rho = .02394 kg/(2.10 cm^3) *(10^6 cm^3/m^3) = 11400 kg/m^3
+16. a) Vol of room = 40x20x12 m^3 = 9600 m^3
+    b) mass of air in room = 1.20 kg/m^3 * 9600 = 11520 kg
+       Weight of air in room = 11520*2.2 = 25340 lbs
+20. How many sig figs?
+    a) 3  b) 4   c) 3  d) 2
+21. seconds in a tropical year= 365.242199 (86400 s/day) 
+                              = 31556926. s/yr
+
+Ch. 2
+2. If x=10t^2
+   a) find average velocity for time interval from 2 to 3 sec.
+       v=Dx/Dt = (90-40)/1 = 50 m/s
+   b) find average velocity from t=2.0 to 2.1 sec.
+       v=(44.1-40)/0.1 = 41 m/s
+3. Pinewood derby car
+   t(s)  0  1    2    3     4     5
+   x(m)  0  2.3 9.2  20.7  36.8  57.5 
+   a) average vel for 1st second:  2.3 m/s
+   b) average vel for last 3 seconds:  (57.5-9.2)/3 = 16.1 m/s
+   c) average vel for entire period: (57.5-0)/5 = 11.5 m/s
+4. Swimmer
+   a) 1st half vel: Vavg = +L/t_1
+   b) 2nd half vel: Vavg = -L/(t_2-t_1)
+   c) round trip vel: Vavg = 0/(t2) = 0
+   d) round trip *speed*:  vavg = 2L/(t2) 
+5. Position-time graph
+   a) Vavg = (2-8)/(4-1.5) = -6/2.5 = -2.4 m/s
+   b) m=-13/3.5 = -3.7 m/s   (text soln is "-3.8 m/s" but that's not as good)
+   c) t=4 s
+6. Car travels dist d at v1=60 mph, then travels d at v2=?.
+   If average speed over entire trip is 30 mi/hr,
+   a) Find v2
+               Vavg = 2d/(t1+t2) =2d/(d/v1 + d/v2) = 30 mph
+                     so 2 / (1/v1+1/v2) = 30
+                        2 = 30 (1/60 + 1/v2)
+                        1.5 = 30/v2          so v2=20 mi/hr
+   b) If second d were in opposite dir, find Vavg.
+               Vavg = 0/(t1+t2) = 0 mi/hr
+   c) What is average *speed* vavg?
+               vavg = 2d/(d/v1 + d/v2) = 30 mph
+
+
+* Please check Ch. 1 #11 (1pt) and Ch. 2 #5 (1.5 pts) for correctness.
+* Let's grade these out of 10 pts.
+* Check the rest to see that an answer exists.  -1/2 for no answer.
+
+
