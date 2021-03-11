@@ -1,0 +1,59 @@
+
+P231 Homework 4
+
+Serway and Jewett 10th Ed.
+ Ch. 5 P. 2,3,5,6,7,9,12,17,18,20,22,26,31
+
+Ch.5
+2. a) spring on hand to left, spring on wall to right
+   b) wagon on handle down and left, wagon on planet upward,
+      wagon on ground down
+   c) football on player down and right, football on planet up
+   d) small-mass on large-mass to left
+   e) negative charge on positive charge to left
+   f) iron on magnet to left
+3. a) Fnet = 6.0i + 15.0j N
+   b) 16.2 N 
+5. a) -45.0i + 15.0j m/s
+   b) 162deg from +x axis
+   c) displacement= -225i +75j m
+   d) position= -227i+79j m
+6. a) 1.59 m/s^2 at 65.2 deg N of E
+   
+7. a) 181 deg (counter-clockwise from x-axis)
+   b) 11.2 kg
+   c) 37.5 m/s
+   d) -37.5i-0.893j m/s
+9. a) 1.53 m
+   b) 24.0 N at 5.29 deg above horizontal
+12. weight on Jupiter = 2.38 kN
+17. a) free-body diagram show normal force, N,
+       and mgcos0 and mgsin0 components of F_g parallel
+       and perpendicular to the incline, respectively.
+    b) a=-2.54 m/s^2
+    c) 3.19 m/s
+18. T_3 = 325 N
+    T_1=253 N
+    T_2=165 N
+20. 8.66 N east
+22. a) free-body diagram showing 3 forces acting
+      on 5 kg mass (N,T,Fg), and 2 forces acting
+      on 9 kg mass (T,Fg).
+    b) a = 6.3 m/s^2
+    c) T = 31.5 N
+26. It is impossible because the maximum static friction
+    cannot provide the acceleration necessary to keep
+    the book stationary on the seat.
+31. a) three free-body diagrams needed. For mass 2, 
+    there are 5 forces acting, including kinetic friction.
+    For masses 1 and 3, there are just 2 forces acting
+    (a tension and a F_g).
+    b) a=2.31 m/s^2, down for m1, left for m2, and up for m3.
+    c) T_12 = 30.0 N
+       T_23 = 24.2 N
+    d) T_12 decreases,  T_23 increases
+
+
+Checking Ch.5 #9 and #22.
+
+
