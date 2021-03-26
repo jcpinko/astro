@@ -196,3 +196,4 @@ Ch. 4 Discussion  1,2,5,8-12,15
     observations of their spectra.
     1. Composition   2. surface temperature  3. rotation rate
     4. turbulence,  5. surface gravity   6. magnetic field strength
+    7. radial velocity
