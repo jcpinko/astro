@@ -1,0 +1,40 @@
+
+P231 Homework 8
+
+Serway and Jewett 10th ed.
+Ch. 9 P. 2,3,4,10,11,12,16,17,20,24,26 
+
+Problems
+2. a) p_x = 9.0 kg m/s, p_y=-12.0 kg m/s
+   b) p = 15 kg m/s at angle 307 deg
+3. F_on bat = +3.26i-3.99j N
+4. a) she moves at 4.71 m/s east
+   b) U_chem = 717 J
+   c) Yes
+   d) system is isolated
+   e) Even though there is motion afterward, the
+      final momenta are of equal magnitude in opposite
+      directions so the final momentum of the system
+      is still zero.
+10. a) I = 12.0 Ns i
+    b) 4.8 m/s i
+    c) v_f = 2.8 m/s i
+    d) F_avg = 2.4 N i
+11. 16.5 N
+12. a) v_Tf = 20.9 m/s East
+    b) Delta KE = -8.68E+3 J
+    c) Most of the energy was transformed to internal 
+       energy with some being carried away by sound
+16. d' = 7.94 cm   (Hard)
+17. a) v = 4.85 m/s
+    b) 8.41 m      (Hard)
+20. v_o = 3.99 m/s  and v_y = 3.01 m/s
+24. r_CM = 11.7 i + 13.3 j  cm
+26. a) M=15.9 g
+    b) x_CM = 0.153 m
+
+
+Checking #2, and #24.  
+
+
+
