@@ -99,9 +99,11 @@ flat universe in which Omega=1.  A plot of redshift versus distance
 is mostly linear with a little dip at the end.  This is consistent
 with an Omega=1 universe which has about 68% dark energy. Omega
 is the ratio of the actual density to the critical density and
-it is related to the geometry as follows: Omega > 1 gives a closed
-universe, Omega < 1 gives an open universe, and Omega=1 is a
-flat universe). 
+it is related to the geometry as follows.  If there is no dark
+energy, Omega > 1 gives a closed universe, Omega < 1 gives an open 
+universe, and Omega=1 is a flat universe). If there is dark
+energy, we can have the flat curvature of an Omega=1 universe
+combined with the accelerating expansion of an "open" universe.
 Inflation theory also suggests a flat universe.
 
 [12. What do observations of distant supernovae tell us about
