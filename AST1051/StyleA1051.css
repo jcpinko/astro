@@ -69,6 +69,9 @@ text-align: center;
     background-color: #c3a373;    /* dark tan */
     font-weight: bold;
    }
+#mysched tr.cgrey {
+    background-color: rgb(170,150,150);
+   }
 #mysched td.time {
     width: 70px;
    }
