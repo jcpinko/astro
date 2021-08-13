@@ -1,0 +1,150 @@
+
+AT 8th Ed.
+Ch. 2 Homework
+Assigned:  R&D 1-11
+           M-C 1-7
+(Other answers are also shown for completeness.)
+
+1. What contributions were made to astronomy by Chinese and Islamic
+astronomers during the Dark Ages in Europe?
+  The Chinese contributed a calendar and records of 
+  celestial events like comets and novae which are still used today.
+  The Islamic culture built on the Almagest by Ptolemy during
+  the dark ages.  They gave most stars the names we use today.
+  They established trigonometric and algebraic methods (to, e.g.,
+  find the direction to Mecca from any place on Earth) important
+  in astronomy.
+2. Briefly describe the geocentric model of the universe.
+  The geocentric model has the Earth at rest at the center 
+  with the Sun and Moon orbitting it. The inferior planets moved on
+  epicycles which were centered on a bar between the Earth and
+  the Sun.  The superior planets were also modelled as moving on 
+  epicycles which moved on deferents, but the deferents were
+  beyond the Sun.  The stars were on the most distant "sphere".
+3. The benefit of our current knowledge lets us see flaws in the
+  Ptolemaic model of the universe.  What is its basic flaw?
+  The basic flaw of the Ptolemaic model is that the Earth
+  is fixed at the center.  It is also complex, but that is not so
+  much a flaw as an undesireable quality in a theory.
+4. What was the great contribution of Copernicus to our knowledge
+  of the solar system?  How was his model still flawed?
+  He did not contribute much knowledge in the sense of new
+  discoveries (like Galileo could with the telescope), but he
+  put together a heliocentric (sun-centered) model of the solar 
+  system that was much more comprehensive than our records of 
+  Aristarchus' model.  He explained how the Earth rotated to
+  explain daily motions and the Earth orbited the Sun to
+  explain annual motions of the Sun.  The planets no longer
+  had to move in loops, but only appear to because of the 
+  Earth's motion.  It was still flawed in that it insisted 
+  on circular motions.
+5. What is a theory?  Can a theory ever be proved to be true?
+  A theory, in its weakest definition, is just a hypothesis. 
+  For its stronger definition, it is a set of related ideas 
+  which describe a large collection of observations.
+  A theory cannot be proved to be true, only disproved.
+6. What is the Copernican Principle?
+  The Copernican Principle is, most generally, that we are
+  not special.  Originally, this meant that the Earth is not
+  at the center of the solar system.  Since then it has been
+  extended to include our Galaxy, our local group of galaxies,
+  our local supercluster, and the universe.  It is also cited
+  when considering life in the universe - we may not be the 
+  only place with life or even intelligent life.
+7. What discoveries of Galileo helped confirm the views of
+   Copernicus and how did they do so?
+  Since a theory cannot be proved, only disproved, Galileo's
+  observations confirmed the Copernican view by discrediting
+  the Ptolemaic model.  A gibbous phase of Venus was not allowed
+  in the Ptolemaic model (which always had Venus between Earth
+  and then Sun) but was allowed by the Copernican model.  Thus,
+  the discovery of a gibbous Venus disproved the Ptolemaic model
+  while leaving the Copernican unscathed.  Galileo also made
+  several discoveries which contradicted the philosophical
+  underpinnings of the Ptolemaic model, which originated with
+  Plato, Aristotle and the like.  These include: the moons orbitting 
+  Jupiter (Earth was supposed to be the center of all motions),
+  and sunspots on the Sun (the Sun was supposed to be perfect and
+  unblemished).  In addition, experiments studying falling and
+  rolling bodies on Earth disproved Aristotle's notions that
+  heavier objects fall faster. 
+8. Briefly describe Kepler's three laws of planetary motion.
+  First Law: the orbits of planets are in the shape of an ellipse
+  with the Sun at one focus.  Second Law: a line connecting the
+  Sun and a planet sweeps out equal areas in equal time intervals.
+  Third Law: the square of the orbital period is proportional
+  to the cube of the semi-major axis.
+9. How did Tycho contribute to Kepler's laws?
+  Tycho made meticulous observations of the positions of
+  planets over many years.  Kepler then analyzed this data
+  and determined the true orbits of the planets around the Sun.
+
+10.  When Venus is near inferior conjunction, it is possible to
+   bounce radar waves off of it and measure the time for radar
+   to make the trip to Venus and back to Earth.  The relative 
+   size (0.7 AU) and shape of Venus's orbit were known, so the 
+   distance to Venus during inferior conjunction (about 28 million 
+   miles) could be used to calculate the distance to the Sun (the AU).  
+   Specifically, if the distance from Earth to Venus is 28 million miles
+   and this is 3/10 of 1 AU, then you can solve 
+   1 AU * 0.3 = 28,000,000 to find  1 AU = 93,000,000.
+11. What does it mean that Kepler's laws are empirical?
+   Kepler's laws are empirical because they were based on
+   analysis of observational data rather then deriving from 
+   some theoretical premise.  They are descriptive laws
+   which don't explain why the planets move as they do.
+12. What are Newton's laws of motion and gravity?
+   1st law:  every body continues in a state of rest or in 
+   uniform motion in a straight line unless it experiences
+   some net force.  2nd law: when a force F acts on a body
+   of mass m it causes the body to accelerate at a rate a=F/m
+   3rd law: for every force there is an equal but opposite
+   force.
+13.  Why do we say that a baseball falls toward Earth, and
+   not Earth toward the baseball?
+   The Earth moves in response to the baseball but its motion
+   is not noticeable because it is so slight.  From Newton's
+   3rd law, both the baseball and the Earth feel the same attractive
+   force.  However, Newton's 2nd law states that an object's 
+   acceleration is inversely proportional to its own mass (a=F/m), 
+   thus, the smaller mass (baseball) will accelerate/move much 
+   more than the larger mass (Earth).
+14. In what sense is the Moon falling toward Earth?  How
+    can we use this fact to measure Earth's mass?
+   When the force of gravity pulls an object toward the Earth,
+   the object is said to be "falling".  The Moon is being
+   pulled continuously toward the Earth by gravity, sometimes
+   it moves toward Earth and sometimes it moves away, but 
+   continuously falling.  Whether it is moving toward or away
+   from the Earth, it is ALWAYS ACCELERATING towards the Earth
+   since it is moving in a curved orbit.  From the acceleration
+   we can calculate the force of gravity and thus the mass of
+   the Earth-moon system.  F_g = G(M*m/r^2). 
+15. What is the meaning of the term escape speed?
+   If body 1 orbits body 2 at the escape speed, its orbit
+   will be open instead of closed.  That is body 1 will leave
+   the vicinity of body 2 and never return (unless influenced
+   by some 3rd body).
+
+Important OLD EDITION QUESTION:
+15. What were the modifications made by Newton to Kepler's laws?
+    The two modification by Newton to Kepler's laws:
+   1) For the first law, one focus of an elliptical orbit
+      was located at the center-of-mass of the solar system
+      rather than on the Sun itself.
+   2) For the 3rd law, the mass of the system should be
+      taken into account to make it more widely applicable ...
+	 P^2 = R^3/M_tot
+
+Mult Choice
+1. a
+2. d
+3. b
+4. c
+5. c
+6. a
+7. c
+------
+8. b
+9. c
+10. a

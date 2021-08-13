@@ -1,0 +1,195 @@
+
+Astronomy Today 9th Ed.
+
+Review and Discussion
+
+1. Name and briefly describe the main regions of the Sun.  How hot is the 
+solar surface?  The solar core?
+Refer to Figure 16.2 and Table 16.1 for help in answering this question. The regions are: 
+a) core : where energy is generated through fusion of hydrogen into helium
+   Tcore is about 16 million K.
+b) radiative zone - a middle layer where energy from the core transfers outward by radiation (no convection) 
+c) convective zone - an outer layer where convection is the primary source of 
+energy transfer
+d) photosphere - the "surface" of the Sun, where the gas is thin enough 
+  for light to escape. Tsurf is about 5800 K.
+e) chromosphere - a colorful layer of low-density gas above the photosphere
+f) corona - the outermost atmosphere, which fades into the solar wind
+
+The radius of the core is 200,000 km, the interior is 300,000 km thick, 
+convective zone is 200,000 km thick, photosphere is only 300 km thick, 
+chromosphere is 3,000 km thick, and the corona extends about a few million 
+km above the chromosphere. The photosphere is at a temperature of 5800 K 
+and the core is at a temperature of approximately 15 million K. 
+
+2. What is luminosity, and how is it measured in the case of the Sun?
+Luminosity is a measure of the total energy output of an object. It is the
+energy in E-M radiation leaving in ALL directions.  For the Sun, it can be 
+measured by experimentally determining how much solar energy is received by 
+one square meter at the distance of the Earth from the Sun. This is then 
+multiplied by the surface area of a sphere which encompasses the Sun and
+whose radius is 1 AU.
+
+3. How do scientists construct models of the Sun?
+Knowing basic facts about the Sun, especially the fact that it is made 
+primarily of light gasses such as hydrogen and helium, and knowing how such 
+gasses behave under conditions of high pressure and temperature, allows 
+astronomers to model the entire structure of the Sun. The model is correct 
+if it successfully predicts observed properties of the Sun, such as its 
+luminosity, radius, and temperature. Some of the input information to the 
+model is uncertain, but the results suggest how correct this input data is. 
+By making slight adjustments in the input parameters, the model is adjusted 
+until its predictions are in agreement with all the observed properties. 
+Once the model “works,” astronomers are then able to learn from the model 
+about the properties in the interior of the Sun. Models are used as a test 
+to see whether we fully understand the structure and processes of objects. 
+They are also then used to predict properties that may not be directly 
+observable. Models also make predictions of observables that help us further 
+test the validity of the model. 
+
+4. What is helioseismology, and what does it tell us about the Sun?
+Helioseismology is the study of waves that ripple across the surface of 
+the Sun. Some of these waves travel from deep inside the Sun. Their 
+appearance on the surface provides information about the interior of the 
+Sun that cannot otherwise be observed, such as temperature, density, and 
+rotation speed.  In a similar manner seismic waves from the Earth can 
+tell us about the Earth’s interior.
+
+[5. How do observations of the Sun's surface tell us about conditions in the 
+solar interior?
+The oscillations observed on the solar surface are similar to seismic 
+waves observed on Earth, although they are different in origin. The patterns 
+of the waves are influenced by the internal structure of the Sun. Models 
+of the solar interior predict how the waves should behave; observed 
+waves suggest how the models need to be modified until there is agreement 
+between observations and models. ]
+
+6. Describe how energy generated in the solar core eventually reaches
+the Earth.
+The solar radiation is first produced in the core of the Sun, largely 
+in the form of gamma rays. The gas in the core is totally ionized and
+so the radiation passes through it fairly freely, except for scattering
+off of electrons.  But as we get closer to the surface, the temperature 
+drops, and more and more of the gas is not ionized or only partially 
+ionized. Such a gas is more opaque to radiation. At the outer edge of the 
+radiation zone, all of the radiation has been absorbed by the gas. This 
+heats the gas and it physically rises, while cooler gas from the surface 
+falls. This is the region of convection. The energy is transported by 
+convection to the photosphere. Here, the density of the gas is so low that 
+radiation can freely escape into space, and travel in a straight line to Earth.
+
+7. Why does the Sun appear to have a sharp edge?
+Virtually all the visible radiation we receive from the Sun comes from 
+a thin layer called the photosphere. It is only 500 km thick; a small 
+fraction of the Sun’s radius. The gas below the photosphere is too thick 
+for light to escape, and the gas above is too thin to absorb and emit 
+significant quantities of light.  Light can only escape from this narrow 
+region, so the Sun has a very well-defined edge.  (500 km is small
+compared to the radius of the Sun, 700,000 km.)
+
+8. What is the solar wind?
+Because the corona of the Sun is hot, some of the gas particles are 
+traveling fast enough to escape the gravity of the Sun. The gas is mostly 
+composed of the separated components of ionized hydrogen, protons, and 
+electrons. This flow of high-speed particles away from the Sun is known 
+as the solar wind. The escape of wind particles also depends on the Sun's
+magnetic field structure: the solar wind eminates from "coronal holes"
+where the field lines radiate away instead of looping back to the Sun.
+
+9. Why do we say that the solar cycle is 20 years long?
+Activity in the Sun’s magnetic field creates the cycle of sunspots seen 
+on the Sun.  The solar magnetic field reverses itself every 11 years, so 
+it takes 22 years – two “sunspot cycles” – to go through a single cycle of 
+magnetic reversals. 
+
+10. What is the cause of sunspots, flares and prominences?
+All of these phenomena are caused by activity in the magnetic field 
+of the Sun. Sunspots are caused by kinks or loops of magnetic field 
+extending through the lower atmosphere. These areas of concentrated 
+magnetic field repel hot material trying to rise up from the Sun’s 
+interior, so the section of the Sun underneath the knot cools off and 
+darkens.  Flares, by contrast, are areas where large amounts of energy 
+are released in a short amount of time.  Their origin is mysterious, but 
+they are somehow connected to instabilities in the magnetic field.  
+Prominences are caused by material ejected from the Sun’s surface that 
+follows along huge loops of magnetic field that carry the luminous gas 
+far above the solar surface. 
+
+11. Describe how coronal mass ejections influence life on Earth.
+A coronal mass ejection (CME) is a cloud of ionized gas that travels 
+quickly from the surface of the Sun outward, where it can be mostly 
+deflected by the Earth’s magnetic field. Some of it gets channeled onto
+the poles of the Earth, however, and ionizes the upper atmosphere create
+auroras.  This can produce low frequency EM radiation as well as the
+pretty, visible glow.  It affects radio communications, and
+can induce large currents/surges in electrical power grids, knocking them out. 
+Earth satellites are also vulnerable to the Sun's outbursts (especially
+flares, but also CMEs) because they are not protected by Earth's 
+atmosphere and they have delicate electronics.
+
+12. What fuels the Sun's enormous energy output?
+Sun’s energy output is fueled by nuclear fusion of hydrogen 
+into helium. In the process that takes place in the core of the Sun, 
+4 hydrogen atoms (really just protons) come together and fuse to form 
+a heavier element, helium. In this process, a small amount of mass is 
+“lost.”  That missing mass has been converted into energy.  According to 
+Einstein’s famous equation, E = mc2, a small amount of mass can become a 
+large amount of energy.
+
+13. What are the ingrediants and the end result of the proton-proton
+chain in the Sun?  Why is energy released in the proton-proton chain?
+A total of 6 hydrogen atoms go into the proton-proton chain. What 
+comes out is a helium nucleus, two neutrinos, two positrons (which are 
+quickly annihilated by colliding with electrons), energy in the form of 
+gamma rays, and two hydrogens. Thus, only 4 hydrogen atoms are consumed 
+to make the helium. The mass of helium produced by the nuclear fusion is 
+0.7% less than the mass of the four hydrogens that were fused to make it. 
+This small amount of “lost” mass is converted into energy. The amount of 
+energy is easily calculated from E = mc2.
+
+14. Why are scientists so interested in solar neutrinos?  What is the
+most likely solution to the solar neutrino problem?
+Neutrinos are produced in the proton-proton chain, which occurs in 
+the core of the Sun. The neutrinos pass unimpeded through the Sun at 
+nearly the speed of light. So neutrinos, in a sense, allow astronomers 
+to directly observe the core of the Sun and the processes that occur 
+there, almost as they happen. For a long time, astronomers were puzzled
+because the Sun did not seem to be producing as many neutrinos as 
+predicted.  There were two possible explanations for the low number of 
+solar neutrinos received on Earth: either the Sun was under-producing 
+neutrinos, or something was happening to the neutrinos as they traveled 
+to Earth.  The first possibility was disturbing, as it would likely 
+require the Sun’s core to be cooling by 10%.  But what could alter a 
+neutrino across the void of space?  Recently, we have discovered that 
+there are different kinds of neutrinos, and that they can transform into 
+each other during the trip to Earth through “oscillations.”  By creating 
+neutrino detectors that can detect all different kinds of neutrinos, we 
+have confirmed that the Sun is producing all of the neutrinos we expect 
+it to.
+
+15. What would we observe on Earth if the Sun's internal energy source
+suddenly shut off?  How long do you think it might take - minutes, days,
+years, or millions of years - for the Sun's light to begin to fade? 
+Repeat the question for solar neutrinos.
+Light photons can take millions of years to fight their way out of the 
+thick gasses in the Sun’s interior, while neutrinos fly out in a straight 
+line at almost the speed of light.  Therefore, if we have a means of 
+detecting neutrinos, we would know within minutes (8.3 min) if nuclear 
+fusion in the Sun were to shut down.  If we only relied on visible light, 
+however, it could take a million years before the Sun would start to dim.
+
+
+Mult Choice.
+1. c
+2. b
+3. c
+4. a
+5. a
+6. b
+7. b
+8. c
+9. c
+10. b
+
+---------------------------------------------------------------------
+

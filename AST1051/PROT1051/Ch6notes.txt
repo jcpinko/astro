@@ -1,0 +1,52 @@
+
+Ch. 6 The Solar System
+
+There is a lot of material in this chapter.  It is an overview
+of the solar system.  The goals of the chapter are the same as
+the "Learning Outcomes" on p.135.
+
+I'd like to expand on the topic of "Spacecraft Exploration of
+the Solar System" (p. 146-147), by describing the various 
+types of space missions.
+
+               TYPES OF SPACE MISSIONS:
+1) Flybys - the spacecraft flies close to the body of interest 
+without orbitting it. Some flybys are intended to provide a 
+gravitational assist (via the slingshot effect) onto the next 
+target body.
+Examples: 
+   Voyager I: flew by Jupiter in '79 and Saturn in '80.
+   Voyager II: flew by Jupiter '79, Saturn '81, Uranus '86, Neptune '89.
+   New Horizons flew by Pluto after boost by Jupiter flyby.
+
+2) Orbiters - these manage to attain an orbit around a target
+planet (or other body).  This requires either aerobraking on the
+outskirts of that planet's atmosphere or using jets to slow down.
+Examples:
+   Juno: currently orbiting Jupiter
+   MRO (Mars Reconnaissance Orbiter): currently orbitting Mars
+   Messenger: mission to Mercury lasted 2004-2015
+
+3) Probes - these are usually a part of a larger spacecraft which 
+separates and drops down onto a planet, usually gathering data on
+the atmospheres and/or surfaces of the planet.
+Examples:
+   Cassini-Huygens: the Huygens probe dropped off of the Cassini
+      orbiter onto Saturn's largest moon, Titan.
+   Galileo: entered Jupiter's atmosphere in 1995
+
+4) Landers - unlike probes, landers are designed to survive their
+decent onto the planet and take most of their data from one spot
+on the planet's surface.
+Examples:
+   Venera 13 and 14: these Soviet landers lasted the longest on
+      the harsh surface of Venus (127 minutes and 57 minutes, 
+      respectively)
+   Viking 1 and 2: US landers that samples Mars' soil
+
+5) Rovers - these are also designed to survive their drop onto a
+terrestrial world and then travel around while gathering data.
+Examples: 
+    The rovers placed on Mars by the US include: Pathfinder,
+    Sojourner ('97), Spirit & Opportunity ('04), Curiosity ('12).
+    Perseverance: is planned to touch down on Mars in 2021
