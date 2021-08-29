@@ -1,59 +1,76 @@
 
-Key to Ch. 1 homework 
- Astronomy Today 8Ed
- Probs 4,6,7
- Mult Choice 1-7
+	PHYS 1051/1061 Intro Astronomy
 
-Problems
-4.  Relative to the stars, through how many degrees, arc minutes,
-  or arc seconds deos the Moon move in ...
-   a) 1 hour.
-     You have to know that the Moon goes all the way around the
-     sky in 27.3 days, so 360/27.3 = 13.2 deg/day.  (Or you can
-     build from the fact that the Moon moves its diameter in 1 hour)
-     Both lead to the answer of:   0.5 deg/hr (better 0.55 deg/hr)
-     Also correct: 
-     33 arc minutes per hour, or 1980 arc seconds per hour
-   b) 1 minute
-      Build from the previous answer to get 
-            0.55 deg/hr * 1 hr/60 min * (60 arcmin/deg)
-                                      = 0.55 arcmin/min
-      Also correct: 33 arcsec per minute
-   c) 1 second
-      Build from previous to get
-            0.55 arcsec per second     
-   ) The Moon moves its diameter in about 1 hour.
+Astronomy Today, 9th (and 8th) Ed.
+	
+Week 4.  
+ Ch. 1 Prob 4,6,7
+ Ch. 1 M-C 1-7        (2nd assignment from Ch. 1)
+
+Ch. 1 Problems 
+
+[ NOT ASSIGNED:
+3. Ophiuchus.  Scorpius, Libra, and Sagittarius are also acceptable
+   given the low precision of using Fig 1.15.
+   If Stellarium is set to 10,000 AD, the VE is in Ophiuchus about
+   3.75 degrees from Scorpius.
+   8000yrs/26000 yrs = 0.31 of way around zodiac.  
+                       0.3x12~ 3.6 constellations.
+ ]
+
+4. Relative to the stars, through how many degrees, arc minutes,
+or arcseconds does the Moon move in a) 1 hour, b) 1 minute,
+c) 1 second?  How long does it take for the Moon to move d) its 
+own diameter?
+    The Moon moves at 360/27.3 = 13.2 deg/day relative to the stars.  
+ This converts to a) 0.508 deg/hour, b) 0.0085 deg/min, c) 0.00014 deg/sec.
+    But it's more convenienty to use:
+ a) 0.508 deg/hour, b) 0.508 arcmin/min, c) 0.508 arcsec/sec
+ d) The Moon's angular diameter is 0.518 deg, so .518/.508 = 1.02 hrs.
+
+[ NOT ASSIGNED:
+5 At what distance is an object if its parallax, as measured from
+  either end of a 1000-km baseline, is 
+  a) 1 deg  
+    ANS: D = 1000 km * 360 / 2*pi*1 deg 
+           = 57,296 km (using book equation, assuming curved baseline)
+         D = 57,294 km (using tan f'n, assuming straight baseline)
+    Or let baseline B=LD in my small-angle formula A(deg)=57.3 LD/D.
+    Then 1 deg = 57.3 B/D so D = 57.3 B/1 = 57.3 (1000km) = 57,300 km
+  b) 1'
+    ANS: 3.44x10^6 km  (60x last answer)
+  c) 1"
+    ANS: 2.06x10^8 km  (60x last answer)
+   Using correct def of parallax you get:
+   a) 28,700 km         b) 1,719,000  km    c) 1.03x10^8 km
+  ]
 
 6. Given the angular size of Venus is 55" when the planet is
    45,000,000 km from Earth, calculate Venus's diameter (in km).
-      LD = AD(rad)*Dist
-      LD(km) = AD(")*1rad/206265(")*Dist(km)
-             = 55 * (1/206265) * 45000000
-      LD = Diam_Venus = 12,000. km.
+     A(deg) = 57.3 LD/D 
+     A('') = 206265 LD/D, so (55*D)/206265 = LD = 11999~12000 km.
 
-7. 400 times
+7. The Moon lies 384,000 km from Earth, and the Sun lies
+   150,000,000 km away.  If both have the same angular size as
+   seen from Earth, how many times larger than the Moon is the
+   Sun?
+   Using similar triangles: 
+      150,000,000/384,000 = LD_Sun/LD_Moon= 391 times ~ 400.
+   Or, use the class notes which mention the magic number 400.
 
----------------------Other problems
-
-3) Ophiuchus (close to Scorpius)
-5) Using Ch1's definition of parallax (which is off by 2x), you
-   get:
-   a) 57,300 km         b) 3,440,000 km     c) 2.06x10^8 km
-   Using correct def of parallax you get:
-   a) 28,700 km         b) 1,719,000  km    c) 1.03x10^8 km
------------------------------------------------------------
-
-Multiple Choice
-
-1. b
-2. b 90 deg
-3. D Aquarius
-4. a longer
-5. c waning
-6. a
-7. a or c acceptable.  We could fit more solar eclipses
-   in a 34 day eclipse season, but the eclipse seasons
-   would still be 5.7 months apart.  The book is probably
-   looking for answer c, but since more eclipses could
-   be fit in during the eclipse season the frequency 
-   should be increased but not doubled.
+Chap 1 Multiple Choice
+1. (b)
+2. (b)
+3. (d) (actually, none of the above.  Sun is in Sag and Capric in Jan.)
+4. (a) 
+5. (c) waning phase
+6. (a)
+7. (a) (The book's answer, c, is wrong.  Best answer is a:  if the
+       Moon's speed doubled, it's period would be halved, and the frequency 
+       of new moons would double.  So during the 34day eclipse season
+       the number of solar eclipses would approx double.)
+[NOT ASSIGNED:
+8. (b and/or c)
+9. (a) smaller parallax angle
+10.(d) geometry
+]
