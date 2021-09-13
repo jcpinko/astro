@@ -2,7 +2,7 @@
 	PHYS 1051 Intro Astronomy
 
 Astronomy Today, 9th Ed.
-Chapter 1 Discuss 2,3,5-9/10-13,15     W1-3 assignment.
+Chapter 1 Discuss 2,3,5-9/10-15     W1-3 assignment.
 	
 [1. What does an astronomer mean by "the universe"?
    The universe can be defined as everything: the sum total of
@@ -127,19 +127,21 @@ Chapter 1 Discuss 2,3,5-9/10-13,15     W1-3 assignment.
 13. What is parallax?  Give an everyday example.
     Parallax is the apparent motion or shifting of an object cause by
     the motion or shifting of the observer.  Driving by trees in front
-    mountains.
+    mountains, the trees will appear to shift relative to the mountains.
+    Staring at your thumb with your right eye and then shifting to the
+    left eye, the thumb will "jump" to the right relative to the background.
 
 14. Why is it necessary to have a long baseline when using triangulation
     to measure the distances to objects in space?
-    Because the larger the baseline, the larger an angle is subtenened
+    Because the larger the baseline, the larger the angle that is subtended
     by the object as it appears to move back and forth.  The atmosphere
-    prevents us from seeing  angles smaller than about 1", so the larger
+    prevents us from resolving angles smaller than about 1", so the larger
     the parallax angle, the more clearly we will be able to measure
     the distance to an  object. 
 
 15. To determine the diameter of a far away object, you need to known the
     distance to the object and the angle subtended by the object.
     The diameter is then given by diam = dist X angle  where the angle
-    is in radians (1 radian = 57 degrees.)
+    is measured in radians (1 radian = 57 degrees.)
 
 -------- End of Week 1 assignment ---------------------------------
