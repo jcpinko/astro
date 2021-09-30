@@ -36,7 +36,8 @@ Ch. 4
        the bolt moves on a straight line download and
        southward at 14.3 degrees from the vertical.
     d) the bolt moves on a parabola with a vertical axis
-       of symmetry.
+       of symmetry. It drops N of the axis if its initial
+       velocity (rel to ground) was Northward.
 
 Checking Ch.4 #1, and #22.  
 
