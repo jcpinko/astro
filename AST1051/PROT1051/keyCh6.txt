@@ -191,12 +191,19 @@ flung out to the Oort Cloud.
 15. Describe a possible history of a single comet now
 visible from Earth, starting with its birth in the
 solar nebula somewhere near the orbit of Jupiter.
-  Wellll, comets probably did not form that close to
-the Sun.  But if they did, they would interact with
-Jupiter and could obtain a more eccentric orbit
-which brings them into the inner solar system.  There
-the light and heating of the Sun would create a temporary tail
-behind the comet and make it more visible to those on Earth.
+  Perhaps some comets formed as close as 5 AU from
+the Sun (this is beyond the frost line after all).
+(Others may have formed at much greater distances.)
+A comet that formed close to Jupiter would have its orbit
+altered by Jupiter.  It would likely be given a high
+speed which would give it a large, eccentric, and highly
+inclined orbit, possibly spending most of its time in
+the Oort cloud but occasionally returning to the inner
+solar system.  Earthlings could observe this as a 
+"long-period comet" coming in towards the Sun on a 
+nearly parabolic orbit.  There the light and heating of the 
+Sun would create a temporary tail behind the comet and make 
+it more visible to those on Earth.
 
 [ 15. Galileo and Cassini took such circuitous routes compared to
 Pioneer and Voyager primarily so that they could use gravitational
