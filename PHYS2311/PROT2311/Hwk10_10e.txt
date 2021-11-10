@@ -2,7 +2,8 @@
 P2311 Homework 10
 Serway and Jewett 10th Ed.
 
-Ch. 11 P. 1,3,5,8,9,11,16,17,23,26 
+Ch. 11 P. 1,3,5,[8],9,[11],16,17,[23,26] 
+   [Those in brackets not assigned]
 
 1. i + 8j + 22k
 3. theta = 45 deg
@@ -14,12 +15,12 @@ Ch. 11 P. 1,3,5,8,9,11,16,17,23,26
 11. a) zero
     b) L_1 = (-m(v_i)^3 sin^2 theta cos theta / 2g)   k
     c) L_2 = (-2m(v_i)^3 sin^2 theta cos theta / 2g)   k
-       (note: key is wrong)
+     [note: key is wrong]
     d) F_g exerts a torque in the -z direction (into page).
 16. L = 4.5 kgm^2/s k
 17.  a) L = 0.36 kgm^2/s
      b) L = 0.54 kgm^2/s
-23. a) Mechanical energy is not constant: some chemical potential
+[23.] a) Mechanical energy is not constant: some chemical potential
        energy in the woman's body is transformed into mechanical
        energy.
     b) Momentum is not constant.  The turntable bearing exerts an
@@ -30,9 +31,8 @@ Ch. 11 P. 1,3,5,8,9,11,16,17,23,26
        from torque about the axle.
     d) omega_table=0.360 rad/s (counterclockwise)
     e) Delta K = 99.9 J
-26. a) L=7.2e-3 kg m^2/s
-    b) omega=53.7 rad/s^2
-     [Note: key had omega = 9.47 rad/s, which is wrong.]
+[26.] a) L=7.2e-3 kg m^2/s
+    b) omega=9.47 rad/s
+     [Note: my 1st key had omega = 53.7 rad/s, which was wrong.]
 
-Please check Ch. 11  #17, and #26  
 
