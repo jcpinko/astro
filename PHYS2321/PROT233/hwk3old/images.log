@@ -1,0 +1,376 @@
+This is TeX, Version 3.14159 (Web2C 7.3.1) (format=latex 2002.4.12)  27 MAR 2003 09:22
+**./images.tex
+(./images.tex
+LaTeX2e <2000/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, i
+talian, nohyphenation, loaded.
+
+(/usr/share/texmf/tex/latex/base/book.cls
+Document Class: book 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/bk10.clo
+File: bk10.clo 2000/05/19 v1.4b Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 1999/09/10 v1.1b Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 1999/02/16 v1.0l Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/share/texmf/tex/latex/config/graphics.cfg)
+Package graphics Info: Driver file: dvips.def on input line 80.
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+(/usr/share/texmf/tex/latex/config/color.cfg)
+Package color Info: Driver file: dvips.def on input line 125.
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)) (/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2000/07/01 v0.996 Input encoding file 
+)
+\sizebox=\box26
+\lthtmlwrite=\write3
+(images.aux)
+\openout1 = `images.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+
+latex2htmlLength hsize=349.0pt
+
+latex2htmlLength vsize=713.33864pt
+
+latex2htmlLength hoffset=0.0pt
+
+latex2htmlLength voffset=0.0pt
+
+latex2htmlLength topmargin=0.0pt
+
+latex2htmlLength topskip=0.00003pt
+
+latex2htmlLength headheight=0.0pt
+
+latex2htmlLength headsep=0.0pt
+
+latex2htmlLength parskip=0.0pt plus 1.0pt
+
+latex2htmlLength oddsidemargin=14.45377pt
+
+latex2htmlLength evensidemargin=-7.22743pt
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 143.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 143.
+l2hSize :tex2html_wrap_inline159:9.67221pt::0.0pt::43.73593pt.
+[1
+
+
+
+]
+l2hSize :tex2html_wrap_inline161:10.17221pt::10.17221pt::91.65265pt.
+[2
+
+
+]
+l2hSize :tex2html_wrap_inline163:9.81749pt::9.81749pt::142.20825pt.
+[3
+
+
+]
+l2hSize :tex2html_wrap_inline165:9.81749pt::9.81749pt::206.13892pt.
+[4
+
+
+]
+l2hSize :tex2html_wrap_inline167:10.08334pt::10.08334pt::217.2083pt.
+[5
+
+
+]
+l2hSize :tex2html_wrap_inline169:7.33331pt::7.33331pt::35.0277pt.
+[6
+
+
+]
+l2hSize :tex2html_wrap_inline171:6.83331pt::0.0pt::7.72226pt.
+[7
+
+
+]
+l2hSize :tex2html_wrap_inline173:6.95831pt::6.95831pt::5.32294pt.
+[8
+
+
+]
+l2hSize :displaymath175:25.26462pt::0.0pt::349.0pt.
+[9
+
+
+]
+l2hSize :tex2html_wrap_inline177:8.64003pt::8.64003pt::43.31961pt.
+[10
+
+
+]
+l2hSize :tex2html_wrap_inline179:8.64003pt::8.64003pt::43.31961pt.
+[11
+
+
+]
+l2hSize :tex2html_wrap_inline181:7.33331pt::7.33331pt::43.83333pt.
+[12
+
+
+]
+l2hSize :tex2html_wrap_inline183:6.45831pt::0.0pt::3.27782pt.
+[13
+
+
+]
+l2hSize :tex2html_wrap_inline185:8.14003pt::0.0pt::4.98616pt.
+[14
+
+
+]
+l2hSize :tex2html_wrap_inline187:8.64003pt::8.64003pt::115.21053pt.
+[15
+
+
+]
+l2hSize :tex2html_wrap_inline191:6.95831pt::6.95831pt::11.43756pt.
+[16
+
+
+]
+l2hSize :tex2html_wrap_inline193:6.95831pt::6.95831pt::46.81584pt.
+[17
+
+
+]
+l2hSize :tex2html_wrap_inline195:8.64003pt::8.64003pt::113.1075pt.
+[18
+
+
+]
+l2hSize :tex2html_wrap_inline197:7.33331pt::7.33331pt::8.40558pt.
+[19
+
+
+]
+l2hSize :tex2html_wrap_inline199:6.95831pt::6.95831pt::9.23848pt.
+[20
+
+
+]
+l2hSize :tex2html_wrap_inline201:7.33331pt::7.33331pt::53.63692pt.
+[21
+
+
+]
+l2hSize :displaymath153:14.5pt::0.0pt::349.0pt.
+[22
+
+
+]
+l2hSize :tex2html_wrap_inline203:6.83331pt::0.0pt::44.28125pt.
+[23
+
+
+]
+l2hSize :tex2html_wrap_inline205:7.33331pt::7.33331pt::26.29277pt.
+[24
+
+
+]
+l2hSize :displaymath154:23.6424pt::0.0pt::349.0pt.
+[25
+
+
+]
+l2hSize :tex2html_wrap_inline207:8.0pt::8.0pt::79.11108pt.
+[26
+
+
+]
+l2hSize :tex2html_wrap_inline209:7.51782pt::0.0pt::9.13895pt.
+[27
+
+
+]
+l2hSize :displaymath155:14.86108pt::0.0pt::349.0pt.
+[28
+
+
+]
+l2hSize :tex2html_wrap_inline211:7.33331pt::7.33331pt::19.47925pt.
+[29
+
+
+]
+l2hSize :tex2html_wrap_inline213:6.94444pt::0.0pt::44.46873pt.
+[30
+
+
+]
+l2hSize :displaymath215:25.26462pt::0.0pt::349.0pt.
+[31
+
+
+]
+l2hSize :tex2html_wrap_inline217:8.0pt::8.0pt::42.0138pt.
+[32
+
+
+]
+l2hSize :tex2html_wrap_inline219:6.45831pt::0.0pt::6.57294pt.
+[33
+
+
+]
+l2hSize :tex2html_wrap_inline221:8.0pt::8.0pt::88.0346pt.
+[34
+
+
+]
+l2hSize :displaymath223:22.95789pt::0.0pt::349.0pt.
+[35
+
+
+]
+l2hSize :tex2html_wrap_inline225:6.45831pt::0.0pt::9.28017pt.
+[36
+
+
+]
+l2hSize :tex2html_wrap_inline227:6.95831pt::6.95831pt::9.83339pt.
+[37
+
+
+]
+l2hSize :tex2html_wrap_inline229:6.45831pt::0.0pt::5.70604pt.
+[38
+
+
+]
+l2hSize :tex2html_wrap_inline231:6.45831pt::0.0pt::6.2153pt.
+[39
+
+
+]
+l2hSize :tex2html_wrap_inline233:8.64003pt::8.64003pt::61.44084pt.
+[40
+
+
+]
+l2hSize :tex2html_wrap_inline235:6.45831pt::0.0pt::24.03928pt.
+[41
+
+
+]
+l2hSize :tex2html_wrap_inline237:6.45831pt::0.0pt::5.78592pt.
+[42
+
+
+]
+l2hSize :tex2html_wrap_inline239:8.0pt::8.0pt::41.93646pt.
+[43
+
+
+]
+l2hSize :displaymath243:22.76462pt::0.0pt::349.0pt.
+[44
+
+
+]
+l2hSize :tex2html_wrap_inline245:8.94843pt::8.94843pt::25.35843pt.
+[45
+
+
+]
+l2hSize :tex2html_wrap_inline247:7.33331pt::7.33331pt::13.47922pt.
+[46
+
+
+]
+l2hSize :displaymath249:21.4579pt::0.0pt::349.0pt.
+[47
+
+
+]
+l2hSize :tex2html_wrap_inline253:8.64003pt::8.64003pt::106.88884pt.
+[48
+
+
+]
+l2hSize :tex2html_wrap_inline255:8.64003pt::8.64003pt::104.11105pt.
+[49
+
+
+]
+l2hSize :displaymath257:25.26462pt::0.0pt::349.0pt.
+[50
+
+
+]
+l2hSize :tex2html_wrap_inline259:8.64003pt::8.64003pt::61.09836pt.
+[51
+
+
+]
+l2hSize :tex2html_wrap_inline263:6.45831pt::0.0pt::5.2894pt.
+[52
+
+
+]
+l2hSize :displaymath265:26.84395pt::0.0pt::349.0pt.
+[53
+
+
+]
+l2hSize :tex2html_wrap_inline267:8.64003pt::8.64003pt::62.90282pt.
+[54
+
+
+] (images.aux) ) 
+Here is how much of TeX's memory you used:
+ 803 strings out of 20887
+ 9739 string characters out of 196274
+ 54100 words of memory out of 350001
+ 3796 multiletter control sequences out of 10000+15000
+ 3640 words of font info for 14 fonts, out of 400000 for 1000
+ 14 hyphenation exceptions out of 10000
+ 25i,5n,19p,213b,223s stack positions out of 3000i,100n,1500p,50000b,4000s
+
+Output written on images.dvi (54 pages, 14532 bytes).
