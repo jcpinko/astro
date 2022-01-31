@@ -1,0 +1,59 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 2 (Ch. 3)
+
+Assigned:
+Problems 
+Ch. 3 P 25,28,31,35,39,40,45,49,56,58,59,66,69,72
+      Concept.Qs:  2,9,14
+
+25. a) x_1 = -2.0m i, x_2=5.0m i
+    b) 7.0 m east
+28. a) final Delta x = 32.8 km
+    b) v_avg = Delta x / Delta t = 32.8 km/68 min
+                                 = 0.48 km/min or 29 km/hr
+31. [requires graph of V vs t which has 
+    plateaus of v = 10, -30, -10, 2, 15 m/s ]
+35. a) v(t)=(10-4t) m/s  v(2s) = 2 m/s
+       v(3s) = -2 m/s
+    b) |v(2s)|=2 m/s
+       |v(3s)|=2 m/s
+    c) v_avg = 0 m/s
+39. [requires graph of a vs t which has
+    plateaus of a=0.3,-0.1, 0, 0.1, -0.6 m/s^2 ]
+40. a) t = 1.43 sec
+    b) a = 2.5 m/s^2  (-2.5 is ok)
+45.a) 525 m     b) v=180 m/s
+49. a) -1.3 m/s^2
+    b) v_0 = 18 m/s
+    c) t=13.8 s
+56. 0.800 sec
+58. a) v_f = 28.0 m/s
+    b) Delta t = 50.9 sec
+59. a) a=8450 m/s^2
+    b) t=6.67 x 10^-3 sec
+66. a) y = 6.28 m, v_f=10.1 m/s
+    b) y=10.1 m,  v_f=5.2 m/s
+    c) y=11.5 m,  v_f=0.3 m/s
+    d) y=10.4 m,  v_f=-4.6 m/s
+69. a) a=-9.8 m/s^2  v_0=-1.4 m/s  t=1.8 s  y_0=0 m
+    b) y=y_0+v_0t -1/2 gt^2
+       y=v_0t-1/2 gt = -1.4m/s(1.8s)-1/2(9.8)(1.8s)^2
+                     =-18.4 m
+       and the origin is at the rescuers who are 
+       18.4 m above the water.
+72. a) y_i = 8.26 m
+    b) t_f = -b+-sqrt(b^2-4ac)/ 2a
+           = -0.82+- 1.53   (use only + root)
+           = 0.71 sec
+
+Concept Qs:
+2. When is d = |Delta x| ?
+   Ans: when the journey has no reversals (no change of direction)
+9. Average speed. They are all the same if the car doesn't
+   reverse direciton.
+14.  Acceleration is to the right, or positive. 
+
+Check
+#40 and 59
