@@ -1,0 +1,54 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 4 (Ch. 4,5)
+
+Assigned:
+Problems 
+Ch. 4 P 61,62,63,66,69,71, 77
+Ch. 5 P 19,20,22,24,25 Concpt.Q. 2
+
+61. 40 m/s^2
+62. 215 m/s^2
+63. 10.6 rpm
+66. (Need R_Earth=6378 km.) v = 7.9 km/s or 7900 m/s
+69. a) r=4ti +3tj +5tk m
+    b) r(t)=r'(t) + v_s,s'*t  
+    c) v(t)=v'(t) + v_s,s'   = v'(t)+(4i+3j+5k) m/s
+    d) a(t) = a'(t)   (The two inertial frames of reference, S and S',
+        see the same acceleration.)
+71. v_PC = v_PB + v_BC = (2i+3j+4k) + 2j
+                       = 2i+5j+4k  m/s
+
+Ch 5 Conceptual Questions
+  2. Consider any reference frame that is moving at a
+     constant velocity relative to the Earth's surface to
+     be an "inertial reference frame".  (We're assuming that the
+     Earth's surface is not accelerating, which is not true, but at 
+     least the acceleration is very low.)
+     a) inertial
+     b) non-inertial
+     c) non-inertial
+     d) non-inertial
+     e) inertial
+
+Ch 5 Problems
+  19. a) Fnet = 5.0i+10.0j N
+      b) Fnet = 11 at 63 degrees
+  20. a) Fnet = F1 + F2 + F3 = (300-200)i + (500-800)j
+           = 100 i - 300 j N
+      b) magnitude and direction: 316. N at -71.6 degrees
+  22. F3 = - ( F1 +F2 )
+         = - ( 225/sqrt(2) i  -225/sqrt(2) j ) 
+         = - ( 159 i - 159 j) 
+         = -159 i + 159 j N
+  24. Fnet = ma = 63.0kg * 4.200 m/s^2 
+             Fnet = 265 N
+  25.  Find v_f = 12.96 m/s using v_f^2 = 2a(x_f-x_i).
+       Then find time during accel = 3.09 sec. 
+           Use t=d/v_avg with vavg=(0+v_f)/2. Or use x = 1/2 at^2
+       The find time @ constat vel = 6.17 sec.   (use t = d/v )
+          Total time = 9.26 sec
+
+Check
+#62 and #71.

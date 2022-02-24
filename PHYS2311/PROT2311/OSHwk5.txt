@@ -1,0 +1,51 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 5 (Ch. 5)
+
+Assigned:
+Problems 
+Ch. 5 P 29, 30, 31, 39, 40, 41, 42, 43, 46, 52, 53, 67
+
+Ch 5 Problems
+  29. Rocket sled.  F_net = ma = 4.12x10^5 N
+  30. a) a = 11.1 m/s^2
+      b) a_4 = 45.4 m/s^2 
+  31. a = -253 m/s^2 i or +253 m/s^2 "opposite to the motion of
+      the rocket sled".
+  39. a = 1.6 i -0.8 j m/s^2
+  40. a = 5.6 i + 0 j m/s^2
+  41. a) W_on_earth = 1467 N ~ 1500 N
+      b) m = 150 kg on Earth or Moon
+  42. a) a = 30000/10000 = 3 m/s^2
+      b) No because Fg = 98,000 N > F_thrusters
+  43. a) Fh/Fw = 5.00 times
+      b) |Fnet| = 3750 N
+          angle = 11.3 deg from horizontal
+          w = 19.6 N
+  46. F_engine = 4534 N
+      Steps to solve:   1) Find m_car = W/g
+                        2) Find a = Delta v / Delta t
+                        3) Find F_net = ma
+                        4) Find F_engine = Fnet + f_friction
+  52. a) friction = 692 N opposite the direction of acceleration
+      b) F_feet = 932 N opposite the direciton of acceleration
+  53. Given W_H = 14 N and W_P = 18 N. 
+      F on History book = Fg + F_PH 
+                        = W_H + F_PH = 0
+                   F_PH = 14 N down  "PH"=Physics on History
+      By Newton's 3rd: F_HP = 14 N up
+      F on Physics book = Fg + F_DP + F_HP    "HP"=History on Physics
+                        = W_P down + F_DP up + W_H down = 0
+             So    F_DP = W_P + W_H = 14 + 18 = 32 N
+      In summary: 
+             F_PH = 14 j N
+             F_EP = -18 j    "EP" = Earth on Physics book
+             F_HP = -14 j
+             F_DP =  32 j           Desk on Physics book
+      
+  67. a) a = g sin 30 = 4.9 m/s^2
+      b) F_2 = mg sin 30 = 9.8
+
+Check
+#40 and #67.
