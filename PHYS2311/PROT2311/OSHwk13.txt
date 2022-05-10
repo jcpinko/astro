@@ -1,0 +1,77 @@
+
+University Physics (OpenStax) Vol 2, 2021
+
+P2311 Homework 13 (Ch. 2-3 - Kinetic Theory and 1st Law)
+
+Assigned:
+Problems 
+Ch. 2 Prob: 18,21,23,34,35,37,39,42,49,58,59
+Ch. 3 Prob: 22,23,39,41,42,45,54,57,59,61,64
+
+18. Use P'/P = T'/T   (Gay-Lussac Law)
+    And Pg = Pabs - Patm  = 1.65e+5 Pa
+21. a) Use nM = m.   n=0.00179 mol
+    b) n = 0.23 mol
+    c) N_N2 = 1.08e+21 molecules,  N_CO2 = 1.37e+23
+23. Use n = PV/RT,   n = 0.078 mol
+34. a) Use Pabs = nRT/V.  Pg = Pabs-Patm = 196,166 N/m^2
+    b) Use n = PV/RT = 0 .041 mol.
+       Pg= 199,550 N/m^2
+35. a) F_avg = Dp/Dt = 0.608 N
+    b) P_avg = Favg/A = 0.203 N/m^2
+37. vavg =  5.88  m/s
+    vrms = 5.891  m/s
+39. vrms = sqrt (3 K_B T/ m)  =  177 m/s
+42. Use K_tot = N 3/2 k_B T  and PV=NK_B T
+    K_tot = 3.28e+6 J
+    No.
+49. Use 3/2 K_B T = 1/2 m vrms^2   and m = M/N_A
+    T = 3218 K
+58. a) Use Q = nC_V T  with C_V=5/2 R
+       Q = 249.3 J
+    b) C_V = 3/2 R.   Q = 150. J
+59.  Use Q = n C_V DT  with C_V = f/2 R
+    Solve for f to find f=6 --> polyatomic gas
+     
+
+Ch. 3 
+22. Use W = P DV   with DV = 2 x 10^-3 m^3
+    W = 404 J
+23. Use W = nRT ln(Vf/Vi)   (isothermal)
+    T = 74.8 K
+39. Use Q = DE_int + W = 80+500 = 580 J
+41. Use Q = DE_int + W
+    a) Q_ADB = 600 J
+    b) Q_ACD = 600 J
+    c) Q_ADC = 800 J
+42. Use W = P DV   (isobaric)
+    dE_int = Q-W = 1600 J
+45. a) Q_BC = 20 J
+    b) Q_CDA = -90 J   (Book Soln says +90 J, but
+       it isn't clear whether "How much heat does
+       it exchange" means Q, the heat added.)
+54. a) Draw cycle   1-2 isothermal expansion
+                    2-3 isovolumetric cooling
+                    3-4 isothermal compresison
+                    4-1 isovolumetric heating
+    b) W_1-2 = nRT ln(2) = 17329 J
+       W_2-3 = 0  W_4-1 = 0 
+       W_3-4 = -6931 J
+       W_cycle =  17329-6931 = 10398 J
+57. a) Q_AB = 700 J
+    b) W_CA = 500 J 
+59. a) W_ext = -W_by = nRT ln(Vf/Vi)
+       W_ext = -3433 J
+    b) Q = 3433 J added
+61. Use DE_int = nC_V DT
+    DE_int = 99.7 J
+64. Use E_int = nC_V T  and T=PV/nR  and C_V=3R for CO_2
+    E_int = 7579.
+    (Actual C_V=28.5 for CO_2, giving E_int = 8664 J)
+
+
+Check
+
+         -1/2 pt for any conceptual question missing.
+         -1/2 pt for 2-4 problems with no work
+         -1 pt for >4 problems with no work.
