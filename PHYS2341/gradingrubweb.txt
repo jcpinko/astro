@@ -1,0 +1,65 @@
+
+Lab Report Grading Rubric for PHYSICS I and PHYSICS II Labs           
+
+       	Dr. Pinkney 2022
+        Class web page: https://jpastro.net/PHYS2341/syll-Phys2341.html
+
+Start with a score of +10 pts, and then deduct points as follows:
+
+  Part of lab                               Maximum deduction
+-------------------------------------------------------------------------
+Prelab .................................... -3 pts
+       - deduct  -3 if missing completely
+       - deduct 0.5 to 1 pts per wrong/missing question or task
+       - If the pre-lab was done but after the start of lab,
+         deduct 0.5 to 1 pts depending on how much was done on time.
+Postlab questions in the lab manual........ -3 pts (correct & complete)
+       - deduct  -3 if missing completely
+Discussion & Conclusion ................... -3 pt  
+       - This section should mainly be about how well your results
+         agree with theory.  This means you compare the difference
+         between measurement and theory with the size of the errors.
+         The problem might be that your measurement errors are underestimated.
+         So you should discuss how reasonable the errors are.
+	 More importantly, you should use your imagination to assess possible
+         systematic errors that may have influenced your results.
+         You can also suggest better ways to do the measurements.
+         If you only talk about how much you liked/disliked the lab 
+         and nothing about the veracity of their results, deduct at least -1.
+       - deduct 1/2 if you appeal to "human error".  There are measurement
+         errors (which human frailties sometimes influence), and there are
+         just plain mistakes (which should be fixed during lab).
+       - deduct -3 if missing completely
+       - deduct 1/2 to 1 if you make a conclusion that contradicts all evidence
+Postlab questions ........................  (variable pts)
+       - deduct about -1 (depending on how many questions) for each clearly 
+         wrong answer.
+       - deduct a little (0.5 pt) if your writing is unclear
+         and/or you give very vague answers.
+Sample calculation (when needed) .......... -1 pts
+Title of lab .............................. -0.5 pts
+Name of partner(s) ........................ -0.5 pts
+Purpose of experiment ..................... -0.5 pts
+Line drawing of apparatus (when needed).... -0.5 pts
+Missing units.............................. -1 pts
+       - especially on final answers and the sample calc.
+       - We'll be lenient on units missing on lines leading up to 
+         the final answer.
+       - Don't forget to label your axes (including units) on graphs 
+Messiness ................................. -1 pts
+       - if grader has trouble reading your writing and finding the 
+	 required information, deduct -1
+       - just give a warning on the first labs
+Laziness/not fixing problems .............. -1 pts
+       - if they did something completely wrong in the
+         procedure, they should try to redo the experiment 
+         and not appeal to "human error".  This is very 
+         serious in real science, but sometimes they run 
+         out of time, so its only -1 max.
+
+Maximum deductions for entire lab ............. -7 pts
+       - grader should stop taking off points when they reach -7 pts
+       - the only way you can get <3 is to not do the
+         lab at all.  (There should be a difference
+         between not doing the lab at all and doing it
+         badly. And that's 3 points.)
