@@ -2,7 +2,8 @@
 	PHYS 1051 Intro Astronomy
 
 Astronomy Today, 9th Ed.
-Chapter 1 Discuss 2,3,5-9/10-15     W1-3 assignment.
+
+Chapter 1 Discussion 2-9    Due on week 2
 	
 [1. What does an astronomer mean by "the universe"?
    The universe can be defined as everything: the sum total of
@@ -15,6 +16,8 @@ Chapter 1 Discuss 2,3,5-9/10-15     W1-3 assignment.
    can only see to a finite distance.  
    Later, we will discuss "inflation" theory which suggests that even
    our own bubble universe is mostly beyond the reach of observations.]
+
+  --------------------------------------------
 
 2. Compare the size of the Earth with that of the Sun, Milky Way
    Galaxy and the entire Universe.
@@ -72,9 +75,10 @@ Chapter 1 Discuss 2,3,5-9/10-15     W1-3 assignment.
 
 7. Why do we see different stars at different times of the year?
    It helps to choose a time to explain this, so consider looking at
-   the sky at midnight.  If you look straight up, then you are looking roughly
-   along a line from the Sun that goes through the Earth and points to
-   the stars above you.  As the Earth revolves around the Sun, that line  
+   the sky at midnight.  If you look at the intersection of the ecliptic
+   with the meridian (that is above your southern horizon), then you are looking 
+   roughly along a line from the Sun that goes through the Earth and points to
+   the stars in front of you.  As the Earth revolves around the Sun, that line  
    points to different constellations.  Thus, you see different stars at
    midnight on different dates.  Similarly, the Sun is superimposed
    upon different zodiacal constellations throughout the year (you just can't
@@ -91,14 +95,19 @@ Chapter 1 Discuss 2,3,5-9/10-15     W1-3 assignment.
 
 9. Why are there seasons on Earth?
    There are seasons on Earth because the rotation axis of Earth 
-   is tilted with respect to the normal to the ecliptic plane. This
-   tilt means that a given location on Earth receives different angles
+   is tilted 23.5 degrees with respect to the normal to the ecliptic plane. 
+   This tilt means that a given location on Earth receives different angles
    and intensities of sunlight over the course of Earth's orbit.  When
    it is summer at your location, the Sun is almost directly overhead
    at noon.  Therefore, the rays of the Sun's light strike the ground
    at nearly a 90 degree angle and is very concentrated. In winter,  
    however, the Sun never gets very high, even at noon, and the sunlight
    is more diffuse on the ground. 
+   Besides the changing directness of the Sun's rays, there is also the changing
+   length of daylight hours.  During the summer, the Sun is above the
+   horizon over 12 hours, while during winter, the Sun is up less than 12 hours.
+ 
+-------------------------------------------
 
 10. How much of the Moon's surface is lit by the Sun at any one time?
    Why do we see different phases of the Moon?
