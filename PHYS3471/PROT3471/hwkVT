@@ -1,0 +1,44 @@
+
+Three Virial Theorem problems
+-------------------------------
+
+1. Find <U>, <K>, and E_tot (in that order) for the Earth-Sun system.
+
+2. Find Umin, Umax, Kmin, and Kmax for the Earth-Sun system if eccentricity, 
+   e=0.5.
+
+3. Find the mass of a globular cluster with a core radius of 2 pc and a 
+   line of sight velocity dispersion (sigma_r) of 10 km/s.
+     a) assume the core radius = Rg
+     b) assume that 4x the core radius = Rg
+
+
+Points:
+1. 2pts
+2. 2pts
+3. 2pts
+-----------------------------------------------------
+
+
+1. Start by finding <U> using -GM_s*M_e/r_AU
+   <U> = -5.3x10^33 J
+   Then find the others using VT relations:
+   <K> = -<U>/2
+   <K> = 2.65x10^33 J
+   E_tot = -<K> or <U>/2 =  -2.65x10^33 J
+
+2. Umin = -GMmu/r_p with r_p=7.5x10^10 m
+   Umin = -1.06x10^34 J
+   Umax = -GMmu/r_a with r_a=2.2x10^11 m
+   Umax = -3.53x10^33 J
+   Kmin = Etot-Umax  =  8.8 x 10^32
+   or Kmin = <k>(1-e/1+e) = 8.83 x 10^32  J
+   Kmax = Etot-Umin  =  7.95 x 10^33
+   or Kmax = <k>(1+e/1-e) = 7.95 x 10^33  J
+
+3 Supposed to use M = 3 Rg sig^2 / G
+  a) 1.4x10^5 M_sun  = 2.8x10^35 kg  
+  b) 5.6x10^5  M_sun  = 1.12x10^36 kg
+  May have used M = 5 R sig^2 / G    (not as good) 
+  a) 2.3x10^5 M_sun  
+  b) 9.3x10^5 M_sun  
