@@ -1,0 +1,32 @@
+Giancoli 5th Ed.
+
+Hwk 7  (Due 10/14/22)        5 point hwk
+Ch. 26 P. 1,2,5,7,12,17,31
+
+Ch. 26  Problems: 
+1. a) Vab=5.91 V
+   b) Vab=5.99 V
+2. Vab = 4(emf - Ir) = IR
+      r = [emf - (IR/4)h]/I  = 0.2 ohm
+5. V=IR_2  where I=emf/(R_1+R_2)
+   V=8.6 V
+7. R_eq = (5/100)^{-1} = 20 ohms = n(10 ohms) 
+   so n=2
+12. a) V = IR = (Vtot/8R)R = Vtot/8 = 120 / 8 = 15 V
+    b) R=V_tot/8I = 23 ohms  and P=I^2R =9.8 W
+17. a) R_eq = 588 ohms
+    b) I_tot = V/R_eq = .0851 A
+       I = .0624 A through left-most vertical resistor
+31. Use loop rules and junction rule to
+    find I1=-0.8026 A
+         I2=2.308 A
+         I3=1.506 A
+    a) V_ad = -27 V
+    b) V_term = 83 V
+       V_term = 43 V
+
+
+Please check   Tot= 5 pts
+Prob.  12
+
+
