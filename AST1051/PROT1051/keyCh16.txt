@@ -84,8 +84,10 @@ a thin layer called the photosphere. It is only 500 km thick; a small
 fraction of the Sun’s radius. The gas below the photosphere is too thick 
 for light to escape, and the gas above is too thin to absorb and emit 
 significant quantities of light.  Light can only escape from this narrow 
-region, so the Sun has a very well-defined edge.  (500 km is small
-compared to the radius of the Sun, 700,000 km.)
+region, so the Sun appears to have a very well-defined edge as seen
+from the Earth.  (500 km is small compared to the radius of the Sun, 
+700,000 km.)  If it was viewed from a distance of 1000 miles, the
+surface would not appear so sharp.
 
 8. What is the solar wind?
 Because the corona of the Sun is hot, some of the gas particles are 
@@ -96,7 +98,7 @@ as the solar wind. The escape of wind particles also depends on the Sun's
 magnetic field structure: the solar wind eminates from "coronal holes"
 where the field lines radiate away instead of looping back to the Sun.
 
-9. Why do we say that the solar cycle is 20 years long?
+9. Why do we say that the solar cycle is 22 years long?
 Activity in the Sun’s magnetic field creates the cycle of sunspots seen 
 on the Sun.  The solar magnetic field reverses itself every 11 years, so 
 it takes 22 years – two “sunspot cycles” – to go through a single cycle of 
@@ -119,7 +121,7 @@ far above the solar surface.
 A coronal mass ejection (CME) is a cloud of ionized gas that travels 
 quickly from the surface of the Sun outward, where it can be mostly 
 deflected by the Earth’s magnetic field. Some of it gets channeled onto
-the poles of the Earth, however, and ionizes the upper atmosphere create
+the poles of the Earth, however, and ionizes the upper atmosphere creating
 auroras.  This can produce low frequency EM radiation as well as the
 pretty, visible glow.  It affects radio communications, and
 can induce large currents/surges in electrical power grids, knocking them out. 
