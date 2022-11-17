@@ -1,0 +1,46 @@
+Giancoli 5th Ed.
+
+Hwk 10  (Due 11/4/22)        10 point hwk
+Ch. 29 P. 1,2,3,7,9,10,13,23,25,32,33,55
+       MiscQ. 1-9 (all)
+
+Problems: 
+1. emf = -N dI_B/dt = -N (Delta I_B/ Delta t)
+       = -550 Wb
+2. induced current is counterclockwise
+3. emf_avg = -(Delta I_B/ Delta t) = 0.16 V
+7. induced current is counterclockwise
+9. a) by Lenz's law, the induced current is clockwise
+   b) |emf_avg| = B(Delta A)/(Delta t) = emf_avg = 3.4e-2 V
+   c) I_avg = emf/R = 1.4e-2 A
+10. F = IlB = (emf/R)lB = (Blv/R)lB = B^2l^2v/R = 0.704 N
+13. a) emf = -N(dI_B/dt) = (-7.2+1.1t^2)V
+    b) emf(t=1s) = -6.1 V
+       emf(t=4s) = 11V
+23. v = emf/Bl = 0.85 m/s
+25. a) emf = Blv = 0.17 V
+    b) I = emf/R = 6.3mA
+    c) F = IlB = 6.7e-4 N to the right
+32. emf_peak = NBwA so N=emf_peak/BwA = 63.2 loops
+33. emf_1/w_1 = emf_2/w_2
+    So emf_2 = emf_1(w_2/w_1) = 26.2 V
+55. E = -r/2 (dB/dt)  and F=qE
+    so F = -q(r/2)(dB/dt) = 5.0e-9 N
+
+MiscQ.
+1. b,d
+2. c
+3. d
+4. c,b
+5. c
+6. c
+7. b
+8. b
+9. c
+
+
+Please check   Tot= 10 pts
+Prob.  10,13  (1pt,2pts)
+MiscQ. 6-9   (0.5 pt each)
+
+
