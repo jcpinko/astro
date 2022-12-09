@@ -27,10 +27,10 @@ generating internal heat to drive activity. The outer moons could not
 suffer this disruption, and so have mostly solid interiors and little to 
 no surface activity to modify craters.
 
-14) Why is there speculation that the Galilean oon Europa might be an
+14) Why is there speculation that the Galilean moon Europa might be an
 abode for life?
 	Europa appears to be filled with an “ocean” of liquid water 
-beneath the icy crust. If this is true, its ocean might be suitable 
+beneath the thin icy crust. If this is true, its ocean might be suitable 
 for supporting life.
 
 Ch. 12
@@ -149,18 +149,24 @@ not move in Titania’s sky.]
 9) How does Neptune's moon system differ from those of the other
 Jovian worlds?  What do these differences suggest about the origin
 of Neptune's moon system?
-Neptune has an atypical moon system.  Triton, the largest,
+The textbook says that Neptune has "no regular moons" (those
+with circular orbits coplanar with the planet's equator), but
+it actually has 6 regular moons.  So that makes it SIMILAR to
+other Jovian worlds.
+Neptune's moons still have some unique traits. Triton, the largest,
 has an orbit very unlike the orbits of the other large moons
 in the solar system;  it is a retrograde orbit and it is tilted
 20 degrees relative to Neptune's equator.  So Triton either
 had its orbit altered by a collision or is a captured body.
+It is expected to spiral in towards Neptune and crumble into a ring.
 Nereid has a highly elliptical orbit, suggesting that it too
 may have been captured.  Most of the other moons are very
 small;  Proteus is the only moon that can be considered
-"medium-sized".
+"medium-sized".  Shephard moons probably exist near the thin
+rings, but have not all been detected.
 
 10) What causes Triton's geysers?
-Triton is typically cold enough to have nitrogen in the 
+Triton is typically cold enough (<77K) to have nitrogen in the 
 liquid or even frozen form. However, even a little bit of 
 extra heat – from internal heat left-over from Triton’s 
 past, or simply from the light of the Sun – will cause 

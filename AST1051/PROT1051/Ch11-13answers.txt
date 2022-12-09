@@ -23,7 +23,7 @@ Ch. 11
    its energy?
 	The Great Red Spot is a large, elongated, rotating cloud
 feature located in the southern hemisphere of Jupiter below its
-S. tropical belt.  It rotates CCW in the S. hemisphere making it
+S. equatorial belt.  It rotates CCW in the S. hemisphere making it
 an anticyclone, unlike a hurricane (which rotates in the same 
 sense as the parent planet).  So it is more like a high pressure
 dome than a low pressure hole.  It is sandwiched between a eastward 
@@ -31,7 +31,8 @@ moving belt to the north and a westward moving zone to the south.
 The calm center compared to rapid edges of the spot suggest that
 it may be sustained and powered by the surrounding zonal flow.
 However, the powering of the GRS is not considered a solved
-problem.
+problem.  Juno determined its depth to be about 350 km - quite
+shallow compared to its ~15,000 km diameter.
 
 6) Why has Jupiter retained most of its original atmosphere?
 	The surface gravity is so great that not even the lightest
