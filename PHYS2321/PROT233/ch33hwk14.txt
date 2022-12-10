@@ -1,0 +1,46 @@
+Giancoli 5th Ed.
+
+Hwk 14  (Due 12/9/22)        10 point hwk
+Ch. 32 P. 1,2,5,6,10,16
+    MiscQ. 1-8 all 
+
+Problems: 
+1. (a) do = 630 mm
+   (b) do = 635 mm
+2. (a) converging lens
+   (b) P = 1/f = 6.06 Diopters
+5. (a) di = 106 mm
+   (b) di = 109 mm
+   (c) di = 117 mmm
+   (d) Use 1/do,min + 1/di,max = 1/f with di,max=132mm
+       do,min = 513 mm (.513 m)
+6. (a) di = -32 cm
+         Image is on front side of lens (same as stamp).
+   (b) m=-di/do = +2.15 x
+10. (a) real image implies f > 0, di>0, and M<0.
+        So di=-mdo = 2.5do. 
+        do = 105 mm
+    (b) do = 45 mm
+16. (a) do = 0.105 m
+    hi = m*ho = (-di/do)*ho = 5118 mm, or 5.1 m.
+    (b) The image is unchanged, but the image
+        distance for the 2nd lens has changed
+        di2 = (do2f2)/(do2-f2) = 29.1 cm to
+        the right of diverging lens.
+
+MiscQ.
+1. c
+2. e
+3. c
+4. d
+5. c
+6. c
+7. d
+8. e
+
+
+Please check   Tot= 10 pts
+Prob.    (1pt each)
+MiscQ.   (0.5 pt each)
+
+
