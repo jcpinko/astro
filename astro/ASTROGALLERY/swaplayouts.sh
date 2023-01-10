@@ -1,9 +1,0 @@
-cp ./TheSky/theme/layout.css ./Moon/theme
-cp ./TheSky/theme/layout.css ./Extragalactic/theme
-cp ./TheSky/theme/layout.css ./Planets/theme
-cp ./TheSky/theme/layout.css ./Galactic/theme
-cp ./TheSky/theme/layout.css ./AstroClub/theme
-cp ./TheSky/theme/layout.css ./TheSky/theme
-cp ./TheSky/theme/layout.css ./theme
-cp ./TheSky/theme/layout.css ./Comets/theme
-cp ./TheSky/theme/layout.css ./ObservatoryPics/theme

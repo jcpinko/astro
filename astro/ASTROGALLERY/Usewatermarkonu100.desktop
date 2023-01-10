@@ -1,8 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Usewatermarkonu100
-Terminal=false
-Exec=phatch -d "/home/jpinkney/.local/share/phatch/actionlists/UsewatermarkONU100.phatch" %F
-Icon=phatch
