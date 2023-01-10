@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Nebulae</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>The nebulae of the Milky Way.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>California Nebula - smoothed</title>
+            <link>CalifNebRGBconv_NorthUp_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>This is a slightly smoothed version of the California nebula.  This process reduces noise in the nebulosity and also reduces the hot pixel artifacts. Atik CCD with RGB filters on the 80 mm apochromatic refractor.</description>
+            <media:description type="html">This is a slightly smoothed version of the California nebula.  This process reduces noise in the nebulosity and also reduces the hot pixel artifacts. Atik CCD with RGB filters on the 80 mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/CalifNebRGBconv_NorthUp_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="CalifNebRGBconv_NorthUp_sW.jpeg" width="938" height="713"/>
+            <jalbum:exif originalDate="Sun, 04 Mar 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">CalifNebRGBconv_NorthUp_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>California nebula - rotated</title>
+            <link>CalifNebRGBRot_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>This version of the California nebula is rotated so that it better resembles the state of california when North is up.  Atik CCD on 80 mm apo.</description>
+            <media:description type="html">This version of the California nebula is rotated so that it better resembles the state of california when North is up.  Atik CCD on 80 mm apo.</media:description>
+            <media:thumbnail url="thumbs/CalifNebRGBRot_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="CalifNebRGBRot_sW.jpeg" width="707" height="938"/>
+            <jalbum:exif originalDate="Sun, 04 Mar 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">CalifNebRGBRot_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>California Nebula</title>
+            <link>CalifNebRGB_NorthUp_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The California Nebula in Perseus taken with the Atik CCD with RGB filters on the 80 mm Apo.  This nebula is about 5 full moons long, but it is too faint to see with the naked eye.</description>
+            <media:description type="html">The California Nebula in Perseus taken with the Atik CCD with RGB filters on the 80 mm Apo.  This nebula is about 5 full moons long, but it is too faint to see with the naked eye.</media:description>
+            <media:thumbnail url="thumbs/CalifNebRGB_NorthUp_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="CalifNebRGB_NorthUp_sW.jpeg" width="938" height="707"/>
+            <jalbum:exif originalDate="Sun, 04 Mar 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">CalifNebRGB_NorthUp_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Cone Nebula</title>
+            <link>ConeRGB3_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Cone Nebula, also known as NGC 2264. The red line visible through the picture is due to a satellite passing through the field of view during the red filter exposure.
+
+Atik 343L CCD, 80mm Meade apochromatic refractor.</description>
+            <media:description type="html">The Cone Nebula, also known as NGC 2264. The red line visible through the picture is due to a satellite passing through the field of view during the red filter exposure.
+
+Atik 343L CCD, 80mm Meade apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/ConeRGB3_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="ConeRGB3_sW.jpg" width="854" height="611"/>
+            <guid isPermaLink="false">ConeRGB3_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Cone Nebula</title>
+            <link>ConeRGBgimp1_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Cone nebula (LDN 1613) is a dark, cone-like feature to the
+right of center.  The center has a brighter, reddish emission nebula called NGC 2264 or the fox fur nebula.  The whole complex of star clusters and nebula is called the Christmas Tree nebula.  
+Atik CCD in RGB filters on the 80 mm apo refractor.
+The red line is a satellite trail.</description>
+            <media:description type="html">The Cone nebula (LDN 1613) is a dark, cone-like feature to the
+right of center.  The center has a brighter, reddish emission nebula called NGC 2264 or the fox fur nebula.  The whole complex of star clusters and nebula is called the Christmas Tree nebula.  
+Atik CCD in RGB filters on the 80 mm apo refractor.
+The red line is a satellite trail.</media:description>
+            <media:thumbnail url="thumbs/ConeRGBgimp1_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="ConeRGBgimp1_sW.jpg" width="1681" height="1268"/>
+            <jalbum:exif originalDate="Tue, 13 Mar 2012 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">ConeRGBgimp1_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M27</title>
+            <link>DeepSky0059fxDumbell_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>M27, the Dumbbell Nebula in Vulpecula. 
+
+One of the better pictures taken with the Meade DSI II CCD.  Used the Meade 80mm apochromatic refractor. Color is fairly accurate and hot pixels were removed.  N is up.</description>
+            <media:description type="html">M27, the Dumbbell Nebula in Vulpecula. 
+
+One of the better pictures taken with the Meade DSI II CCD.  Used the Meade 80mm apochromatic refractor. Color is fairly accurate and hot pixels were removed.  N is up.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0059fxDumbell_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="DeepSky0059fxDumbell_sW.jpg" width="577" height="683"/>
+            <guid isPermaLink="false">DeepSky0059fxDumbell_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M27 - Dumbbell Nebula</title>
+            <link>M27DumbbellRGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>M27, the Dumbbell Nebula in Vulpecula.
+Atik 383L CCD on the Celestron 11-inch using RGB filters.</description>
+            <media:description type="html">M27, the Dumbbell Nebula in Vulpecula.
+Atik 383L CCD on the Celestron 11-inch using RGB filters.</media:description>
+            <media:thumbnail url="thumbs/M27DumbbellRGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M27DumbbellRGB_sW.jpg" width="811" height="649"/>
+            <jalbum:exif originalDate="Fri, 08 Aug 2014 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M27DumbbellRGB_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M27 - G filter.</title>
+            <link>M27G_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>Messier 27, the Dumbell Nebula in Vulpecula.  This is one of the brightest examples of planetary nebulas in the sky.  This is an image taken through the G (green) filter of the Atik CCD camera on the Celestron C11.</description>
+            <media:description type="html">Messier 27, the Dumbell Nebula in Vulpecula.  This is one of the brightest examples of planetary nebulas in the sky.  This is an image taken through the G (green) filter of the Atik CCD camera on the Celestron C11.</media:description>
+            <media:thumbnail url="thumbs/M27G_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M27G_sW.jpeg" width="649" height="487"/>
+            <jalbum:exif originalDate="Fri, 19 Sep 2014 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M27G_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Messier 27 - red filter.</title>
+            <link>M27R_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>Messier 27, the Dumbell Nebula in Vulpecula.  This is an image taken through the R (green) filter of the Atik CCD camera on the Celestron C11. Quickly blink between the G and R image to see that different regions of the nebula brighten.  This is because some regions have stronger [OIII] emission lines (which are green) and some regions have stronger H-alpha emission (which is red).</description>
+            <media:description type="html">Messier 27, the Dumbell Nebula in Vulpecula.  This is an image taken through the R (green) filter of the Atik CCD camera on the Celestron C11. Quickly blink between the G and R image to see that different regions of the nebula brighten.  This is because some regions have stronger [OIII] emission lines (which are green) and some regions have stronger H-alpha emission (which is red).</media:description>
+            <media:thumbnail url="thumbs/M27R_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M27R_sW.jpeg" width="649" height="487"/>
+            <jalbum:exif originalDate="Fri, 19 Sep 2014 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M27R_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Eskimo Nebula</title>
+            <link>DeepSky0017fx_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Eskimo Nebula - a planetary nebula in Gemini. 
+This faint, outer shell is reminiscent of the hood of a winter parka.
+Taken in 2011 using the DSI II CCD on the Meade 12&quot; LX200.</description>
+            <media:description type="html">The Eskimo Nebula - a planetary nebula in Gemini. 
+This faint, outer shell is reminiscent of the hood of a winter parka.
+Taken in 2011 using the DSI II CCD on the Meade 12&quot; LX200.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0017fx_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="DeepSky0017fx_sW.jpg" width="443" height="443"/>
+            <guid isPermaLink="false">DeepSky0017fx_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Eskimo Nebula</title>
+            <link>EskimoNebImg1811_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Eskimo Nebula, a planetary nebula in the constellation of Gemini, aka Caldwell 39 or NGC 2392. Taken with the Canon T5i on 2019-03-25.</description>
+            <media:description type="html">The Eskimo Nebula, a planetary nebula in the constellation of Gemini, aka Caldwell 39 or NGC 2392. Taken with the Canon T5i on 2019-03-25.</media:description>
+            <media:thumbnail url="thumbs/EskimoNebImg1811_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="EskimoNebImg1811_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 25 Mar 2019 20:37:30 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">EskimoNebImg1811_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Flame and Horsehead Nebulae</title>
+            <link>FlameRGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Flame Nebula and Horsehead Nebula are two nebulae in the Orion Molecular Complex. The Flame Nebula is in the lower center, and the Horsehead Nebula is to the center right. The bright blue star in the image is Alnitak, the leftmost star on Orion&apos;s belt. 
+
+Taken with an Atik 343L CCD and an 80mm Meade apochromatic refractor.  A reversed color palatte is used with green assigned to red, otherwise the horsehead would look red.</description>
+            <media:description type="html">The Flame Nebula and Horsehead Nebula are two nebulae in the Orion Molecular Complex. The Flame Nebula is in the lower center, and the Horsehead Nebula is to the center right. The bright blue star in the image is Alnitak, the leftmost star on Orion&apos;s belt. 
+
+Taken with an Atik 343L CCD and an 80mm Meade apochromatic refractor.  A reversed color palatte is used with green assigned to red, otherwise the horsehead would look red.</media:description>
+            <media:thumbnail url="thumbs/FlameRGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="FlameRGB_sW.jpg" width="840" height="633"/>
+            <guid isPermaLink="false">FlameRGB_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Horsehead and Flame nebulae.</title>
+            <link>AlnitakRGBconvRot_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Horsehead Nebula is oriented so that the horse looks upright in this rotated image.  The Flame nebula is below the bright star Alnitak.</description>
+            <media:description type="html">The Horsehead Nebula is oriented so that the horse looks upright in this rotated image.  The Flame nebula is below the bright star Alnitak.</media:description>
+            <media:thumbnail url="thumbs/AlnitakRGBconvRot_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="AlnitakRGBconvRot_sW.jpeg" width="713" height="707"/>
+            <jalbum:exif originalDate="Sun, 04 Mar 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">AlnitakRGBconvRot_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>The Horsehead nebula and Alnitak</title>
+            <link>AlnitakRGB_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The bright star Alnitak (below center) is one of the three stars in the belt of Orion.  Just to its right is the Flame Nebula, and above it is the Horsehead Nebula.  The Horsehead is created by a dust cloud blocking the light from the background, red nebulosity.</description>
+            <media:description type="html">The bright star Alnitak (below center) is one of the three stars in the belt of Orion.  Just to its right is the Flame Nebula, and above it is the Horsehead Nebula.  The Horsehead is created by a dust cloud blocking the light from the background, red nebulosity.</media:description>
+            <media:thumbnail url="thumbs/AlnitakRGB_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="AlnitakRGB_sW.jpeg" width="938" height="707"/>
+            <jalbum:exif originalDate="Sun, 04 Mar 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">AlnitakRGB_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Flame and Horsehead Nebulae</title>
+            <link>IMG_1676fx_FlameNeb_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Flame Nebula (left) and Horsehead Nebula (center, barely visible) in Orion.  The bright star is Alnitak. 
+This is only an 90 second exposure, ISO 800, using the Canon T5i on the 80 mm refractor.</description>
+            <media:description type="html">The Flame Nebula (left) and Horsehead Nebula (center, barely visible) in Orion.  The bright star is Alnitak. 
+This is only an 90 second exposure, ISO 800, using the Canon T5i on the 80 mm refractor.</media:description>
+            <media:thumbnail url="thumbs/IMG_1676fx_FlameNeb_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1676fx_FlameNeb_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Sun, 09 Dec 2018 23:43:28 -0500" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1676fx_FlameNeb_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Flaming Star Nebula</title>
+            <link>FlamStarRGB2_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Flaming Star Nebula (IC 405), in the constellation Auriga. North is up and east is to the left. Taken with Atik 383L on Meade 80mm Apochromatic Reflector.</description>
+            <media:description type="html">The Flaming Star Nebula (IC 405), in the constellation Auriga. North is up and east is to the left. Taken with Atik 383L on Meade 80mm Apochromatic Reflector.</media:description>
+            <media:thumbnail url="thumbs/FlamStarRGB2_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="FlamStarRGB2_sW.jpeg" width="1035" height="684"/>
+            <jalbum:exif originalDate="Mon, 01 Apr 2019 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">FlamStarRGB2_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Messier 8 and surroundings.</title>
+            <link>IMG_1956_1_lagoon_neb_sgt_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>Messier 8 (or the Lagoon nebula) in Sagittarius.  This is an emission nebula near a star cluster.  This is only a 30 second exposure with the Canon T5i on the Meade apochromatic refractor.  This is too short of an exposure to bring out the glory of this nebula.</description>
+            <media:description type="html">Messier 8 (or the Lagoon nebula) in Sagittarius.  This is an emission nebula near a star cluster.  This is only a 30 second exposure with the Canon T5i on the Meade apochromatic refractor.  This is too short of an exposure to bring out the glory of this nebula.</media:description>
+            <media:thumbnail url="thumbs/IMG_1956_1_lagoon_neb_sgt_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1956_1_lagoon_neb_sgt_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Fri, 20 Sep 2019 20:30:40 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1956_1_lagoon_neb_sgt_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Lagoon and Trifid Nebulas</title>
+            <link>M8M20grb_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Lagoon Nebula (M8, right) and the Trifid Nebula (M20, left) in Sagittarius.  The colors are not quite accurate.
+Atik 383L CCD through RGB filters on the 80 mm apochromatic refractor. N is up and E is left.</description>
+            <media:description type="html">The Lagoon Nebula (M8, right) and the Trifid Nebula (M20, left) in Sagittarius.  The colors are not quite accurate.
+Atik 383L CCD through RGB filters on the 80 mm apochromatic refractor. N is up and E is left.</media:description>
+            <media:thumbnail url="thumbs/M8M20grb_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M8M20grb_sW.jpeg" width="704" height="1101"/>
+            <jalbum:exif originalDate="Tue, 13 Aug 2013 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M8M20grb_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>M76</title>
+            <link>M76LittleDumbbell2_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>M76, the Little Dumbbell nebula.  Named after M27, the Dumbbell Nebula, which has a similar appearance.  Both are planetary nebulas, the remnants of stars that have finished fusing helium into carbon but were not massive enough to go supernova. Atik CCD on Celestron C11.</description>
+            <media:description type="html">M76, the Little Dumbbell nebula.  Named after M27, the Dumbbell Nebula, which has a similar appearance.  Both are planetary nebulas, the remnants of stars that have finished fusing helium into carbon but were not massive enough to go supernova. Atik CCD on Celestron C11.</media:description>
+            <media:thumbnail url="thumbs/M76LittleDumbbell2_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M76LittleDumbbell2_sW.jpg" width="982" height="689"/>
+            <guid isPermaLink="false">M76LittleDumbbell2_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Omega Nebula (M17).</title>
+            <link>IMG_1959fx_omega-m17_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Omega Nebula (or Messier 17) in the constellation Sagittarius.  This was a single, 30 second exposure, taken with the Canon T5i on the Meade apochromatic refractor.  The reddish hue of the top left is a noise artifact.</description>
+            <media:description type="html">The Omega Nebula (or Messier 17) in the constellation Sagittarius.  This was a single, 30 second exposure, taken with the Canon T5i on the Meade apochromatic refractor.  The reddish hue of the top left is a noise artifact.</media:description>
+            <media:thumbnail url="thumbs/IMG_1959fx_omega-m17_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1959fx_omega-m17_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Fri, 20 Sep 2019 20:53:02 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1959fx_omega-m17_sW.JPG</guid>
+        </item>
+        <item>
+            <title>M17 - Omega Nebula</title>
+            <link>M17rgbflip_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>The Omega Nebula (or &quot;Swan Nebula&quot;), Messier 17 in Sagittarius.
+Atik 383 L CCD on the Celestron 11-inch.</description>
+            <media:description type="html">The Omega Nebula (or &quot;Swan Nebula&quot;), Messier 17 in Sagittarius.
+Atik 383 L CCD on the Celestron 11-inch.</media:description>
+            <media:thumbnail url="thumbs/M17rgbflip_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M17rgbflip_sW.jpeg" width="1681" height="1268"/>
+            <guid isPermaLink="false">M17rgbflip_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>The Great Orion Nebula and surroundings.</title>
+            <link>IMG_1678OrionM42_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>M42, the Great Orion Nebula.  A wide field view with North to the left instead of the usual orientation.  The star clusters make up the sword of Orion.
+Canon T5i (90 sec) on the Meade 80 mm apochromatic refractor.</description>
+            <media:description type="html">M42, the Great Orion Nebula.  A wide field view with North to the left instead of the usual orientation.  The star clusters make up the sword of Orion.
+Canon T5i (90 sec) on the Meade 80 mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/IMG_1678OrionM42_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1678OrionM42_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Sun, 09 Dec 2018 23:47:13 -0500" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1678OrionM42_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Messier 42 in Orion&apos;s belt</title>
+            <link>M42RGBdeep_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>Messier 42, or the Great Orion Nebula, in Orion&apos;s belt.  This is a &quot;deeper&quot; exposure bringing out more of the faint nebulosity.  The bluish reflection nebula above M42 is NGC 1975. North is up and East to left.
+Taken with the Atik 383L+ CCD through RGB filters on the Meade 80 mm refractor.</description>
+            <media:description type="html">Messier 42, or the Great Orion Nebula, in Orion&apos;s belt.  This is a &quot;deeper&quot; exposure bringing out more of the faint nebulosity.  The bluish reflection nebula above M42 is NGC 1975. North is up and East to left.
+Taken with the Atik 383L+ CCD through RGB filters on the Meade 80 mm refractor.</media:description>
+            <media:thumbnail url="thumbs/M42RGBdeep_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M42RGBdeep_sW.jpg" width="1681" height="1268"/>
+            <jalbum:exif originalDate="Mon, 03 Jan 2022 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M42RGBdeep_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Messier 42 in Orion&apos;s belt</title>
+            <link>M42RGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 14:51:25 -0500</pubDate>
+            <description>Messier 42, or the Great Orion Nebula, in Orion&apos;s belt. North is up and E to left.
+Taken with the Atik 383L+ CCD through RGB filters on the Meade 80 mm refractor.</description>
+            <media:description type="html">Messier 42, or the Great Orion Nebula, in Orion&apos;s belt. North is up and E to left.
+Taken with the Atik 383L+ CCD through RGB filters on the Meade 80 mm refractor.</media:description>
+            <media:thumbnail url="thumbs/M42RGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M42RGB_sW.jpg" width="1681" height="1268"/>
+            <jalbum:exif originalDate="Mon, 03 Jan 2022 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M42RGB_sW.jpg</guid>
+        </item>
+    </channel>
+</rss>

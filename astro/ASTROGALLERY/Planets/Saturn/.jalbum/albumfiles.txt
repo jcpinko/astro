@@ -1,0 +1,21 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+2013-05-16-Saturn-Moons-wavfx_W.jpg		1660770102
+2006-04-18-Saturn-566_W.jpg		1660770102
+2006-01-21-Saturn-Cfx_W.jpg		1660770102
+2006-01-21-Saturn-0488fx_W.jpg		1660770102
+2014-00-00-Saturn_W.jpg		1660770102
+2014-08-04-PRE-Saturn512Gfx_W.jpg		1660770102
+2018-07-28-Saturn-webL_W.tif		1660770102
+2018-08-08-Saturn-Moons-Composite_W.jpg		1660770102
+2019-08-04-Saturn-Still_W.jpg		1660770102
+2019-08-04-Saturn-web_W.tif		1660770102
+2020-08-17-Saturn-webL_W.tif		1660770102
+2020-09-21-Saturn-web_W.tif		1660770102
+2021-08-20-Saturn_W.jpg		1660770102

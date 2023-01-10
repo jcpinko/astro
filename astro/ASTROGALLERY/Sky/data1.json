@@ -1,0 +1,1535 @@
+{
+  "path": "Sky1",
+  "deepCounters": {
+    "total": 38,
+    "images": 36,
+    "files": 38,
+    "videos": 2
+  },
+  "counters": {
+    "total": 38,
+    "images": 36,
+    "files": 38,
+    "videos": 2
+  },
+  "thumb": {
+    "path": "thumbs/2013-08-11-StarTrail_sW.jpg",
+    "width": 212,
+    "height": 170
+  },
+  "album": {
+    "description": "Images of the sky: planetary or lunar conjunctions, occultations, constellations, aurorae, star trails, and more!",
+    "title": "The Sky"
+  },
+  "objects": [
+    {
+      "image": {
+        "path": "2007-05-19-MoonVenus_sW.jpg",
+        "width": 313,
+        "height": 243
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2007-05-19-MoonVenus_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Moon-Venus conjunction. 5/19/07</div><div class=\"comment\">Conjunction of the crescent moon with Venus on 5/19 2007.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Moon-Venus conjunction. 5/19/07</i></p><p><b>Description</b> <i>Conjunction of the crescent moon with Venus on 5/19 2007.</i></p><p><b>Original Date</b> <i>5/19/07, 10:56 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>89mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>3.2s</i></p><p><b>Aperture</b> <i>ƒ/11.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>313 x 243</i></p>",
+      "dates": {
+        "dateTaken": 1179586615
+      },
+      "fileDate": "2023-01-05T18:25:08.918Z",
+      "title": "Moon-Venus conjunction. 5/19/07",
+      "path": "2007-05-19-MoonVenus_sW.jpg",
+      "imageCaption": "<div class=\"title\">Moon-Venus conjunction. 5/19/07</div><div class=\"comment\">Conjunction of the crescent moon with Venus on 5/19 2007.</div>",
+      "fileSize": 26300,
+      "name": "2007-05-19-MoonVenus_sW.jpg",
+      "comment": "Conjunction of the crescent moon with Venus on 5/19 2007.",
+      "category": "image",
+      "camera": {
+        "aperture": 11,
+        "exposureTime": "3.2s",
+        "originalDate": "2007-05-19T10:56:55.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "89mm",
+        "resolution": "313 x 243",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "55mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2007-11-01-Perseus_sW.jpg",
+        "width": 800,
+        "height": 533
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2007-11-01-Perseus_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Perseus with Comet Holmes</div><div class=\"comment\">The classical outline of the Perseus constellation.  The bright, extended object was Comet Holmes in Nov 1, 2007.  Taken with Canon Digital Rebel XT on a&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Perseus with Comet Holmes</i></p><p><b>Description</b> <i>The classical outline of the Perseus constellation.  The bright, extended object was Comet Holmes in Nov 1, 2007.  Taken with Canon Digital Rebel XT on a tripod.</i></p><p><b>Original Date</b> <i>11/1/07, 8:45 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Lens</b> <i>18.0 - 55.0 mm</i></p><p><b>Focal Length (35mm)</b> <i>66mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/11.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Resolution</b> <i>800 x 533</i></p>",
+      "dates": {
+        "dateTaken": 1193921126
+      },
+      "fileDate": "2023-01-05T18:25:08.918Z",
+      "title": "Perseus with Comet Holmes",
+      "path": "2007-11-01-Perseus_sW.jpg",
+      "imageCaption": "<div class=\"title\">Perseus with Comet Holmes</div><div class=\"comment\">The classical outline of the Perseus constellation.  The bright, extended object was Comet Holmes in Nov 1, 2007.  Taken with Canon Digital Rebel XT on a tripod.</div>",
+      "fileSize": 44887,
+      "name": "2007-11-01-Perseus_sW.jpg",
+      "comment": "The classical outline of the Perseus constellation.  The bright, extended object was Comet Holmes in Nov 1, 2007.  Taken with Canon Digital Rebel XT on a tripod.",
+      "category": "image",
+      "camera": {
+        "aperture": 11,
+        "exposureTime": "20.0s",
+        "originalDate": "2007-11-01T08:45:26.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "66mm",
+        "resolution": "800 x 533",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "focalLength": "41mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2010-09-12-CassField_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2010-09-12-CassField_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Cassiopeia and Perseus.</div><div class=\"comment\">This picture contains the constellations Cassiopeia (top right), Andromeda(left), and Perseus (bottom right). Taken on 9/12/10 with the Canon Digital Rebel XT. &hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Cassiopeia and Perseus.</i></p><p><b>Description</b> <i>This picture contains the constellations Cassiopeia (top right), Andromeda(left), and Perseus (bottom right). Taken on 9/12/10 with the Canon Digital Rebel XT.  30 sec, it is slightly out of focus but this accentuates the colors of stars.</i></p><p><b>Original Date</b> <i>9/12/10, 3:28 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>68mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>30.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1284319716
+      },
+      "fileDate": "2023-01-05T18:25:08.918Z",
+      "title": "Cassiopeia and Perseus.",
+      "path": "2010-09-12-CassField_sW.jpg",
+      "imageCaption": "<div class=\"title\">Cassiopeia and Perseus.</div><div class=\"comment\">This picture contains the constellations Cassiopeia (top right), Andromeda(left), and Perseus (bottom right). Taken on 9/12/10 with the Canon Digital Rebel XT.  30 sec, it is slightly out of focus but this accentuates the colors of stars.</div>",
+      "fileSize": 500369,
+      "name": "2010-09-12-CassField_sW.jpg",
+      "comment": "This picture contains the constellations Cassiopeia (top right), Andromeda(left), and Perseus (bottom right). Taken on 9/12/10 with the Canon Digital Rebel XT.  30 sec, it is slightly out of focus but this accentuates the colors of stars.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "30.0s",
+        "originalDate": "2010-09-12T15:28:36.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "68mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "42mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-03-19-Supermoon_sW.jpg",
+        "width": 1728,
+        "height": 1152
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-03-19-Supermoon_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">\"Supermoon\" rising at ONU.</div><div class=\"comment\">The full moon rising over the ONU campus, during the March 19, 2011 \"supermoon\". This happens when the full moon occurs at perigee, and the Moon is closest to&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>\"Supermoon\" rising at ONU.</i></p><p><b>Description</b> <i>The full moon rising over the ONU campus, during the March 19, 2011 \"supermoon\". This happens when the full moon occurs at perigee, and the Moon is closest to the Earth in its orbit. The March 19 supermoon appeared almost 20% brighter and 15% larger than the average full moon. Taken with Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>3/19/11, 7:30 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>71mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/11.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Aperture priority</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1728 x 1152</i></p>",
+      "dates": {
+        "dateTaken": 1300577425
+      },
+      "fileDate": "2023-01-05T18:25:08.918Z",
+      "title": "\"Supermoon\" rising at ONU.",
+      "path": "2011-03-19-Supermoon_sW.jpg",
+      "imageCaption": "<div class=\"title\">\"Supermoon\" rising at ONU.</div><div class=\"comment\">The full moon rising over the ONU campus, during the March 19, 2011 \"supermoon\". This happens when the full moon occurs at perigee, and the Moon is closest to the Earth in its orbit. The March 19 supermoon appeared almost 20% brighter and 15% larger than the average full moon. Taken with Canon Digital Rebel XT.</div>",
+      "fileSize": 247582,
+      "name": "2011-03-19-Supermoon_sW.jpg",
+      "comment": "The full moon rising over the ONU campus, during the March 19, 2011 \"supermoon\". This happens when the full moon occurs at perigee, and the Moon is closest to the Earth in its orbit. The March 19 supermoon appeared almost 20% brighter and 15% larger than the average full moon. Taken with Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "aperture": 11,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-03-19T19:30:25.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "71mm",
+        "resolution": "1728 x 1152",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "44mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2149b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2149b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Green aurora</div><div class=\"comment\">Aurora borealis looking due north from the ONU Campus. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Green aurora</i></p><p><b>Description</b> <i>Aurora borealis looking due north from the ONU Campus. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 7:57 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>89mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>30.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319500668
+      },
+      "fileDate": "2023-01-05T18:25:08.919Z",
+      "title": "Green aurora",
+      "path": "2011-10-24-Aurora-2149b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Green aurora</div><div class=\"comment\">Aurora borealis looking due north from the ONU Campus. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 472112,
+      "name": "2011-10-24-Aurora-2149b_sW.jpg",
+      "comment": "Aurora borealis looking due north from the ONU Campus. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "30.0s",
+        "originalDate": "2011-10-24T19:57:48.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "89mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "55mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2150b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2150b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Green auroral bands.</div><div class=\"comment\">Green aurora to the north-northeast from the ONU Observatory. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Green auroral bands.</i></p><p><b>Description</b> <i>Green aurora to the north-northeast from the ONU Observatory. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 7:59 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319500785
+      },
+      "fileDate": "2023-01-05T18:25:08.919Z",
+      "title": "Green auroral bands.",
+      "path": "2011-10-24-Aurora-2150b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Green auroral bands.</div><div class=\"comment\">Green aurora to the north-northeast from the ONU Observatory. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 503464,
+      "name": "2011-10-24-Aurora-2150b_sW.jpg",
+      "comment": "Green aurora to the north-northeast from the ONU Observatory. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T19:59:45.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2157b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2157b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Green auroral bands with airplane</div><div class=\"comment\">Green aurorals bands with airplane. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Green auroral bands with airplane</i></p><p><b>Description</b> <i>Green aurorals bands with airplane. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 8:05 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319501150
+      },
+      "fileDate": "2023-01-05T18:25:08.919Z",
+      "title": "Green auroral bands with airplane",
+      "path": "2011-10-24-Aurora-2157b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Green auroral bands with airplane</div><div class=\"comment\">Green aurorals bands with airplane. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 563156,
+      "name": "2011-10-24-Aurora-2157b_sW.jpg",
+      "comment": "Green aurorals bands with airplane. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T20:05:50.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2158b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2158b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">The Big Dipper and green aurora borealis.</div><div class=\"comment\">The Big Dipper and green aurora borealis taken from the south side of the ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>The Big Dipper and green aurora borealis.</i></p><p><b>Description</b> <i>The Big Dipper and green aurora borealis taken from the south side of the ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 8:07 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319501258
+      },
+      "fileDate": "2023-01-05T18:25:08.919Z",
+      "title": "The Big Dipper and green aurora borealis.",
+      "path": "2011-10-24-Aurora-2158b_sW.jpg",
+      "imageCaption": "<div class=\"title\">The Big Dipper and green aurora borealis.</div><div class=\"comment\">The Big Dipper and green aurora borealis taken from the south side of the ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 550690,
+      "name": "2011-10-24-Aurora-2158b_sW.jpg",
+      "comment": "The Big Dipper and green aurora borealis taken from the south side of the ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T20:07:38.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2163b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2163b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Great aurora of 10/24/11 near its peak.</div><div class=\"comment\">The aurora was showing rapidly changing \"curtains\" in red during the peak of the great display of 10/24/11.  Taken with Canon Digital Rebel XT, 20 sec exposure&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Great aurora of 10/24/11 near its peak.</i></p><p><b>Description</b> <i>The aurora was showing rapidly changing \"curtains\" in red during the peak of the great display of 10/24/11.  Taken with Canon Digital Rebel XT, 20 sec exposure at ISO 200.  </i></p><p><b>Original Date</b> <i>10/24/11, 9:26 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319506016
+      },
+      "fileDate": "2023-01-05T18:25:08.920Z",
+      "title": "Great aurora of 10/24/11 near its peak.",
+      "path": "2011-10-24-Aurora-2163b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Great aurora of 10/24/11 near its peak.</div><div class=\"comment\">The aurora was showing rapidly changing \"curtains\" in red during the peak of the great display of 10/24/11.  Taken with Canon Digital Rebel XT, 20 sec exposure at ISO 200.  </div>",
+      "fileSize": 526882,
+      "name": "2011-10-24-Aurora-2163b_sW.jpg",
+      "comment": "The aurora was showing rapidly changing \"curtains\" in red during the peak of the great display of 10/24/11.  Taken with Canon Digital Rebel XT, 20 sec exposure at ISO 200.  ",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T21:26:56.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2164b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2164b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Red aurora near the peak of the display of 10/24/11.</div><div class=\"comment\">Red and green aurora above roof of ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Red aurora near the peak of the display of 10/24/11.</i></p><p><b>Description</b> <i>Red and green aurora above roof of ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 9:28 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319506089
+      },
+      "fileDate": "2023-01-05T18:25:08.920Z",
+      "title": "Red aurora near the peak of the display of 10/24/11.",
+      "path": "2011-10-24-Aurora-2164b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Red aurora near the peak of the display of 10/24/11.</div><div class=\"comment\">Red and green aurora above roof of ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 318024,
+      "name": "2011-10-24-Aurora-2164b_sW.jpg",
+      "comment": "Red and green aurora above roof of ONU Observatory.  Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T21:28:09.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2173b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2173b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Red and green aurora over the observatory.</div><div class=\"comment\">Red and green aurora over the observatory.  Taken with Canon Digital Rebel XT, 13 sec exposure. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Red and green aurora over the observatory.</i></p><p><b>Description</b> <i>Red and green aurora over the observatory.  Taken with Canon Digital Rebel XT, 13 sec exposure. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 9:31 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>13.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319506309
+      },
+      "fileDate": "2023-01-05T18:25:08.920Z",
+      "title": "Red and green aurora over the observatory.",
+      "path": "2011-10-24-Aurora-2173b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Red and green aurora over the observatory.</div><div class=\"comment\">Red and green aurora over the observatory.  Taken with Canon Digital Rebel XT, 13 sec exposure. During the great display of 10/24/11.</div>",
+      "fileSize": 417882,
+      "name": "2011-10-24-Aurora-2173b_sW.jpg",
+      "comment": "Red and green aurora over the observatory.  Taken with Canon Digital Rebel XT, 13 sec exposure. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "13.0s",
+        "originalDate": "2011-10-24T21:31:49.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2178b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2178b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Green auroral \"curtains\" with the Big Dipper.</div><div class=\"comment\">Green auroral curtains seen with Big Dipper in the back ground.  Red aurora is seen at higher altitudes corresponding to charged solar wind particles streaming&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Green auroral \"curtains\" with the Big Dipper.</i></p><p><b>Description</b> <i>Green auroral curtains seen with Big Dipper in the back ground.  Red aurora is seen at higher altitudes corresponding to charged solar wind particles streaming down on our location. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 9:34 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319506492
+      },
+      "fileDate": "2022-11-27T17:39:18.0Z",
+      "title": "Green auroral \"curtains\" with the Big Dipper.",
+      "path": "2011-10-24-Aurora-2178b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Green auroral \"curtains\" with the Big Dipper.</div><div class=\"comment\">Green auroral curtains seen with Big Dipper in the back ground.  Red aurora is seen at higher altitudes corresponding to charged solar wind particles streaming down on our location. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 495525,
+      "name": "2011-10-24-Aurora-2178b_sW.jpg",
+      "comment": "Green auroral curtains seen with Big Dipper in the back ground.  Red aurora is seen at higher altitudes corresponding to charged solar wind particles streaming down on our location. Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T21:34:52.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2011-10-24-Aurora-2180b_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Aurora-2180b_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Red and green makes yellow!</div><div class=\"comment\">Overlapping curtains of red and green emission makes a yellow aurora.<br> Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Red and green makes yellow!</i></p><p><b>Description</b> <i>Overlapping curtains of red and green emission makes a yellow aurora.\n Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</i></p><p><b>Original Date</b> <i>10/24/11, 9:36 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1319506613
+      },
+      "fileDate": "2022-11-27T17:40:33.0Z",
+      "title": "Red and green makes yellow!",
+      "path": "2011-10-24-Aurora-2180b_sW.jpg",
+      "imageCaption": "<div class=\"title\">Red and green makes yellow!</div><div class=\"comment\">Overlapping curtains of red and green emission makes a yellow aurora.<br> Taken with Canon Digital Rebel XT. During the great display of 10/24/11.</div>",
+      "fileSize": 677323,
+      "name": "2011-10-24-Aurora-2180b_sW.jpg",
+      "comment": "Overlapping curtains of red and green emission makes a yellow aurora.\n Taken with Canon Digital Rebel XT. During the great display of 10/24/11.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2011-10-24T21:36:53.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2012-01-04-CorBor_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2012-01-04-CorBor_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Corona Borealis and Arcturus.</div><div class=\"comment\">This photo has the constellation Corona Borealis (the curved U-shape in the lower half of the photo) and the bright star Arcturus in the constellation Bootes&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Corona Borealis and Arcturus.</i></p><p><b>Description</b> <i>This photo has the constellation Corona Borealis (the curved U-shape in the lower half of the photo) and the bright star Arcturus in the constellation Bootes (top and right).  From 1/4/12.</i></p><p><b>Original Date</b> <i>1/4/12, 6:37 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>44mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>30.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1325677037
+      },
+      "fileDate": "2023-01-05T18:25:08.924Z",
+      "title": "Corona Borealis and Arcturus.",
+      "path": "2012-01-04-CorBor_sW.jpg",
+      "imageCaption": "<div class=\"title\">Corona Borealis and Arcturus.</div><div class=\"comment\">This photo has the constellation Corona Borealis (the curved U-shape in the lower half of the photo) and the bright star Arcturus in the constellation Bootes (top and right).  From 1/4/12.</div>",
+      "fileSize": 539214,
+      "name": "2012-01-04-CorBor_sW.jpg",
+      "comment": "This photo has the constellation Corona Borealis (the curved U-shape in the lower half of the photo) and the bright star Arcturus in the constellation Bootes (top and right).  From 1/4/12.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "30.0s",
+        "originalDate": "2012-01-04T06:37:17.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "44mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "27mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2012-01-04-StarsNClouds.gif",
+        "width": 500,
+        "height": 333
+      },
+      "originalFile": "2012-01-04-StarsNClouds.gif",
+      "thumb": {
+        "path": "thumbs/2012-01-04-StarsNClouds.png",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Stars and Clouds</div><div class=\"comment\">A GIF animation of stars and clouds in the night sky. Taken with Canon Digital Rebel XT on 1/4/12.</div>",
+      "photodata": "<p><b>Title</b> <i>Stars and Clouds</i></p><p><b>Description</b> <i>A GIF animation of stars and clouds in the night sky. Taken with Canon Digital Rebel XT on 1/4/12.</i></p>",
+      "dates": {
+        "dateTaken": 1407165728
+      },
+      "fileDate": "2014-08-04T11:22:08.0Z",
+      "title": "Stars and Clouds",
+      "path": "2012-01-04-StarsNClouds.png",
+      "imageCaption": "<div class=\"title\">Stars and Clouds</div><div class=\"comment\">A GIF animation of stars and clouds in the night sky. Taken with Canon Digital Rebel XT on 1/4/12.</div>",
+      "fileSize": 1144428,
+      "name": "2012-01-04-StarsNClouds.png",
+      "comment": "A GIF animation of stars and clouds in the night sky. Taken with Canon Digital Rebel XT on 1/4/12.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2014-08-04T11:22:08.0Z"
+      }
+    },
+    {
+      "image": {
+        "path": "2012-01-04-UrsaMajor_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2012-01-04-UrsaMajor_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Big Dipper Star trail</div><div class=\"comment\">A long exposure photograph of Ursa Major, showing how the stars rotate around the north celestial pole. In the lower left of the photo, note that stars much&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Big Dipper Star trail</i></p><p><b>Description</b> <i>A long exposure photograph of Ursa Major, showing how the stars rotate around the north celestial pole. In the lower left of the photo, note that stars much closer to the pole move very little. Taken with Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>1/4/12, 4:32 AM</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1325669535
+      },
+      "fileDate": "2023-01-05T18:25:08.925Z",
+      "title": "Big Dipper Star trail",
+      "path": "2012-01-04-UrsaMajor_sW.jpg",
+      "imageCaption": "<div class=\"title\">Big Dipper Star trail</div><div class=\"comment\">A long exposure photograph of Ursa Major, showing how the stars rotate around the north celestial pole. In the lower left of the photo, note that stars much closer to the pole move very little. Taken with Canon Digital Rebel XT.</div>",
+      "fileSize": 461667,
+      "name": "2012-01-04-UrsaMajor_sW.jpg",
+      "comment": "A long exposure photograph of Ursa Major, showing how the stars rotate around the north celestial pole. In the lower left of the photo, note that stars much closer to the pole move very little. Taken with Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2012-01-04T04:32:15.0Z",
+        "resolution": "1920 x 1280"
+      }
+    },
+    {
+      "image": {
+        "path": "2012-03-10-SkyField_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2012-03-10-SkyField_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Orion above the ONU Observatory.</div><div class=\"comment\">The constellation Orion, with the corner of the ONU Observatory helpfully pointing to the bright blue star Rigel. Also visible are Orion's belt of three stars,&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Orion above the ONU Observatory.</i></p><p><b>Description</b> <i>The constellation Orion, with the corner of the ONU Observatory helpfully pointing to the bright blue star Rigel. Also visible are Orion's belt of three stars, in the center; Betelgeuse, a red supergiant in the center top of the photo; Sirius, the bright star on the left in Canis Major; the Orion Nebula, visible as a group of stars making up Orion's \"sword\" under his belt; and Taurus, a constellation shaped like a V and marked by the bright orange star Aldebaran on the right. Taken with Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>3/10/12, 8:58 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>20.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1331431088
+      },
+      "fileDate": "2022-11-27T17:48:56.0Z",
+      "title": "Orion above the ONU Observatory.",
+      "path": "2012-03-10-SkyField_sW.jpg",
+      "imageCaption": "<div class=\"title\">Orion above the ONU Observatory.</div><div class=\"comment\">The constellation Orion, with the corner of the ONU Observatory helpfully pointing to the bright blue star Rigel. Also visible are Orion's belt of three stars, in the center; Betelgeuse, a red supergiant in the center top of the photo; Sirius, the bright star on the left in Canis Major; the Orion Nebula, visible as a group of stars making up Orion's \"sword\" under his belt; and Taurus, a constellation shaped like a V and marked by the bright orange star Aldebaran on the right. Taken with Canon Digital Rebel XT.</div>",
+      "fileSize": 430373,
+      "name": "2012-03-10-SkyField_sW.jpg",
+      "comment": "The constellation Orion, with the corner of the ONU Observatory helpfully pointing to the bright blue star Rigel. Also visible are Orion's belt of three stars, in the center; Betelgeuse, a red supergiant in the center top of the photo; Sirius, the bright star on the left in Canis Major; the Orion Nebula, visible as a group of stars making up Orion's \"sword\" under his belt; and Taurus, a constellation shaped like a V and marked by the bright orange star Aldebaran on the right. Taken with Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "20.0s",
+        "originalDate": "2012-03-10T20:58:08.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2012-03-13-JupVenusLabel_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2012-03-13-JupVenusLabel_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Jupiter and Venus together.</div><div class=\"comment\">Conjunction of Jupiter and Venus on Mar 13, 2012, with some Astronomy Club members observing with the 8-inch Meade.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Jupiter and Venus together.</i></p><p><b>Description</b> <i>Conjunction of Jupiter and Venus on Mar 13, 2012, with some Astronomy Club members observing with the 8-inch Meade.</i></p><p><b>Original Date</b> <i>3/13/12, 7:19 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1.0s</i></p><p><b>Aperture</b> <i>ƒ/3.5</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Shutter priority</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1331680788
+      },
+      "fileDate": "2023-01-05T18:25:08.928Z",
+      "title": "Jupiter and Venus together.",
+      "path": "2012-03-13-JupVenusLabel_sW.jpg",
+      "imageCaption": "<div class=\"title\">Jupiter and Venus together.</div><div class=\"comment\">Conjunction of Jupiter and Venus on Mar 13, 2012, with some Astronomy Club members observing with the 8-inch Meade.</div>",
+      "fileSize": 282395,
+      "name": "2012-03-13-JupVenusLabel_sW.jpg",
+      "comment": "Conjunction of Jupiter and Venus on Mar 13, 2012, with some Astronomy Club members observing with the 8-inch Meade.",
+      "category": "image",
+      "camera": {
+        "aperture": 3.5,
+        "exposureTime": "1.0s",
+        "originalDate": "2012-03-13T19:19:48.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2013-03-08-SunsetClouds.gif",
+        "width": 500,
+        "height": 333
+      },
+      "originalFile": "2013-03-08-SunsetClouds.gif",
+      "thumb": {
+        "path": "thumbs/2013-03-08-SunsetClouds.png",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Sunset Clouds</div><div class=\"comment\">A GIF animation of the clouds passing over as the sun sets, with a wind turbine in the background. Taken with Canon Digital Rebel XT on 8/3/13.</div>",
+      "photodata": "<p><b>Title</b> <i>Sunset Clouds</i></p><p><b>Description</b> <i>A GIF animation of the clouds passing over as the sun sets, with a wind turbine in the background. Taken with Canon Digital Rebel XT on 8/3/13.</i></p>",
+      "dates": {
+        "dateTaken": 1672959837
+      },
+      "fileDate": "2023-01-05T18:03:57.658Z",
+      "title": "Sunset Clouds",
+      "path": "2013-03-08-SunsetClouds.png",
+      "imageCaption": "<div class=\"title\">Sunset Clouds</div><div class=\"comment\">A GIF animation of the clouds passing over as the sun sets, with a wind turbine in the background. Taken with Canon Digital Rebel XT on 8/3/13.</div>",
+      "fileSize": 570054,
+      "name": "2013-03-08-SunsetClouds.png",
+      "comment": "A GIF animation of the clouds passing over as the sun sets, with a wind turbine in the background. Taken with Canon Digital Rebel XT on 8/3/13.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2023-01-05T18:03:57.658Z"
+      }
+    },
+    {
+      "image": {
+        "path": "2013-08-11-StarTrail_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2013-08-11-StarTrail_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Cassiopeia Star Trail</div><div class=\"comment\">Cassiopeia star trail. The spottiness of the trails reveal that clouds were passing during the exposure. About 4.2 minute exposure time with the Digital Rebel&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Cassiopeia Star Trail</i></p><p><b>Description</b> <i>Cassiopeia star trail. The spottiness of the trails reveal that clouds were passing during the exposure. About 4.2 minute exposure time with the Digital Rebel XT on a tripod.</i></p><p><b>Original Date</b> <i>8/12/13, 1:41 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>45mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>265.0s</i></p><p><b>Aperture</b> <i>ƒ/8.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1376286082
+      },
+      "fileDate": "2022-11-27T17:54:25.0Z",
+      "title": "Cassiopeia Star Trail",
+      "path": "2013-08-11-StarTrail_sW.jpg",
+      "imageCaption": "<div class=\"title\">Cassiopeia Star Trail</div><div class=\"comment\">Cassiopeia star trail. The spottiness of the trails reveal that clouds were passing during the exposure. About 4.2 minute exposure time with the Digital Rebel XT on a tripod.</div>",
+      "fileSize": 368435,
+      "name": "2013-08-11-StarTrail_sW.jpg",
+      "comment": "Cassiopeia star trail. The spottiness of the trails reveal that clouds were passing during the exposure. About 4.2 minute exposure time with the Digital Rebel XT on a tripod.",
+      "category": "image",
+      "camera": {
+        "aperture": 8,
+        "exposureTime": "265.0s",
+        "originalDate": "2013-08-12T01:41:22.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "45mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "28mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2015-06-02-JupVenusPC_label_sW.jpg",
+        "width": 1728,
+        "height": 1152
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2015-06-02-JupVenusPC_label_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Planets and stars in the western sky.</div><div class=\"comment\">Planets and stars in the western sky.  Labels reveal that Jupiter and Venus were close to Gemini.  Taken 6/2/15 with the Canon Digital Rebel XT.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Planets and stars in the western sky.</i></p><p><b>Description</b> <i>Planets and stars in the western sky.  Labels reveal that Jupiter and Venus were close to Gemini.  Taken 6/2/15 with the Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>6/2/15, 10:54 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>10.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1728 x 1152</i></p>",
+      "dates": {
+        "dateTaken": 1433300056
+      },
+      "fileDate": "2023-01-05T18:28:43.515Z",
+      "title": "Planets and stars in the western sky.",
+      "path": "2015-06-02-JupVenusPC_label_sW.jpg",
+      "imageCaption": "<div class=\"title\">Planets and stars in the western sky.</div><div class=\"comment\">Planets and stars in the western sky.  Labels reveal that Jupiter and Venus were close to Gemini.  Taken 6/2/15 with the Canon Digital Rebel XT.</div>",
+      "fileSize": 148710,
+      "name": "2015-06-02-JupVenusPC_label_sW.jpg",
+      "comment": "Planets and stars in the western sky.  Labels reveal that Jupiter and Venus were close to Gemini.  Taken 6/2/15 with the Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "10.0s",
+        "originalDate": "2015-06-02T22:54:16.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1728 x 1152",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2017-05-09-Albireo_sW.jpg",
+        "width": 1920,
+        "height": 2880
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2017-05-09-Albireo_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Albireo - colorful double star.</div><div class=\"comment\">Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Albireo - colorful double star.</i></p><p><b>Description</b> <i>Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.</i></p><p><b>Original Date</b> <i>9/8/17, 11:19 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>3200</i></p><p><b>Exposure Time</b> <i>30.0s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 2880</i></p>",
+      "dates": {
+        "dateTaken": 1504927185
+      },
+      "fileDate": "2023-01-05T18:28:43.516Z",
+      "title": "Albireo - colorful double star.",
+      "path": "2017-05-09-Albireo_sW.jpg",
+      "imageCaption": "<div class=\"title\">Albireo - colorful double star.</div><div class=\"comment\">Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.</div>",
+      "fileSize": 870720,
+      "name": "2017-05-09-Albireo_sW.jpg",
+      "comment": "Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "30.0s",
+        "originalDate": "2017-09-08T23:19:45.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 2880",
+        "cameraMake": "Canon",
+        "isoEquivalent": 3200,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2018-04-02-BirdSunDog4607_sW.JPG",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-04-02-BirdSunDog4607_sW.JPG",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Cirrus and sun Dog with the 12-inch telescope.</div><div class=\"comment\">The cirrus cloud above the 12-inch looks a lot like a flying bird!  To the right of the 12-inch is a sun dog or parhelion.  Images of uniform light sources,&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Cirrus and sun Dog with the 12-inch telescope.</i></p><p><b>Description</b> <i>The cirrus cloud above the 12-inch looks a lot like a flying bird!  To the right of the 12-inch is a sun dog or parhelion.  Images of uniform light sources, like the sky, bring out the dust on the optics (grey circles).</i></p><p><b>Original Date</b> <i>4/2/18, 4:19 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>29mm</i></p><p><b>Metering Mode</b> <i>Multi-segment</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/500s</i></p><p><b>Aperture</b> <i>ƒ/16.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Program normal</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1522700369
+      },
+      "fileDate": "2023-01-05T18:28:43.516Z",
+      "title": "Cirrus and sun Dog with the 12-inch telescope.",
+      "path": "2018-04-02-BirdSunDog4607_sW.JPG",
+      "imageCaption": "<div class=\"title\">Cirrus and sun Dog with the 12-inch telescope.</div><div class=\"comment\">The cirrus cloud above the 12-inch looks a lot like a flying bird!  To the right of the 12-inch is a sun dog or parhelion.  Images of uniform light sources, like the sky, bring out the dust on the optics (grey circles).</div>",
+      "fileSize": 210573,
+      "name": "2018-04-02-BirdSunDog4607_sW.JPG",
+      "comment": "The cirrus cloud above the 12-inch looks a lot like a flying bird!  To the right of the 12-inch is a sun dog or parhelion.  Images of uniform light sources, like the sky, bring out the dust on the optics (grey circles).",
+      "category": "image",
+      "camera": {
+        "aperture": 16,
+        "exposureTime": "1/500s",
+        "originalDate": "2018-04-02T16:19:29.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "29mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2018-04-17-Moon-Venus-Reflections_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2018-04-17-Moon-Venus-Reflections_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Crescent Moon and Venus.</div><div class=\"comment\">Crescent Moon and Venus on 4/17/18.  The dark part of the Moon is faintly lit by \"Earthshine\".  A 2.5 sec exposure with the Canon T5i using its kit lens.  The&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Crescent Moon and Venus.</i></p><p><b>Description</b> <i>Crescent Moon and Venus on 4/17/18.  The dark part of the Moon is faintly lit by \"Earthshine\".  A 2.5 sec exposure with the Canon T5i using its kit lens.  The long exposure also captured a car and street signs.</i></p><p><b>Original Date</b> <i>4/17/18, 9:24 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>55 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>2.5s</i></p><p><b>Aperture</b> <i>ƒ/6.4</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1524014661
+      },
+      "fileDate": "2023-01-05T18:28:43.516Z",
+      "title": "Crescent Moon and Venus.",
+      "path": "2018-04-17-Moon-Venus-Reflections_sW.jpg",
+      "imageCaption": "<div class=\"title\">Crescent Moon and Venus.</div><div class=\"comment\">Crescent Moon and Venus on 4/17/18.  The dark part of the Moon is faintly lit by \"Earthshine\".  A 2.5 sec exposure with the Canon T5i using its kit lens.  The long exposure also captured a car and street signs.</div>",
+      "fileSize": 112197,
+      "name": "2018-04-17-Moon-Venus-Reflections_sW.jpg",
+      "comment": "Crescent Moon and Venus on 4/17/18.  The dark part of the Moon is faintly lit by \"Earthshine\".  A 2.5 sec exposure with the Canon T5i using its kit lens.  The long exposure also captured a car and street signs.",
+      "category": "image",
+      "camera": {
+        "aperture": 6.3,
+        "exposureTime": "2.5s",
+        "originalDate": "2018-04-17T21:24:21.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "55mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2018-08-11-Cass-And-lbl_sW.png",
+        "width": 1920,
+        "height": 1280
+      },
+      "thumb": {
+        "path": "thumbs/2018-08-11-Cass-And-lbl_sW.png",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">The sky around Cassiopeia.</div><div class=\"comment\">A wide-field view of the sky around Cassiopeia.  The 30 second exposure is deep enough to reveal the Andromeda Galaxy (M31).  The other connector lines are&hellip;</div>",
+      "photodata": "<p><b>Title</b> <i>The sky around Cassiopeia.</i></p><p><b>Description</b> <i>A wide-field view of the sky around Cassiopeia.  The 30 second exposure is deep enough to reveal the Andromeda Galaxy (M31).  The other connector lines are non-traditional.</i></p>",
+      "dates": {
+        "dateTaken": 1672961323
+      },
+      "fileDate": "2023-01-05T18:28:43.517Z",
+      "title": "The sky around Cassiopeia.",
+      "path": "2018-08-11-Cass-And-lbl_sW.png",
+      "imageCaption": "<div class=\"title\">The sky around Cassiopeia.</div><div class=\"comment\">A wide-field view of the sky around Cassiopeia.  The 30 second exposure is deep enough to reveal the Andromeda Galaxy (M31).  The other connector lines are non-traditional.</div>",
+      "fileSize": 3650958,
+      "name": "2018-08-11-Cass-And-lbl_sW.png",
+      "comment": "A wide-field view of the sky around Cassiopeia.  The 30 second exposure is deep enough to reveal the Andromeda Galaxy (M31).  The other connector lines are non-traditional.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2023-01-05T18:28:43.517Z"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-08-11-SkyAnimation_W.jpg",
+        "width": 1620,
+        "height": 1080
+      },
+      "original": {
+        "path": "slides/2018-08-11-SkyAnimation_W.mp4",
+        "width": 1620,
+        "height": 1080
+      },
+      "thumb": {
+        "path": "thumbs/2018-08-11-SkyAnimation_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Sky Animation</div><div class=\"comment\">Several exposures were combined to form this MP4 video of the night sky, in which the rotation of the Earth is apparent through the motion of the stars.</div>",
+      "photodata": "<p><b>Original Date</b> <i>12/31/03, 7:00 PM</i></p>",
+      "dates": {
+        "dateTaken": -2082844800
+      },
+      "fileDate": "2023-01-05T18:28:43.517Z",
+      "video": {
+        "duration": "00:00:11.380",
+        "path": "slides/2018-08-11-SkyAnimation_W.mp4",
+        "fps": 24,
+        "width": 1080,
+        "height": 720
+      },
+      "title": "Sky Animation",
+      "path": "2018-08-11-SkyAnimation_W.jpg",
+      "imageCaption": "<div class=\"title\">Sky Animation</div><div class=\"comment\">Several exposures were combined to form this MP4 video of the night sky, in which the rotation of the Earth is apparent through the motion of the stars.</div>",
+      "fileSize": 12136008,
+      "name": "2018-08-11-SkyAnimation_W.jpg",
+      "comment": "Several exposures were combined to form this MP4 video of the night sky, in which the rotation of the Earth is apparent through the motion of the stars.",
+      "category": "video"
+    },
+    {
+      "image": {
+        "path": "2019-03-01-ISS-ManualPt_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2019-03-01-ISS-ManualPt_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">The ISS in the twilight sky.</div><div class=\"comment\">The ISS in the twilight sky.  1/5 sec with the Canon T5i using the 300 mm zoom lens.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>The ISS in the twilight sky.</i></p><p><b>Description</b> <i>The ISS in the twilight sky.  1/5 sec with the Canon T5i using the 300 mm zoom lens.</i></p><p><b>Original Date</b> <i>3/1/19, 7:14 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF75-300mm f/4-5.6</i></p><p><b>Focal Length</b> <i>110 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>6400</i></p><p><b>Exposure Time</b> <i>1/10s</i></p><p><b>Aperture</b> <i>ƒ/4.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1551485643
+      },
+      "fileDate": "2023-01-05T18:28:43.518Z",
+      "title": "The ISS in the twilight sky.",
+      "path": "2019-03-01-ISS-ManualPt_sW.jpg",
+      "imageCaption": "<div class=\"title\">The ISS in the twilight sky.</div><div class=\"comment\">The ISS in the twilight sky.  1/5 sec with the Canon T5i using the 300 mm zoom lens.</div>",
+      "fileSize": 386890,
+      "name": "2019-03-01-ISS-ManualPt_sW.jpg",
+      "comment": "The ISS in the twilight sky.  1/5 sec with the Canon T5i using the 300 mm zoom lens.",
+      "category": "image",
+      "camera": {
+        "aperture": 4.5,
+        "exposureTime": "1/10s",
+        "originalDate": "2019-03-01T19:14:03.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 6400,
+        "flash": "Flash did not fire",
+        "focalLength": "110mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2019-08-04-iss_inset_zoom_sW.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2019-08-04-iss_inset_zoom_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">The ISS slightly resolved.</div><div class=\"comment\">The ISS showing a little bit of its solar panel structure.  Extracted from a video taken with the Canon T5i.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>The ISS slightly resolved.</i></p><p><b>Description</b> <i>The ISS showing a little bit of its solar panel structure.  Extracted from a video taken with the Canon T5i.</i></p><p><b>Original Date</b> <i>8/4/19, 9:22 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens</b> <i>0.0 mm</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/50s</i></p><p><b>Aperture</b> <i>ƒ/0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Resolution</b> <i>1080 x 1080</i></p>",
+      "dates": {
+        "dateTaken": 1564968143
+      },
+      "fileDate": "2023-01-05T18:28:43.518Z",
+      "title": "The ISS slightly resolved.",
+      "path": "2019-08-04-iss_inset_zoom_sW.jpg",
+      "imageCaption": "<div class=\"title\">The ISS slightly resolved.</div><div class=\"comment\">The ISS showing a little bit of its solar panel structure.  Extracted from a video taken with the Canon T5i.</div>",
+      "fileSize": 42956,
+      "name": "2019-08-04-iss_inset_zoom_sW.jpg",
+      "comment": "The ISS showing a little bit of its solar panel structure.  Extracted from a video taken with the Canon T5i.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/50s",
+        "originalDate": "2019-08-04T21:22:23.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1080 x 1080",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2020-07-18-Cygnus_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2020-07-18-Cygnus_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Deneb and Cygnus the Swan.</div><div class=\"comment\">Deneb and Cygnus the Swan.  The star Deneb (center) is at the tail of the swan, but the top of the Northern Cross asterism.  Below Deneb is NGC 7000, the North&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Deneb and Cygnus the Swan.</i></p><p><b>Description</b> <i>Deneb and Cygnus the Swan.  The star Deneb (center) is at the tail of the swan, but the top of the Northern Cross asterism.  Below Deneb is NGC 7000, the North American Nebula (an emission nebula shaped like North America). Deep (347 sec) exposure taken by piggybacking the Canon T5i on the Meade 12\".</i></p><p><b>Original Date</b> <i>7/18/20, 10:37 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>44 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>347.4s</i></p><p><b>Aperture</b> <i>ƒ/7.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1595126246
+      },
+      "fileDate": "2023-01-05T18:28:43.518Z",
+      "title": "Deneb and Cygnus the Swan.",
+      "path": "2020-07-18-Cygnus_sW.jpg",
+      "imageCaption": "<div class=\"title\">Deneb and Cygnus the Swan.</div><div class=\"comment\">Deneb and Cygnus the Swan.  The star Deneb (center) is at the tail of the swan, but the top of the Northern Cross asterism.  Below Deneb is NGC 7000, the North American Nebula (an emission nebula shaped like North America). Deep (347 sec) exposure taken by piggybacking the Canon T5i on the Meade 12\".</div>",
+      "fileSize": 919316,
+      "name": "2020-07-18-Cygnus_sW.jpg",
+      "comment": "Deneb and Cygnus the Swan.  The star Deneb (center) is at the tail of the swan, but the top of the Northern Cross asterism.  Below Deneb is NGC 7000, the North American Nebula (an emission nebula shaped like North America). Deep (347 sec) exposure taken by piggybacking the Canon T5i on the Meade 12\".",
+      "category": "image",
+      "camera": {
+        "aperture": 7.1,
+        "exposureTime": "347.4s",
+        "originalDate": "2020-07-18T22:37:26.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "44mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2020-12-09-JupGCSat_sW.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2020-12-09-JupGCSat_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Saturn and Jupiter approaching conjunction. </div><div class=\"comment\">Saturn and Jupiter on 12/9/20.  This was a few weeks before the great conjunction of 12/21/20.  Canon T5i with a 300 mm zoom lens.  Picture was cropped down.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Saturn and Jupiter approaching conjunction. </i></p><p><b>Description</b> <i>Saturn and Jupiter on 12/9/20.  This was a few weeks before the great conjunction of 12/21/20.  Canon T5i with a 300 mm zoom lens.  Picture was cropped down.</i></p><p><b>Original Date</b> <i>12/9/20, 6:35 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF75-300mm f/4-5.6</i></p><p><b>Focal Length</b> <i>95 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>2.0s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1080</i></p>",
+      "dates": {
+        "dateTaken": 1607556941
+      },
+      "fileDate": "2023-01-05T18:28:43.519Z",
+      "title": "Saturn and Jupiter approaching conjunction. ",
+      "path": "2020-12-09-JupGCSat_sW.jpg",
+      "imageCaption": "<div class=\"title\">Saturn and Jupiter approaching conjunction. </div><div class=\"comment\">Saturn and Jupiter on 12/9/20.  This was a few weeks before the great conjunction of 12/21/20.  Canon T5i with a 300 mm zoom lens.  Picture was cropped down.</div>",
+      "fileSize": 254814,
+      "name": "2020-12-09-JupGCSat_sW.jpg",
+      "comment": "Saturn and Jupiter on 12/9/20.  This was a few weeks before the great conjunction of 12/21/20.  Canon T5i with a 300 mm zoom lens.  Picture was cropped down.",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "2.0s",
+        "originalDate": "2020-12-09T18:35:41.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1080",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "95mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2020-12-20-Jup4M-Sat-comp-lbl_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2020-12-20-Jup4M-Sat-comp-lbl_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Conjunction of Saturn and Jupiter - with labels.</div><div class=\"comment\">Conjunction of Saturn and Jupiter on Dec 20, 2020.  Just before the closest approach, Saturn and Jupiter were about 8 arcminutes apart. This exposure was just&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Conjunction of Saturn and Jupiter - with labels.</i></p><p><b>Description</b> <i>Conjunction of Saturn and Jupiter on Dec 20, 2020.  Just before the closest approach, Saturn and Jupiter were about 8 arcminutes apart. This exposure was just long enough to reveal the Galilean moons around Jupiter without overexposing Jupiter.  1.6 sec, ISO 400 with the Canon T5i on Celestron 11-inch.</i></p><p><b>Original Date</b> <i>12/20/20, 6:19 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>1.6s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1608506379
+      },
+      "fileDate": "2023-01-05T18:28:43.519Z",
+      "title": "Conjunction of Saturn and Jupiter - with labels.",
+      "path": "2020-12-20-Jup4M-Sat-comp-lbl_sW.jpg",
+      "imageCaption": "<div class=\"title\">Conjunction of Saturn and Jupiter - with labels.</div><div class=\"comment\">Conjunction of Saturn and Jupiter on Dec 20, 2020.  Just before the closest approach, Saturn and Jupiter were about 8 arcminutes apart. This exposure was just long enough to reveal the Galilean moons around Jupiter without overexposing Jupiter.  1.6 sec, ISO 400 with the Canon T5i on Celestron 11-inch.</div>",
+      "fileSize": 128001,
+      "name": "2020-12-20-Jup4M-Sat-comp-lbl_sW.jpg",
+      "comment": "Conjunction of Saturn and Jupiter on Dec 20, 2020.  Just before the closest approach, Saturn and Jupiter were about 8 arcminutes apart. This exposure was just long enough to reveal the Galilean moons around Jupiter without overexposing Jupiter.  1.6 sec, ISO 400 with the Canon T5i on Celestron 11-inch.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1.6s",
+        "originalDate": "2020-12-20T18:19:39.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2020-12-20-Jup4M-Sat-lbl_sW.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2020-12-20-Jup4M-Sat-lbl_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Conjunction of Saturn and Jupiter on 12/20/20. </div><div class=\"comment\">Conjunction of Saturn and Jupiter on 12/20/20. (Labelled)  The two planets were only about 8 arcminutes apart.  This was a 0.6 sec exposure at ISO 400 taken&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Conjunction of Saturn and Jupiter on 12/20/20. </i></p><p><b>Description</b> <i>Conjunction of Saturn and Jupiter on 12/20/20. (Labelled)  The two planets were only about 8 arcminutes apart.  This was a 0.6 sec exposure at ISO 400 taken with the Canon T5i on the 11-inch or 12-inch. </i></p><p><b>Original Date</b> <i>12/20/20, 6:13 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>0.6s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1080</i></p>",
+      "dates": {
+        "dateTaken": 1608506037
+      },
+      "fileDate": "2023-01-05T18:28:43.520Z",
+      "title": "Conjunction of Saturn and Jupiter on 12/20/20. ",
+      "path": "2020-12-20-Jup4M-Sat-lbl_sW.jpg",
+      "imageCaption": "<div class=\"title\">Conjunction of Saturn and Jupiter on 12/20/20. </div><div class=\"comment\">Conjunction of Saturn and Jupiter on 12/20/20. (Labelled)  The two planets were only about 8 arcminutes apart.  This was a 0.6 sec exposure at ISO 400 taken with the Canon T5i on the 11-inch or 12-inch. </div>",
+      "fileSize": 141741,
+      "name": "2020-12-20-Jup4M-Sat-lbl_sW.jpg",
+      "comment": "Conjunction of Saturn and Jupiter on 12/20/20. (Labelled)  The two planets were only about 8 arcminutes apart.  This was a 0.6 sec exposure at ISO 400 taken with the Canon T5i on the 11-inch or 12-inch. ",
+      "category": "image",
+      "camera": {
+        "exposureTime": "0.6s",
+        "originalDate": "2020-12-20T18:13:57.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1080",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-Herculids-2414fxM_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2022-05-30-Herculids-2414fxM_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Trails of airplane and satellite? </div><div class=\"comment\">Trails of airplane (on right) and satellite (left) captured on the 125 sec exposure centered on Draco (the northern sky) on the night of the Herculids meteor&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Trails of airplane and satellite? </i></p><p><b>Description</b> <i>Trails of airplane (on right) and satellite (left) captured on the 125 sec exposure centered on Draco (the northern sky) on the night of the Herculids meteor shower (5/30/22).  The dark object in the foreground is the barrell of the 12-inch Meade.</i></p><p><b>Original Date</b> <i>5/30/22, 11:15 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>18 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>125.3s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653966933
+      },
+      "fileDate": "2023-01-05T18:28:43.520Z",
+      "title": "Trails of airplane and satellite? ",
+      "path": "2022-05-30-Herculids-2414fxM_sW.jpg",
+      "imageCaption": "<div class=\"title\">Trails of airplane and satellite? </div><div class=\"comment\">Trails of airplane (on right) and satellite (left) captured on the 125 sec exposure centered on Draco (the northern sky) on the night of the Herculids meteor shower (5/30/22).  The dark object in the foreground is the barrell of the 12-inch Meade.</div>",
+      "fileSize": 689499,
+      "name": "2022-05-30-Herculids-2414fxM_sW.jpg",
+      "comment": "Trails of airplane (on right) and satellite (left) captured on the 125 sec exposure centered on Draco (the northern sky) on the night of the Herculids meteor shower (5/30/22).  The dark object in the foreground is the barrell of the 12-inch Meade.",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "125.3s",
+        "originalDate": "2022-05-30T23:15:33.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-Herculids-2420fxM_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2022-05-30-Herculids-2420fxM_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Meteor in Hercules. Lyra & Draco nearby.</div><div class=\"comment\">Meteor coming out of Hercules.   The \"keystone\" asterism in Hercules is top and center.  120 sec tracked exposure with the Canon T5i piggybacking on the Meade&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Meteor in Hercules. Lyra & Draco nearby.</i></p><p><b>Description</b> <i>Meteor coming out of Hercules.   The \"keystone\" asterism in Hercules is top and center.  120 sec tracked exposure with the Canon T5i piggybacking on the Meade 12-inch.</i></p><p><b>Original Date</b> <i>5/30/22, 11:45 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>18 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>120.8s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653968721
+      },
+      "fileDate": "2023-01-05T18:28:43.520Z",
+      "title": "Meteor in Hercules. Lyra & Draco nearby.",
+      "path": "2022-05-30-Herculids-2420fxM_sW.jpg",
+      "imageCaption": "<div class=\"title\">Meteor in Hercules. Lyra & Draco nearby.</div><div class=\"comment\">Meteor coming out of Hercules.   The \"keystone\" asterism in Hercules is top and center.  120 sec tracked exposure with the Canon T5i piggybacking on the Meade 12-inch.</div>",
+      "fileSize": 493828,
+      "name": "2022-05-30-Herculids-2420fxM_sW.jpg",
+      "comment": "Meteor coming out of Hercules.   The \"keystone\" asterism in Hercules is top and center.  120 sec tracked exposure with the Canon T5i piggybacking on the Meade 12-inch.",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "120.8s",
+        "originalDate": "2022-05-30T23:45:21.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-Herculids-2423fxM_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2022-05-30-Herculids-2423fxM_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Meteor (Herculid) in Hercules.</div><div class=\"comment\">Meteor (Herculid) in Hercules. 392 sec exposure with the Canon T5i piggybacking on the Meade 12-inch.  Many star clouds and dust lanes in the Milky Way are&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Meteor (Herculid) in Hercules.</i></p><p><b>Description</b> <i>Meteor (Herculid) in Hercules. 392 sec exposure with the Canon T5i piggybacking on the Meade 12-inch.  Many star clouds and dust lanes in the Milky Way are visible in this long exposure.  The meteor seems to be orangish in color.  Vega is the bright star left of center.</i></p><p><b>Original Date</b> <i>5/30/22, 11:56 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>18 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>392.1s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653969374
+      },
+      "fileDate": "2023-01-05T18:28:43.521Z",
+      "title": "Meteor (Herculid) in Hercules.",
+      "path": "2022-05-30-Herculids-2423fxM_sW.jpg",
+      "imageCaption": "<div class=\"title\">Meteor (Herculid) in Hercules.</div><div class=\"comment\">Meteor (Herculid) in Hercules. 392 sec exposure with the Canon T5i piggybacking on the Meade 12-inch.  Many star clouds and dust lanes in the Milky Way are visible in this long exposure.  The meteor seems to be orangish in color.  Vega is the bright star left of center.</div>",
+      "fileSize": 652272,
+      "name": "2022-05-30-Herculids-2423fxM_sW.jpg",
+      "comment": "Meteor (Herculid) in Hercules. 392 sec exposure with the Canon T5i piggybacking on the Meade 12-inch.  Many star clouds and dust lanes in the Milky Way are visible in this long exposure.  The meteor seems to be orangish in color.  Vega is the bright star left of center.",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "392.1s",
+        "originalDate": "2022-05-30T23:56:14.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-Herculids-2432fxM_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2022-05-30-Herculids-2432fxM_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Meteor at the Hercules/Ophiuchus boarder.</div><div class=\"comment\">A Herculid meteor at the Hercules/Ophiuchus boarder. 61 sec with the T5i riding on the Meade 12-inch.  </div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Meteor at the Hercules/Ophiuchus boarder.</i></p><p><b>Description</b> <i>A Herculid meteor at the Hercules/Ophiuchus boarder. 61 sec with the T5i riding on the Meade 12-inch.  </i></p><p><b>Original Date</b> <i>5/31/22, 12:44 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF-S18-55mm f/3.5-5.6 IS STM</i></p><p><b>Focal Length</b> <i>18 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>60.7s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653972274
+      },
+      "fileDate": "2023-01-05T18:28:43.521Z",
+      "title": "Meteor at the Hercules/Ophiuchus boarder.",
+      "path": "2022-05-30-Herculids-2432fxM_sW.jpg",
+      "imageCaption": "<div class=\"title\">Meteor at the Hercules/Ophiuchus boarder.</div><div class=\"comment\">A Herculid meteor at the Hercules/Ophiuchus boarder. 61 sec with the T5i riding on the Meade 12-inch.  </div>",
+      "fileSize": 531255,
+      "name": "2022-05-30-Herculids-2432fxM_sW.jpg",
+      "comment": "A Herculid meteor at the Hercules/Ophiuchus boarder. 61 sec with the T5i riding on the Meade 12-inch.  ",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "60.7s",
+        "originalDate": "2022-05-31T00:44:34.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "18mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2022-05-30-LightPollutionMovie_W.jpg",
+        "width": 3456,
+        "height": 2304
+      },
+      "original": {
+        "path": "slides/2022-05-30-LightPollutionMovie_W.mp4",
+        "width": 3456,
+        "height": 2304
+      },
+      "thumb": {
+        "path": "thumbs/2022-05-30-LightPollutionMovie_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Light Pollution Movie</div><div class=\"comment\">Canon T5i movie showing the effects of local light pollution near the ONU Observatory. Notice the rays of light emanating from over the tree in the bottom right&hellip;</div>",
+      "photodata": "<p><b>Original Date</b> <i>12/31/03, 7:00 PM</i></p>",
+      "dates": {
+        "dateTaken": -2082844800
+      },
+      "fileDate": "2023-01-05T18:28:43.521Z",
+      "video": {
+        "duration": "00:00:02.500",
+        "path": "slides/2022-05-30-LightPollutionMovie_W.mp4",
+        "fps": 24,
+        "width": 1080,
+        "height": 720
+      },
+      "title": "Light Pollution Movie",
+      "path": "2022-05-30-LightPollutionMovie_W.jpg",
+      "imageCaption": "<div class=\"title\">Light Pollution Movie</div><div class=\"comment\">Canon T5i movie showing the effects of local light pollution near the ONU Observatory. Notice the rays of light emanating from over the tree in the bottom right corner.</div>",
+      "fileSize": 5642007,
+      "name": "2022-05-30-LightPollutionMovie_W.jpg",
+      "comment": "Canon T5i movie showing the effects of local light pollution near the ONU Observatory. Notice the rays of light emanating from over the tree in the bottom right corner.",
+      "category": "video"
+    },
+    {
+      "image": {
+        "path": "2022-05-30-Dipper-4745fx_sW.JPG",
+        "width": 1920,
+        "height": 1280
+      },
+      "thumb": {
+        "path": "thumbs/2022-05-30-Dipper-4745fx_sW.JPG",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Big Dipper Star Trail</div><div class=\"comment\">220 second star trail of the Big Dipper in Ursa Major. Taken with Canon Digital Rebel XT.</div>",
+      "photodata": "<p><b>Title</b> <i>Big Dipper Star Trail</i></p><p><b>Description</b> <i>220 second star trail of the Big Dipper in Ursa Major. Taken with Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>5/31/22, 1:38 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>49mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>220.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653975511
+      },
+      "fileDate": "2022-06-01T12:07:19.0Z",
+      "title": "Big Dipper Star Trail",
+      "path": "2022-05-30-Dipper-4745fx_sW.JPG",
+      "imageCaption": "<div class=\"title\">Big Dipper Star Trail</div><div class=\"comment\">220 second star trail of the Big Dipper in Ursa Major. Taken with Canon Digital Rebel XT.</div>",
+      "fileSize": 853558,
+      "name": "2022-05-30-Dipper-4745fx_sW.JPG",
+      "comment": "220 second star trail of the Big Dipper in Ursa Major. Taken with Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "220.0s",
+        "originalDate": "2022-05-31T01:38:31.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "49mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "30mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-LittleDipper-4750fx_sW.JPG",
+        "width": 1920,
+        "height": 1280
+      },
+      "thumb": {
+        "path": "thumbs/2022-05-30-LittleDipper-4750fx_sW.JPG",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Little Dipper Star Trail</div><div class=\"comment\">158 second star trail of the Little Dipper in Ursa Minor. Taken with Canon Digital Rebel XT.</div>",
+      "photodata": "<p><b>Title</b> <i>Little Dipper Star Trail</i></p><p><b>Description</b> <i>158 second star trail of the Little Dipper in Ursa Minor. Taken with Canon Digital Rebel XT.</i></p><p><b>Original Date</b> <i>5/31/22, 1:57 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>45mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>158.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653976677
+      },
+      "fileDate": "2022-06-01T12:07:18.0Z",
+      "title": "Little Dipper Star Trail",
+      "path": "2022-05-30-LittleDipper-4750fx_sW.JPG",
+      "imageCaption": "<div class=\"title\">Little Dipper Star Trail</div><div class=\"comment\">158 second star trail of the Little Dipper in Ursa Minor. Taken with Canon Digital Rebel XT.</div>",
+      "fileSize": 755691,
+      "name": "2022-05-30-LittleDipper-4750fx_sW.JPG",
+      "comment": "158 second star trail of the Little Dipper in Ursa Minor. Taken with Canon Digital Rebel XT.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "158.0s",
+        "originalDate": "2022-05-31T01:57:57.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "45mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "28mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-MilkyWay-4757_sW.JPG",
+        "width": 1920,
+        "height": 1280
+      },
+      "thumb": {
+        "path": "thumbs/2022-05-30-MilkyWay-4757_sW.JPG",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Milky Way</div><div class=\"comment\">72 second exposure of Sagittarius and the center of the Milky Way. Dust lanes and star clouds are visible above the roof of the observatory.</div>",
+      "photodata": "<p><b>Title</b> <i>Milky Way</i></p><p><b>Description</b> <i>72 second exposure of Sagittarius and the center of the Milky Way. Dust lanes and star clouds are visible above the roof of the observatory.</i></p><p><b>Original Date</b> <i>5/31/22, 2:27 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>45mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>72.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653978464
+      },
+      "fileDate": "2022-06-01T12:07:18.0Z",
+      "title": "Milky Way",
+      "path": "2022-05-30-MilkyWay-4757_sW.JPG",
+      "imageCaption": "<div class=\"title\">Milky Way</div><div class=\"comment\">72 second exposure of Sagittarius and the center of the Milky Way. Dust lanes and star clouds are visible above the roof of the observatory.</div>",
+      "fileSize": 621706,
+      "name": "2022-05-30-MilkyWay-4757_sW.JPG",
+      "comment": "72 second exposure of Sagittarius and the center of the Milky Way. Dust lanes and star clouds are visible above the roof of the observatory.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "72.0s",
+        "originalDate": "2022-05-31T02:27:44.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "45mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "28mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2022-05-30-StarTrail_sW.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2022-05-30-StarTrail_sW.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Ursa Minor star trail - focused!  </div><div class=\"comment\">Ursa Minor star trail - focused!  349 sec exposure with the Canon Digital Rebel XT fixed on a tripod and pointed at just above the north celestial pole.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Ursa Minor star trail - focused!  </i></p><p><b>Description</b> <i>Ursa Minor star trail - focused!  349 sec exposure with the Canon Digital Rebel XT fixed on a tripod and pointed at just above the north celestial pole.</i></p><p><b>Original Date</b> <i>5/31/22, 2:10 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>45mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>1600</i></p><p><b>Exposure Time</b> <i>349.0s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1920 x 1280</i></p>",
+      "dates": {
+        "dateTaken": 1653977421
+      },
+      "fileDate": "2023-01-05T18:28:43.522Z",
+      "title": "Ursa Minor star trail - focused!  ",
+      "path": "2022-05-30-StarTrail_sW.jpg",
+      "imageCaption": "<div class=\"title\">Ursa Minor star trail - focused!  </div><div class=\"comment\">Ursa Minor star trail - focused!  349 sec exposure with the Canon Digital Rebel XT fixed on a tripod and pointed at just above the north celestial pole.</div>",
+      "fileSize": 1025222,
+      "name": "2022-05-30-StarTrail_sW.jpg",
+      "comment": "Ursa Minor star trail - focused!  349 sec exposure with the Canon Digital Rebel XT fixed on a tripod and pointed at just above the north celestial pole.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "349.0s",
+        "originalDate": "2022-05-31T02:10:21.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "45mm",
+        "resolution": "1920 x 1280",
+        "cameraMake": "Canon",
+        "isoEquivalent": 1600,
+        "flash": "Flash did not fire",
+        "focalLength": "28mm"
+      }
+    }
+  ],
+  "name": "Sky1",
+  "comment": "Images of the sky: planetary or lunar conjunctions, occultations, constellations, aurorae, star trails, and more!",
+  "dates": {
+    "dateRange": {
+      "0": 1179586615,
+      "1": 1376286082
+    }
+  },
+  "fileDate": "2023-01-05T18:01:20.783Z",
+  "title": "The Sky"
+}

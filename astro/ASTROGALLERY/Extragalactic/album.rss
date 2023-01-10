@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Extragalactic</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Various objects outside of the Milky Way galaxy.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>M82</title>
+            <link>slides/2020-04-14-M82_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M82 taken with Celestron 11-inch and the Canon T5i.  M82 is the small companion to M81 and their interaction is suggested by radio imagery.  It is of type I0  (irregular) and is the closest starburst galaxy to our Milky Way.</description>
+            <media:description type="html">M82 taken with Celestron 11-inch and the Canon T5i.  M82 is the small companion to M81 and their interaction is suggested by radio imagery.  It is of type I0  (irregular) and is the closest starburst galaxy to our Milky Way.</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-M82_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-04-14-M82_W.jpg" width="785" height="800"/>
+            <jalbum:exif originalDate="Wed, 15 Apr 2020 00:05:03 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-04-14-M82_W.jpg</guid>
+        </item>
+        <item>
+            <title>NGC 2403</title>
+            <link>slides/2020-04-14-NGC2403_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>NGC 2403 taken with the Canon T5i on the Celestron C11.  This is a nearby (3 Mpc) type Scd galaxy.  It is nearly bulgeless.</description>
+            <media:description type="html">NGC 2403 taken with the Canon T5i on the Celestron C11.  This is a nearby (3 Mpc) type Scd galaxy.  It is nearly bulgeless.</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-NGC2403_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-04-14-NGC2403_W.jpg" width="1000" height="735"/>
+            <jalbum:exif originalDate="Tue, 14 Apr 2020 22:14:44 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-04-14-NGC2403_W.jpg</guid>
+        </item>
+        <item>
+            <title>3C 273 - brightest quasar</title>
+            <link>slides/2022-05-04-3C-273-Quasar_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>3C 273, a faint (12.9 mag) dot in the circle, is the brightest quasar in the sky and one of the closest.  Distance = 750 Mpc (2.4 billion LY).  Type blazar.  This 120 sec exposure is not long enough or clear enough to bring out the optical jet. </description>
+            <media:description type="html">3C 273, a faint (12.9 mag) dot in the circle, is the brightest quasar in the sky and one of the closest.  Distance = 750 Mpc (2.4 billion LY).  Type blazar.  This 120 sec exposure is not long enough or clear enough to bring out the optical jet. </media:description>
+            <media:thumbnail url="thumbs/2022-05-04-3C-273-Quasar_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2022-05-04-3C-273-Quasar_W.jpg" width="1000" height="563"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 21:29:39 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2022-05-04-3C-273-Quasar_W.jpg</guid>
+        </item>
+        <item>
+            <title>M51- Whirlpool Galaxy</title>
+            <link>slides/DeepSky0026fxM51_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M51, the Whirlpool Galaxy. This spiral galaxy is unusual in that it is interacting with a dwarf irregular galaxy (NGC 5195) nearby. It is grand design spiral of type Sbc.
+
+DSI II CCD, Meade 80mm apochromatic refractor.</description>
+            <media:description type="html">M51, the Whirlpool Galaxy. This spiral galaxy is unusual in that it is interacting with a dwarf irregular galaxy (NGC 5195) nearby. It is grand design spiral of type Sbc.
+
+DSI II CCD, Meade 80mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0026fxM51_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DeepSky0026fxM51_W.jpg" width="748" height="577"/>
+            <guid isPermaLink="false">slides/DeepSky0026fxM51_W.jpg</guid>
+        </item>
+        <item>
+            <title>M101</title>
+            <link>slides/DeepSky0060bM101_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M101, also known as the Pinwheel Galaxy. This grand-design spiral galaxy is of type Sc.
+
+DSI II CCD on the Meade 80mm apochromatic refractor. </description>
+            <media:description type="html">M101, also known as the Pinwheel Galaxy. This grand-design spiral galaxy is of type Sc.
+
+DSI II CCD on the Meade 80mm apochromatic refractor. </media:description>
+            <media:thumbnail url="thumbs/DeepSky0060bM101_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DeepSky0060bM101_W.jpg" width="662" height="569"/>
+            <guid isPermaLink="false">slides/DeepSky0060bM101_W.jpg</guid>
+        </item>
+        <item>
+            <title>M101</title>
+            <link>slides/DeepSky0063bfxM101_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M101 in 2013.  Comparison with previous 2011 picture reveals some colorful hot pixels (not to be confused with supernovae).
+
+DSI II CCD, Meade 80mm apochromatic refractor.  The arms should have a bluer color.  </description>
+            <media:description type="html">M101 in 2013.  Comparison with previous 2011 picture reveals some colorful hot pixels (not to be confused with supernovae).
+
+DSI II CCD, Meade 80mm apochromatic refractor.  The arms should have a bluer color.  </media:description>
+            <media:thumbnail url="thumbs/DeepSky0063bfxM101_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DeepSky0063bfxM101_W.jpg" width="678" height="563"/>
+            <guid isPermaLink="false">slides/DeepSky0063bfxM101_W.jpg</guid>
+        </item>
+        <item>
+            <title>M31</title>
+            <link>slides/DeepSky0073bM31fx_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M31
+
+DSI II CCD with 12&quot; Meade LX200.</description>
+            <media:description type="html">M31
+
+DSI II CCD with 12&quot; Meade LX200.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0073bM31fx_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DeepSky0073bM31fx_W.jpg" width="748" height="577"/>
+            <guid isPermaLink="false">slides/DeepSky0073bM31fx_W.jpg</guid>
+        </item>
+        <item>
+            <title>M110</title>
+            <link>slides/DeepSky0075-1bfxM110_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M110- a dwarf galaxy that is a satellite of the Andromeda Galaxy.
+
+DSI II CCD, Meade 80mm apochromatic refractor.</description>
+            <media:description type="html">M110- a dwarf galaxy that is a satellite of the Andromeda Galaxy.
+
+DSI II CCD, Meade 80mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0075-1bfxM110_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DeepSky0075-1bfxM110_W.jpg" width="690" height="553"/>
+            <guid isPermaLink="false">slides/DeepSky0075-1bfxM110_W.jpg</guid>
+        </item>
+        <item>
+            <title>M82 with supernova</title>
+            <link>slides/DSI17M82supernova_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>Messier 82 (nearby starburst) taken while there was a supernova going off in 2014.  This image is flipped vertically from the true orientation.</description>
+            <media:description type="html">Messier 82 (nearby starburst) taken while there was a supernova going off in 2014.  This image is flipped vertically from the true orientation.</media:description>
+            <media:thumbnail url="thumbs/DSI17M82supernova_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/DSI17M82supernova_W.jpg" width="748" height="577"/>
+            <guid isPermaLink="false">slides/DSI17M82supernova_W.jpg</guid>
+        </item>
+        <item>
+            <title>M31 center</title>
+            <link>slides/IMG_1942_M31center_W.JPG</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>The center of Sb galaxy M31, the closest bright spiral to the Milky Way.  Distance=2.4 MLY.  Patchy dust is visible around the nucleus. </description>
+            <media:description type="html">The center of Sb galaxy M31, the closest bright spiral to the Milky Way.  Distance=2.4 MLY.  Patchy dust is visible around the nucleus. </media:description>
+            <media:thumbnail url="thumbs/IMG_1942_M31center_W.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_1942_M31center_W.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sun, 04 Aug 2019 23:57:04 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/IMG_1942_M31center_W.JPG</guid>
+        </item>
+        <item>
+            <title>M31</title>
+            <link>slides/M31Rcomb8_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M31 (center) with satellite ellipticals M32 (below) and M110 (above, right). A bit out of focus, but good for showing the dust lanes in M31.
+
+Atik 383L CCD on the 80 mm Meade APO refractor.</description>
+            <media:description type="html">M31 (center) with satellite ellipticals M32 (below) and M110 (above, right). A bit out of focus, but good for showing the dust lanes in M31.
+
+Atik 383L CCD on the 80 mm Meade APO refractor.</media:description>
+            <media:thumbnail url="thumbs/M31Rcomb8_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M31Rcomb8_W.jpg" width="822" height="640"/>
+            <guid isPermaLink="false">slides/M31Rcomb8_W.jpg</guid>
+        </item>
+        <item>
+            <title>M31 (Andromeda Galaxy)</title>
+            <link>slides/M31RGBrot_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>Close up of the bulge of M31, the Andromeda galaxy. Taken with the Atik CCD through RGB filters using the Celestron C11.  The dust absorption is stronger on the top side because that is the closer side to us.</description>
+            <media:description type="html">Close up of the bulge of M31, the Andromeda galaxy. Taken with the Atik CCD through RGB filters using the Celestron C11.  The dust absorption is stronger on the top side because that is the closer side to us.</media:description>
+            <media:thumbnail url="thumbs/M31RGBrot_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M31RGBrot_W.jpg" width="619" height="556"/>
+            <jalbum:exif originalDate="Mon, 24 Oct 2016 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">slides/M31RGBrot_W.jpg</guid>
+        </item>
+        <item>
+            <title>M33</title>
+            <link>slides/M33comb13all_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M33 in the constellation Triangulum.  N is up and E to left.
+
+Atik 383L CCD on the Meade 80 mm APO.  13 exposures were aligned and combined.</description>
+            <media:description type="html">M33 in the constellation Triangulum.  N is up and E to left.
+
+Atik 383L CCD on the Meade 80 mm APO.  13 exposures were aligned and combined.</media:description>
+            <media:thumbnail url="thumbs/M33comb13all_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M33comb13all_W.jpg" width="1000" height="694"/>
+            <guid isPermaLink="false">slides/M33comb13all_W.jpg</guid>
+        </item>
+        <item>
+            <title>M33</title>
+            <link>slides/M33comb13nuc2_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M33 in Triangulum.  N is up.
+Atik 383L CCD on the 80 mm APO.  Display adjusted to reveal nucleus but not outer arms.</description>
+            <media:description type="html">M33 in Triangulum.  N is up.
+Atik 383L CCD on the 80 mm APO.  Display adjusted to reveal nucleus but not outer arms.</media:description>
+            <media:thumbnail url="thumbs/M33comb13nuc2_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M33comb13nuc2_W.jpg" width="318" height="383"/>
+            <guid isPermaLink="false">slides/M33comb13nuc2_W.jpg</guid>
+        </item>
+        <item>
+            <title>M33 in color</title>
+            <link>slides/M33RGB2_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M33 in color.  Taken with Atik CCD on the Celestron C11.  </description>
+            <media:description type="html">M33 in color.  Taken with Atik CCD on the Celestron C11.  </media:description>
+            <media:thumbnail url="thumbs/M33RGB2_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M33RGB2_W.jpg" width="690" height="605"/>
+            <jalbum:exif originalDate="Mon, 24 Oct 2016 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">slides/M33RGB2_W.jpg</guid>
+        </item>
+        <item>
+            <title>M33 (negative)</title>
+            <link>slides/M33sum13Invert_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>An color inverted, black and white view of M33.  N is up and E to the left. Atik CCD on the 80 mm APO refracter.</description>
+            <media:description type="html">An color inverted, black and white view of M33.  N is up and E to the left. Atik CCD on the 80 mm APO refracter.</media:description>
+            <media:thumbnail url="thumbs/M33sum13Invert_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M33sum13Invert_W.jpg" width="1000" height="655"/>
+            <guid isPermaLink="false">slides/M33sum13Invert_W.jpg</guid>
+        </item>
+        <item>
+            <title>Leo Triplet</title>
+            <link>slides/leotriplet2_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>The Leo Triplet taken with the Atik CCD on the Meade 12-inch. The triplet includes M65 (top right), M66 (lower right), and NGC 3628 (left).  Hot pixels and cosmic rays have not yet been removed.</description>
+            <media:description type="html">The Leo Triplet taken with the Atik CCD on the Meade 12-inch. The triplet includes M65 (top right), M66 (lower right), and NGC 3628 (left).  Hot pixels and cosmic rays have not yet been removed.</media:description>
+            <media:thumbnail url="thumbs/leotriplet2_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/leotriplet2_W.jpg" width="749" height="558"/>
+            <jalbum:exif originalDate="Tue, 02 Apr 2013 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">slides/leotriplet2_W.jpg</guid>
+        </item>
+        <item>
+            <title>M31- Andromeda Galaxy</title>
+            <link>slides/M31-M32R50sub_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M31, also known as the Andromeda Galaxy. This galaxy is the nearest spiral galaxy to our own, and can be seen with the naked eye in the constellation Andromeda. It is of classification Sb.  The fuzzy orb below center is M32, and elliptical galaxy orbitting M31. North is up and East to the left.
+
+Atik 383L CCD on the Meade 80 mm APO provides about a 2-degree vertical field of view.</description>
+            <media:description type="html">M31, also known as the Andromeda Galaxy. This galaxy is the nearest spiral galaxy to our own, and can be seen with the naked eye in the constellation Andromeda. It is of classification Sb.  The fuzzy orb below center is M32, and elliptical galaxy orbitting M31. North is up and East to the left.
+
+Atik 383L CCD on the Meade 80 mm APO provides about a 2-degree vertical field of view.</media:description>
+            <media:thumbnail url="thumbs/M31-M32R50sub_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/M31-M32R50sub_W.jpg" width="462" height="671"/>
+            <guid isPermaLink="false">slides/M31-M32R50sub_W.jpg</guid>
+        </item>
+        <item>
+            <title>M66</title>
+            <link>slides/2022-03-28-M66_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>Messier 66 taken with the Canon T5i on the Celestron C11.  This 60 sec exposure is not deep enough to see the full extent of the spiral arms, but the colors are fairly accurate.  This is an SAB(s)b galaxy in the Leo triplet</description>
+            <media:description type="html">Messier 66 taken with the Canon T5i on the Celestron C11.  This 60 sec exposure is not deep enough to see the full extent of the spiral arms, but the colors are fairly accurate.  This is an SAB(s)b galaxy in the Leo triplet</media:description>
+            <media:thumbnail url="thumbs/2022-03-28-M66_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2022-03-28-M66_W.jpg" width="1000" height="768"/>
+            <jalbum:exif originalDate="Mon, 28 Mar 2022 20:55:46 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2022-03-28-M66_W.jpg</guid>
+        </item>
+        <item>
+            <title>M81 (NGC 3031)</title>
+            <link>slides/2020-04-14-M81_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 13:31:03 -0500</pubDate>
+            <description>M81 taken with the Canon T5i on Celestron 11-inch.  M81 is considered a grand design spiral with Hubble type Sab (unbarred).</description>
+            <media:description type="html">M81 taken with the Canon T5i on Celestron 11-inch.  M81 is considered a grand design spiral with Hubble type Sab (unbarred).</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-M81_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-04-14-M81_W.jpg" width="993" height="800"/>
+            <jalbum:exif originalDate="Wed, 15 Apr 2020 00:14:20 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-04-14-M81_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

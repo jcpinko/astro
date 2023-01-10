@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Neptune</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Neptune and Triton</title>
+            <link>slides/2011-10-31-Neptune28fx_W.jpg</link>
+            <pubDate>Wed, 17 Aug 2022 17:22:04 -0400</pubDate>
+            <description>2011-10-31. Neptune, with possibly Triton as a faint dot just below the planet. Using Meade LX200 with eyepiece projection.</description>
+            <media:description type="html">2011-10-31. Neptune, with possibly Triton as a faint dot just below the planet. Using Meade LX200 with eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2011-10-31-Neptune28fx_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2011-10-31-Neptune28fx_W.jpg" width="748" height="577"/>
+            <jalbum:exif originalDate="Mon, 31 Oct 2011 00:00:00 -0400" cameraMake="Meade" cameraModel="DSI II"/>
+            <guid isPermaLink="false">slides/2011-10-31-Neptune28fx_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

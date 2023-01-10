@@ -1,0 +1,27 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+2004-06-08-VenusTransit_W.jpg		1660150913
+2011-11-08-CanonOld-sunmovie.gif		1660150913
+2011-11-08-Sun-2201fx_W.jpg		1660150913
+2011-11-08-Sun-2203fx_W.jpg		1660150913
+2011-11-08-Sun-2204fx_W.jpg		1660150913
+2012-06-05-VenusTransit-2469_W.jpg		1660150913
+2012-06-05-VenusTransit-2478fx_W.jpg		1660150913
+2012-06-05-VenusTransit-2480_W.jpg		1660150913
+2015-07-16-Sun-3957_W.jpg		1660150913
+2016-01-29-Sunspot.mpg		1660150913
+2016-03-08-Prominence-bright_W.jpg		1660150913
+2016-03-08-Prominence_W.jpg		1660150913
+2017-07-08-Mottling295_W.jpg		1660150913
+2017-07-08-Mottling295_W.webp		1660156015
+2017-07-08-Prominence_W.jpg		1660150913
+2017-07-08-PromMott271_W.jpg		1660150913
+2019-05-14-Sun2-cropped-web_W.tif		1660150913
+test4.mp4		1661016901
+2017-06-02-Sun-Pan.mp4		1661016901

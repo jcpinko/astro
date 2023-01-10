@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Students and Events</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>This menu contains multiple galleries of students and events!</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>ONU Astronomy Club</title>
+            <link>2022-03-30-Group1.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:38:17 -0500</pubDate>
+            <description>Click here to view images of the ONU Astro Club over the years, from Spring 2007 to Spring 2022!</description>
+            <media:description type="html">Click here to view images of the ONU Astro Club over the years, from Spring 2007 to Spring 2022!</media:description>
+            <media:thumbnail url="thumbs/2022-03-30-Group1.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-03-30-Group1.jpg" width="3208" height="2138"/>
+            <jalbum:exif originalDate="Wed, 30 Mar 2022 20:56:29 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-03-30-Group1.jpg</guid>
+        </item>
+        <item>
+            <title>Kitt Peak &amp; MDM</title>
+            <link>012-IMG_2380.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 19:38:17 -0500</pubDate>
+            <description>An ONU student had the opportunity to visit Kitt Peak and MDM Observatory in 2012 - a premier astronomical experience!</description>
+            <media:description type="html">An ONU student had the opportunity to visit Kitt Peak and MDM Observatory in 2012 - a premier astronomical experience!</media:description>
+            <media:thumbnail url="thumbs/012-IMG_2380.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="012-IMG_2380.jpeg" width="800" height="533"/>
+            <guid isPermaLink="false">012-IMG_2380.jpeg</guid>
+        </item>
+        <item>
+            <title>2012 Venus Transit</title>
+            <link>IMG_2485sm.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:38:17 -0500</pubDate>
+            <description>Click here for a few images of the ONU Observatory&apos;s public event for the 2012 transit of Venus across the Sun!</description>
+            <media:description type="html">Click here for a few images of the ONU Observatory&apos;s public event for the 2012 transit of Venus across the Sun!</media:description>
+            <media:thumbnail url="thumbs/IMG_2485sm.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2485sm.JPG" width="800" height="533"/>
+            <jalbum:exif originalDate="Tue, 05 Jun 2012 19:32:18 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2485sm.JPG</guid>
+        </item>
+        <item>
+            <title>2017 Solar Eclipse</title>
+            <link>20170821_Eclipse_6919.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:38:17 -0500</pubDate>
+            <description>Click here to view images from the ONU Observatory&apos;s public solar eclipse viewing event in 2017!</description>
+            <media:description type="html">Click here to view images from the ONU Observatory&apos;s public solar eclipse viewing event in 2017!</media:description>
+            <media:thumbnail url="thumbs/20170821_Eclipse_6919.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="20170821_Eclipse_6919.jpg" width="2400" height="1600"/>
+            <guid isPermaLink="false">20170821_Eclipse_6919.jpg</guid>
+        </item>
+    </channel>
+</rss>

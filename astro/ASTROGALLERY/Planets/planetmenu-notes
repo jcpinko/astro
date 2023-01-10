@@ -1,0 +1,32 @@
+Created planetmenu from (watermarked and cropped) source images using jAlbum.
+Ordered images in order away from Sun.
+
+Set title: The Planets
+Set description: Click on a planet below to view more images.
+
+---
+
+My Modifications
+
+Removed share and slideshow buttons.
+Removed search bar.
+Deleted shareimage.jpg
+Deleted slides directory (won't be necessary)
+Replaced folderimage.jpg and folderimg.jpg (existing pictures of jupiter from thumbnail selection) with conjunction image
+
+Changed hrefs (links) to the following:
+Venus/album/
+Mars/album/
+Jupiter/album/
+Saturn/album/
+Uranus/album/
+Neptune/album/
+
+IMPORTANT:
+Delete the following:
+data1.json
+deep-data.json
+album.rss
+
+If you don't, the links won't go where they are supposed to. BUT this also removes most viewing functionality (which is fine for this menu only).
+I will need to figure out an alternative method for other subgalleries within galleries that require viewing functionality. Perhaps editing the json file will work.

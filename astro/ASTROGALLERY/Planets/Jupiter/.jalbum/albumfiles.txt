@@ -1,0 +1,28 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+2012-12-11-Jupiter-Q20CL_W.jpg		1660769308
+2021-10-01-Jupiter-comb.gif		1660769308
+2006-04-18-Jupiter-Moons-551_W.jpg		1660769308
+2005-04-06-Jupiter-4m_W.jpg		1660769308
+2010-09-12-Jupiter-GalMoons-1755fx_W.jpg		1660769308
+2010-09-24-Jupiter-1756fx_W.jpg		1660769308
+2011-10-31-Jupiter-3m-36_W.jpg		1660769308
+2012-12-11-Jupiter-Q25GL_W.jpg		1660769308
+2013-11-23-Jupiter-webL_W.tif		1660769308
+2012-12-23-JupiterL_W.tif		1660769308
+2018-05-23-Jupiter-nogrs-web_W.tif		1660769308
+2018-05-24-Jupiter-3m_W.jpg		1660769308
+2018-05-24-Jupiter-web-flip_W.tif		1660769308
+2018-05-24-Jupiter3-web_W.tif		1660769308
+2020-08-17-Jupiter-webL_W.tif		1660769308
+2020-08-21-Jupiter-viewer-web_W.jpg		1660769308
+2020-08-21-Jupiter-webL_W.tif		1660769308
+2020-09-21-Jupiter-nogrs-web_W.tif		1660769308
+2021-08-20-Jupiter-Moons-Label_W.jpg		1660769308
+2021-10-01-Jupiter_W.tif		1660769308

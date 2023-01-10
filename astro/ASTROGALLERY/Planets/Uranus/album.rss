@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Uranus</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Uranus diagram</title>
+            <link>slides/2011-10-31-Uranus-viewer_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:23:38 -0500</pubDate>
+            <description>How Uranus and its moons were arranged on October 31.</description>
+            <media:description type="html">How Uranus and its moons were arranged on October 31.</media:description>
+            <media:thumbnail url="thumbs/2011-10-31-Uranus-viewer_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2011-10-31-Uranus-viewer_W.jpg" width="597" height="636"/>
+            <guid isPermaLink="false">slides/2011-10-31-Uranus-viewer_W.jpg</guid>
+        </item>
+        <item>
+            <title>Uranus and its Moons</title>
+            <link>slides/2011-10-31-Uranus33_flip_rot_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:23:38 -0500</pubDate>
+            <description>Uranus with 3 moons visible: Titania, Ariel, and Oberon (from top to bottom). Taken with Meade LX200 with eyepiece projection.</description>
+            <media:description type="html">Uranus with 3 moons visible: Titania, Ariel, and Oberon (from top to bottom). Taken with Meade LX200 with eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2011-10-31-Uranus33_flip_rot_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2011-10-31-Uranus33_flip_rot_W.jpg" width="577" height="748"/>
+            <jalbum:exif originalDate="Mon, 31 Oct 2011 00:00:00 -0400" cameraMake="Meade" cameraModel="DSI II"/>
+            <guid isPermaLink="false">slides/2011-10-31-Uranus33_flip_rot_W.jpg</guid>
+        </item>
+        <item>
+            <title>Uranus and its Moons</title>
+            <link>slides/2011-10-31-Uranus33_fr2_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:23:38 -0500</pubDate>
+            <description>Uranus with 3 moons visible: Titania, Ariel, and Oberon (from top to bottom). Taken with Meade LX200 with eyepiece projection. Higher contrast for easier spotting.</description>
+            <media:description type="html">Uranus with 3 moons visible: Titania, Ariel, and Oberon (from top to bottom). Taken with Meade LX200 with eyepiece projection. Higher contrast for easier spotting.</media:description>
+            <media:thumbnail url="thumbs/2011-10-31-Uranus33_fr2_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2011-10-31-Uranus33_fr2_W.jpg" width="577" height="748"/>
+            <guid isPermaLink="false">slides/2011-10-31-Uranus33_fr2_W.jpg</guid>
+        </item>
+        <item>
+            <title>Uranus with 3 Moons (Labeled)</title>
+            <link>slides/2011-10-31-Uranus33_label_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:23:38 -0500</pubDate>
+            <description>Uranus with 3 moons visible: Titania, Ariel, and Oberon (labeled). Taken with Meade LX200 with eyepiece projection.</description>
+            <media:description type="html">Uranus with 3 moons visible: Titania, Ariel, and Oberon (labeled). Taken with Meade LX200 with eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2011-10-31-Uranus33_label_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2011-10-31-Uranus33_label_W.jpg" width="577" height="748"/>
+            <jalbum:exif originalDate="Mon, 31 Oct 2011 00:00:00 -0400" cameraMake="Meade" cameraModel="DSI II"/>
+            <guid isPermaLink="false">slides/2011-10-31-Uranus33_label_W.jpg</guid>
+        </item>
+        <item>
+            <title>Uranus</title>
+            <link>slides/2013-11-30-Uranus-webL_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:23:38 -0500</pubDate>
+            <description>Uranus taken with Logitech webcam on Meade LX200.</description>
+            <media:description type="html">Uranus taken with Logitech webcam on Meade LX200.</media:description>
+            <media:thumbnail url="thumbs/2013-11-30-Uranus-webL_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2013-11-30-Uranus-webL_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="" cameraMake="Logitech" cameraModel="Webcam"/>
+            <guid isPermaLink="false">slides/2013-11-30-Uranus-webL_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

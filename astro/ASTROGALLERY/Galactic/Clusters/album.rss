@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Star Clusters</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Star Clusters of our galaxy.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>M3 </title>
+            <link>2022-05-04-M3_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Messier 3 - a 6.4 magnitude globular cluster in the constellation Canes Venatici.  Taken with the Canon T5i on the 80 mm apochromatic refractor.</description>
+            <media:description type="html">Messier 3 - a 6.4 magnitude globular cluster in the constellation Canes Venatici.  Taken with the Canon T5i on the 80 mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/2022-05-04-M3_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-05-04-M3_sW.jpg" width="1860" height="1513"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 21:16:27 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-05-04-M3_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M5</title>
+            <link>M5Rwidefx_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Globular cluster M5 showing full frame.
+
+Atik 383L CCD, R-filter, through the 80mm Meade apochromatic refractor.</description>
+            <media:description type="html">Globular cluster M5 showing full frame.
+
+Atik 383L CCD, R-filter, through the 80mm Meade apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/M5Rwidefx_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M5Rwidefx_sW.jpg" width="528" height="553"/>
+            <guid isPermaLink="false">M5Rwidefx_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M5</title>
+            <link>M5Rred_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description> M5, globular cluster in Serpens.  The red color pallette is for fun and does not give accurate colors, although the stars in globular clusters are truly old and contain no O or B blue stars.  
+
+Atik 383L CCD on the Meade 80mm apochromatic refractor.</description>
+            <media:description type="html"> M5, globular cluster in Serpens.  The red color pallette is for fun and does not give accurate colors, although the stars in globular clusters are truly old and contain no O or B blue stars.  
+
+Atik 383L CCD on the Meade 80mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/M5Rred_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M5Rred_sW.jpg" width="555" height="597"/>
+            <guid isPermaLink="false">M5Rred_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Messier 13 - globular cluster.</title>
+            <link>M13rgb2fx_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Messier 13, a globular cluster in the keystone of Hercules.  One of the brightest of the globular clusters that orbit our Galaxy.  Taken with R, G, and B filters using the Atik CCD on the apochromatic refractor in 2015 and cropped down.</description>
+            <media:description type="html">Messier 13, a globular cluster in the keystone of Hercules.  One of the brightest of the globular clusters that orbit our Galaxy.  Taken with R, G, and B filters using the Atik CCD on the apochromatic refractor in 2015 and cropped down.</media:description>
+            <media:thumbnail url="thumbs/M13rgb2fx_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M13rgb2fx_sW.jpg" width="1681" height="1268"/>
+            <guid isPermaLink="false">M13rgb2fx_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Messier 38</title>
+            <link>IMG_1669M38Nup_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Messier 38, aka the Starfish Cluster, is an open cluster in Auriga.  The small concentration of stars at the bottom is probably NGC 1907.</description>
+            <media:description type="html">Messier 38, aka the Starfish Cluster, is an open cluster in Auriga.  The small concentration of stars at the bottom is probably NGC 1907.</media:description>
+            <media:thumbnail url="thumbs/IMG_1669M38Nup_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1669M38Nup_sW.JPG" width="1920" height="1643"/>
+            <jalbum:exif originalDate="Sun, 09 Dec 2018 23:32:53 -0500" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1669M38Nup_sW.JPG</guid>
+        </item>
+        <item>
+            <title>M44 - the Praesepe</title>
+            <link>2022-05-04-M44-Praesepe-Beehive_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M44, the Praesepe star cluster in Cancer.  A very nearby cluster (600 LY) requiring a wide field of view to capture.  This was taken with the Canon T5i on the 80 mm apo refractor.</description>
+            <media:description type="html">M44, the Praesepe star cluster in Cancer.  A very nearby cluster (600 LY) requiring a wide field of view to capture.  This was taken with the Canon T5i on the 80 mm apo refractor.</media:description>
+            <media:thumbnail url="thumbs/2022-05-04-M44-Praesepe-Beehive_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-05-04-M44-Praesepe-Beehive_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 21:10:28 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-05-04-M44-Praesepe-Beehive_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M44 - Praesepe</title>
+            <link>PraesepeRGB1_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M44, also known as the Praesepe or the Beehive Cluster, located in Cancer. 
+
+Taken with an Atik 343L CCD and an 80mm Meade apochromatic refractor.</description>
+            <media:description type="html">M44, also known as the Praesepe or the Beehive Cluster, located in Cancer. 
+
+Taken with an Atik 343L CCD and an 80mm Meade apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/PraesepeRGB1_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="PraesepeRGB1_sW.jpg" width="836" height="626"/>
+            <guid isPermaLink="false">PraesepeRGB1_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M45- The Pleiades</title>
+            <link>PleiadesRGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M45, also known as the Pleiades or the Seven Sisters, is one of the nearest open clusters to Earth. Composed of a grouping of hot young blue stars and their associated reflection nebula, the Pleiades are easily visible to the naked eye near the constellation Taurus, even from light-polluted skies. Taken with Atik 383L CCD and Meade 80mm apochromatic refractor. The colors are not quite accurate although the nebulosity is blue.</description>
+            <media:description type="html">M45, also known as the Pleiades or the Seven Sisters, is one of the nearest open clusters to Earth. Composed of a grouping of hot young blue stars and their associated reflection nebula, the Pleiades are easily visible to the naked eye near the constellation Taurus, even from light-polluted skies. Taken with Atik 383L CCD and Meade 80mm apochromatic refractor. The colors are not quite accurate although the nebulosity is blue.</media:description>
+            <media:thumbnail url="thumbs/PleiadesRGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="PleiadesRGB_sW.jpg" width="605" height="455"/>
+            <guid isPermaLink="false">PleiadesRGB_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M45 the Pleiades star cluster.</title>
+            <link>IMG_1660Pleiades3_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M45 the Pleiades star cluster in Taurus. Rotated so that North is up.  The blue reflection nebula is barely visible, especially below the bright star just below center.
+Canon T5i on the Meade 80 mm apochromatic refractor.</description>
+            <media:description type="html">M45 the Pleiades star cluster in Taurus. Rotated so that North is up.  The blue reflection nebula is barely visible, especially below the bright star just below center.
+Canon T5i on the Meade 80 mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/IMG_1660Pleiades3_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_1660Pleiades3_sW.jpg" width="1920" height="2880"/>
+            <jalbum:exif originalDate="Sun, 09 Dec 2018 23:23:20 -0500" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_1660Pleiades3_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M45- The Pleiades</title>
+            <link>M45RGBconv1_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M45, the Pleiades star cluster in Taurus.  Also known as the Seven Sisters because about seven of the stars are visible to most people&apos;s unaided eye.  This is a relatively young star cluster which is moving through dust to create a reflection nebula (barely visible here).  Atik CCD on 80 mm apochromatic refractor.</description>
+            <media:description type="html">M45, the Pleiades star cluster in Taurus.  Also known as the Seven Sisters because about seven of the stars are visible to most people&apos;s unaided eye.  This is a relatively young star cluster which is moving through dust to create a reflection nebula (barely visible here).  Atik CCD on 80 mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/M45RGBconv1_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M45RGBconv1_sW.jpeg" width="944" height="707"/>
+            <guid isPermaLink="false">M45RGBconv1_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>M67 star cluster</title>
+            <link>2022-05-04-M67_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>M67 is one of the oldest known open star clusters.  Most open clusters are much less than 1 billion years old, but this one is about 3-5 billion years old. It is fairly close, at 2700 LY. </description>
+            <media:description type="html">M67 is one of the oldest known open star clusters.  Most open clusters are much less than 1 billion years old, but this one is about 3-5 billion years old. It is fairly close, at 2700 LY. </media:description>
+            <media:thumbnail url="thumbs/2022-05-04-M67_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-05-04-M67_sW.jpg" width="1265" height="1315"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 21:04:06 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-05-04-M67_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M67 - old star cluster.</title>
+            <link>M67_02_WithDisplayStretch_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Messier 67, an open star cluster in the constellation Cancer.  It&apos;s age is estimated to be 4 billion years whereas most open clusters are much less than 1 billion years old.  Stars clusters disperse over time so this one was probably once much richer.  
+Taken with the SVbony guide camera.</description>
+            <media:description type="html">Messier 67, an open star cluster in the constellation Cancer.  It&apos;s age is estimated to be 4 billion years whereas most open clusters are much less than 1 billion years old.  Stars clusters disperse over time so this one was probably once much richer.  
+Taken with the SVbony guide camera.</media:description>
+            <media:thumbnail url="thumbs/M67_02_WithDisplayStretch_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M67_02_WithDisplayStretch_sW.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="" cameraMake="SVbony" cameraModel="305 Pro"/>
+            <guid isPermaLink="false">M67_02_WithDisplayStretch_sW.jpg</guid>
+        </item>
+        <item>
+            <title>M103 in Cassiopeia</title>
+            <link>M103RGBjust3_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>Messier 103, an open cluster in Cassiopeia.
+Slightly out of focus image taken with the Atik CCD on the Celestron C11.  N is up.</description>
+            <media:description type="html">Messier 103, an open cluster in Cassiopeia.
+Slightly out of focus image taken with the Atik CCD on the Celestron C11.  N is up.</media:description>
+            <media:thumbnail url="thumbs/M103RGBjust3_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M103RGBjust3_sW.jpeg" width="820" height="564"/>
+            <jalbum:exif originalDate="Sun, 04 Sep 2016 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M103RGBjust3_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Double Cluster in Perseus</title>
+            <link>DblClusWideRGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>The Double Cluster (NGC 884 and 869) in Perseus.  These open clusters are visible to the naked eye (under good sky conditions) just above the peak of the head of Perseus.    Atik CCD through RGB filters taken on the 80 mm apo refractor. Rotated so that N is up.</description>
+            <media:description type="html">The Double Cluster (NGC 884 and 869) in Perseus.  These open clusters are visible to the naked eye (under good sky conditions) just above the peak of the head of Perseus.    Atik CCD through RGB filters taken on the 80 mm apo refractor. Rotated so that N is up.</media:description>
+            <media:thumbnail url="thumbs/DblClusWideRGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="DblClusWideRGB_sW.jpg" width="928" height="664"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2013 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">DblClusWideRGB_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Double Cluster in Perseus.</title>
+            <link>NGC869DblClus_RGB_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>The Double Cluster (NGC 884 and 869) in Perseus.  These open clusters are visible to the naked eye (under good sky conditions) just above the peak of the head of Perseus.    Atik CCD through RGB filters taken on the 80 mm apo refractor. Rotated so that N is up.</description>
+            <media:description type="html">The Double Cluster (NGC 884 and 869) in Perseus.  These open clusters are visible to the naked eye (under good sky conditions) just above the peak of the head of Perseus.    Atik CCD through RGB filters taken on the 80 mm apo refractor. Rotated so that N is up.</media:description>
+            <media:thumbnail url="thumbs/NGC869DblClus_RGB_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="NGC869DblClus_RGB_sW.jpg" width="967" height="694"/>
+            <guid isPermaLink="false">NGC869DblClus_RGB_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Double Cluster in Perseus.</title>
+            <link>DeepSky0070-0001fx_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>The Double Cluster, or NGC 869 and NGC 844, are a pair of open clusters in the constellation Perseus. 
+DSI II CCD, Meade 80mm apochromatic refractor. N is up.</description>
+            <media:description type="html">The Double Cluster, or NGC 869 and NGC 844, are a pair of open clusters in the constellation Perseus. 
+DSI II CCD, Meade 80mm apochromatic refractor. N is up.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0070-0001fx_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="DeepSky0070-0001fx_sW.jpg" width="718" height="577"/>
+            <guid isPermaLink="false">DeepSky0070-0001fx_sW.jpg</guid>
+        </item>
+        <item>
+            <title>NGC 884</title>
+            <link>DeepSky0067-0001fx_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>NGC 884, eastern half of the Double Cluster in Perseus.  N is up.
+DSI II CCD, Meade 80mm apochromatic refractor.</description>
+            <media:description type="html">NGC 884, eastern half of the Double Cluster in Perseus.  N is up.
+DSI II CCD, Meade 80mm apochromatic refractor.</media:description>
+            <media:thumbnail url="thumbs/DeepSky0067-0001fx_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="DeepSky0067-0001fx_sW.jpg" width="577" height="748"/>
+            <guid isPermaLink="false">DeepSky0067-0001fx_sW.jpg</guid>
+        </item>
+        <item>
+            <title>NGC 1502 - young cluster</title>
+            <link>2022-05-04-NGC1502_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>NGC 1502 is special in that it is a very young cluster with an age of about 5 million years.  It contains only about 60 stars.  Canon T5i on the 80mm apo.</description>
+            <media:description type="html">NGC 1502 is special in that it is a very young cluster with an age of about 5 million years.  It contains only about 60 stars.  Canon T5i on the 80mm apo.</media:description>
+            <media:thumbnail url="thumbs/2022-05-04-NGC1502_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-05-04-NGC1502_sW.jpg" width="1920" height="1417"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 20:55:25 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-05-04-NGC1502_sW.jpg</guid>
+        </item>
+        <item>
+            <title>NGC 2395</title>
+            <link>NGC2395_00001_WithDisplayStretch_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>NGC 2395 - a star cluster in Gemini. Taken with the SVbony 305 guide camera.</description>
+            <media:description type="html">NGC 2395 - a star cluster in Gemini. Taken with the SVbony 305 guide camera.</media:description>
+            <media:thumbnail url="thumbs/NGC2395_00001_WithDisplayStretch_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="NGC2395_00001_WithDisplayStretch_sW.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="" cameraMake="SVbony" cameraModel="305 Pro"/>
+            <guid isPermaLink="false">NGC2395_00001_WithDisplayStretch_sW.jpg</guid>
+        </item>
+        <item>
+            <title>NGC 2419 in B&amp;W</title>
+            <link>NGC2419Rcrop_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>NGC 2419 in black and white.  The most distant globular cluster orbitting our Milky Way.  Wide field view showing NGC 2424, a distant galaxy, in the top left background.  N is up.  Atik CCD on the 80 mm apo refractor.</description>
+            <media:description type="html">NGC 2419 in black and white.  The most distant globular cluster orbitting our Milky Way.  Wide field view showing NGC 2424, a distant galaxy, in the top left background.  N is up.  Atik CCD on the 80 mm apo refractor.</media:description>
+            <media:thumbnail url="thumbs/NGC2419Rcrop_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="NGC2419Rcrop_sW.jpeg" width="965" height="636"/>
+            <jalbum:exif originalDate="Thu, 16 Mar 2017 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">NGC2419Rcrop_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>NGC 2419 - distant globular cluster</title>
+            <link>NGC2419Img1818_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>NGC 2419 is the most distant globular cluster bound to our Milky Way galaxy. Atik CCD with RGB filters on the Celestron C11. N is up and E to left.</description>
+            <media:description type="html">NGC 2419 is the most distant globular cluster bound to our Milky Way galaxy. Atik CCD with RGB filters on the Celestron C11. N is up and E to left.</media:description>
+            <media:thumbnail url="thumbs/NGC2419Img1818_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="NGC2419Img1818_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 25 Mar 2019 21:05:36 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">NGC2419Img1818_sW.JPG</guid>
+        </item>
+        <item>
+            <title>IC 1848</title>
+            <link>IMG_2314_1IC1848_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:01:55 -0500</pubDate>
+            <description>IC 1848 - a star cluster with nebulosity (not visible) in Cassiopeia.
+This was a 144 sec exposure with the Canon T5i through the 11-inch Celestron.</description>
+            <media:description type="html">IC 1848 - a star cluster with nebulosity (not visible) in Cassiopeia.
+This was a 144 sec exposure with the Canon T5i through the 11-inch Celestron.</media:description>
+            <media:thumbnail url="thumbs/IMG_2314_1IC1848_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2314_1IC1848_sW.jpg" width="1920" height="2880"/>
+            <jalbum:exif originalDate="Mon, 12 Apr 2021 21:24:19 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IMG_2314_1IC1848_sW.jpg</guid>
+        </item>
+    </channel>
+</rss>

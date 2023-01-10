@@ -1,0 +1,13 @@
+# This file is created by jAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+2011-10-31-Uranus-viewer_W.jpg		1660771231
+2011-10-31-Uranus33_flip_rot_W.jpg		1660771231
+2011-10-31-Uranus33_fr2_W.jpg		1660771231
+2011-10-31-Uranus33_label_W.jpg		1660771231
+2013-11-30-Uranus-webL_W.tif		1660771231

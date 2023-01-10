@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Asteroids</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Asteroids and other Solar System objects.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Pallas Animation</title>
+            <link>slides/2012-11-13-Asteroid-Pallas.mp4</link>
+            <pubDate>Wed, 17 Aug 2022 17:23:02 -0400</pubDate>
+            <description>2012-11-13. An animation of the asteroid Pallas.</description>
+            <media:description type="html">2012-11-13. An animation of the asteroid Pallas.</media:description>
+            <media:thumbnail url="thumbs/2012-11-13-Asteroid-Pallas.jpg" width="212" height="170"/>
+            <media:content  url="slides/2012-11-13-Asteroid-Pallas.mp4" width="560" height="464"/>
+            <jalbum:original url="slides/2012-11-13-Asteroid-Pallas.mp4" width="560" height="464" fileSize="910729"/>
+            <guid isPermaLink="false">slides/2012-11-13-Asteroid-Pallas.jpg</guid>
+        </item>
+        <item>
+            <title>Eurynome</title>
+            <link>slides/2016-10-24-Asteroid-Eurynome_W.jpg</link>
+            <pubDate>Wed, 17 Aug 2022 17:23:02 -0400</pubDate>
+            <description>2016-10-24. Asteroid Eurynome. Two images taken 7 minutes apart displayed as negatives using the DS9 image tool.</description>
+            <media:description type="html">2016-10-24. Asteroid Eurynome. Two images taken 7 minutes apart displayed as negatives using the DS9 image tool.</media:description>
+            <media:thumbnail url="thumbs/2016-10-24-Asteroid-Eurynome_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2016-10-24-Asteroid-Eurynome_W.jpg" width="713" height="724"/>
+            <jalbum:exif originalDate="Mon, 24 Oct 2016 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">slides/2016-10-24-Asteroid-Eurynome_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

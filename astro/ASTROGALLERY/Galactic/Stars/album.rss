@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stars</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Various stars and double stars in our galaxy.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Albireo - colorful double star.</title>
+            <link>2017-05-09-Albireo.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:43:18 -0500</pubDate>
+            <description>Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.</description>
+            <media:description type="html">Albireo, a colorful double star in the constellation Cygnus.  30 sec exposure with the Canon T5i on the Celestron 11-inch.</media:description>
+            <media:thumbnail url="thumbs/2017-05-09-Albireo.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2017-05-09-Albireo.jpg" width="2304" height="3456"/>
+            <jalbum:exif originalDate="Fri, 08 Sep 2017 23:19:45 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2017-05-09-Albireo.jpg</guid>
+        </item>
+        <item>
+            <title>Alcor and Mizar</title>
+            <link>2020-04-14-Mizar_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>25 second exposure of the blue stars Alcor (bottom) and Mizar (top).  One can tell that Mizar is at least 2 stars.  It is actually at least 4 stars. Alcor and Mizar are a visual double in the handle of the Big Dipper asterism.</description>
+            <media:description type="html">25 second exposure of the blue stars Alcor (bottom) and Mizar (top).  One can tell that Mizar is at least 2 stars.  It is actually at least 4 stars. Alcor and Mizar are a visual double in the handle of the Big Dipper asterism.</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-Mizar_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2020-04-14-Mizar_sW.jpg" width="1920" height="2880"/>
+            <jalbum:exif originalDate="Tue, 14 Apr 2020 22:41:04 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2020-04-14-Mizar_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Capella in Auriga</title>
+            <link>2020-04-14-Capella-OverExp-PSF_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>15 second exposure of the bright star Capella in the constellation Auriga.  Taken with the Canon T5i on the 11-inch Celestron</description>
+            <media:description type="html">15 second exposure of the bright star Capella in the constellation Auriga.  Taken with the Canon T5i on the 11-inch Celestron</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-Capella-OverExp-PSF_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2020-04-14-Capella-OverExp-PSF_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Tue, 14 Apr 2020 21:36:12 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2020-04-14-Capella-OverExp-PSF_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Castor in Gemini</title>
+            <link>2022-03-28-Castor-OverExp_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>The star Castor in color.  This is a sextuple star system.  The orange star to the left contains two of the stars, while the other 4 stars (center) are too close together to resolve in this photo.</description>
+            <media:description type="html">The star Castor in color.  This is a sextuple star system.  The orange star to the left contains two of the stars, while the other 4 stars (center) are too close together to resolve in this photo.</media:description>
+            <media:thumbnail url="thumbs/2022-03-28-Castor-OverExp_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-03-28-Castor-OverExp_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 28 Mar 2022 20:35:22 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-03-28-Castor-OverExp_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Castor - short exposure</title>
+            <link>2022-03-28-Castor_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>A shorter exposure of Castor revealing the two main clumps of stars which are about 4 arcseconds apart.  1/30 second taken with the Canon T5i on the 11-inch Celestron.</description>
+            <media:description type="html">A shorter exposure of Castor revealing the two main clumps of stars which are about 4 arcseconds apart.  1/30 second taken with the Canon T5i on the 11-inch Celestron.</media:description>
+            <media:thumbnail url="thumbs/2022-03-28-Castor_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-03-28-Castor_sW.jpg" width="1280" height="720"/>
+            <jalbum:exif originalDate="Mon, 28 Mar 2022 20:34:51 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-03-28-Castor_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Eta Cassiopeiae</title>
+            <link>EtaCassImg1803_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>Eta Cassiopeiae is a double star in the constellation Cassiopeia with a separation of 12 arcseconds. This binary star system is about 20 lightyears away from us. The brighter, yellower star is much like our Sun, while the slightly redder star is a bit less massive.</description>
+            <media:description type="html">Eta Cassiopeiae is a double star in the constellation Cassiopeia with a separation of 12 arcseconds. This binary star system is about 20 lightyears away from us. The brighter, yellower star is much like our Sun, while the slightly redder star is a bit less massive.</media:description>
+            <media:thumbnail url="thumbs/EtaCassImg1803_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="EtaCassImg1803_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 25 Mar 2019 20:03:53 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">EtaCassImg1803_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Iota Cancri - double star</title>
+            <link>IotaCancriImg1806_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>Iota Cancri, a colorful double star in Cancer.
+Canon T5i on Celestron C11.</description>
+            <media:description type="html">Iota Cancri, a colorful double star in Cancer.
+Canon T5i on Celestron C11.</media:description>
+            <media:thumbnail url="thumbs/IotaCancriImg1806_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IotaCancriImg1806_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 25 Mar 2019 20:14:48 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IotaCancriImg1806_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Procyon - a bright star.</title>
+            <link>Procyon_00001_WithDisplayStretch_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:10:02 -0500</pubDate>
+            <description>The star Procyon in Canis Minor.  One of the brightest stars in the winter sky, but outshined by nearby Sirius in Canis Major.  Stacked exposure taken with the SVbony 305 pro guide camera.</description>
+            <media:description type="html">The star Procyon in Canis Minor.  One of the brightest stars in the winter sky, but outshined by nearby Sirius in Canis Major.  Stacked exposure taken with the SVbony 305 pro guide camera.</media:description>
+            <media:thumbnail url="thumbs/Procyon_00001_WithDisplayStretch_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="Procyon_00001_WithDisplayStretch_sW.jpg" width="1920" height="1080"/>
+            <jalbum:exif originalDate="" cameraMake="SVbony" cameraModel="305 Pro"/>
+            <guid isPermaLink="false">Procyon_00001_WithDisplayStretch_sW.jpg</guid>
+        </item>
+    </channel>
+</rss>

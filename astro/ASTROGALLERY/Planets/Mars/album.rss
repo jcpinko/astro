@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mars</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Mars 7/27/18</title>
+            <link>slides/2018-07-27-Mars2-web_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:25:02 -0500</pubDate>
+            <description>Mars during the 2018 opposition with polar ice caps visible. Taken with Canon T5i using Celestron 11&quot; with eyepiece projection. Stacked image from video.</description>
+            <media:description type="html">Mars during the 2018 opposition with polar ice caps visible. Taken with Canon T5i using Celestron 11&quot; with eyepiece projection. Stacked image from video.</media:description>
+            <media:thumbnail url="thumbs/2018-07-27-Mars2-web_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2018-07-27-Mars2-web_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="Sat, 28 Jul 2018 02:16:21 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2018-07-27-Mars2-web_W.jpg</guid>
+        </item>
+        <item>
+            <title>Mars 7/28/18</title>
+            <link>slides/2018-07-28-Mars-webL_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:25:02 -0500</pubDate>
+            <description>Mars taken on Logitech webcam.</description>
+            <media:description type="html">Mars taken on Logitech webcam.</media:description>
+            <media:thumbnail url="thumbs/2018-07-28-Mars-webL_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2018-07-28-Mars-webL_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="" cameraMake="Logitech" cameraModel="Webcam"/>
+            <guid isPermaLink="false">slides/2018-07-28-Mars-webL_W.jpg</guid>
+        </item>
+        <item>
+            <title>Gibbous Mars on 10/3/18</title>
+            <link>slides/2018-10-03-Mars2-gibbous-web_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:25:02 -0500</pubDate>
+            <description>Mars captured in a gibbous phase. This was on 10/3/18, a few months after opposition when Mars was moving away from Earth. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection. Stacked image from video.</description>
+            <media:description type="html">Mars captured in a gibbous phase. This was on 10/3/18, a few months after opposition when Mars was moving away from Earth. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection. Stacked image from video.</media:description>
+            <media:thumbnail url="thumbs/2018-10-03-Mars2-gibbous-web_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2018-10-03-Mars2-gibbous-web_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="Wed, 03 Oct 2018 22:16:26 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2018-10-03-Mars2-gibbous-web_W.jpg</guid>
+        </item>
+        <item>
+            <title>Mars - 9/25/20.</title>
+            <link>slides/2020-09-25-Mars-web_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:25:02 -0500</pubDate>
+            <description>Mars with polar ice caps clearly visible during the 2020 opposition. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection.</description>
+            <media:description type="html">Mars with polar ice caps clearly visible during the 2020 opposition. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2020-09-25-Mars-web_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2020-09-25-Mars-web_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="Fri, 25 Sep 2020 21:17:15 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-09-25-Mars-web_W.jpg</guid>
+        </item>
+        <item>
+            <title>Mars - 10/9/20.</title>
+            <link>slides/2020-10-09-Mars-web_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:25:02 -0500</pubDate>
+            <description>Mars with polar ice caps clearly visible. Taken on 10/9/20 during the 2020 opposition.  The dark projection from the center is Syrtis Major. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection.</description>
+            <media:description type="html">Mars with polar ice caps clearly visible. Taken on 10/9/20 during the 2020 opposition.  The dark projection from the center is Syrtis Major. Taken with Canon T5i on Celestron 11&quot; with eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2020-10-09-Mars-web_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2020-10-09-Mars-web_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="Fri, 09 Oct 2020 23:50:16 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-10-09-Mars-web_W.jpg</guid>
+        </item>
+    </channel>
+</rss>

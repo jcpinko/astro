@@ -1,0 +1,713 @@
+{
+  "deepCounters": {
+    "total": 20,
+    "images": 20,
+    "files": 20
+  },
+  "counters": {
+    "total": 20,
+    "images": 20,
+    "files": 20
+  },
+  "thumb": {
+    "path": "thumbs/2005-04-06-Moon-123_W.jpg",
+    "width": 212,
+    "height": 170
+  },
+  "objects": [
+    {
+      "image": {
+        "path": "slides/2005-04-06-Moon-123_W.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2005-04-06-Moon-123_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Crescent Moon on 4/6/2005.</div><div class=\"comment\">Crescent Moon on 4/6/2005. Taken with the old Canon Digital Rebel XT on the 12-inch Meade LX200.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Crescent Moon on 4/6/2005.</i></p><p><b>Description</b> <i>Crescent Moon on 4/6/2005. Taken with the old Canon Digital Rebel XT on the 12-inch Meade LX200.</i></p><p><b>Original Date</b> <i>4/13/05, 9:04 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>0mm</i></p><p><b>Metering Mode</b> <i>Average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/60s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>3456 x 2304</i></p>",
+      "dates": {
+        "dateTaken": 1113397472
+      },
+      "fileDate": "2022-11-20T18:13:14.0Z",
+      "title": "Crescent Moon on 4/6/2005.",
+      "path": "2005-04-06-Moon-123_W.jpg",
+      "imageCaption": "<div class=\"title\">Crescent Moon on 4/6/2005.</div><div class=\"comment\">Crescent Moon on 4/6/2005. Taken with the old Canon Digital Rebel XT on the 12-inch Meade LX200.</div>",
+      "fileSize": 345996,
+      "name": "2005-04-06-Moon-123_W.jpg",
+      "comment": "Crescent Moon on 4/6/2005. Taken with the old Canon Digital Rebel XT on the 12-inch Meade LX200.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/60s",
+        "originalDate": "2005-04-13T09:04:32.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "0mm",
+        "resolution": "3456 x 2304",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2005-04-06-Moon-124rot_W.jpg",
+        "width": 533,
+        "height": 800
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2005-04-06-Moon-124rot_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Crescent Moon on 4/6/2005.</div><div class=\"comment\">Crescent Moon on 4/6/2005.  Taken with Canon Digital Rebel on Meade 12\" LX 200. 1/100 sec exposure, ISO 200.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Crescent Moon on 4/6/2005.</i></p><p><b>Description</b> <i>Crescent Moon on 4/6/2005.  Taken with Canon Digital Rebel on Meade 12\" LX 200. 1/100 sec exposure, ISO 200.</i></p><p><b>Original Date</b> <i>4/13/05, 9:06 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>0mm</i></p><p><b>Metering Mode</b> <i>Average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/100s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>713 x 1070</i></p>",
+      "dates": {
+        "dateTaken": 1113397582
+      },
+      "fileDate": "2022-11-20T18:17:43.0Z",
+      "title": "Crescent Moon on 4/6/2005.",
+      "path": "2005-04-06-Moon-124rot_W.jpg",
+      "imageCaption": "<div class=\"title\">Crescent Moon on 4/6/2005.</div><div class=\"comment\">Crescent Moon on 4/6/2005.  Taken with Canon Digital Rebel on Meade 12\" LX 200. 1/100 sec exposure, ISO 200.</div>",
+      "fileSize": 65509,
+      "name": "2005-04-06-Moon-124rot_W.jpg",
+      "comment": "Crescent Moon on 4/6/2005.  Taken with Canon Digital Rebel on Meade 12\" LX 200. 1/100 sec exposure, ISO 200.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/100s",
+        "originalDate": "2005-04-13T09:06:22.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "0mm",
+        "resolution": "713 x 1070",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "2008-02-20-Moon.gif",
+        "width": 214,
+        "height": 214
+      },
+      "originalFile": "2008-02-20-Moon.gif",
+      "thumb": {
+        "path": "thumbs/2008-02-20-Moon.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Eclipse Movie</div><div class=\"comment\">2008-02-20. Click to view a GIF movie of a lunar eclipse. Stills taken with Canon Digital Rebel XT and kit lens.</div>",
+      "photodata": "<p><b>Title</b> <i>Eclipse Movie</i></p><p><b>Description</b> <i>2008-02-20. Click to view a GIF movie of a lunar eclipse. Stills taken with Canon Digital Rebel XT and kit lens.</i></p>",
+      "dates": {
+        "dateTaken": 1657818320
+      },
+      "fileDate": "2022-07-14T13:05:20.926Z",
+      "title": "Eclipse Movie",
+      "path": "2008-02-20-Moon.gif",
+      "imageCaption": "<div class=\"title\">Eclipse Movie</div><div class=\"comment\">2008-02-20. Click to view a GIF movie of a lunar eclipse. Stills taken with Canon Digital Rebel XT and kit lens.</div>",
+      "fileSize": 64390,
+      "name": "2008-02-20-Moon.gif",
+      "comment": "2008-02-20. Click to view a GIF movie of a lunar eclipse. Stills taken with Canon Digital Rebel XT and kit lens.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2022-07-14T13:05:20.926Z"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2008-02-21-Moon-Sat-1155_W.jpg",
+        "width": 770,
+        "height": 800
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2008-02-21-Moon-Sat-1155_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Total lunar eclipse of 2/21/08 with stars.</div><div class=\"comment\">Total lunar eclipse of 2/21/08 with stars.  Taken with Canon Digital Rebel with kit lens at about 55 mm; ISO 800, 3 second exposure.  Such a long exposure would&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Total lunar eclipse of 2/21/08 with stars.</i></p><p><b>Description</b> <i>Total lunar eclipse of 2/21/08 with stars.  Taken with Canon Digital Rebel with kit lens at about 55 mm; ISO 800, 3 second exposure.  Such a long exposure would normally saturate a photo of the full Moon.</i></p><p><b>Original Date</b> <i>2/20/08, 11:07 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS DIGITAL REBEL XT</i></p><p><b>Focal Length (35mm)</b> <i>86mm</i></p><p><b>Metering Mode</b> <i>Partial</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>3.2s</i></p><p><b>Aperture</b> <i>ƒ/5.6</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Shutter priority</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>777 x 807</i></p>",
+      "dates": {
+        "dateTaken": 1203523629
+      },
+      "fileDate": "2022-11-20T18:21:36.0Z",
+      "title": "Total lunar eclipse of 2/21/08 with stars.",
+      "path": "2008-02-21-Moon-Sat-1155_W.jpg",
+      "imageCaption": "<div class=\"title\">Total lunar eclipse of 2/21/08 with stars.</div><div class=\"comment\">Total lunar eclipse of 2/21/08 with stars.  Taken with Canon Digital Rebel with kit lens at about 55 mm; ISO 800, 3 second exposure.  Such a long exposure would normally saturate a photo of the full Moon.</div>",
+      "fileSize": 43240,
+      "name": "2008-02-21-Moon-Sat-1155_W.jpg",
+      "comment": "Total lunar eclipse of 2/21/08 with stars.  Taken with Canon Digital Rebel with kit lens at about 55 mm; ISO 800, 3 second exposure.  Such a long exposure would normally saturate a photo of the full Moon.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "3.2s",
+        "originalDate": "2008-02-20T11:07:09.0Z",
+        "cameraModel": "Canon EOS DIGITAL REBEL XT",
+        "focalLength35mm": "86mm",
+        "resolution": "777 x 807",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "53mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2011-05-12-MoonDSI_W.jpg",
+        "width": 673,
+        "height": 552
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-05-12-MoonDSI_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 5/12/11.</div><div class=\"comment\">Gibbous Moon on 5/12/11. Taken with Meade DSI on the 12-inch Meade LX200. </div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Gibbous Moon on 5/12/11.</i></p><p><b>Description</b> <i>Gibbous Moon on 5/12/11. Taken with Meade DSI on the 12-inch Meade LX200. </i></p><p><b>Make</b> <i>Meade</i></p><p><b>Camera</b> <i>DSI II</i></p>",
+      "dates": {
+        "dateTaken": 1668986586
+      },
+      "fileDate": "2022-11-20T18:23:06.0Z",
+      "title": "Gibbous Moon on 5/12/11.",
+      "path": "2011-05-12-MoonDSI_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 5/12/11.</div><div class=\"comment\">Gibbous Moon on 5/12/11. Taken with Meade DSI on the 12-inch Meade LX200. </div>",
+      "fileSize": 41958,
+      "name": "2011-05-12-MoonDSI_W.jpg",
+      "comment": "Gibbous Moon on 5/12/11. Taken with Meade DSI on the 12-inch Meade LX200. ",
+      "category": "image",
+      "camera": {
+        "originalDate": "2022-11-20T18:23:06.0Z",
+        "cameraModel": "DSI II",
+        "cameraMake": "Meade"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2011-10-24-Moon-99fx_W.jpg",
+        "width": 597,
+        "height": 558
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2011-10-24-Moon-99fx_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">10/24/11 Gibbous Moon through red filter.</div><div class=\"comment\">Gibbous Moon shot through 80mm APO with red filter over aperture.  10/24/11.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>10/24/11 Gibbous Moon through red filter.</i></p><p><b>Description</b> <i>Gibbous Moon shot through 80mm APO with red filter over aperture.  10/24/11.</i></p><p><b>Date/Time</b> <i>2022:07:14 13:26:28</i></p><p><b>Make</b> <i>Meade</i></p><p><b>Camera</b> <i>DSI II</i></p>",
+      "dates": {
+        "dateTaken": 1668986693
+      },
+      "fileDate": "2022-11-20T18:24:53.0Z",
+      "title": "10/24/11 Gibbous Moon through red filter.",
+      "path": "2011-10-24-Moon-99fx_W.jpg",
+      "imageCaption": "<div class=\"title\">10/24/11 Gibbous Moon through red filter.</div><div class=\"comment\">Gibbous Moon shot through 80mm APO with red filter over aperture.  10/24/11.</div>",
+      "fileSize": 27345,
+      "name": "2011-10-24-Moon-99fx_W.jpg",
+      "comment": "Gibbous Moon shot through 80mm APO with red filter over aperture.  10/24/11.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2022-11-20T18:24:53.0Z",
+        "cameraModel": "DSI II",
+        "cameraMake": "Meade"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2012-03-10-MoonRGBAtik_W.jpg",
+        "width": 781,
+        "height": 642
+      },
+      "creator": "JCP.",
+      "thumb": {
+        "path": "thumbs/2012-03-10-MoonRGBAtik_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 3/10/12.</div><div class=\"comment\">Gibbous Moon on 3/10/12.  Taken with the Atik 383L CCD on the Meade Apochromatic refractor.  About a 0.03 sec exposure. </div>",
+      "photodata": "<p><b>Creator</b> <i>JCP.</i></p><p><b>Title</b> <i>Gibbous Moon on 3/10/12.</i></p><p><b>Description</b> <i>Gibbous Moon on 3/10/12.  Taken with the Atik 383L CCD on the Meade Apochromatic refractor.  About a 0.03 sec exposure. </i></p><p><b>Make</b> <i>Atik</i></p><p><b>Camera</b> <i>383L</i></p>",
+      "dates": {
+        "dateTaken": 1668985485
+      },
+      "fileDate": "2022-11-20T18:04:45.0Z",
+      "title": "Gibbous Moon on 3/10/12.",
+      "path": "2012-03-10-MoonRGBAtik_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 3/10/12.</div><div class=\"comment\">Gibbous Moon on 3/10/12.  Taken with the Atik 383L CCD on the Meade Apochromatic refractor.  About a 0.03 sec exposure. </div>",
+      "fileSize": 48392,
+      "name": "2012-03-10-MoonRGBAtik_W.jpg",
+      "comment": "Gibbous Moon on 3/10/12.  Taken with the Atik 383L CCD on the Meade Apochromatic refractor.  About a 0.03 sec exposure. ",
+      "category": "image",
+      "camera": {
+        "originalDate": "2022-11-20T18:04:45.0Z",
+        "cameraModel": "383L",
+        "cameraMake": "Atik"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2013-05-16-Moon1wav_W.jpg",
+        "width": 630,
+        "height": 468
+      },
+      "creator": "JCP ",
+      "thumb": {
+        "path": "thumbs/2013-05-16-Moon1wav_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Detail enhanced close-up.</div><div class=\"comment\">5/16/17. A heavily cratered area of the moon near the terminator. Taken with a Logitech webcam and processed using wavelet transforms.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP </i></p><p><b>Title</b> <i>Detail enhanced close-up.</i></p><p><b>Description</b> <i>5/16/17. A heavily cratered area of the moon near the terminator. Taken with a Logitech webcam and processed using wavelet transforms.</i></p><p><b>Original Date</b> <i>5/16/13, 12:00 AM</i></p><p><b>Make</b> <i>Logitech</i></p><p><b>Camera</b> <i>Webcam</i></p>",
+      "dates": {
+        "dateTaken": 1368676800
+      },
+      "fileDate": "2022-11-20T18:07:23.0Z",
+      "title": "Detail enhanced close-up.",
+      "path": "2013-05-16-Moon1wav_W.jpg",
+      "imageCaption": "<div class=\"title\">Detail enhanced close-up.</div><div class=\"comment\">5/16/17. A heavily cratered area of the moon near the terminator. Taken with a Logitech webcam and processed using wavelet transforms.</div>",
+      "fileSize": 60103,
+      "name": "2013-05-16-Moon1wav_W.jpg",
+      "comment": "5/16/17. A heavily cratered area of the moon near the terminator. Taken with a Logitech webcam and processed using wavelet transforms.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2013-05-16T00:00:00.0Z",
+        "cameraModel": "Webcam",
+        "cameraMake": "Logitech"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2013-05-16-Moon2wav_W.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2013-05-16-Moon2wav_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Moon close-up 5/16/13.</div><div class=\"comment\">Moon close-up 5/16/13.  Extracted from a Logitech web cam video and processed with wavelet sharpening.  The web cam is modified to work at the cassegrain focus&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Moon close-up 5/16/13.</i></p><p><b>Description</b> <i>Moon close-up 5/16/13.  Extracted from a Logitech web cam video and processed with wavelet sharpening.  The web cam is modified to work at the cassegrain focus of a telescope, in the case the 11-inch Celestron.</i></p><p><b>Original Date</b> <i>5/16/13, 12:00 AM</i></p><p><b>Make</b> <i>Logitech</i></p><p><b>Camera</b> <i>Webcam</i></p>",
+      "dates": {
+        "dateTaken": 1368676800
+      },
+      "fileDate": "2022-11-20T15:41:54.0Z",
+      "title": "Moon close-up 5/16/13.",
+      "path": "2013-05-16-Moon2wav_W.jpg",
+      "imageCaption": "<div class=\"title\">Moon close-up 5/16/13.</div><div class=\"comment\">Moon close-up 5/16/13.  Extracted from a Logitech web cam video and processed with wavelet sharpening.  The web cam is modified to work at the cassegrain focus of a telescope, in the case the 11-inch Celestron.</div>",
+      "fileSize": 49062,
+      "name": "2013-05-16-Moon2wav_W.jpg",
+      "comment": "Moon close-up 5/16/13.  Extracted from a Logitech web cam video and processed with wavelet sharpening.  The web cam is modified to work at the cassegrain focus of a telescope, in the case the 11-inch Celestron.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2013-05-16T00:00:00.0Z",
+        "cameraModel": "Webcam",
+        "cameraMake": "Logitech"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2013-05-16-Moon3wav_W.jpg",
+        "width": 622,
+        "height": 459
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2013-05-16-Moon3wav_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Moon close-up 5/16/13.</div><div class=\"comment\">Close up of Moon extracted from logitech webcam video with some wavelet sharpening. Webcam placed at cassegrain focus of the 11-inch or the 12-inch.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Moon close-up 5/16/13.</i></p><p><b>Description</b> <i>Close up of Moon extracted from logitech webcam video with some wavelet sharpening. Webcam placed at cassegrain focus of the 11-inch or the 12-inch.</i></p><p><b>Original Date</b> <i>5/16/13, 12:00 AM</i></p><p><b>Make</b> <i>Logitech</i></p><p><b>Camera</b> <i>Webcam</i></p>",
+      "dates": {
+        "dateTaken": 1368676800
+      },
+      "fileDate": "2022-11-20T15:49:25.0Z",
+      "title": "Moon close-up 5/16/13.",
+      "path": "2013-05-16-Moon3wav_W.jpg",
+      "imageCaption": "<div class=\"title\">Moon close-up 5/16/13.</div><div class=\"comment\">Close up of Moon extracted from logitech webcam video with some wavelet sharpening. Webcam placed at cassegrain focus of the 11-inch or the 12-inch.</div>",
+      "fileSize": 52077,
+      "name": "2013-05-16-Moon3wav_W.jpg",
+      "comment": "Close up of Moon extracted from logitech webcam video with some wavelet sharpening. Webcam placed at cassegrain focus of the 11-inch or the 12-inch.",
+      "category": "image",
+      "camera": {
+        "originalDate": "2013-05-16T00:00:00.0Z",
+        "cameraModel": "Webcam",
+        "cameraMake": "Logitech"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2017-05-29-CrescentMoon_W.jpg",
+        "width": 738,
+        "height": 607
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2017-05-29-CrescentMoon_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Waxing Crescent on 5/29/17.</div><div class=\"comment\">Waxing Crescent on 5/29/17.  Taken with the EF75-300 zoom lens (at f/5.6, 300 mm) on the Canon T5i with a 1/200 sec exposure.  This lens produces some chromatic&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Waxing Crescent on 5/29/17.</i></p><p><b>Description</b> <i>Waxing Crescent on 5/29/17.  Taken with the EF75-300 zoom lens (at f/5.6, 300 mm) on the Canon T5i with a 1/200 sec exposure.  This lens produces some chromatic aberration.  Pixel scale about 2.2 \"/pix.  Cropped down from original.</i></p><p><b>Original Date</b> <i>5/29/17, 10:10 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF75-300mm f/4-5.6</i></p><p><b>Focal Length</b> <i>300 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>3200</i></p><p><b>Exposure Time</b> <i>1/200s</i></p><p><b>Aperture</b> <i>ƒ/5.7</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>738 x 607</i></p>",
+      "dates": {
+        "dateTaken": 1496110246
+      },
+      "fileDate": "2022-11-20T15:59:49.0Z",
+      "title": "Waxing Crescent on 5/29/17.",
+      "path": "2017-05-29-CrescentMoon_W.jpg",
+      "imageCaption": "<div class=\"title\">Waxing Crescent on 5/29/17.</div><div class=\"comment\">Waxing Crescent on 5/29/17.  Taken with the EF75-300 zoom lens (at f/5.6, 300 mm) on the Canon T5i with a 1/200 sec exposure.  This lens produces some chromatic aberration.  Pixel scale about 2.2 \"/pix.  Cropped down from original.</div>",
+      "fileSize": 41756,
+      "name": "2017-05-29-CrescentMoon_W.jpg",
+      "comment": "Waxing Crescent on 5/29/17.  Taken with the EF75-300 zoom lens (at f/5.6, 300 mm) on the Canon T5i with a 1/200 sec exposure.  This lens produces some chromatic aberration.  Pixel scale about 2.2 \"/pix.  Cropped down from original.",
+      "category": "image",
+      "camera": {
+        "aperture": 5.6,
+        "exposureTime": "1/200s",
+        "originalDate": "2017-05-29T22:10:46.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "738 x 607",
+        "cameraMake": "Canon",
+        "isoEquivalent": 3200,
+        "flash": "Flash did not fire",
+        "focalLength": "300mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2017-09-05-Moon_W.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2017-09-05-Moon_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 9/5/17.</div><div class=\"comment\">Gibbous Moon on 9/5/17.  Lunar North is roughly up and West roughly left.  Featuring the rayed crater Copernicus (below center), Mare Imbrium (center left),&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Gibbous Moon on 9/5/17.</i></p><p><b>Description</b> <i>Gibbous Moon on 9/5/17.  Lunar North is roughly up and West roughly left.  Featuring the rayed crater Copernicus (below center), Mare Imbrium (center left), boardered on the East by the Apennine Mountains.  The walled plain, Plato, is the dark feature to the top left. 1/80 sec with Canon T5i on the C11.</i></p><p><b>Original Date</b> <i>9/8/17, 11:07 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>1/80s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>3456 x 2304</i></p>",
+      "dates": {
+        "dateTaken": 1504926439
+      },
+      "fileDate": "2022-11-20T16:15:52.0Z",
+      "title": "Gibbous Moon on 9/5/17.",
+      "path": "2017-09-05-Moon_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 9/5/17.</div><div class=\"comment\">Gibbous Moon on 9/5/17.  Lunar North is roughly up and West roughly left.  Featuring the rayed crater Copernicus (below center), Mare Imbrium (center left), boardered on the East by the Apennine Mountains.  The walled plain, Plato, is the dark feature to the top left. 1/80 sec with Canon T5i on the C11.</div>",
+      "fileSize": 588444,
+      "name": "2017-09-05-Moon_W.jpg",
+      "comment": "Gibbous Moon on 9/5/17.  Lunar North is roughly up and West roughly left.  Featuring the rayed crater Copernicus (below center), Mare Imbrium (center left), boardered on the East by the Apennine Mountains.  The walled plain, Plato, is the dark feature to the top left. 1/80 sec with Canon T5i on the C11.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/80s",
+        "originalDate": "2017-09-08T23:07:19.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "3456 x 2304",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2017-09-28-Moon_W.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2017-09-28-Moon_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Moon close-up 9/28/17.</div><div class=\"comment\">Moon close-up 9/28/17.  Mare Tranquillitatus is the dark region closest to center.  The bright rayed crater Proclus is above it. Taken with Canon T5i, 1/800&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Moon close-up 9/28/17.</i></p><p><b>Description</b> <i>Moon close-up 9/28/17.  Mare Tranquillitatus is the dark region closest to center.  The bright rayed crater Proclus is above it. Taken with Canon T5i, 1/800 second exposure, at the Cassegrain focus of either the 11-inch or 12-inch.</i></p><p><b>Original Date</b> <i>9/28/17, 8:21 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>1/800s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>2592 x 1728</i></p>",
+      "dates": {
+        "dateTaken": 1506644489
+      },
+      "fileDate": "2022-11-20T18:08:30.0Z",
+      "title": "Moon close-up 9/28/17.",
+      "path": "2017-09-28-Moon_W.jpg",
+      "imageCaption": "<div class=\"title\">Moon close-up 9/28/17.</div><div class=\"comment\">Moon close-up 9/28/17.  Mare Tranquillitatus is the dark region closest to center.  The bright rayed crater Proclus is above it. Taken with Canon T5i, 1/800 second exposure, at the Cassegrain focus of either the 11-inch or 12-inch.</div>",
+      "fileSize": 526822,
+      "name": "2017-09-28-Moon_W.jpg",
+      "comment": "Moon close-up 9/28/17.  Mare Tranquillitatus is the dark region closest to center.  The bright rayed crater Proclus is above it. Taken with Canon T5i, 1/800 second exposure, at the Cassegrain focus of either the 11-inch or 12-inch.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/800s",
+        "originalDate": "2017-09-28T20:21:29.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "2592 x 1728",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-05-20-Moon-Surface_W.jpg",
+        "width": 450,
+        "height": 800
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-05-20-Moon-Surface_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Waxing crescent on 5/20/18.</div><div class=\"comment\">Waxing crescent on 5/20/18.  Mare Crisium is the dark oval region to the top right.  Lunar N is up and E to left.  Taken with Canon T5i in 1920x1080 (S2) format&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Waxing crescent on 5/20/18.</i></p><p><b>Description</b> <i>Waxing crescent on 5/20/18.  Mare Crisium is the dark oval region to the top right.  Lunar N is up and E to left.  Taken with Canon T5i in 1920x1080 (S2) format giving about a 28' FOV.</i></p><p><b>Original Date</b> <i>5/20/18, 11:18 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>800</i></p><p><b>Exposure Time</b> <i>1/60s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>1080 x 1920</i></p>",
+      "dates": {
+        "dateTaken": 1526872709
+      },
+      "fileDate": "2022-11-20T16:51:54.0Z",
+      "title": "Waxing crescent on 5/20/18.",
+      "path": "2018-05-20-Moon-Surface_W.jpg",
+      "imageCaption": "<div class=\"title\">Waxing crescent on 5/20/18.</div><div class=\"comment\">Waxing crescent on 5/20/18.  Mare Crisium is the dark oval region to the top right.  Lunar N is up and E to left.  Taken with Canon T5i in 1920x1080 (S2) format giving about a 28' FOV.</div>",
+      "fileSize": 284882,
+      "name": "2018-05-20-Moon-Surface_W.jpg",
+      "comment": "Waxing crescent on 5/20/18.  Mare Crisium is the dark oval region to the top right.  Lunar N is up and E to left.  Taken with Canon T5i in 1920x1080 (S2) format giving about a 28' FOV.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/60s",
+        "originalDate": "2018-05-20T23:18:29.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1080 x 1920",
+        "cameraMake": "Canon",
+        "isoEquivalent": 800,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-05-23-Imbrium-Craters_W.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-05-23-Imbrium-Craters_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 5/23/18 with labels.</div><div class=\"comment\">Gibbous Moon on 5/23/18 with labels.  Lunar north is down and East left (fully inverted). 1/15-sec exposure at ISO 200 with Canon T5i.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Gibbous Moon on 5/23/18 with labels.</i></p><p><b>Description</b> <i>Gibbous Moon on 5/23/18 with labels.  Lunar north is down and East left (fully inverted). 1/15-sec exposure at ISO 200 with Canon T5i.</i></p><p><b>Original Date</b> <i>5/23/18, 10:02 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/15s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>3456 x 2304</i></p>",
+      "dates": {
+        "dateTaken": 1527127368
+      },
+      "fileDate": "2022-11-20T16:56:19.0Z",
+      "title": "Gibbous Moon on 5/23/18 with labels.",
+      "path": "2018-05-23-Imbrium-Craters_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 5/23/18 with labels.</div><div class=\"comment\">Gibbous Moon on 5/23/18 with labels.  Lunar north is down and East left (fully inverted). 1/15-sec exposure at ISO 200 with Canon T5i.</div>",
+      "fileSize": 357682,
+      "name": "2018-05-23-Imbrium-Craters_W.jpg",
+      "comment": "Gibbous Moon on 5/23/18 with labels.  Lunar north is down and East left (fully inverted). 1/15-sec exposure at ISO 200 with Canon T5i.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/15s",
+        "originalDate": "2018-05-23T22:02:48.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "3456 x 2304",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-05-24-Imbrium-Craters-2_W.jpg",
+        "width": 1000,
+        "height": 667
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-05-24-Imbrium-Craters-2_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 5/24/18 with labels.</div><div class=\"comment\">Gibbous Moon on 5/24/18 with labels.  1/400 sec exposure with ISO 3200 using the Canon T5i on the 11-inch (or 12-inch) telescope.</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Gibbous Moon on 5/24/18 with labels.</i></p><p><b>Description</b> <i>Gibbous Moon on 5/24/18 with labels.  1/400 sec exposure with ISO 3200 using the Canon T5i on the 11-inch (or 12-inch) telescope.</i></p><p><b>Original Date</b> <i>5/24/18, 9:45 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Spot</i></p><p><b>ISO Equivalent</b> <i>3200</i></p><p><b>Exposure Time</b> <i>1/400s</i></p><p><b>Aperture</b> <i>ƒ/∞</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>3456 x 2304</i></p>",
+      "dates": {
+        "dateTaken": 1527212707
+      },
+      "fileDate": "2022-11-20T17:01:19.0Z",
+      "title": "Gibbous Moon on 5/24/18 with labels.",
+      "path": "2018-05-24-Imbrium-Craters-2_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 5/24/18 with labels.</div><div class=\"comment\">Gibbous Moon on 5/24/18 with labels.  1/400 sec exposure with ISO 3200 using the Canon T5i on the 11-inch (or 12-inch) telescope.</div>",
+      "fileSize": 861769,
+      "name": "2018-05-24-Imbrium-Craters-2_W.jpg",
+      "comment": "Gibbous Moon on 5/24/18 with labels.  1/400 sec exposure with ISO 3200 using the Canon T5i on the 11-inch (or 12-inch) telescope.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/400s",
+        "originalDate": "2018-05-24T21:45:07.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "3456 x 2304",
+        "cameraMake": "Canon",
+        "isoEquivalent": 3200,
+        "flash": "Flash did not fire",
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-05-24-Moon-cropped-web_W.jpg",
+        "width": 1000,
+        "height": 558
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-05-24-Moon-cropped-web_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 5/24/18 from video.</div><div class=\"comment\">Gibbous Moon on 5/24/18. Mare Tranquillitatus is center and Mare Serenitatus is to its right.  A high-contrast image created from a 60 fps Canon T5i video taken&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Gibbous Moon on 5/24/18 from video.</i></p><p><b>Description</b> <i>Gibbous Moon on 5/24/18. Mare Tranquillitatus is center and Mare Serenitatus is to its right.  A high-contrast image created from a 60 fps Canon T5i video taken at 1280x720 format, but panned to extend the field of view.  Normally, this mode allows only a ~23' fov, but a ~30' fov is attained here using PIPP and Registax. Wavelet sharpening was applied.</i></p><p><b>Original Date</b> <i>5/24/18, 9:13 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens</b> <i>0.0 mm</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/60s</i></p><p><b>Aperture</b> <i>ƒ/0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Resolution</b> <i>1303 x 727</i></p>",
+      "dates": {
+        "dateTaken": 1527210799
+      },
+      "fileDate": "2023-01-05T16:49:20.0Z",
+      "title": "Gibbous Moon on 5/24/18 from video.",
+      "path": "2018-05-24-Moon-cropped-web_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 5/24/18 from video.</div><div class=\"comment\">Gibbous Moon on 5/24/18. Mare Tranquillitatus is center and Mare Serenitatus is to its right.  A high-contrast image created from a 60 fps Canon T5i video taken at 1280x720 format, but panned to extend the field of view.  Normally, this mode allows only a ~23' fov, but a ~30' fov is attained here using PIPP and Registax. Wavelet sharpening was applied.</div>",
+      "fileSize": 107553,
+      "name": "2018-05-24-Moon-cropped-web_W.jpg",
+      "comment": "Gibbous Moon on 5/24/18. Mare Tranquillitatus is center and Mare Serenitatus is to its right.  A high-contrast image created from a 60 fps Canon T5i video taken at 1280x720 format, but panned to extend the field of view.  Normally, this mode allows only a ~23' fov, but a ~30' fov is attained here using PIPP and Registax. Wavelet sharpening was applied.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/60s",
+        "originalDate": "2018-05-24T21:13:19.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1303 x 727",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-05-24-Moon2-cropped-web_W.jpg",
+        "width": 1000,
+        "height": 560
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-05-24-Moon2-cropped-web_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">GIbbous Moon on 5/24/18 from video #2.</div><div class=\"comment\">GIbbous Moon on 5/24/18 from video #2. Similar to previous picture but showing more of the lunar highlands.  Tycho is prominant rayed crater at the top left.  </div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>GIbbous Moon on 5/24/18 from video #2.</i></p><p><b>Description</b> <i>GIbbous Moon on 5/24/18 from video #2. Similar to previous picture but showing more of the lunar highlands.  Tycho is prominant rayed crater at the top left.  </i></p><p><b>Original Date</b> <i>5/24/18, 9:40 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens</b> <i>0.0 mm</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/60s</i></p><p><b>Aperture</b> <i>ƒ/0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Auto white balance</i></p><p><b>Resolution</b> <i>1292 x 723</i></p>",
+      "dates": {
+        "dateTaken": 1527212436
+      },
+      "fileDate": "2023-01-05T16:49:38.0Z",
+      "title": "GIbbous Moon on 5/24/18 from video #2.",
+      "path": "2018-05-24-Moon2-cropped-web_W.jpg",
+      "imageCaption": "<div class=\"title\">GIbbous Moon on 5/24/18 from video #2.</div><div class=\"comment\">GIbbous Moon on 5/24/18 from video #2. Similar to previous picture but showing more of the lunar highlands.  Tycho is prominant rayed crater at the top left.  </div>",
+      "fileSize": 150290,
+      "name": "2018-05-24-Moon2-cropped-web_W.jpg",
+      "comment": "GIbbous Moon on 5/24/18 from video #2. Similar to previous picture but showing more of the lunar highlands.  Tycho is prominant rayed crater at the top left.  ",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/60s",
+        "originalDate": "2018-05-24T21:40:36.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1292 x 723",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2018-10-23-Moon2-cropped-web_W.jpg",
+        "width": 1000,
+        "height": 558
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2018-10-23-Moon2-cropped-web_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Gibbous Moon on 10/23/18 from video.</div><div class=\"comment\">Gibbous Moon on 10/23/18 from video.  Mare Imbrium is the large dark region left of center with the dark walled plane Plato just above it.  Frames were grabbed&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Gibbous Moon on 10/23/18 from video.</i></p><p><b>Description</b> <i>Gibbous Moon on 10/23/18 from video.  Mare Imbrium is the large dark region left of center with the dark walled plane Plato just above it.  Frames were grabbed from a 24 fps video with ISO 200 and 1/400 sec exposure per frame.   Lunar N is roughly up and E is right.</i></p><p><b>Original Date</b> <i>10/23/18, 9:32 PM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens</b> <i>0.0 mm</i></p><p><b>Focal Length</b> <i>0 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>200</i></p><p><b>Exposure Time</b> <i>1/400s</i></p><p><b>Aperture</b> <i>ƒ/0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Manual control</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Resolution</b> <i>1928 x 1076</i></p>",
+      "dates": {
+        "dateTaken": 1540344740
+      },
+      "fileDate": "2023-01-05T16:49:08.0Z",
+      "title": "Gibbous Moon on 10/23/18 from video.",
+      "path": "2018-10-23-Moon2-cropped-web_W.jpg",
+      "imageCaption": "<div class=\"title\">Gibbous Moon on 10/23/18 from video.</div><div class=\"comment\">Gibbous Moon on 10/23/18 from video.  Mare Imbrium is the large dark region left of center with the dark walled plane Plato just above it.  Frames were grabbed from a 24 fps video with ISO 200 and 1/400 sec exposure per frame.   Lunar N is roughly up and E is right.</div>",
+      "fileSize": 179609,
+      "name": "2018-10-23-Moon2-cropped-web_W.jpg",
+      "comment": "Gibbous Moon on 10/23/18 from video.  Mare Imbrium is the large dark region left of center with the dark walled plane Plato just above it.  Frames were grabbed from a 24 fps video with ISO 200 and 1/400 sec exposure per frame.   Lunar N is roughly up and E is right.",
+      "category": "image",
+      "camera": {
+        "exposureTime": "1/400s",
+        "originalDate": "2018-10-23T21:32:20.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "1928 x 1076",
+        "cameraMake": "Canon",
+        "isoEquivalent": 200,
+        "focalLength": "0mm"
+      }
+    },
+    {
+      "image": {
+        "path": "slides/2019-01-20-LunarEclipse1_W.jpg",
+        "width": 954,
+        "height": 800
+      },
+      "creator": "JCP",
+      "thumb": {
+        "path": "thumbs/2019-01-20-LunarEclipse1_W.jpg",
+        "width": 212,
+        "height": 170
+      },
+      "thumbCaption": "<div class=\"title\">Total Lunar Eclipse of 1/20/2019.</div><div class=\"comment\">Total Lunar Eclipse of 1/20/2019. This is during totality. A 1.6 sec exposure with the Canon T5i DSLR on a tripod.  The 75-300 mm lens was used at approximately&hellip;</div>",
+      "photodata": "<p><b>Creator</b> <i>JCP</i></p><p><b>Title</b> <i>Total Lunar Eclipse of 1/20/2019.</i></p><p><b>Description</b> <i>Total Lunar Eclipse of 1/20/2019. This is during totality. A 1.6 sec exposure with the Canon T5i DSLR on a tripod.  The 75-300 mm lens was used at approximately full zoom.</i></p><p><b>Original Date</b> <i>1/21/19, 12:09 AM</i></p><p><b>Make</b> <i>Canon</i></p><p><b>Camera</b> <i>Canon EOS REBEL T5i</i></p><p><b>Lens Model</b> <i>EF75-300mm f/4-5.6</i></p><p><b>Focal Length</b> <i>220 mm</i></p><p><b>Metering Mode</b> <i>Center weighted average</i></p><p><b>ISO Equivalent</b> <i>400</i></p><p><b>Exposure Time</b> <i>1.6s</i></p><p><b>Aperture</b> <i>ƒ/5.0</i></p><p><b>Exposure bias</b> <i>0 EV</i></p><p><b>Exposure Program</b> <i>Shutter priority</i></p><p><b>White balance</b> <i>Manual white balance</i></p><p><b>Flash</b> <i>Flash did not fire</i></p><p><b>Resolution</b> <i>2204 x 1848</i></p>",
+      "dates": {
+        "dateTaken": 1548047347
+      },
+      "fileDate": "2022-11-20T17:30:03.0Z",
+      "title": "Total Lunar Eclipse of 1/20/2019.",
+      "path": "2019-01-20-LunarEclipse1_W.jpg",
+      "imageCaption": "<div class=\"title\">Total Lunar Eclipse of 1/20/2019.</div><div class=\"comment\">Total Lunar Eclipse of 1/20/2019. This is during totality. A 1.6 sec exposure with the Canon T5i DSLR on a tripod.  The 75-300 mm lens was used at approximately full zoom.</div>",
+      "fileSize": 141350,
+      "name": "2019-01-20-LunarEclipse1_W.jpg",
+      "comment": "Total Lunar Eclipse of 1/20/2019. This is during totality. A 1.6 sec exposure with the Canon T5i DSLR on a tripod.  The 75-300 mm lens was used at approximately full zoom.",
+      "category": "image",
+      "camera": {
+        "aperture": 5,
+        "exposureTime": "1.6s",
+        "originalDate": "2019-01-21T00:09:07.0Z",
+        "cameraModel": "Canon EOS REBEL T5i",
+        "resolution": "2204 x 1848",
+        "cameraMake": "Canon",
+        "isoEquivalent": 400,
+        "flash": "Flash did not fire",
+        "focalLength": "220mm"
+      }
+    }
+  ],
+  "name": "MoonNew1",
+  "dates": {
+    "dateRange": {
+      "0": 1113397472,
+      "1": 1548047347
+    }
+  },
+  "title": "The Moon"
+}

@@ -1,0 +1,8 @@
+XNview MP makes it easy to add watermarks to multiple images at a time.
+
+A good process is as follows:
+Use the rounded corner image with ~20% opacity, offset 20px from the bottom left corner, at 15% the width of the image.
+
+This should be already set up in XNv's "Batch Convert" (accessible with CTRL+U). If not, import it using the latest version of .xbs script I have saved (as of 2022-08-05, wm_script_2.xbs). This should automatically fill in everything as shown in wm_2_screenshot.png. It should also fill in the target directory in the output page as ./wm.
+
+Note: The .xcf files for the new watermark can only be opened with GIMP 2.10 or newer.

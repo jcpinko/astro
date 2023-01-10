@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>New Telescope!</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>The ONU Observatory acquired a new Celestron 11&quot; telescope in October of 2013. Here are some images from the unboxing and setup process!</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Just arrived!</title>
+            <link>slides/IMG_3232_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3232_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3232_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 14:31:03 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3232_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Unpacking...</title>
+            <link>slides/IMG_3233_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3233_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3233_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 14:40:35 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3233_sW.JPG</guid>
+        </item>
+        <item>
+            <title>New Stand!</title>
+            <link>slides/IMG_3234_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description>Although we won&apos;t be using it for long - our computerized equatorial mounts are far superior.</description>
+            <media:description type="html">Although we won&apos;t be using it for long - our computerized equatorial mounts are far superior.</media:description>
+            <media:thumbnail url="thumbs/IMG_3234_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3234_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 14:44:56 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3234_sW.JPG</guid>
+        </item>
+        <item>
+            <title>The Telescope Base</title>
+            <link>slides/IMG_3236_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3236_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3236_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 15:03:31 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3236_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Some Helpers!</title>
+            <link>slides/IMG_3237_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3237_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3237_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 15:04:29 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3237_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Base and Stand Assembled</title>
+            <link>slides/IMG_3238_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3238_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3238_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 16:07:32 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3238_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Group Picture</title>
+            <link>slides/IMG_3239_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3239_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3239_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 16:08:39 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3239_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Finally Mounted!</title>
+            <link>slides/IMG_3240_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3240_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3240_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 16:39:00 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3240_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Eyepiece Affixed</title>
+            <link>slides/IMG_3241_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3241_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3241_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 18 Oct 2013 17:21:41 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3241_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Roof Retracting...</title>
+            <link>slides/IMG_3248_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3248_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3248_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 08 Nov 2013 17:55:59 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3248_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Side Profile</title>
+            <link>slides/IMG_3249_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3249_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3249_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 08 Nov 2013 17:56:26 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3249_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Spotting Scope Attached</title>
+            <link>slides/IMG_3250_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:13:02 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3250_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_3250_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 08 Nov 2013 17:56:52 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_3250_sW.JPG</guid>
+        </item>
+    </channel>
+</rss>

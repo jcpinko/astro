@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>The Observatory</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Images of ONU&apos;s astronomical observatory, where most astrophotos on this website were taken. It is equipped with a motorized roof which slides off to allow observation, along with telescopes, detectors, and cameras. See also the Students and Events section!</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Early plans for the ONU Observatory.</title>
+            <link>PlanSideView3_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Early plans for the ONU Observatory.  The restroom shelter walls were not used in the end.</description>
+            <media:description type="html">Early plans for the ONU Observatory.  The restroom shelter walls were not used in the end.</media:description>
+            <media:thumbnail url="thumbs/PlanSideView3_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="PlanSideView3_sW.jpg" width="770" height="270"/>
+            <guid isPermaLink="false">PlanSideView3_sW.jpg</guid>
+        </item>
+        <item>
+            <title>The observatory under construction.</title>
+            <link>img_1675_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The observatory under construction. 6/13/2010.  The Saturn brickwork is done.</description>
+            <media:description type="html">The observatory under construction. 6/13/2010.  The Saturn brickwork is done.</media:description>
+            <media:thumbnail url="thumbs/img_1675_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="img_1675_sW.jpg" width="1728" height="1152"/>
+            <jalbum:exif originalDate="Sun, 13 Jun 2010 09:54:03 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">img_1675_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Under construction</title>
+            <link>img_1709mod_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Observatory under construction, showing men working in the control room.  A blue roof covering makes everything look blue.</description>
+            <media:description type="html">Observatory under construction, showing men working in the control room.  A blue roof covering makes everything look blue.</media:description>
+            <media:thumbnail url="thumbs/img_1709mod_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="img_1709mod_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Wed, 21 Jul 2010 06:00:33 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">img_1709mod_sW.jpg</guid>
+        </item>
+        <item>
+            <title>View of turbines west of the observatory.</title>
+            <link>img_1733b_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>View of turbines west of the observatory.  The wind turbines were constructed around the same time as the ONU Observatory.  They suffered damages and were taken down in 2021/2022.</description>
+            <media:description type="html">View of turbines west of the observatory.  The wind turbines were constructed around the same time as the ONU Observatory.  They suffered damages and were taken down in 2021/2022.</media:description>
+            <media:thumbnail url="thumbs/img_1733b_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="img_1733b_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Sat, 04 Sep 2010 12:46:01 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">img_1733b_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Waxing crescent and sunset. 9/10/2010.</title>
+            <link>img_1739sm_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Waxing crescent and sunset viewed from outside of the observatory on 9/10/2010.</description>
+            <media:description type="html">Waxing crescent and sunset viewed from outside of the observatory on 9/10/2010.</media:description>
+            <media:thumbnail url="thumbs/img_1739sm_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="img_1739sm_sW.jpg" width="1000" height="595"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 12:35:36 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">img_1739sm_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Telescopes almost in place. 9/22/2010.</title>
+            <link>img_1759mod_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The interior of the finished observatory, with telescopes. From left to right: 8&quot; Meade LT8 (not yet  mounted), 12&quot; Meade LX200, 6&quot; Celestron C5.</description>
+            <media:description type="html">The interior of the finished observatory, with telescopes. From left to right: 8&quot; Meade LT8 (not yet  mounted), 12&quot; Meade LX200, 6&quot; Celestron C5.</media:description>
+            <media:thumbnail url="thumbs/img_1759mod_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="img_1759mod_sW.jpg" width="1728" height="1152"/>
+            <jalbum:exif originalDate="Fri, 24 Sep 2010 04:39:57 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">img_1759mod_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Daytime Sun viewing. 10/1/2010</title>
+            <link>PA010745_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Projecting the Sun with the 6-inch during a daytime tour of the observatory.  10/1/2010.</description>
+            <media:description type="html">Projecting the Sun with the 6-inch during a daytime tour of the observatory.  10/1/2010.</media:description>
+            <media:thumbnail url="thumbs/PA010745_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="PA010745_sW.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 01 Oct 2010 17:47:48 -0400" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u840,S840       "/>
+            <guid isPermaLink="false">PA010745_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Dr. Pinkney at the ONU observatory. 10/1/2010.</title>
+            <link>PA010750_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Dr. Pinkney during a daytime tour of the observatory. 10/1/2010.  The blue telescope is the 12-inch Meade, and the white telescope is an 80mm Meade 8000.</description>
+            <media:description type="html">Dr. Pinkney during a daytime tour of the observatory. 10/1/2010.  The blue telescope is the 12-inch Meade, and the white telescope is an 80mm Meade 8000.</media:description>
+            <media:thumbnail url="thumbs/PA010750_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="PA010750_sW.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 01 Oct 2010 17:50:29 -0400" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u840,S840       "/>
+            <guid isPermaLink="false">PA010750_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Dr. Theisen during October 2010 inauguration.</title>
+            <link>Astronomy_10_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Dr. Theisen (Physics) chats with visitors during the inaugural event at the ONU observatory.</description>
+            <media:description type="html">Dr. Theisen (Physics) chats with visitors during the inaugural event at the ONU observatory.</media:description>
+            <media:thumbnail url="thumbs/Astronomy_10_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="Astronomy_10_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Sat, 09 Oct 2010 00:17:21 -0400" cameraMake="Canon" cameraModel="Canon EOS 7D"/>
+            <guid isPermaLink="false">Astronomy_10_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Telescopes old (blue) and new (white) during 2010 Inaugural event.</title>
+            <link>Astronomy_19_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The Meade LX200 and Meade Apochromatic Refractor during the 2010 Inaugural event.</description>
+            <media:description type="html">The Meade LX200 and Meade Apochromatic Refractor during the 2010 Inaugural event.</media:description>
+            <media:thumbnail url="thumbs/Astronomy_19_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="Astronomy_19_sW.jpg" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Sat, 09 Oct 2010 00:19:40 -0400" cameraMake="Canon" cameraModel="Canon EOS 7D"/>
+            <guid isPermaLink="false">Astronomy_19_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Dean Aubrecht during 2010 inaugural event.</title>
+            <link>Astronomy_23_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Dean Catherine Aubrecht during the 2010 inaugural event.</description>
+            <media:description type="html">Dean Catherine Aubrecht during the 2010 inaugural event.</media:description>
+            <media:thumbnail url="thumbs/Astronomy_23_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="Astronomy_23_sW.jpg" width="1920" height="2880"/>
+            <jalbum:exif originalDate="Sat, 09 Oct 2010 00:20:11 -0400" cameraMake="Canon" cameraModel="Canon EOS 7D"/>
+            <guid isPermaLink="false">Astronomy_23_sW.jpg</guid>
+        </item>
+        <item>
+            <title>The ONU Observatory in the snow. 12/13/10.</title>
+            <link>ObsPhoto1819_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The ONU Observatory in the snow. 12/13/10.</description>
+            <media:description type="html">The ONU Observatory in the snow. 12/13/10.</media:description>
+            <media:thumbnail url="thumbs/ObsPhoto1819_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="ObsPhoto1819_sW.jpg" width="1497" height="998"/>
+            <jalbum:exif originalDate="Mon, 13 Dec 2010 11:23:25 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">ObsPhoto1819_sW.jpg</guid>
+        </item>
+        <item>
+            <title>A student takes an astrophoto. 12/15/10.</title>
+            <link>KenCpicDec14_sW.jpeg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>A student takes an astrophoto through the eyepiece of the 12&quot; with the old Canon Rebel XT. 12/15/10. Long exposure by ONU photographer Ken C.</description>
+            <media:description type="html">A student takes an astrophoto through the eyepiece of the 12&quot; with the old Canon Rebel XT. 12/15/10. Long exposure by ONU photographer Ken C.</media:description>
+            <media:thumbnail url="thumbs/KenCpicDec14_sW.jpeg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="KenCpicDec14_sW.jpeg" width="1280" height="854"/>
+            <guid isPermaLink="false">KenCpicDec14_sW.jpeg</guid>
+        </item>
+        <item>
+            <title>Night viewing with red lights on.  4/5/11.</title>
+            <link>IMG_2014fix2_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The observatory at night, with red lighting to preserve dark adaptation. 4/5/11.</description>
+            <media:description type="html">The observatory at night, with red lighting to preserve dark adaptation. 4/5/11.</media:description>
+            <media:thumbnail url="thumbs/IMG_2014fix2_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2014fix2_sW.JPG" width="1400" height="933"/>
+            <jalbum:exif originalDate="Tue, 05 Apr 2011 20:59:54 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2014fix2_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Observatory with roof retracted. 5/24/11.</title>
+            <link>IMG_2032_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>The observatory with the roof retracted, ready for a night of astronomy.</description>
+            <media:description type="html">The observatory with the roof retracted, ready for a night of astronomy.</media:description>
+            <media:thumbnail url="thumbs/IMG_2032_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2032_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Tue, 24 May 2011 21:28:45 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2032_sW.JPG</guid>
+        </item>
+        <item>
+            <title>ONU Observatory on vacation in Arizona.</title>
+            <link>CompositeIm2380_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>ONU Observatory on vacation in Arizona.  (Composite with a star trail taken on Kitt Peak in Arizona.)</description>
+            <media:description type="html">ONU Observatory on vacation in Arizona.  (Composite with a star trail taken on Kitt Peak in Arizona.)</media:description>
+            <media:thumbnail url="thumbs/CompositeIm2380_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="CompositeIm2380_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 23 Jan 2012 04:22:22 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">CompositeIm2380_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Astronomy students observing on 3/13/12.</title>
+            <link>IMG_2445b_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Astronomy Club members (and physics majors) pose for a photo at the observatory on 3/13/12.</description>
+            <media:description type="html">Astronomy Club members (and physics majors) pose for a photo at the observatory on 3/13/12.</media:description>
+            <media:thumbnail url="thumbs/IMG_2445b_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2445b_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Tue, 13 Mar 2012 19:15:39 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2445b_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Refractor with Sun funnel.</title>
+            <link>IMG_2462_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>This cheap refractor works well with a sun funnel to observe the sun projected on a plane of wax paper.</description>
+            <media:description type="html">This cheap refractor works well with a sun funnel to observe the sun projected on a plane of wax paper.</media:description>
+            <media:thumbnail url="thumbs/IMG_2462_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2462_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Tue, 05 Jun 2012 14:47:31 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2462_sW.JPG</guid>
+        </item>
+        <item>
+            <title>ONU Observatory open for an evening event. 7/6/17.</title>
+            <link>IM2609sm_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>ONU Observatory open for an evening event on July 6, 2017. Black light lamps are used but most other lights are off to improve night vision.</description>
+            <media:description type="html">ONU Observatory open for an evening event on July 6, 2017. Black light lamps are used but most other lights are off to improve night vision.</media:description>
+            <media:thumbnail url="thumbs/IM2609sm_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IM2609sm_sW.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 11 Aug 2012 23:33:01 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IM2609sm_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Projecting the Sun. 3/8/13.</title>
+            <link>IMG_2775_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:05:09 -0500</pubDate>
+            <description>Projecting the Sun on a sheet using the Celestron 6-inch. 3/8/13.</description>
+            <media:description type="html">Projecting the Sun on a sheet using the Celestron 6-inch. 3/8/13.</media:description>
+            <media:thumbnail url="thumbs/IMG_2775_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IMG_2775_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Fri, 08 Mar 2013 17:20:59 -0500" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">IMG_2775_sW.JPG</guid>
+        </item>
+    </channel>
+</rss>

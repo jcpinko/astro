@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2012 Venus Transit</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>A few images from the 2012 Venus Transit event.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Setup for the 2012 transit of Venus. 6/5/12.</title>
+            <link>slides/IMG_2485sm_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:39:57 -0500</pubDate>
+            <description>The setup for the 2012  transit of Venus, ready to go. The 6-inch reflector is used to project the Sun, while the sun funnel refractor piggybacks on the 12-inch.</description>
+            <media:description type="html">The setup for the 2012  transit of Venus, ready to go. The 6-inch reflector is used to project the Sun, while the sun funnel refractor piggybacks on the 12-inch.</media:description>
+            <media:thumbnail url="thumbs/IMG_2485sm_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_2485sm_sW.JPG" width="800" height="533"/>
+            <jalbum:exif originalDate="Tue, 05 Jun 2012 19:32:18 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_2485sm_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Guests at the transit of Venus event.  June 2012.</title>
+            <link>slides/IMG_2487_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:39:57 -0500</pubDate>
+            <description>Observatory guests stand underneath the retracted roof, waiting for their turn to view the transit of Venus.  June 2012.</description>
+            <media:description type="html">Observatory guests stand underneath the retracted roof, waiting for their turn to view the transit of Venus.  June 2012.</media:description>
+            <media:thumbnail url="thumbs/IMG_2487_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_2487_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Tue, 05 Jun 2012 19:32:56 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_2487_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Use of Questar to view Venusian transit.</title>
+            <link>slides/IMG_2488_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 19:39:57 -0500</pubDate>
+            <description>Use of Questar 3.5-inch with solar filter to view Venusian transit. 6/5/2012.</description>
+            <media:description type="html">Use of Questar 3.5-inch with solar filter to view Venusian transit. 6/5/2012.</media:description>
+            <media:thumbnail url="thumbs/IMG_2488_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/IMG_2488_sW.JPG" width="1000" height="667"/>
+            <jalbum:exif originalDate="Tue, 05 Jun 2012 19:33:11 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
+            <guid isPermaLink="false">slides/IMG_2488_sW.JPG</guid>
+        </item>
+    </channel>
+</rss>

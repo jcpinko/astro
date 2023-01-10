@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Galactic</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description>Images from within the Milky Way galaxy.</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Nebulae</title>
+            <link>M42RGBdeep_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:24:08 -0500</pubDate>
+            <description>Click here to view various nebulae!</description>
+            <media:description type="html">Click here to view various nebulae!</media:description>
+            <media:thumbnail url="thumbs/M42RGBdeep_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="M42RGBdeep_sW.jpg" width="1681" height="1268"/>
+            <jalbum:exif originalDate="Mon, 03 Jan 2022 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
+            <guid isPermaLink="false">M42RGBdeep_sW.jpg</guid>
+        </item>
+        <item>
+            <title>Stars</title>
+            <link>IotaCancriImg1806_sW.JPG</link>
+            <pubDate>Fri, 06 Jan 2023 15:24:08 -0500</pubDate>
+            <description>Click here to view images of various stars throughout the galaxy!</description>
+            <media:description type="html">Click here to view images of various stars throughout the galaxy!</media:description>
+            <media:thumbnail url="thumbs/IotaCancriImg1806_sW.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="IotaCancriImg1806_sW.JPG" width="1920" height="1280"/>
+            <jalbum:exif originalDate="Mon, 25 Mar 2019 20:14:48 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">IotaCancriImg1806_sW.JPG</guid>
+        </item>
+        <item>
+            <title>Star Clusters</title>
+            <link>2022-05-04-M3_sW.jpg</link>
+            <pubDate>Fri, 06 Jan 2023 15:24:08 -0500</pubDate>
+            <description>Click here to view images of various star clusters!</description>
+            <media:description type="html">Click here to view images of various star clusters!</media:description>
+            <media:thumbnail url="thumbs/2022-05-04-M3_sW.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="2022-05-04-M3_sW.jpg" width="1860" height="1513"/>
+            <jalbum:exif originalDate="Wed, 04 May 2022 21:16:27 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">2022-05-04-M3_sW.jpg</guid>
+        </item>
+    </channel>
+</rss>

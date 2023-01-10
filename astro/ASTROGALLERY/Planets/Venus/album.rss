@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Venus</title>
+   	<link>.</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Crescent Venus</title>
+            <link>slides/2013-11-30-Venus-webL_W.jpg</link>
+            <pubDate>Thu, 05 Jan 2023 16:00:40 -0500</pubDate>
+            <description>Venus in a waxing crescent phase. Taken with Logitech webcam on Meade LX200.</description>
+            <media:description type="html">Venus in a waxing crescent phase. Taken with Logitech webcam on Meade LX200.</media:description>
+            <media:thumbnail url="thumbs/2013-11-30-Venus-webL_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2013-11-30-Venus-webL_W.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="" cameraMake="Logitech" cameraModel="Webcam"/>
+            <guid isPermaLink="false">slides/2013-11-30-Venus-webL_W.jpg</guid>
+        </item>
+        <item>
+            <title>Venus Animation</title>
+            <link>slides/2020-04-14-VenusMov_W.mp4</link>
+            <pubDate>Wed, 17 Aug 2022 17:13:09 -0400</pubDate>
+            <description>2020-04-14. (Click to play once) An animation of Venus with varying exposure times. It is not setting or moving. Taken with Canon T5i on Celestron 11&quot; without eyepiece projection.</description>
+            <media:description type="html">2020-04-14. (Click to play once) An animation of Venus with varying exposure times. It is not setting or moving. Taken with Canon T5i on Celestron 11&quot; without eyepiece projection.</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-VenusMov_W.jpg" width="212" height="170"/>
+            <media:content  url="slides/2020-04-14-VenusMov_W.mp4" width="1000" height="667"/>
+            <jalbum:original url="slides/2020-04-14-VenusMov_W.mp4" width="5184" height="3456" fileSize="4105996"/>
+            <guid isPermaLink="false">slides/2020-04-14-VenusMov_W.jpg</guid>
+        </item>
+    </channel>
+</rss>
