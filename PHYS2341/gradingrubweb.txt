@@ -1,8 +1,8 @@
 
 Lab Report Grading Rubric for PHYSICS I and PHYSICS II Labs           
 
-       	Dr. Pinkney 2022
-        Class web page: https://jpastro.net/PHYS2341/syll-Phys2341.html
+       	Dr. Pinkney
+        2022
 
 Start with a score of +10 pts, and then deduct points as follows:
 
@@ -13,8 +13,12 @@ Prelab .................................... -3 pts
        - deduct 0.5 to 1 pts per wrong/missing question or task
        - If the pre-lab was done but after the start of lab,
          deduct 0.5 to 1 pts depending on how much was done on time.
-Postlab questions in the lab manual........ -3 pts (correct & complete)
+Postlab questions ........................  (variable pts)
        - deduct  -3 if missing completely
+       - deduct a little (0.5 pt) if your writing is unclear
+         and/or you give very vague answers.
+       - deduct about -1 (depending on how many questions) for each clearly 
+         wrong answer.
 Discussion & Conclusion ................... -3 pt  
        - This section should mainly be about how well your results
          agree with theory.  This means you compare the difference
@@ -31,11 +35,6 @@ Discussion & Conclusion ................... -3 pt
          just plain mistakes (which should be fixed during lab).
        - deduct -3 if missing completely
        - deduct 1/2 to 1 if you make a conclusion that contradicts all evidence
-Postlab questions ........................  (variable pts)
-       - deduct about -1 (depending on how many questions) for each clearly 
-         wrong answer.
-       - deduct a little (0.5 pt) if your writing is unclear
-         and/or you give very vague answers.
 Sample calculation (when needed) .......... -1 pts
 Title of lab .............................. -0.5 pts
 Name of partner(s) ........................ -0.5 pts
