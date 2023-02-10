@@ -5,21 +5,21 @@ Astronomy Today, 9th Ed.
 Chapter 1 Discuss. 1-9,13-15     W1-2 assignment.
           Prob. 2
 	
-1. What does an astronomer mean by "the universe"?
+[1. What does an astronomer mean by "the universe"?
    The universe can be defined as everything: the sum total of
    all space, time, and matter that exists.  However, most
    astronomers will use the word "universe" to refer to everything
    which can be observed.  Two definitions are needed because
    we may be a part of a "multi-verse" containing many universes that
    are beyond the reach of our observations.  Our universe has a finite
-   age (13.8 Gyr), and light can only travel so far in that time, thus we
+   age (13.7 Gyr), and light can only travel so far in that time, thus we
    can only see to a finite distance.  
    Later, we will discuss "inflation" theory which suggests that even
-   our own bubble universe is mostly beyond the reach of observations.
+   our own bubble universe is mostly beyond the reach of observations.]
 
 2. Compare the size of the Earth with that of the Sun, Milky Way
    Galaxy and the entire Universe.
-    D_E X 10^2 = D_Sun          (D=diameter)
+    D_E X 100 = D_Sun  
     D_Sun X 10^11 = D_M.W.
     D_M.W. X 10^5 = D_Univese
 
@@ -36,10 +36,11 @@ Chapter 1 Discuss. 1-9,13-15     W1-2 assignment.
    data is the main difference between scientific belief systems
    and religous ones.
 
-4. What is a constellation?  Why are constellations useful for mapping
+  4. What is a constellation?  Why are constellations useful for mapping
    the sky?
-   A constellation is a designated region of the sky which contains one
-   or more asterisms.  These are a useful way to divide up the sky into
+   A constellation is more than a recognizable pattern of stars.  It is
+   a designated region of the sky which contains one or more asterisms,
+   or star patterns.  These are a useful way to divide up the sky into
    roughly square subsections.  Constellations do not only include the 
    stars connected by lines on star maps.  Every point on the sky, star or 
    not, falls in one of the 88 constellations defined internationally.  
@@ -52,12 +53,16 @@ Chapter 1 Discuss. 1-9,13-15     W1-2 assignment.
 
 5. Describe the daily and annual motion of the Sun, Moon and stars as
    viewed from the Earth.
-   The motion of the Sun in the sky is an illusion caused by the Earth's 
-   spin.  The Sun appears to rise in the East and move westward across the    
+   The daily motion of the Sun in the sky is an illusion caused by the Earth's 
+   spin.  The Sun appears to rise in the East and move westward across the 
    sky because the Earth beneath us is spinning eastward, or 
    counterclockwise as viewed from the north.  Therefore, all non-
    artificial celestial objects have this apparent motion, including the 
    Moon and stars.
+   Over a year, the Sun changes its path across the sky.  It rises and
+   sets further south in the (Northern hemisphere) winter and rises and sets 
+   further north in the (Northern) summer.  It's path relative to the
+   stars is the ecliptic which it moves along 1 degree east per day.
 
 6. How and why does a day measured with respect to the Sun differ from
    a day with respect to the stars?
@@ -77,7 +82,7 @@ Chapter 1 Discuss. 1-9,13-15     W1-2 assignment.
    upon different zodiacal constellations throughout the year (you just can't
    see them behind the Sun because the Sun lights up our sky.)
 
-8.What is  precession and what causes it?
+8. What is  precession and what causes it?
    Precession is a wobbling of the Earth's spin axis whereby it points towards
    different stars along a circular path and makes a complete cycle in 26,000 
    years.  Precession is also the westward motion of the vernal equinox along 
