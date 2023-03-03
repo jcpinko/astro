@@ -1,10 +1,11 @@
 
 AT 9th Ed.
 Ch. 2 Homework
-1st Assigned:  R&D 1-11
+1st Assigned:  R&D 1-11   
                M-C 1-4
-2nd Assigned:  R&D 12-15
+2nd Assigned:  R&D 12,15
                M-C 5-10
+               Prob. 1,2,4
 (Other answers are also shown for completeness.)
 
 1. What contributions were made to astronomy by Chinese and Islamic
@@ -43,7 +44,7 @@ astronomers during the Dark Ages in Europe?
   explain annual motions of the Sun.  The planets no longer
   had to move in loops, but only appear to because of the 
   Earth's motion.  It was still flawed in that it insisted 
-  on circular motions.
+  on circular paths and uniform speeds.
 5. What is a scientific theory?  Can a theory ever be proved to be true?
   A theory, in its weakest definition, is just a hypothesis. 
   For its stronger definition, it is a set of related ideas 
@@ -62,7 +63,7 @@ astronomers during the Dark Ages in Europe?
 6. What discoveries of Galileo helped confirm the views of
    Copernicus and how did they do so?
   Since a theory cannot be proved, only disproved, Galileo's
-  observations confirmed the Copernican view by discrediting
+  observations supported the Copernican view by discrediting
   the Ptolemaic model.  A gibbous phase of Venus was not allowed
   in the Ptolemaic model (which always had Venus between Earth
   and then Sun) but was allowed by the Copernican model.  Thus,
@@ -115,6 +116,24 @@ astronomers during the Dark Ages in Europe?
    3rd law: for every force there is an equal but opposite
    force.
 
+12. How do Newton's laws account for Kepler's laws?
+   Newton's law of universal gravitation describes the force
+   of gravity as an inverse-square force that points along
+   a line joining the centers of the two bodies.  His 3rd law
+   said that the force on the first body would be equal in 
+   magnitude and opposite in direction to the force on the 
+   second body.  Newton showed mathematically that such an inverse-
+   square force would lead to orbits that are "conic sections", 
+   like the ellipse.  So he gave a reason for Kepler's first
+   law, but also corrected it:  Kepler thought that the
+   Sun was at one focus of a planet's elliptical orbit, but it
+   is actually the center of mass of the 2 bodies that is at
+   the focus.
+   Newton also used his laws to generalize Kepler's 3rd law
+   so that it would apply to other star systems.  So P^2=a^3
+   became P^2=a^3/M_tot, where M_tot is the mass of the star
+   system measured in solar masses.
+
 [
 13.  Why do we say that a baseball falls toward Earth, and
    not Earth toward the baseball?
@@ -130,17 +149,20 @@ astronomers during the Dark Ages in Europe?
    When the force of gravity pulls an object toward the Earth,
    the object is said to be "falling".  The Moon is being
    pulled continuously toward the Earth by gravity, sometimes
-   it moves toward Earth and sometimes it moves away, but 
+   it moves toward Earth and sometimes it moves away, but it's
    continuously falling.  Whether it is moving toward or away
    from the Earth, it is ALWAYS ACCELERATING towards the Earth
    since it is moving in a curved orbit.  From the acceleration
    we can calculate the force of gravity and thus the mass of
    the Earth-moon system.  F_g = G(M*m/r^2). 
 15. What is the meaning of the term escape speed?
-   If body 1 orbits body 2 at the escape speed, its orbit
-   will be open instead of closed.  That is body 1 will leave
-   the vicinity of body 2 and never return (unless influenced
-   by some 3rd body).
+   The speed required for two gravitationally attracted bodies
+   to escape each other.  They are still influenced by mutual gravity
+   but are not "gravitationally bound".  If body 1 travels near body 2 
+   at the escape speed, its orbital path will be "open" (like a
+   parabola or hyperbola) instead of closed (like an ellipse).  
+   That is, body 1 will leave the vicinity of body 2 and never 
+   return (unless influenced by some 3rd body).
 
 Important OLD EDITION QUESTION:
 15. What were the modifications made by Newton to Kepler's laws?
@@ -166,3 +188,20 @@ Mult Choice
 8. b
 9. c
 10. a
+
+Probs.
+1. 1 arcmin correspondes to ...
+   a) theta(') = 3438 LD/D_Moon  so LD = theta(')(D_Moon)/3438
+      so LD = 1(240,000mi)/3438 ~ 70 mi or 112 km at dist of the Moon.
+   b) LD = 1(1.5E+8 km)/3438 ~ 43630 km (or 27100 mi) at dist of Sun.
+   c) LD = 1(8.5*1.5E+8 km)/3438 ~ 371000 km (or 230000 mi) at dist of Saturn.
+                                  
+2. Find greatest distance of Halley's comet from the Sun given that
+   its period = 76 years and its perihelion is 0.6 AU.
+   Ans: greatest distance, d, is 2a-r_peri.
+        Find a using Kepler's 3rd: a = P^2/3 = 17.9 AU.
+        So  d = 2(17.9 AU) - 0.6 AU = 35.3 AU
+4. How long would a radar signal take to complete a round-trip
+   between Earth and Mars when the two planets are 0.7 AU apart?
+   Ans: t = 2d/c, 2d=1.4 AU or 2.1E+8 km or 2.1E+11 m.
+        t = 2.1E+11/3E+8 = 0.7E+3 sec. or 11.7 minutes.
