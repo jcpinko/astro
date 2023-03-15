@@ -1,1 +1,23 @@
-{"path":"Comets1","counters":{"total":20,"images":16,"files":20,"videos":4},"thumb":{"path":"thumbs\/2015-01-15-Lovejoy_W.jpg","width":212,"height":170},"name":"Comets1","comment":"Various images of the chunks of rock and ice orbiting our Sun, sometimes including their signature tails.","dates":{"dateRange":{"0":-2082844800,"1":1541480400}},"fileDate":"2023-01-06T12:51:49.840Z","title":"Comets"}
+{
+    "comment": "Comets: the \"dirty snowballs\" of our solar system.",
+    "counters": {
+        "files": 32,
+        "images": 28,
+        "total": 32,
+        "videos": 4
+    },
+    "dates": {
+        "dateRange": {
+            "0": -2082844800,
+            "1": 1595124815
+        }
+    },
+    "fileDate": "2023-03-14T13:38:03.273Z",
+    "name": "Comets",
+    "path": "Comets",
+    "thumb": {
+        "height": 170,
+        "path": "thumbs/2015-01-15-Lovejoy_W.jpg",
+        "width": 212
+    }
+}

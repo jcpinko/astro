@@ -3,224 +3,268 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>Comets</title>
+        <title>Comets1</title>
    	<link>.</link>
         <generator>jAlbum 28.1</generator>
-   		<description>Various images of the chunks of rock and ice orbiting our Sun, sometimes including their signature tails.</description>
+   		<description>Comets: the &quot;dirty snowballs&quot; of our solar system.</description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>Comet Neat</title>
-            <link>2007-05-25-PRE-NEAT-label_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2007-05-25-PRE-NEAT-label_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Neat is visible as a fuzzy &quot;star&quot; in this ~3 minute star trail taken from Pinkney&apos;s back yard.</description>
             <media:description type="html">Comet Neat is visible as a fuzzy &quot;star&quot; in this ~3 minute star trail taken from Pinkney&apos;s back yard.</media:description>
             <media:thumbnail url="thumbs/2007-05-25-PRE-NEAT-label_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2007-05-25-PRE-NEAT-label_W.jpg" width="480" height="320"/>
-            <guid isPermaLink="false">2007-05-25-PRE-NEAT-label_W.jpg</guid>
+            <media:content type="image/jpeg" url="slides/2007-05-25-PRE-NEAT-label_W.jpg" width="480" height="320"/>
+            <guid isPermaLink="false">slides/2007-05-25-PRE-NEAT-label_W.jpg</guid>
         </item>
         <item>
             <title>Comet Holmes in Perseus</title>
-            <link>2007-11-01-Holmes-Crop_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2007-11-01-Holmes-Crop_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Holmes reached naked-eye brightness in 2007 after some amazing outbursts.  It is the fuzzy object just left of the bright stars of Perseus.</description>
             <media:description type="html">Comet Holmes reached naked-eye brightness in 2007 after some amazing outbursts.  It is the fuzzy object just left of the bright stars of Perseus.</media:description>
             <media:thumbnail url="thumbs/2007-11-01-Holmes-Crop_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2007-11-01-Holmes-Crop_W.jpg" width="804" height="836"/>
+            <media:content type="image/jpeg" url="slides/2007-11-01-Holmes-Crop_W.jpg" width="769" height="800"/>
             <jalbum:exif originalDate="Thu, 01 Nov 2007 08:45:26 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
-            <guid isPermaLink="false">2007-11-01-Holmes-Crop_W.jpg</guid>
+            <guid isPermaLink="false">slides/2007-11-01-Holmes-Crop_W.jpg</guid>
         </item>
         <item>
             <title>Comet Holmes from back yard</title>
-            <link>2007-11-01-Holmes-Labeled_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2007-11-01-Holmes-Labeled_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Holmes in the constellation Perseus in fall of 2007.  The foreground tree leaves were lit up by yellowish security lights.</description>
             <media:description type="html">Comet Holmes in the constellation Perseus in fall of 2007.  The foreground tree leaves were lit up by yellowish security lights.</media:description>
             <media:thumbnail url="thumbs/2007-11-01-Holmes-Labeled_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2007-11-01-Holmes-Labeled_W.jpg" width="800" height="533"/>
+            <media:content type="image/jpeg" url="slides/2007-11-01-Holmes-Labeled_W.jpg" width="800" height="533"/>
             <jalbum:exif originalDate="Thu, 01 Nov 2007 08:43:07 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
-            <guid isPermaLink="false">2007-11-01-Holmes-Labeled_W.jpg</guid>
+            <guid isPermaLink="false">slides/2007-11-01-Holmes-Labeled_W.jpg</guid>
         </item>
         <item>
             <title>Comet Holmes close up</title>
-            <link>2007-11-02-Holmes04_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2007-11-02-Holmes04_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Holmes underwent an outburst in 2012 that made it visible to the naked-eye.  This image was taken with a Canon Digital Rebel XT on the 12&quot; Meade with a focal reducer that caused flaring/blurriness. </description>
             <media:description type="html">Comet Holmes underwent an outburst in 2012 that made it visible to the naked-eye.  This image was taken with a Canon Digital Rebel XT on the 12&quot; Meade with a focal reducer that caused flaring/blurriness. </media:description>
             <media:thumbnail url="thumbs/2007-11-02-Holmes04_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2007-11-02-Holmes04_W.jpg" width="861" height="854"/>
+            <media:content type="image/jpeg" url="slides/2007-11-02-Holmes04_W.jpg" width="807" height="800"/>
             <jalbum:exif originalDate="Fri, 02 Nov 2007 11:21:26 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
-            <guid isPermaLink="false">2007-11-02-Holmes04_W.jpg</guid>
+            <guid isPermaLink="false">slides/2007-11-02-Holmes04_W.jpg</guid>
         </item>
         <item>
             <title>Comet Holmes   </title>
-            <link>2007-11-02-Holmes10_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2007-11-02-Holmes10_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Holmes underwent an outburst in 2012 that made it visible to the naked-eye.  This image was taken with a Canon Digital Rebel XT on the 12&quot; Meade with a focal reducer that caused star flaring/blurriness.  Apparently tracking was off, hence trailing.</description>
             <media:description type="html">Comet Holmes underwent an outburst in 2012 that made it visible to the naked-eye.  This image was taken with a Canon Digital Rebel XT on the 12&quot; Meade with a focal reducer that caused star flaring/blurriness.  Apparently tracking was off, hence trailing.</media:description>
             <media:thumbnail url="thumbs/2007-11-02-Holmes10_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2007-11-02-Holmes10_W.jpg" width="1248" height="832"/>
+            <media:content type="image/jpeg" url="slides/2007-11-02-Holmes10_W.jpg" width="1000" height="667"/>
             <jalbum:exif originalDate="Fri, 02 Nov 2007 11:56:31 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
-            <guid isPermaLink="false">2007-11-02-Holmes10_W.jpg</guid>
+            <guid isPermaLink="false">slides/2007-11-02-Holmes10_W.jpg</guid>
         </item>
         <item>
             <title>Comet 103P/Hartley 2 ?</title>
-            <link>2010-10-09-Hartley2_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2010-10-09-Hartley2_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Most likely Comet 103P/ Hartley 2 since that was the brightest comet in Oct 2010, but this comet is fainter than the 5th magnitude reported by others.  Digital Rebel on 12&quot;.</description>
             <media:description type="html">Most likely Comet 103P/ Hartley 2 since that was the brightest comet in Oct 2010, but this comet is fainter than the 5th magnitude reported by others.  Digital Rebel on 12&quot;.</media:description>
             <media:thumbnail url="thumbs/2010-10-09-Hartley2_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2010-10-09-Hartley2_W.jpg" width="1728" height="1152"/>
-            <guid isPermaLink="false">2010-10-09-Hartley2_W.jpg</guid>
+            <media:content type="image/jpeg" url="slides/2010-10-09-Hartley2_W.jpg" width="1000" height="667"/>
+            <guid isPermaLink="false">slides/2010-10-09-Hartley2_W.jpg</guid>
         </item>
         <item>
-            <title>Comet Garradd?</title>
-            <link>2011-10-24-DSI_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <title>Comet Garradd(?)</title>
+            <link>slides/2011-10-24-DSI_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Most likely comet C/2009 P1 (Garradd), since it was the brightest comet of (October) 2011. At the time it was near magnitude 6.6. Taken with DSI II on 10/24/11.</description>
             <media:description type="html">Most likely comet C/2009 P1 (Garradd), since it was the brightest comet of (October) 2011. At the time it was near magnitude 6.6. Taken with DSI II on 10/24/11.</media:description>
             <media:thumbnail url="thumbs/2011-10-24-DSI_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2011-10-24-DSI_W.jpg" width="605" height="524"/>
-            <guid isPermaLink="false">2011-10-24-DSI_W.jpg</guid>
+            <media:content type="image/jpeg" url="slides/2011-10-24-DSI_W.jpg" width="605" height="524"/>
+            <guid isPermaLink="false">slides/2011-10-24-DSI_W.jpg</guid>
         </item>
         <item>
             <title>Comet C/2009 P1 (Garradd)</title>
-            <link>2012-03-22-Garradd_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2012-03-22-Garradd_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet C/2009 P1 Garradd imaged by the Atik CCD on the 80 mm APO on 3/22/12.    The colors are redder than actual colors (which are normally greenish).  This comet sports a fanned out tail above the coma.</description>
             <media:description type="html">Comet C/2009 P1 Garradd imaged by the Atik CCD on the 80 mm APO on 3/22/12.    The colors are redder than actual colors (which are normally greenish).  This comet sports a fanned out tail above the coma.</media:description>
             <media:thumbnail url="thumbs/2012-03-22-Garradd_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2012-03-22-Garradd_W.jpg" width="839" height="493"/>
+            <media:content type="image/jpeg" url="slides/2012-03-22-Garradd_W.jpg" width="839" height="493"/>
             <jalbum:exif originalDate="Thu, 22 Mar 2012 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
-            <guid isPermaLink="false">2012-03-22-Garradd_W.jpg</guid>
+            <guid isPermaLink="false">slides/2012-03-22-Garradd_W.jpg</guid>
         </item>
         <item>
             <title>Comet Hergenrother</title>
-            <link>2012-10-12-Hergenrother-DSI.gif</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2012-10-12-Hergenrother-DSI.png</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>A GIF animation of comet Hergenrother. Taken with the Meade DSI II on 10/12/12.</description>
             <media:description type="html">A GIF animation of comet Hergenrother. Taken with the Meade DSI II on 10/12/12.</media:description>
             <media:thumbnail url="thumbs/2012-10-12-Hergenrother-DSI.png" width="212" height="170"/>
-            <media:content type="image/gif" url="2012-10-12-Hergenrother-DSI.gif" width="370" height="279"/>
-            <guid isPermaLink="false">2012-10-12-Hergenrother-DSI.gif</guid>
+            <media:content type="image/gif" url="slides/2012-10-12-Hergenrother-DSI.png" width="370" height="279"/>
+            <guid isPermaLink="false">slides/2012-10-12-Hergenrother-DSI.png</guid>
         </item>
         <item>
             <title>Comet 168/P Hergenrother</title>
-            <link>2012-10-12-Hergenrother_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2012-10-12-Hergenrother_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet Hergenrother with the Meade DSI II on the 12&quot; Meade.  Attempted to guide on the comet nucleus which makes the stars have trails.</description>
             <media:description type="html">Comet Hergenrother with the Meade DSI II on the 12&quot; Meade.  Attempted to guide on the comet nucleus which makes the stars have trails.</media:description>
             <media:thumbnail url="thumbs/2012-10-12-Hergenrother_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2012-10-12-Hergenrother_W.jpg" width="747" height="576"/>
+            <media:content type="image/jpeg" url="slides/2012-10-12-Hergenrother_W.jpg" width="747" height="576"/>
             <jalbum:exif originalDate="Fri, 12 Oct 2012 00:00:00 -0400" cameraMake="Meade" cameraModel="DSI II"/>
-            <guid isPermaLink="false">2012-10-12-Hergenrother_W.jpg</guid>
+            <guid isPermaLink="false">slides/2012-10-12-Hergenrother_W.jpg</guid>
         </item>
         <item>
             <title>Comet C/2011 L4 PanSTARRS</title>
-            <link>2013-03-14-C2011L4PanSTARRS_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2013-03-14-C2011L4PanSTARRS_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet C/2011 L4 PanSTARRS in 3/14/13 taken with the Canon Digital Rebel with its kit lens on a tripod.  This comet was barely visible to the naked eye. The comet&apos;s tail points roughly upwards and away from the Sun (which is the norm).</description>
             <media:description type="html">Comet C/2011 L4 PanSTARRS in 3/14/13 taken with the Canon Digital Rebel with its kit lens on a tripod.  This comet was barely visible to the naked eye. The comet&apos;s tail points roughly upwards and away from the Sun (which is the norm).</media:description>
             <media:thumbnail url="thumbs/2013-03-14-C2011L4PanSTARRS_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2013-03-14-C2011L4PanSTARRS_W.jpg" width="1248" height="832"/>
+            <media:content type="image/jpeg" url="slides/2013-03-14-C2011L4PanSTARRS_W.jpg" width="1000" height="667"/>
             <jalbum:exif originalDate="Thu, 14 Mar 2013 20:41:29 -0400" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL XT"/>
-            <guid isPermaLink="false">2013-03-14-C2011L4PanSTARRS_W.jpg</guid>
+            <guid isPermaLink="false">slides/2013-03-14-C2011L4PanSTARRS_W.jpg</guid>
         </item>
         <item>
             <title>PanSTARRS at Sunset</title>
             <link>slides/2013-03-14-C2011L4PanSTARRS_W.mp4</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
-            <description>A movie of comet C/2011 L4 (PanSTARRS) and its visible tail as the sun sets. It moves from slightly left of middle center (hard to see at first) to slightly right of bottom center. Taken 3/14/13.</description>
-            <media:description type="html">A movie of comet C/2011 L4 (PanSTARRS) and its visible tail as the sun sets. It moves from slightly left of middle center (hard to see at first) to slightly right of bottom center. Taken 3/14/13.</media:description>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>A movie (click to play) of comet C/2011 L4 (PanSTARRS) and its visible tail as the sun sets. It moves down and to the right starting left of center (hard to see at first).</description>
+            <media:description type="html">A movie (click to play) of comet C/2011 L4 (PanSTARRS) and its visible tail as the sun sets. It moves down and to the right starting left of center (hard to see at first).</media:description>
             <media:thumbnail url="thumbs/2013-03-14-C2011L4PanSTARRS_W.jpg" width="212" height="170"/>
-            <media:content  url="slides/2013-03-14-C2011L4PanSTARRS_W.mp4" width="2496" height="1664"/>
-            <jalbum:original url="slides/2013-03-14-C2011L4PanSTARRS_W.mp4" width="2496" height="1664" fileSize="2744755"/>
+            <media:content  url="slides/2013-03-14-C2011L4PanSTARRS_W.mp4" width="1000" height="667"/>
+            <jalbum:original url="slides/2013-03-14-C2011L4PanSTARRS_W.mp4" width="1080" height="720" fileSize="74553"/>
             <guid isPermaLink="false">slides/2013-03-14-C2011L4PanSTARRS_W.jpg</guid>
         </item>
         <item>
             <title>PanSTARRS at Sunset 2</title>
             <link>slides/2013-03-19-C2011L4PanSTARRS_W.mp4</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
-            <description>Another movie of comet C/2011 L4 (PanSTARRS). It moves from slightly left of top center to slightly right of bottom center. Taken 3/19/13.</description>
-            <media:description type="html">Another movie of comet C/2011 L4 (PanSTARRS). It moves from slightly left of top center to slightly right of bottom center. Taken 3/19/13.</media:description>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>A movie (click to play) taken 5 days after the last one of comet C/2011 L4 (PanSTARRS). It moves down and to the right as before.  Taken 3/19/13.</description>
+            <media:description type="html">A movie (click to play) taken 5 days after the last one of comet C/2011 L4 (PanSTARRS). It moves down and to the right as before.  Taken 3/19/13.</media:description>
             <media:thumbnail url="thumbs/2013-03-19-C2011L4PanSTARRS_W.jpg" width="212" height="170"/>
-            <media:content  url="slides/2013-03-19-C2011L4PanSTARRS_W.mp4" width="2496" height="1664"/>
-            <jalbum:original url="slides/2013-03-19-C2011L4PanSTARRS_W.mp4" width="2496" height="1664" fileSize="1540811"/>
+            <media:content  url="slides/2013-03-19-C2011L4PanSTARRS_W.mp4" width="1000" height="667"/>
+            <jalbum:original url="slides/2013-03-19-C2011L4PanSTARRS_W.mp4" width="1080" height="720" fileSize="59764"/>
             <guid isPermaLink="false">slides/2013-03-19-C2011L4PanSTARRS_W.jpg</guid>
         </item>
         <item>
             <title>Comet C/2014 Q2 (Lovejoy)</title>
-            <link>2015-01-15-Lovejoy_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2015-01-15-Lovejoy_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet C/2014 Q2 (Lovejoy) seen on Jan 15, 2015. Imaged with the Atik CCD on the 80 mm APO refractor through RGB filters.  This one has fairly accurate colors!  2x binning.</description>
             <media:description type="html">Comet C/2014 Q2 (Lovejoy) seen on Jan 15, 2015. Imaged with the Atik CCD on the 80 mm APO refractor through RGB filters.  This one has fairly accurate colors!  2x binning.</media:description>
             <media:thumbnail url="thumbs/2015-01-15-Lovejoy_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2015-01-15-Lovejoy_W.jpg" width="841" height="634"/>
+            <media:content type="image/jpeg" url="slides/2015-01-15-Lovejoy_W.jpg" width="841" height="634"/>
             <jalbum:exif originalDate="Thu, 15 Jan 2015 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
-            <guid isPermaLink="false">2015-01-15-Lovejoy_W.jpg</guid>
+            <guid isPermaLink="false">slides/2015-01-15-Lovejoy_W.jpg</guid>
         </item>
         <item>
             <title>Comet C/2015 V2 (Johnson)</title>
-            <link>2017-05-12-Johnson_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
-            <description>Comet C/2015 V2 (Johnson) on 5/12/2017.  Taken with the Atik CCD on Meade 80 mm Apo.  It was about 7th magnitude.</description>
-            <media:description type="html">Comet C/2015 V2 (Johnson) on 5/12/2017.  Taken with the Atik CCD on Meade 80 mm Apo.  It was about 7th magnitude.</media:description>
+            <link>slides/2017-05-12-Johnson_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>Comet C/2015 V2 (Johnson) in 5/12/2017.  Taken with the Atik CCD on Meade 80 mm Apo.  It was about 7th magnitude.</description>
+            <media:description type="html">Comet C/2015 V2 (Johnson) in 5/12/2017.  Taken with the Atik CCD on Meade 80 mm Apo.  It was about 7th magnitude.</media:description>
             <media:thumbnail url="thumbs/2017-05-12-Johnson_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2017-05-12-Johnson_W.jpg" width="827" height="628"/>
+            <media:content type="image/jpeg" url="slides/2017-05-12-Johnson_W.jpg" width="827" height="628"/>
             <jalbum:exif originalDate="Fri, 12 May 2017 00:00:00 -0400" cameraMake="Atik" cameraModel="383L"/>
-            <guid isPermaLink="false">2017-05-12-Johnson_W.jpg</guid>
+            <guid isPermaLink="false">slides/2017-05-12-Johnson_W.jpg</guid>
         </item>
         <item>
             <title>Comet Johnson Movie</title>
             <link>slides/2017-06-24-Johnson_W.mp4</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
-            <description>A movie of Comet C/2015 V2 (Johnson) on 6/24/17. It is the fuzzy object near the top middle, moving upward. It reached perihelion on June 12th, and is currently about 7th magnitude.</description>
-            <media:description type="html">A movie of Comet C/2015 V2 (Johnson) on 6/24/17. It is the fuzzy object near the top middle, moving upward. It reached perihelion on June 12th, and is currently about 7th magnitude.</media:description>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>A movie of Comet C/2015 V2 (Johnson).  It reached perihelion on 6/12/17, and was 7th mag here on 6/24/17. It is the fuzzy object near the top middle.</description>
+            <media:description type="html">A movie of Comet C/2015 V2 (Johnson).  It reached perihelion on 6/12/17, and was 7th mag here on 6/24/17. It is the fuzzy object near the top middle.</media:description>
             <media:thumbnail url="thumbs/2017-06-24-Johnson_W.jpg" width="212" height="170"/>
-            <media:content  url="slides/2017-06-24-Johnson_W.mp4" width="1920" height="1280"/>
-            <jalbum:original url="slides/2017-06-24-Johnson_W.mp4" width="1920" height="1280" fileSize="2596631"/>
+            <media:content  url="slides/2017-06-24-Johnson_W.mp4" width="1000" height="667"/>
+            <jalbum:original url="slides/2017-06-24-Johnson_W.mp4" width="1080" height="720" fileSize="628216"/>
             <guid isPermaLink="false">slides/2017-06-24-Johnson_W.jpg</guid>
         </item>
         <item>
             <title>Comet ASASSN</title>
             <link>slides/2017-10-17-C2017-O1-ASASSN.mp4</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>A short movie of Comet C/2017 O1 (ASASSN) moving through the sky, in black and white. It is the faint object, which appears to be moving quickly, but this is due to the framerate of the video. Taken with Atik on 10/17/17, at about magnitude 8.5.</description>
             <media:description type="html">A short movie of Comet C/2017 O1 (ASASSN) moving through the sky, in black and white. It is the faint object, which appears to be moving quickly, but this is due to the framerate of the video. Taken with Atik on 10/17/17, at about magnitude 8.5.</media:description>
             <media:thumbnail url="thumbs/2017-10-17-C2017-O1-ASASSN.jpg" width="212" height="170"/>
             <media:content  url="slides/2017-10-17-C2017-O1-ASASSN.mp4" width="672" height="560"/>
-            <jalbum:original url="slides/2017-10-17-C2017-O1-ASASSN.mp4" width="672" height="560" fileSize="2728634"/>
+            <jalbum:original url="slides/2017-10-17-C2017-O1-ASASSN.mp4" width="672" height="560" fileSize="1337466"/>
             <guid isPermaLink="false">slides/2017-10-17-C2017-O1-ASASSN.jpg</guid>
         </item>
         <item>
             <title>Comet 64P Animation</title>
-            <link>2018-11-06-64P-SwiftGehr-anim.gif</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2018-11-06-64P-SwiftGehr-anim.png</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Two black-and-white images of Comet 64P Swift-Gehrels combined into a GIF animation showing the direction of its movement. Taken with Atik on 11/06/18.</description>
             <media:description type="html">Two black-and-white images of Comet 64P Swift-Gehrels combined into a GIF animation showing the direction of its movement. Taken with Atik on 11/06/18.</media:description>
             <media:thumbnail url="thumbs/2018-11-06-64P-SwiftGehr-anim.png" width="212" height="170"/>
-            <media:content type="image/gif" url="2018-11-06-64P-SwiftGehr-anim.gif" width="811" height="654"/>
-            <guid isPermaLink="false">2018-11-06-64P-SwiftGehr-anim.gif</guid>
+            <media:content type="image/gif" url="slides/2018-11-06-64P-SwiftGehr-anim.png" width="811" height="654"/>
+            <guid isPermaLink="false">slides/2018-11-06-64P-SwiftGehr-anim.png</guid>
         </item>
         <item>
             <title>Comet 64P/Swift-Gehrels</title>
-            <link>2018-11-06-64P-SwiftGehrRGB_W.jpg</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2018-11-06-64P-SwiftGehrRGB_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>Comet 64P/Swift-Gehrels imaged with the Atik CCD on the Celestron 11-inch on 11/6/2018.  Colors not very accurate.</description>
             <media:description type="html">Comet 64P/Swift-Gehrels imaged with the Atik CCD on the Celestron 11-inch on 11/6/2018.  Colors not very accurate.</media:description>
             <media:thumbnail url="thumbs/2018-11-06-64P-SwiftGehrRGB_W.jpg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="2018-11-06-64P-SwiftGehrRGB_W.jpg" width="811" height="654"/>
+            <media:content type="image/jpeg" url="slides/2018-11-06-64P-SwiftGehrRGB_W.jpg" width="811" height="654"/>
             <jalbum:exif originalDate="Tue, 06 Nov 2018 00:00:00 -0500" cameraMake="Atik" cameraModel="383L"/>
-            <guid isPermaLink="false">2018-11-06-64P-SwiftGehrRGB_W.jpg</guid>
+            <guid isPermaLink="false">slides/2018-11-06-64P-SwiftGehrRGB_W.jpg</guid>
         </item>
         <item>
             <title>Comet 46P Animation</title>
-            <link>2018-12-07-Comet_W.gif</link>
-            <pubDate>Fri, 06 Jan 2023 12:51:49 -0500</pubDate>
+            <link>slides/2018-12-07-Comet_W.png</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
             <description>A GIF animation of Comet 46P/Wirtanen, created from multiple exposures taken with the Canon T5i on 12/07/18. Some trailing is noticeable on some longer exposures, where the comet appears elongated.</description>
             <media:description type="html">A GIF animation of Comet 46P/Wirtanen, created from multiple exposures taken with the Canon T5i on 12/07/18. Some trailing is noticeable on some longer exposures, where the comet appears elongated.</media:description>
             <media:thumbnail url="thumbs/2018-12-07-Comet_W.png" width="212" height="170"/>
-            <media:content type="image/gif" url="2018-12-07-Comet_W.gif" width="1920" height="1215"/>
-            <guid isPermaLink="false">2018-12-07-Comet_W.gif</guid>
+            <media:content type="image/gif" url="slides/2018-12-07-Comet_W.png" width="1000" height="633"/>
+            <guid isPermaLink="false">slides/2018-12-07-Comet_W.png</guid>
+        </item>
+        <item>
+            <title>Comet 46P/Wirtanen in 2018.</title>
+            <link>slides/2018-12-09-Comet_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>Comet 46P/Wirtanen taken with the Canon T5i (120 sec) on 80 mm APO on 12/9/2018.  Colors fairly accurate.</description>
+            <media:description type="html">Comet 46P/Wirtanen taken with the Canon T5i (120 sec) on 80 mm APO on 12/9/2018.  Colors fairly accurate.</media:description>
+            <media:thumbnail url="thumbs/2018-12-09-Comet_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2018-12-09-Comet_W.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sun, 09 Dec 2018 22:01:47 -0500" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2018-12-09-Comet_W.jpg</guid>
+        </item>
+        <item>
+            <title>C/2019 Y4 (ATLAS)</title>
+            <link>slides/2020-04-14-C2019-ATLAS-Tail_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>Comet C/2019 Y4 (ATLAS) on 4/14/20.  Taken with the Canon T5i (123 sec exposure) on the Celestron 11-inch.  This comet was about 9th mag at the time and sporting a tail.</description>
+            <media:description type="html">Comet C/2019 Y4 (ATLAS) on 4/14/20.  Taken with the Canon T5i (123 sec exposure) on the Celestron 11-inch.  This comet was about 9th mag at the time and sporting a tail.</media:description>
+            <media:thumbnail url="thumbs/2020-04-14-C2019-ATLAS-Tail_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-04-14-C2019-ATLAS-Tail_W.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Tue, 14 Apr 2020 21:55:54 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-04-14-C2019-ATLAS-Tail_W.jpg</guid>
+        </item>
+        <item>
+            <title>Comet C/2020 F3 (NEOWISE)</title>
+            <link>slides/2020-07-17-NEOwise_W.jpg</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>Comet C/2020 F3 (NEOWISE) on 7/17/20.  Taken with the Canon T5i (30 sec exposure) on a tripod in the backyard.  Even though it was low in the WNW, this was one of the brightest, easiest to see comets in decades. It reached 2nd magnitude and sported separate gas and dust tails.</description>
+            <media:description type="html">Comet C/2020 F3 (NEOWISE) on 7/17/20.  Taken with the Canon T5i (30 sec exposure) on a tripod in the backyard.  Even though it was low in the WNW, this was one of the brightest, easiest to see comets in decades. It reached 2nd magnitude and sported separate gas and dust tails.</media:description>
+            <media:thumbnail url="thumbs/2020-07-17-NEOwise_W.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-07-17-NEOwise_W.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Fri, 17 Jul 2020 22:02:09 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-07-17-NEOwise_W.jpg</guid>
+        </item>
+        <item>
+            <title>Comet C/2020 F3 (NEOWISE)</title>
+            <link>slides/2020-07-18-NEOWISEset_W.JPG</link>
+            <pubDate>Tue, 14 Mar 2023 13:38:03 -0400</pubDate>
+            <description>Comet C/2020 F3 (NEOWISE) seen setting over the ONU Observatory roof on 7/18/20.  A 90 sec exposure with the Canon T5i.  The green tint of the comet&apos;s coma differs from the pale yellow dust tail.  The blue gas tail was to the left of the dust tail, but does not show up here.</description>
+            <media:description type="html">Comet C/2020 F3 (NEOWISE) seen setting over the ONU Observatory roof on 7/18/20.  A 90 sec exposure with the Canon T5i.  The green tint of the comet&apos;s coma differs from the pale yellow dust tail.  The blue gas tail was to the left of the dust tail, but does not show up here.</media:description>
+            <media:thumbnail url="thumbs/2020-07-18-NEOWISEset_W.JPG" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/2020-07-18-NEOWISEset_W.JPG" width="533" height="800"/>
+            <jalbum:exif originalDate="Sat, 18 Jul 2020 22:13:35 -0400" cameraMake="Canon" cameraModel="Canon EOS REBEL T5i"/>
+            <guid isPermaLink="false">slides/2020-07-18-NEOWISEset_W.JPG</guid>
         </item>
     </channel>
 </rss>
