@@ -3,7 +3,7 @@ Homework from
 Astronomy Today   9e
 
 Homework on stellar evolution
-[ Ch. 18 Q(How many figures...?), ] <- not used spring 2019
+[ Ch. 18 Q(How many figures...?), ] <- not used after spring 2019
 Ch. 18 RD 2,7,13
 Ch. 19 RD 1,2,3,11
 Ch. 20 RD 1,2,8,9,11,13
@@ -14,7 +14,7 @@ Ch. 20 RD 1,2,8,9,11,13
 [  Q: How many figures show all 3 types of nebula (emission,
   reflection, and dark) in the same picture?
     Definite examples: Figs. 4,6,7,8,13,19  (6)
-    Possible others: Figs. 0(opening), 1, 5,9,10,14,20 (7) 
+    Possible others: Figs. 0(opening), 1,5,9,10,14,20 (7) 
      Thus, 6-13 is acceptable   ]
   
 2. What is the composition of the interstellar gas? What about
