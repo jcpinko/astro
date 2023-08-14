@@ -1,0 +1,70 @@
+Giancoli 5th Ed.
+
+Hwk 4 (Due Mon 9/19)
+Ch. 23 P. 2,3,5,9,12,15,17,21,25,28,29,35,36,43,48,51
+       MCQ. 1-13 (odd)
+
+Problems: 
+2. W_ba = -qV_ba = 3.04e-17 J  or 1.9e+2 eV
+3. Delta V = -(Delta K)/q = -0.77 V
+5. a) ma = qE, so a = qE/m 
+      Also use v_f^2 = v_i^2 = 2a(x_f-x_i) to find
+          (x_f-x_i) = Delta x = 1.9e-7 m
+   b) q(Delta V) = K_f = 1/2 m(v_f)^2
+      so Delta V = 1.1e-3 V
+9. E = (V_ba)/d   so d = 2.8e-2 m
+12. V_surf = r(E_breakdown) so r = V/E = 0.015m
+    V_surf = kQ/r  so Q = rV/k  = 7.5e-8 C
+15. a)  V = E(r_Earth) = (-150 V/m)(r_Earth) = -9.6e+8 V
+    b) If we define V=0 at r_Earth, then at r=infty V=+9.6e+8 V.
+       If we keep V=0 at infinity but add a shell of + charge
+       above the surface (with the same magnitude as the charge 
+       on the surface), then the E above the ionosphere is 0
+       (by Gauss's law).  The potential at the Earth's surface
+       would then have a smaller magnitude but still have a 
+       negative sign.
+17. a) the two spheres are at the SAME potential
+    b) The potentials of the two spheres are still equal,
+       but their charges will differ.
+           V_1=V_2  so kQ_1/r_1 = kQ_2/r_2  but Q_2=Q-Q_1.
+             so Q_1 = Q(r_1/[r_1+r_2])
+       charge transferred = Q-Q_1 = Q(r_2/[r_1+r_2])
+21. a) V_BA = 0  The line between the 2 points is perpendicular to E.
+    b) V_CB = V_C - V_B = -44.1 V
+    c) V_CA = V_C - V_A = V_CB + V_BA = -44.1 + 0 = -44.1 V
+25. V = kQ/r so Q = 2.8e-9 C
+28. V_corner = V_3 + V_1 + V_-2
+             = k(3Q)/l  + k(Q)/(l*sqrt(2)) + k(-2Q)/l
+             = k (sqrt(2)/2) * Q/l * (sqrt(2)+1)
+29. W_ext = U_fin - U_in      Let D=6cm, d=1cm.
+          = 2KQq[1/(D-2d) + 1/(D+2d) + 1/(D/2)]
+          = 0.28 J
+35  V = K int { dq/r }  where dq = sigma(2*pi*R*dR)
+    V = sigma/2{eps_0} [sqrt(x^2+R_2^2) - sqrt(x^2+R_1^2)]
+36. V = K int { dq/r }  over the semicircle
+    V = k Q / r_0  but r_0 = l/pi  so
+    V = k Q pi/l   (or V = Q/4*e_0*l )
+43. Delta V = - E*(Delta x)   when E is uniform
+    Delta x = x_0 - x_1
+    E = sigma/e_0    for a metal plate (2 charged planes)
+    so x_0 - x_1 = (Delta V0*e_0 / sigma) = 1.2e-3 m  (~1 mm)
+48.  dV/dr = -E = -kq/r^2
+      q = 92(1.6e-19 C)  and r=7.5e-15 m
+     So dV/dr = -2.4e+21 V/m
+51.  Ex = -dV/dx = -by+cyz,  Ey= -dV/dy = -2ay-bx+cxz
+     Ez = -dV/dz = cxy
+     So E = (-by+cyz)i +(-2ay-bx+cxz)j + (cxy)k
+
+Misconceptual Questions
+1. b
+3. b
+5. a
+7. c
+9. c
+11. a
+13. c
+
+
+Please check
+Prob.  
+MiscQ  

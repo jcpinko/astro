@@ -1,6 +1,0 @@
-AuthName "Private PHYS231 Page"
-SSLRequireSSL
-AuthType Basic
-require valid-user
-# require user j-pinkney 
-# Note: no htpasswd file needed.

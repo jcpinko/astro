@@ -1,0 +1,661 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html><head>
+  
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=ISO-8859-15">
+  <title>PHYS 2321 "Physics 2 "</title>
+
+  
+  
+  <meta name="GENERATOR" content="StarOffice/5.2 (Linux)">
+
+  
+  <meta name="CREATED" content="20020908;15572000">
+
+  
+  <meta name="CHANGEDBY" content="Jason Pinkney">
+
+  
+  <meta name="CHANGED" content="20020909;11133100">
+
+  
+  <style>
+<!--
+A:link { color: #0000ff }
+A:visited { color: #800080 }
+-->
+  </style>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta content="J. Pinkney" name="author">
+
+</head><body style="background-color: rgb(255, 255, 225);" link="#0000ff" vlink="#800080">
+<h1><a name="PHYSICS 233 E&amp;M "></a><font size="5"><b>PHYS
+2321-03&nbsp; "Physics 2''&nbsp; -- Fall 2015</b></font></h1>
+
+<table style="text-align: left; width: 1039px; height: 237px;" border="1" cellpadding="2" cellspacing="2">
+
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img alt="van de Graff" src="art_light_150.jpg" style="width: 150px; height: 211px;"><br>
+      </td>
+      <td style="vertical-align: top;">
+      <p>Credits: 3.00 <br>
+Department: <font color="#006600">Physics and
+Astronomy</font> <br>
+Class Home page:
+http://www2.onu.edu/~j-pinkney/PHYS2321/syll-phys2321.html&nbsp;
+(this
+page!) </p>
+      <p>Instructor: <b>Dr. Jason Pinkney</b> <br>
+Office hours&nbsp; in 111
+Science Annex at&nbsp; <a href="../schedF2015.html">these times</a> . <br>
+Email: <a href="mailto:j-pinkney@onu.edu">j-pinkney@onu.edu</a>
+or call 419-772-2740. <br>
+Instructor's Home page: <a href="../">http://www2.onu.edu/~j-pinkney/</a>
+      </p>
+      <p>Class time and place (Section 3):&nbsp; MWF, 11:00-11:50 pm,
+Meyer 113<br>
+      </p>
+      <p><b>Text:</b> <a href="http://academic.cengage.com/cengage/instructor.do?totalresults.do?page=null&amp;keyfor=allsite&amp;keyitem=all&amp;keyword=null&amp;keytype=null&amp;resultfor=higheredu&amp;resulttype=instructor&amp;keyword_all=Serway&amp;pagefrom=search&amp;disciplinenumber=13&amp;product_isbn=9780495112457&amp;contextelement=http://academic.cengage.com/cengage">Physics
+for Scientists and Engineers</a>, 8th Edition.&nbsp; By
+Serway and
+Jewett.<br>
+(ISBN-10: 1-4390-4845-2, ISBN-13 978-1-4390-4845-0: ) </p>
+      </td>
+      <td style="vertical-align: top;">
+      <div style="text-align: center;"><img alt="magnet with key" src="magnet+key.jpg" style="width: 165px; height: 212px;"><br>
+      </div>
+      <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<small><font size="5"><small><font color="#ff0000">NEW STUFF</font></small></font>
+</small>&nbsp;&nbsp; -&nbsp; Watch this spot for new links.&nbsp; These
+may include outlines and homework solutions.&nbsp; <br>
+
+<p>
+<a href="./advice/index.html">Advice on homeworks </a>
+<br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/my233wk1/my233wk1.html">
+Week 1 outlines </a> 
+<br>
+<!-- 
+<a href="./EfieldTorF.html">E-fields T or F (Chap 23) </a> 
+<br> 
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/my233wk3/my233wk3.html">
+Old Week 3 outline </a>
+<br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Ch24JP.pdf">
+Newer Week 3 outline (PDF) </a> 
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homework2">
+Week 2 homework solutions (txt) </a>  <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homework3">
+Week 3 homework solutions (txt) </a>  <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homework4">
+Week 4 homework solutions (txt) </a>  <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/my233wk4/my233wk4.html">
+Week 4 outlines </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/my233wk5.pdf">
+Week 5 outline (PDF on capacitance) </a> <br>
+<a href="./Review1/"> Review for Exam 1. </a> 
+<br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/HWK/homework5
+"> Homework 5 solutions (txt) </a> </p>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/HWK/homework6
+"> Homework 6 solutions (txt) </a> </p>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/HWK/homework7
+"> Homework 7 solutions (txt) </a> </p>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/HWK/homework8
+"> Homework 8 solutions (txt) </a> </p>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/HWK/homework9
+"> Homework 9 solutions (txt) </a> </p>
+
+<p> <a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/review2.pdf"> 
+Review for Exam 2. [Ch.28,31 updated 11/6.] </a> </p>
+<p> <a
+ href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/my233wk8/OLch30.html">
+Ch. 30
+outline </a> </p>
+<p> <a
+ href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/chapter31JP.ppt">
+Chapter 31 outline (PPT) </a> </p>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Chap34JP.pdf">
+Ch. 34 Images (PDF) </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Clicker/clickersquestions_ch34.ppt">
+Ch. 34 Clicker Questions (PPT).  View as "slide show" to hide answers. Yellow slides are on material not covered. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Clicker/clickersquestions_ch35.ppt">
+Ch. 35 Clicker Questions (PPT).  View as "slide show" to hide answers. Yellow slides are on material not covered. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Clicker/clickersquestions_ch36.ppt">
+Ch. 36 Clicker Questions (PPT).  View as "slide show" to hide answers. Yellow slides are on material not covered. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/Clicker/clickersquestions_ch37.ppt">
+Ch. 37 Clicker Questions (PPT).  View as "slide show" to hide answers. Yellow slides are on material not covered. </a> <br>
+<br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/eqsExFin13.pdf">
+Equation Review for Ch. 32,34-37 (PDF). </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homeworkCh34">
+Ch. 34 homework answers. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homeworkCh35">
+Ch. 35 homework answers. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homeworkCh36">
+Ch. 36 homework answers. </a> <br>
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homeworkCh37">
+Ch. 37 homework answers. </a> <br>
+-->
+
+<!--
+<p> <a
+ href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homewk08.5">
+Ch.26 homework solutions (txt) </a> </p>
+<p> 
+<a href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homewk08.6">
+Ch.27, Ch. 28 homework solutions (txt) </a> </p>
+<p> <a
+ href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homewk08.7">
+Ch.28, Ch. 29 homework solutions (txt) </a> </p>
+-->
+
+<!--
+<p> <a href="./revfinf06/"> Equation Review for final. </a>
+</p>
+<p> <a
+ href="https://www2.onu.edu/%7Ej-pinkney/PHYS2321/PROT233/homewk08.11">
+Ch.31, 32, homework solutions (txt) </a> </p>
+
+<p> <a href="https://www2.onu.edu/~j-pinkney/PHYS2321/PROT233/homewk08.9"> Ch.29, Ch. 30 homework solutions (txt) </a> </p>
+<p> <a href="https://www2.onu.edu/~j-pinkney/PHYS2321/PROT233/my233wk9/my233wk9.html"> Week 9
+outlines </a>
+</p>
+
+</p>
+<p> <a href="./C22PQ1/c22pq1.htm"> Practice Quiz 1 (Ch. 22) </a> Typo
+in #10, if you see an "R" in a circle it should be an arrow pointing
+right. The other symbol is an arrow pointing left.
+</p>
+<p> <a href="./my233wk1/my233wk1.html"> Week 1 outlines </a>
+</p>
+<p> <a href="./PROT233/hwk1/">Homework1 (Chap. 22) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk2/">Homework2 (Chap. 23) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk3/">Homework3 (Chap. 24) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk4/">Homework4 (Chap. 25) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk5/">Homework5 (Chap. 26) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk6/">Homework6 (Chap. 27,28) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk7/">Homework7 (Chap. 29) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk8/">Homework8 (Chap. 30) Solutions </a>
+</p>
+<p> <a href="./PROT233/hwk9/">Homework9 (Chap. 31,32) Solutions </a>
+</p>
+-->
+<hr style="width: 100%; height: 2px;">
+<p><b>Course Description:</b> <br>
+This course is a calculus-based
+introduction to E&amp;M (electricity and magnetism) and optics. Topics
+include Coulomb's
+law (static electric forces), electric and magnetic fields,
+potentials and potential energy, Maxwell's
+equations, light, image formation, and diffraction.&nbsp; Some basic
+electrical circuits will be discussed,
+but we mostly leave this to Electrical Engineering courses.&nbsp; Here
+we want
+to emphasize the theory and concepts inherent in all electric and
+magnetic
+phenomena.&nbsp; This is a challenging course in that you must
+remember
+results from PHYS 2311 (Mechanics and Thermodynamics) and your Calculus
+courses.<br>
+A tentative calendar of topics is outlined below.
+<br>
+</p>
+
+<p><a name="sched"></a><b>Schedule</b>:<br>
+</p>
+
+<table style="background-color: rgb(255, 204, 51); text-align: left; margin-left: auto; margin-right: auto; height: 652px;" border="5" cellpadding="5" cellspacing="2">
+
+  <tbody>
+    <tr>
+      <td style="height: 45px;"><small> </small> <br>
+      <small>Week of</small><br>
+      <small> </small></td>
+      <td style="height: 45px;"><small> </small> <br>
+      <small>Topic</small><br>
+      <small> </small></td>
+      <td style="height: 45px;"><small> </small> <br>
+      <small>Chapter(s)</small><br>
+      <small> </small></td>
+      <td style="height: 45px;"><small> </small> <br>
+      <small>Graded material (not complete)</small><br>
+      <small> </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(195, 163, 115); display: inline ! important; float: none;">8/24,26,28</span></td>
+      <td style="vertical-align: top;"><small>Syllabus.
+Electric Charge and Force</small></td>
+      <td style="vertical-align: top;"><small>23</small></td>
+      <td style="vertical-align: top;"><small><br>
+      </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>8/31,9/2,4</small></td>
+      <td style="vertical-align: top;"><small>Electric
+Fields </small></td>
+      <td style="vertical-align: top;"><small>23</small></td>
+      <td style="vertical-align: top;"><small>quiz1</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">9/7<br>
+      </td>
+      <td style="vertical-align: top;">Labor Day<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>9/9,11,13 </small></td>
+      <td style="vertical-align: top;"><small>Gauss'
+Law, Electric Potential<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>24, 25<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>quiz2</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>9/16,18,20<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>Electric
+Potential </small></td>
+      <td style="vertical-align: top;"><small>25 </small></td>
+      <td style="vertical-align: top;"><small> </small><small>quiz3</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>9/23,25,27<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>Capacitance</small></td>
+      <td style="vertical-align: top;"><small>26</small></td>
+      <td style="vertical-align: top;"><small>Exam I</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>9/30;10/2,4<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>Current
+&amp; Resistance,
+DC Circuits<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>27, 28</small></td>
+      <td style="vertical-align: top;"><small>quiz4 </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>10/7,9,11<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>Magnetic
+Fields </small></td>
+      <td style="vertical-align: top;"><small>29</small></td>
+      <td style="vertical-align: top;"><small>quiz5 </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small> </small>10/14<br>
+      </td>
+      <td style="vertical-align: top;"><small><big>Fall Break</big><br>
+      </small></td>
+      <td style="vertical-align: top;"><small><br>
+      </small></td>
+      <td style="vertical-align: top;"><small><br>
+      </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>10/16,18</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>Ampere's
+Law</small></td>
+      <td style="vertical-align: top;"><small>30</small></td>
+      <td style="vertical-align: top;"><small>quiz6</small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>10/21,23,25</small></td>
+      <td style="vertical-align: top;"><small>Faraday's Law<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>31<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>quiz7<br>
+      </small></td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td style="height: 20px; background-color: rgb(255, 204, 51);"><small>
+      </small> <small>10/28,30,11/1</small> <small> </small></td>
+      <td style="height: 20px; background-color: rgb(255, 204, 51);"><small>
+      </small> <small> </small> <small> </small><small>Faraday's
+Law, </small><small>Maxwell's
+Equations</small></td>
+      <td style="height: 20px; background-color: rgb(255, 204, 51);"><small>31,34<br>
+      </small></td>
+      <td style="height: 20px; background-color: rgb(255, 204, 51);"><small>
+      </small> <small>Exam II</small> <small> </small></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>11/4,6,8</small></td>
+      <td style="vertical-align: top;"><small>Nature of Light</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>35</small></td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>11/11,13,15</small></td>
+      <td style="vertical-align: top;"><small>Image Formation</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>36</small></td>
+      <td style="vertical-align: top;"><small>quiz8</small><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>11/18,20,22</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>Image Formation</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>36</small></td>
+      <td style="vertical-align: top;"><small>quiz9</small><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">11/25-29</td>
+      <td style="vertical-align: top;">Thanksgiving Break<br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>12/2,4,6</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>Wave Optics<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>37</small></td>
+      <td style="vertical-align: top;"><small>quiz10</small><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>12/9,11,13</small><br>
+      </td>
+      <td style="vertical-align: top;"><small>Diffraction<br>
+      </small></td>
+      <td style="vertical-align: top;"><small>38</small></td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><small>12/16</small></td>
+      <td style="vertical-align: top;"><small>Final
+at 4:15-6:15 pm, place Meyer 114.&nbsp; <br>
+      </small></td>
+      <td style="vertical-align: top;"><br>
+      </td>
+      <td style="vertical-align: top;"><small>Comprehensive
+Final Exam.</small></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br>
+</p>
+
+<p><b>Lab:</b> <br>
+The lab for this class is Physics 2351. There are 2
+sections which will be led by Dr. Theisen.
+Labs will meet in <b>Meyer 122</b>. These labs are usually attended by
+an
+undergraduate science major who will also score your weekly labs. <span style="text-decoration: underline;">You will have an
+informational meeting with your instructor on the first week where you
+will be assigned your first lab</span>. <br>
+</p>
+
+<p style="margin-bottom: 0in; text-align: left;"><b>Grading:</b>&nbsp;<br>
+</p>
+
+<table style="background-color: rgb(195, 163, 115); text-align: left; margin-left: auto; margin-right: auto; width: 85%;" border="2" cellpadding="2" cellspacing="2">
+
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle; height: 25%;">In-class<br>
+      </td>
+      <td style="vertical-align: middle; height: 25%;">Homework,
+attendance <span class=""></span></td>
+      <td style="vertical-align: middle; height: 25%;"> 25%<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 25%;"> Quizzes<br>
+      </td>
+      <td style="height: 25%;"> Quizzes (drop lowest score) </td>
+      <td style="height: 25%;"> 25%<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 25%;"> Exams </td>
+      <td style="height: 25%;"> There will be two exams and a
+final. </td>
+      <td style="height: 25%;"> 50%<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="height: 25%;"> Total<br>
+      </td>
+      <td style="height: 25%;"><br>
+      </td>
+      <td style="height: 25%;"> 100%<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="margin-bottom: 0in;" align="center">Your
+final letter grade
+is
+calculated roughly as follows: </p>
+
+<center>
+<table style="background-color: rgb(195, 163, 115); text-align: left; margin-left: auto; margin-right: auto; height: 66px; width: 50%;" border="2" cellpadding="8" cellspacing="3">
+  <col width="width: 20%"> <col width="width: 20%"> <col width="width: 20%"> <col width="width: 20%"><col width="width: 20%"> <col width="width: 20%"> <tbody>
+    <tr>
+      <td style="width: 20%;"> &lt;55 </td>
+      <td width="width: 20%"> 55-70 </td>
+      <td width="width: 20%"> 70-80 </td>
+      <td width="width: 20%"> 80-90 </td>
+      <td width="width: 20%"> 90-100 </td>
+    </tr>
+    <tr>
+      <td style="width: 20%;"> F </td>
+      <td width="width: 20%"> D </td>
+      <td width="width: 20%"> C<br>
+      </td>
+      <td width="width: 20%"> B<br>
+      </td>
+      <td width="width: 20%"> A<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<p align="left">I will not grade any "harder" than the
+above. However, if the class mean drops below 75, I will grade more
+leniently. </p>
+
+<p align="left"><font size="3"><b>Other
+Course Policies</b></font></p>
+
+<p><small><i>Attendance </i> will sometimes
+be taken. Attendance is
+crucial on exam days, quiz days, or due dates. Absences can
+also indirectly lower your grade because the material presented
+in class reflects the material on quizzes and exams.&nbsp; Let me
+know
+in advance (e-mail is good) if you plan to miss for a valid reason
+(e.g. your team is on the road, you are sick, you have a family
+emergency).&nbsp; <u>If you miss a quiz or exam because of
+an
+unforeseen emergency, let me know as soon as possible, and provide
+proof of the emergency.</u> The name and phone number of a relevant
+authority figure (perhaps a parent) can be provided as proof. </small></p>
+
+<p><small><i>Homework </i>will&nbsp;consist of reading and working
+problems from
+the textbook.&nbsp; Problem solving is a major part of physics and
+so
+we will use some classtime each week (usually Friday) for
+group work on problem sets. **I hope to provide some practice exam
+questions from the test bank each week. These do not have to be
+turned in, but can be considered a homework "supplement". ** &nbsp;
+Homework turned in after 5 PM on
+the due date (usually Monday) will be given 50% credit.
+If you foresee yourself missing a deadline
+because of an excusable absence, again, let me know ahead of time. </small></p>
+
+<p><small><i>Quizzes </i>will usually be
+given on Mondays after
+non-exam
+weeks.&nbsp; They
+will
+consist of 5 - 10 questions, mostly multiple choice or short
+answer.&nbsp;
+They cover the assigned reading and especially the material discussed
+in class.&nbsp; You can only make up a quiz that was missed because
+of a valid conflict or emergency.&nbsp; Also, you can only make up
+the quiz before the answers are revealed (usually the next day).
+For this reason, I will drop your lowest quiz score. </small></p>
+
+<p><small><i>Exams </i>will be given roughly
+every 3 weeks. These will
+weigh most heavily towards your class grade. The final exam will be
+comprehensive, but will emphasize the last 3 weeks of material.</small></p>
+
+<p><small><i>Disruptions&nbsp;</i> You can
+ask questions during class and
+even laugh heartily at my jokes, but don't interfere with
+the learning of the students around you.&nbsp;
+Don't be late or you may face public humiliation. You might
+also miss a quiz.&nbsp;&nbsp; In general, do not disrupt the
+class or
+you may be asked to leave. </small></p>
+
+<p><small><i>Academic Misconduct</i> The College of A&amp;S has a Code
+for Academic Student Conduct and forms for reporting students. Academic
+integrity is one of the basic principles of a university community.
+Ohio Northern University encourages and expects the highest standards
+of academic honesty from all students. The A&amp;S code states that
+cheating, plagiarism, and other forms of academic dishonesty are
+subject to disciplinary action. In <i style="font-weight: bold;"> PHYS
+2321 </i> (this class), the biggest temptation will be to look at
+another person's work during tests. Do not wear caps during quizzes or
+exams or store information on electronic devices. Another temptation
+will be copying the homework solutions out of a manual. If I see
+cheating, I will give a zero score for that quiz or exam. </small></p>
+
+<p><small><i>Calculators</i>&nbsp; I encourage you
+to use a calculator in this class. However, you may not use calculators
+to store information for
+tests and quizzes. &nbsp;(This includes writing equations on the lid.)
+&nbsp;Tests and quizzes don't usually require much arithmetic, so the
+calculator is mostly needed for homework. </small></p>
+
+<p><small><i>Tutoring</i>&nbsp; will be available from
+the Physics Dept and Engineering sources. &nbsp;
+Listen for
+announcements
+in class.&nbsp;&nbsp; </small><small>Of course,
+you
+are welcome to drop by during my office hours!</small> </p>
+
+&nbsp;
+<br>
+
+<hr style="width: 100%; height: 2px;">
+<p><big style="color: rgb(51, 255, 51);"><big>SELF
+TESTS</big></big><br>
+&nbsp;&nbsp;&nbsp; Here are the "Test Bank Practice"
+questions used for
+previous Phys 233 classes.&nbsp;
+<br>
+</p>
+
+<p> <a href="./week1test/wk1tstbn.htm">Chap. 23 Test Bank Practice </a>
+</p>
+
+<p> <a href="./week2test/Week2.html">Chap. 23 (E-fields) Test Bank
+Practice </a>
+</p>
+
+<p> <a href="./C22PQ1/c22pq1.htm">More on Charge and E-fields
+Test Bank Practice </a>
+</p>
+<p> <a href="./week3test/Week3.html">Chap. 24
+Test Bank Practice. Typos: "Int" stands for 'integral' in #2;
+answer to #7 is E. </a>
+</p>
+<p> <a href="./week4test/Week4.html">Chap. 25
+Test Bank Practice. Typos: #7 should have k = 1/(4*pi*epsilon0). </a>
+</p>
+<p> <a href="./week5test/Week5.html">Chap. 26
+Test Bank Practice. Typos: "m" stands for micro. #5 should have 20 mF. </a>
+</p>
+<p> <a href="./week6test/Week6.html">Chap. 27
+Test Bank Practice. Typos: "length E" should be "length l" in #7. </a>
+</p>
+<p> <a href="./week7test/Week7.html">Chap. 28
+Test Bank Practice. Typos: "w" stands for resistance "Omega". </a>
+</p>
+<p> <a href="./week8test/Week8.html">Chap. 29
+Test Bank Practice. Typos: </a>
+</p>
+<p> <a href="./week9test/tstbkqz9.htm">Chap.
+30 Test Bank Practice. Typos: "m_0" stands for "mu naught" the
+permeability constant. "p" in no. 2 stands for pi. </a>
+</p>
+<p> <a href="./week10test/Week10.html">Chap.
+31 Test Bank Practice. Typos: ? </a>
+</p>
+<!--
+</P>
+<p> <a
+href="http://jws-edcv.wiley.com/college/bcs/redesign/student/resource/0,12264,_0471320005_BKS_1074___175__,00.html">Other
+online self-tests</a>
+-->
+<br>
+
+<table bgcolor="#ffffff" border="5" bordercolor="#003fcc" cellpadding="3" cellspacing="3" width="90%">
+
+  <col width="74*"> <col width="90*"> <col width="92*"> <tbody>
+    <tr>
+      <td width="29%">
+      <div style="text-align: center;"> </div>
+      <p style="text-align: center;">&nbsp;<a href="../../http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html"><img src="coolfan.jpg" alt="Cool!" style="border: 0px solid ; width: 58px; height: 100%;" align="middle"></a>
+      <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html"><span style="font-family: helvetica,arial,sans-serif;">HYPER</span>physics</a><a href="/http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html"><br>
+      </a></p>
+      </td>
+      <td width="35%">
+      <div style="text-align: center;"> </div>
+      <p style="text-align: center;"><a href="http://www2.onu.edu/%7Ej-pinkney">Pinkney's Homepage</a></p>
+      </td>
+      <td width="36%">
+      <div style="text-align: center;"> </div>
+      <p style="text-align: center;"><a href="http://www.onu.edu/A+S/physics">The ONU Physics
+Homepage</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Cut out stuff ... -->
+</body></html>

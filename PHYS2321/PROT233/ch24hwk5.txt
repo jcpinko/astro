@@ -1,0 +1,41 @@
+Giancoli 5th Ed.
+
+Hwk 4 (Due Mon 9/19)
+Ch. 24 P. 1,5,6,7,10,11,13,16,21,22,24,38,39,40,53
+       MCQ. 1-13 (odd)
+
+Problems: 
+1. C=Q/V = 3.6e-6
+5.  Q_1 = Q_0 [C_1/(C_1+C_2)]
+  Q_2 = Q_0 [C_2/(C_1+C_2)]
+  V = Q_0 /(C_1+C_2)
+6. C_2 = 87 microF
+7.  1.2 C
+10. C/l = 3.5e-11 F/m  or 35 pF/m
+11. C=Q/(Q/4*pi*e0r) = 4*pi*e0 r = 7.10e-4 F
+13. d = e0 A / C = 9e-16 m
+16. Q_max = 2.2e-8 C
+21. C_2 = 3.0e+3 pF
+    Yes, a connection must be broken to add a capacitor
+    in series.
+22. a) C_eq = 19.2 microF
+    b) C_eq = 0.53 microF
+24. 17 microF connected in parallel
+38. U = 1/2 CV^2 = 7.3e-4 J
+39. u = 1/2 e0 E^2 = 1.0e-7 J/m^3
+40. C = 2U/V^2 = 9.6e-5 F
+53. C = Ke0 A/d = 2.1e-10 F
+
+Misconceptual Questions
+1. d,e
+3.  d
+5.  c
+7.  c
+9.  b
+11. d
+13. b
+
+
+Please check
+Prob.  10 (1pt), 21 (1.5 pts)
+MiscQ   1,9,11,13 (1/2 ea)

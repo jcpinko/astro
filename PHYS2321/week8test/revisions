@@ -1,0 +1,107 @@
+
+	Revisions to MS 56285:  "Kinematics of Ten Early-Type Galaxies
+from Hubble Space Telescope and Ground-Based Spectroscopy"
+
+         by Jason Pinkney, Karl Gebhardt, Ralf Bender, Gary Bower,
+	Alan Dressler, S. M. Faber, Alexei V. Filippenko, Richard Green,
+	Luis C. Ho, John Kormendy, Tod R. Lauer, John Magorian, 
+	Douglas Richstone, and Scott Tremaine.
+
+I. As suggested by Linda Sparke, Scientific Editor:
+----------------------------------------------------------
+  1) removed the citation to Gebhardt 2000 in the abstract.
+  2) replaced "BH" with "black Hole" in the abstract.
+
+II. Other, unsolicited changes:
+----------------------------------------------------------
+  1) corrected first sentence of acknowledgements.
+
+III. Response to referee's suggestions:
+----------------------------------------------------------
+	First off, thanks for the suggestions.  I'm sure they
+will improve the paper.  Also, apologies for not making the color 
+versions of the kinematic profiles available.  We intend to
+make the color versions available for the electronic addition.
+
+1 General Comments
+1.1 Description of the data reduction, Section 4.1
+	I'm not actually an expert on CALSTIS so a thorough 
+comparison is not a good idea.  
+	I will insert a short paragraph near the end of 
+this discussion which will state the most important differences.
+
+	Removed "Because of dithering, every combined pixel
+was made from at least 6 pixels, ..." from paragraph 2.
+	Added "Since there were 5 dither positions, every final
+pixel value was a combination of up to 5 distinct pixels on the
+CCD chip." to the 4th paragraph.
+
+1.2 Reliability test of the kinematics
+	We need to "convince the reader that some confidence can
+be attached to the extracted [H3 and H4] parameters".
+	Two of our authors, Gebhardt and Bender, have thoroughly
+compared H4 measurements from the MPL and FCQ methods.  H4 was
+focused on because 1) it is the most difficult to measure in
+the data, and 2) some of our ground based measurements of H4
+were systematically lower than some independent ones by Bender.
+
+1.3 Comments on the individual galaxies
+	Drop any results in my paper if they are duplicated
+by Lauer et al. or Kormendy et al.
+	The "Lauer et al" reference will be switched to 
+"private communication" because the work done by Lauer will
+not be published separately any time soon.  The Kormendy
+paper "Supermassive Black Holes in Galaxy Disks and Pseudobulges"
+is not heavily duplicated here.  My paper discusses N3384 and
+N7457 as possible pseudobulges, while Kormendy's only gives
+attention to NGC 7457.  Namely, it is mentioned that N7457
+is "well below the Faber-Jackson relation for unbarred galaxy
+bulges).  
+	[Do we want to eliminate the definition of pseudobulges
+and other "folklore"?]
+
+2. Specific comments in order of appearance
+	
+X Abstract - on. Change H3 and H4 to h3 and h4, and vice versa.
+
+  Section 4.1, pg. 9.  Give a reference for the FITSIO subroutines.
+
+  Section 4.5, pg. 20: The referee thinks that Figs 6 and 7 are 
+redundant, and asks why a linear scale was used  to compare
+surface brightness profiles.  
+  I do not want these profiles to look like surface brightness
+profiles because they are not produced like real surface brightness
+profiles:  1) The light selected along the slit does not correspond
+to any standard filter (BVRI) used in surface photometry.  2) In 
+surface photometry, sub-pixel resolution can be achieved with
+deconvolution and sub-pixel dithering.  3) Standard profiles are
+created by averaging around elliptical isophotes, not across a
+2-4 pixel wide slit.  So these profiles may diverge from standard 
+ones especially at small radii.  Standard profiles can be produced
+(and have been for most of these galaxies) using WFPC2 or WFPC data.
+  The purpose of these figures is not best surved by a log brightness
+scale, and is in fact hindered by one.  (Indeed, I made one and
+omitted it.) The main reasons, other than conformity, that I can see 
+for the conventional choice of log-log plots are: 1) to enlarge the small 
+radii relative to large radii because the surface brightness changes 
+quickly near the center, 2) to demonstrate adherance to (double) 
+power-laws, 3) to express brightness using a standard photometric system.  
+(1) is not needed because we don't have strong signal out to large
+radii.  (2) is old news and has been done for most of these galaxies.
+(3) is difficult to do here because of unconventional spectral 
+range used.
+
+  My intentions for the these figures were: 1) to show how many counts
+were obtained in a typical 1300 sec exposure with STIS.  The reader can 
+immediately tell how much signal one galaxy has compared to another.
+The reader can quickly estimate the Poisson errors using these plots.  
+The plots immediately demonstrate why we only plot kinematic quantities within 
+1" (20 pixels) of the center for most galaxies.  2) To show that
+NGC 4473 is quite asymmetric compared to the other galaxies.
+3) To allow one to quantitatively estimate the asymmetry in NGC 4473.
+
+	A logarithmic scale would compress the large intensities
+relative to the small ones, making the asymmetry in NGC 4473 more
+difficult to see (it occurs near the peak).  Plot 7 shows 
+
+

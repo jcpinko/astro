@@ -1,0 +1,38 @@
+Giancoli 5th Ed.
+
+Hwk 5  (Due 10/12/22)
+Ch. 25 P. 2,3,6,9,12,13,14,16,19,28,29,33,47,55
+Ch. 26 MCQ. 1-9 (odd)
+
+Ch. 25  Problems: 
+2. R=V/I = 29 Ohms
+3. I=dQ/dt = 1.75A (1/1.6e-19) = 1.09e+19 e-/sec
+6. R=(ohm/l)*L=1e-6 ohms, V = IR = 3.8e-3 V
+9. a) R=8.9 ohms
+   b) Q=It= 6.5e+3 C
+12. R = rho*l/A=rho(4l/pi*d^2), d = 4.3e-4 m
+13. R = rho*l/A=rho(4l/pi*d^2) = 4.8e-2 Ohms
+14. R = rho*l/A,  R_Al/R_Cu = 0.39
+16. R_short = 3.7 ohms, R_long = 14.8 ohms
+19. R = 150 ohms
+28. P=IV = 0.72 W
+29. P=V^2/R -> R=V^2/P = 19 ohms
+33. a) R=V^2/P predicts P=1250 W setting has higher resistance.
+    b) R_low power = V^2/P = 11.5 ohms  (for 1250 W)
+    c) R_hi power = V^2/P = 7.68 ohms  (for 1875 W)
+47. I_peak = V_peak/R = 0.51 A,  I_rms = 0.36 A
+55. a) v_d = 7.1e-10 m/s
+    b) j = I/A = 9.6 A/m^2
+    c) E = rho*j = 1.6e-7 V/m
+
+Ch. 26 Misconceptual Questions
+1. (a,c)
+3.  c
+5.  b
+7.  b
+9.  d
+
+
+Please check
+Prob.  9, 28
+MiscQ   1,9 (1/2 ea)
