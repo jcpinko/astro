@@ -1,0 +1,110 @@
+Responses to "Questions" 1-14 in Ch. 21
+
+1. Suspend a plastic ruler by a thread and then rub it with a cloth. As shown in Fig. 21–2a, the 
+ruler is negatively charged. Now bring the charged comb close to the ruler. If the ruler is repelled 
+by the comb, then the comb is negatively charged. If the ruler is attracted by the comb, then the 
+comb is positively charged.
+
+2. The shirt or blouse becomes charged as a result of being tossed about in the dryer and rubbing
+against the dryer sides and other clothes. When you put on the charged object (shirt), it causes
+charge separation within the molecules of your skin (see Fig. 21–9), which results in attraction
+between the shirt and your skin.
+
+3. Fog or rain droplets tend to form around ions because water is a polar molecule, with a positive
+region and a negative region. The charge centers on the water molecule will be attracted to the ions
+or electrons, since opposite charges attract.
+
+4. See also Fig. 21–9 in the text. The negatively
+charged electrons in the paper are attracted to
+the positively charged rod and move towards
+it within their molecules. The attraction occurs
+because the negative charges in the paper are
+closer to the positive rod than are the positive
+charges in the paper, and therefore the
+attraction between the unlike charges is
+greater than the repulsion between the like charges.
+
+5. A plastic ruler that has been rubbed with a cloth is charged. When brought near small pieces of
+paper, it will cause separation of charge (polarization) in the bits of paper, which will cause the
+paper to be attracted to the ruler. A small amount of charge is able to create enough electric force to
+be stronger than gravity. Thus the paper can be lifted.
+On a humid day this is more difficult because the water molecules in the air are polar. Those polar
+water molecules will be attracted to the ruler and to the separated charge on the bits of paper,
+partially neutralizing the charges and thus reducing the attraction.
+
+6. The net charge on a conductor is the sum of all of the positive and negative charges in the 
+conductor.
+If a neutral conductor has extra electrons added to it, then the net charge is negative. If a neutral
+conductor has electrons removed from it, then the net charge is positive. If a neutral conductor has
+the same amount of positive and negative charge, then the net charge is zero.
+The “free charges” in a conductor are electrons that can move about freely within the material
+because they are only loosely bound to their atoms. The “free electrons” are also referred to as
+“conduction electrons.” A conductor may have a zero net charge but still have substantial free
+charges.
+
+7. Most of the electrons are strongly bound to nuclei in the metal ions. Only a few electrons per atom
+(usually one or two) are free to move about throughout the metal. These are called the “conduction
+electrons.” The rest are bound more tightly to the nucleus and are not free to move. Furthermore, in
+the cases shown in Figs. 21–7 and 21–8, not all of the conduction electrons will move. In Fig. 21–7,
+electrons will move until the attractive force on the remaining conduction electrons due to the
+incoming charged rod is balanced by the repulsive force from electrons that have already gathered at
+the left end of the neutral rod. In Fig. 21–8, conduction electrons will be repelled by the incoming
+rod and will leave the stationary rod through the ground connection until the repulsive force on the
+remaining conduction electrons due to the incoming charged rod is balanced by the attractive force
+from the net positive charge on the stationary rod.
+
+8. The electroscope leaves are connected together at the top. That connection can be
+modeled as a tension force. The horizontal component of this tension force
+balances the electric force of repulsion. The vertical component of the tension
+force balances the weight of the leaves.
+
+9. The balloon has been charged. The excess charge on the balloon is able to polarize the water
+molecules in the stream of water, similar to Fig. 21–9. This polarization results in a net attraction 
+of the water towards the balloon, so the water stream curves towards the balloon.
+
+10. (a) When the leaves are charged by induction, no additional charge is added to the leaves. If the
+charged rod is near the top of the electroscope it repels charge onto the leaves causing them to
+separate as in Fig. 21–11(a). When the rod is removed the charge returns to its initial
+equilibrium position and the leaves come back together.
+(b) When the leaves are charged by conduction, positive charge is placed onto the electroscope
+from the rod causing the leaves to separate. When the rod is removed, the charge remains on
+the electroscope and the leaves remain separated. If not all of the excess charge leaves the rod,
+then when the rod is removed, the leaves might come back together slightly from their
+maximum deflection.
+(c) Yes. The electroscope has a negative charge on the top sphere and on the leaves. Therefore the
+electroscope has a total net negative charge, so it must have been charged by conduction.
+
+11. Coulomb’s law and Newton’s law are very similar in form. When expressed in SI units, the
+magnitude of the constant in Newton’s law is very small, while the magnitude of the constant in
+Coulomb’s law is quite large. Newton’s law says the gravitational force is proportional to the
+product of the two masses, while Coulomb’s law says the electrical force is proportional to the
+product of the two charges. Newton’s law only produces attractive forces, since there is only one
+kind of gravitational mass. Coulomb’s law produces both attractive and repulsive forces, since there
+are two kinds of electrical charge.
+
+12. The gravitational force between everyday objects on the surface of the Earth is extremely small.
+(Recall the value of G: 6.671011 Nm2 kg2 .) Consider two objects sitting on the floor near each
+other. They are attracted to each other, but the maximum force of static friction for each is much
+greater than the gravitational force each experiences from the other, and so they don’t move. Even in
+an absolutely frictionless environment, the acceleration resulting from the gravitational force would
+be so small that it would not be noticeable in a short time frame. We are aware of the gravitational
+force between objects if at least one of them is very massive, as in the case of the Earth and satellites
+or the Earth and you.
+The electric force between two objects is typically zero or very close to zero because ordinary
+objects are typically neutral or very close to neutral. We are aware of electric forces between objects
+when the objects are charged. An example is the electrostatic force (static cling) between pieces of
+clothing when you pull the clothes out of the dryer.
+
+13. Coulomb observed experimentally that the force between two charged objects is directly
+proportional to the charge on each one. For example, if the charge on either object is tripled, then the
+force is tripled. This is not in agreement with a force that is proportional to the sum of the charges
+instead of to the product of the charges. Secondly, if two equal but opposite charges are placed near
+to each other, they produce an attractive force. But the “sum” version would say the net force is 0 in
+such a case. Also, a charged object is not attracted to or repelled from a neutral insulating object. 
+If the numerator in Coulomb’s law were proportional to the sum of the charges, then there would be a
+force between a neutral object and a charged object, because the their total charge would not be 0.
+
+14. Assume that the charged plastic ruler has a negative charge residing on its surface. That charge
+polarizes the charge in the neutral paper, producing a net attractive force. When the piece of paper
+then touches the ruler, the paper can get charged by contact with the ruler, gaining a net negative
+charge. Then, since like charges repel, the paper is repelled by the comb.
