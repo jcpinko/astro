@@ -4,8 +4,43 @@
 Astronomy Today, 9th (and 8th) Ed.
 	
 Week 4.  
+ Ch. 1 Disc 10-13    (should just assign 10-12)
  Ch. 1 Prob 4,6,7
  Ch. 1 M-C 1-7        (2nd assignment from Ch. 1)
+
+Ch. 1 Discussion
+
+10. How much of the Moon's surface is lit by the Sun at any one time?
+   Why do we see different phases of the Moon?
+   One-half of the Moon's surface is lit by the Sun at all times except
+   during a lunar eclipse when the Earth blocks the Sun's light.
+   We see phases because, as the Moon orbits the Earth, the lit portion moves
+   into, and out of view.  The lit hemisphere faces the Earth during a full Moon,
+   but it is facing away from Earth during a new Moon.
+
+11. What causes a lunar eclipse? A solar eclipse? Why aren't there lunar
+   and solar eclipses every month?
+    A lunar eclipse is caused by the shadow of the Earth falling on the
+    Moon, while solar eclipses are caused by the shadow of the Moon falling
+    on the Earth.  The Moon's orbital plane is tilted by about 5 degrees
+    relative to the Earth's orbital plane around the Sun.  Consequently, some
+    months the Moon appears to pass up to 5 degrees above or below the
+    Sun instead of covering up the Sun.  Similarly, the Moon can pass
+    above or below the shadow of the Earth, thereby avoiding a lunar eclipse.
+
+12. Do you think an observer on another planet might see an eclipse?  Why
+    or why not?
+    Yes they could because other planets have moons which can cast shadows
+    on the planets surface, or move into the shadow of that planet.  We have
+    images of the moon Phobos eclipsing the Sun as seen from Mars (by a rover).
+
+13. What is parallax?  Give an everyday example.
+    Parallax is the apparent motion or shifting of an object cause by
+    the motion or shifting of the observer.  Driving by trees in front
+    mountains, the trees will appear to shift relative to the mountains.
+    Staring at your thumb with your right eye and then shifting to the
+    left eye, the thumb will "jump" to the right relative to the background.
+
 
 Ch. 1 Problems 
 
