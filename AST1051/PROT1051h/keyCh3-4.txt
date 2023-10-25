@@ -1,13 +1,18 @@
 
-Astro 1061 Homework
+Astro 1051 Homework
 9th Ed
 Chapters 3, 4, 
 
 Assigned:
-  Ch. 3 R&D 2-6,9-15
-  Ch. 4 R&D 1,6,11    (other answers shown as well)
+  Ch. 3 R&D 2,4-6,8-10,12-14
+  Ch. 4 R&D 1,6,9   (also shown 8-12,15)
 
-Ch. 3  Discussion Questions
+Ch. 3
+ R&D
+1. What is motion wave?    [SKIP, bad question]
+1. What is a wave?    [Old version]
+A: A disturbance in a medium or field that travels carrying
+energy and information.
 
 2. What is the relationship between wavelength, wave frequency,
 and wave velocity?
@@ -17,8 +22,8 @@ Basically, there is an inverse relationship between wavelength
 and frequency when wave velocity is held fixed.  So, an increase
 in wavelength is accompanied by a decrease in frequency.
 
-3. What are diffraction and interference, and how do they relate
-to wave motion?
+[3. What are diffraction and interference, and how do they relate
+to wave motion?    [SKIP]
 A: Diffraction is an interaction between waves an edge of
 an object or a hole/slit in an object.  The wave is observed
 to "bend" around corners in a way which is inconsistent with
@@ -28,7 +33,7 @@ edges of the doorway.  Interference is the way two or more
 waves can arrive at the same point and produce an amplitude
 the is the sum of the waves. Sometimes two waves can cancel
 which again is only a wavelike phenomenon and not a particle
-phenomenon.
+phenomenon. ]
 
 4. Why is light referred to as an electromagnetic wave?
 A:  Because it is electric and magnetic fields that 
@@ -47,7 +52,8 @@ speed there is.  All forms of E-M radiation travel at the
 speed c in a vacuum.  (In a medium, the speeds vary a little
 depending on wavelength.) It is also special in that a given
 beam of light will have the same speed as measured in
-any inertial reference frame.
+any inertial reference frame. This is a postulate of the special
+theory of relativity.
 
 9. If Earth were completely blanketed with clouds and
 we couldn't see the sky, could we learn about the realm
@@ -56,14 +62,14 @@ received?
 A:  Radio waves would be our only wave of learning about
 space - radio astronomy can be done on cloudy days.
 
-10. Name the colors that make up white light. What is it about
-these colors that causes us to perceive them differently?
+[ 10. Name the colors that make up white light. What is it about
+these colors that causes us to perceive them differently?   [SKIP]
+
 A: Red, Orange, Yellow, Green, Blue, (Indigo), Violet = ROYGBIV.
 These are in order of decreasing wavelength and increasing 
 frequency.  The different cone cells of our eyes differ in
 their sensitivity to different colors presumably because
-different colors correspond to different photon energies.
-
+different colors correspond to different photon energies.  ]
 
 11. What do radio waves, infrared radiation, visible light,
 ultraviolet radiation, X-rays, and gamma rays have in common?
@@ -79,7 +85,7 @@ transmit through matter.
 A: A blackbody is an idealized object that absorbs all radiation
 falling on it.  It also emits radiation with a particular
 continuous spectrum (the "Planck" or "blackbody" spectrum) 
-which has a single peak that depends only on the temperature
+which has a single peak wavelenth that depends only on the temperature
 of the blackbody.  (The higher the temperature, the
 shorter the wavelength of peak radiation.)
 
@@ -108,17 +114,12 @@ A limitation of the doppler effect is that it only tells us
 about the component of the velocity along the line of sight,
 not across the line of sight.
 
-[Old edition:
-1. What is a wave?
-A: A disturbance in a medium or field that travels carrying
-energy and information.
-#10: In what parts of the electromagnetic spectrum is the
+[Old 10: In what parts of the electromagnetic spectrum is the
 atmosphere transparent enough for ground-based astronomy?
 A: Light from space makes it all the way to the ground
 if it is in the visible range (400-800 nm), or in certain
 parts of the radio and infrared ranges.  Gamma rays,
 x-rays, and most UV is blocked by the atmosphere.
-]
 
 Multiple Choice
 1. A
@@ -132,7 +133,7 @@ Multiple Choice
 9. A
 10. B
 
-  Ch. 4 R&D 1,6,11 
+  Ch. 4 R&D 1,6,9  
 1. What is an absorption spectrum? An emission spectrum?
 How are they related?
 An absorption spectrum is created when the light from a source
@@ -161,7 +162,53 @@ Smaller subdivisions are sub-atomic particles like electrons,
 protons and neutrons.  The Bohr model differs from the
 modern view in that it still visualizes the electrons as
 moving in circular orbitals rather than blurry electron
-clouds.
+clouds or probability distributions.
+
+9. What is the normal condition for atoms?  What is an excited atom? 
+What are orbitals?
+Normally, the number of electrons in an atom equals the number of protons 
+in the nucleus, and the electrons are in their lowest energy level, 
+the “ground state.” When an atom is excited, an electron absorbs 
+energy from an outside source and moves to a higher energy orbital. 
+The precisely-defined energy states or energy levels are referred 
+to as orbitals. They are the regions surrounding the nucleus that 
+can be occupied by electrons.
+
+
+--------------------  Start of extra answers for Ch. 4
+
+2. Describe the basic components of a simple spectroscope.
+The basic structure of a spectroscope consists of a slit, 
+a disperser, and an eyepiece or screen. The slit turns the light 
+into a narrow beam. The disperser (prism or diffraction grating) 
+spreads the beam of light out into its various wavelengths or colors. 
+The eyepiece or screen then allows the spectrum to be observed and 
+photographed.
+
+5. In the particle description of light, what is color?
+Different colors correspond to different photon energies.
+The energy of a photon particle is directly proportional to frequency, 
+so red light has the lowest frequency and energy per photon in the 
+visible spectrum, and violet has the highest energy per photon.
+
+
+8. What does it mean to say that a physical quantity is quantized?
+When a physical quantity is quantized it means that the quantity 
+can take on only specific discrete values rather than having an 
+infinite number of possible values.  ('Quantized' is almost the 
+opposite of 'continuous'.)
+
+10. Why do excited atoms absorb and reemit radiation at characteristic
+frequencies?
+In order for a photon to be absorbed by an electron, it must have an 
+energy that is precisely equal to the energy difference between the 
+energy level occupied by the electron and a higher energy level. When 
+the electron absorbs the photon, it moves immediately to the higher 
+energy level. Very quickly thereafter the electron moves back down to a 
+lower energy level by emitting a photon. The emitted photon must have 
+an amount of energy equal to the energy difference between the two 
+levels. These discrete amounts of photon energy translate into 
+particular frequencies of radiation.
 
 11. How are absorption and emission lines produced in a stellar
 spectrum?  What information might absorption lines in the spectrum 
@@ -181,52 +228,7 @@ low density layer can form or can be found in clouds of gas between
 stars and those clouds give off an emission spectrum. In this case, 
 the wavelengths of the emission lines can tell
 
---------------------  Start of extra answers
-
-2. Describe the basic components of a simple spectroscope.
-The basic structure of a spectroscope consists of a slit, 
-a disperser, and an eyepiece or screen. The slit turns the light 
-into a narrow beam. The disperser (prism or diffraction grating) 
-spreads the beam of light out into its various wavelengths or colors. 
-The eyepiece or screen then allows the spectrum to be observed and 
-photographed.
-
-5. In the particle description of light, what is color?
-Different colors correspond to different photon energies.
-The energy of a photon particle is directly proportional to frequency, 
-so red light has the lowest frequency and energy per photon in the 
-visible spectrum, and violet has the highest energy per photon.
-
-
-[ 8. What does it mean to say that a physical quantity is quantized?
-When a physical quantity is quantized it means that the quantity 
-can take on only specific discrete values rather than having an 
-infinite number of possible values.  ('Quantized' is almost the 
-opposite of 'continuous'.)
-
-[ 9. What is the normal condition for atoms?  What is an excited atom? 
-What are orbitals?
-Normally the number of electrons in an atom equals the number of protons 
-in the nucleus, and the electrons are in their lowest energy level, 
-the ground state.  When an atom is excited, an electron absorbs 
-energy from an outside source and moves to a higher energy orbital. 
-The precisely-defined energy states or energy levels are referred 
-to as orbitals. They are the regions surrounding the nucleus that 
-can be occupied by electrons.
-
-[ 10. Why do excited atoms absorb and reemit radiation at characteristic
-frequencies?
-In order for a photon to be absorbed by an electron, it must have an 
-energy that is precisely equal to the energy difference between the 
-energy level occupied by the electron and a higher energy level. When 
-the electron absorbs the photon, it moves immediately to the higher 
-energy level. Very quickly thereafter the electron moves back down to a 
-lower energy level by emitting a photon. The emitted photon must have 
-an amount of energy equal to the energy difference between the two 
-levels. These discrete amounts of photon energy translate into 
-particular frequencies of radiation.
-
-[ 12. Why might spectral lines of an element in a star's spectrum
+12. Why might spectral lines of an element in a star's spectrum
 be weak, even though that element is abundant in the star?
   The absorption lines in a star could be weak because that element is 
 scarce in that star. However, it is possible that the element could be 
@@ -245,7 +247,7 @@ and may have left the atoms entirely. Such stars are mostly hydrogen,
 but the ionized hydrogen has no electrons to absorb light. Only a few 
 are capable of absorbing, and so the lines of hydrogen are again weak.
 
-[ 15. List three properties of a star that can be determined from
+15. List three properties of a star that can be determined from
 observations of its spectrum.
   Many stellar properties can be deduced from the spectrum: Radial 
 velocity of the star, elemental abundances, temperature, rate of 
