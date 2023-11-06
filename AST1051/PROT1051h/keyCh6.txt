@@ -2,7 +2,7 @@
 Homework KEY
 AT 9th Ed.
 Chapter 6 Overview of the Solar System
-Assigned: 1-15, Multiple Choice 1-10
+Assigned: 1-15 (odd), Multiple Choice 1-9 odd
 
 Review and Discussion
 
@@ -94,7 +94,7 @@ forces (stickiness).
 
 8. Give three examples of how the condensation theory explains
 the observed features of the present-day solar system.
-    The condens theory predicts higher density planets close
+    The condensation theory predicts higher density planets close
 to the Sun because only metals and rocks could condense there.
 It also predicts a change in composition and density of
 planetesimal-like objects (asteroids, KBOs, comets) with distance
@@ -109,8 +109,9 @@ part of the solar nebula.  The grains of dust were first
 thought to have stuck together due to electrostatic forces.
 They grew in gentle encounters until they formed planetesimals
 that could grow by gravitational attraction of smaller
-pieces.  The larger planetesimals then combined to form
-the protoplanets which evolved into the planets.
+pieces.  The largest planetesimals could survive further collisions
+and eventually became "protoplanets".  These evolved through 
+processes like differentiation into the planets.
 
 10. Why are the Jovians so much more massive than the terrestrials?
 The gases were able to condense into ices a join with 
@@ -125,8 +126,11 @@ etc., compared to between Mercury, Venus, Earth, etc.)
 
 11. How did the temperature structure of the solar nebula
 determine planetary composition?
-A given material will have a given temperature for melting 
-and sublimation.  If the temperature of the nebula decreases 
+As a given material increases in temperature it can more readily
+sublimate (transform from solid to gas) or melt (transform from solid
+to liquid).  (Under the low pressure of space, some materials will 
+only be a solid or a gas, skipping over the liquid phase.)
+If the temperature of the nebula decreases 
 with distance from the Sun, there will be certain distances 
 corresponding to these melting and sublimation points.  
 Closer to the Sun, only the highest melting point materials will 

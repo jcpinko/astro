@@ -14,7 +14,7 @@ for dust, gas and charged particles (mostly coming from
 the Sun).
 
 3.A planet's mass is determined using one or more of its
-moons  and Kepler's Third Law.  This law are requires
+moons  and Kepler's Third Law.  This law requires
 that we know the size of the orbit (in m or km), and this
 can only be determined if we know the distance to the 
 planets.  From Earth, we can measure the angular distance
