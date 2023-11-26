@@ -96,9 +96,11 @@ into mountains.  When plates pull apart, the form trenches that
 allow new crustal material to rise. ]
 
 9. The dynamo process requires both a conductive fluid (like
-liquid metal) inside the planet and rapid rotation of the planet.
+liquid metal) inside the planet, and rapid rotation of the planet.
 The liquid outer core of the Earth is likely to be responsible
-for a dynamo process  which creates the Earth's magnetic field.
+for a dynamo process which creates the Earth's magnetic field.
+This magnetic field has the effect of protecting life on the
+surface of the Earth from charged particles (e.g., cosmic rays).
 
 [10. The magnetosphere is a region above a planet's atmosphere
 in which the planets magnetic field controls the dynamics of charged
@@ -116,15 +118,20 @@ the Earth's atmosphere and threaten life on Earth. ]
 
 11. How do we know that Earth's magnetic field has undergone
 reversals in the past? How do you think this influenced life?
-   Hot mantle material, as it cools on the surface of the crust,
-freezes in the orientation of the magnetic field.  Materials of
-different ages show different orientations.  Reversals of the 
-Earth's magnetic field occur every 0.5-1.0 million yrs.
+   When liquid magma emerges from a mid-oceanic rift, it
+solidifies into crustal rocks which are magnetized in the
+direction of the Earth's magnetic field.
+The crust is progressively older at greater distances from mid-oceanic 
+ridges.  So as we measure the magnetization of the crust at
+greater distances from the ridge, we are measuring the Earth's
+magnetic field further into the past.  It appears that 
+reversals of the Earth's magnetic field occur every 0.5-1.0 
+million yrs.
 	These reversals may effect the evolution of life if there
 are periods in which the magnetic field is so reduced that
 we loose our magnetosphere and charged particles can reach
-the Earth's surface.  This could lead to more reproductive
-mutations and even extinctions.
+the Earth's surface.  The bombardment of particles could lead to 
+more reproductive mutations and even extinctions.
 
 [12. The Moon's gravity decreases with distance from the Moon.
 The side of the Earth closest to the Moon feels a stronger
