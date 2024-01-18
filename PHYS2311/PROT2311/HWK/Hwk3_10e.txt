@@ -1,0 +1,43 @@
+
+P2311 Homework 3 due Feb 12 (week 3)
+
+Serway and Jewett 10th Ed.
+Ch. 4 P. 1,2,3,7,8,11,19,22,23,25
+
+Ch. 4
+1. a) (1i+0.75j)m/s
+   b) v(2s) = 1.0i + 0.5j m/s
+   c) speed v = 1.12 m/s
+2. a) v = -5.0w i + 0.0 j m/s  (w=omega)
+   b) a = 5 w^2 j m/s^2
+   c) r=-5.0sin(wt) i + (4.0-5.0cos(wt)) j  
+      v= 5.0w[-cos(wt) + sin(wt)]
+      a= 5.0w^2[sin(wt) + col(wt)]
+   d) the object moves in a circle of radius 5.0 m
+      centered at (0,4.00m)
+3. a) v = -12.0t j m/s
+   b) a = -12.0 j m/s^2
+   c) r = (3.0 i - 6.0 j) m;  v=-12.0 j m/s
+7. 12.0 m/s 
+8. theta = 53.1 deg
+11. h = dtan(theta) - (gd^2)/(2vi^2 cos^2 theta)
+19. v = 7.58E+3 m/s
+    T=5.8E+3 s or 96.7 min
+22. v_i = 10.5 m/s
+    a=219 m/s^2 inward
+23. a) Yes.  The particle can either be speeding up
+     or slowing down, with a tangential component of
+     acceleration of magnitude 3.97 m/s^2.
+    b) No. The magnitude of the acceleration cannot be less
+     than v^2/r = 4.5 m/s^2.
+25. a) theta = 14.3 deg to the south from the vertical
+    b) a=9.8 m/s^2 vertically downward
+    c) If it is at rest relative to the ceiling at release,
+       the bolt moves on a straight line download and
+       southward at 14.3 degrees from the vertical.
+    d) the bolt moves on a parabola with a vertical axis
+       of symmetry. It drops N of the axis if its initial
+       velocity (rel to ground) was Northward.
+
+Checking Ch.4 #1, and #22.  
+

@@ -1,0 +1,34 @@
+
+Homework  (#12, last)
+Serway & Jewett 10ed.
+
+Ch. 19 P. 1,3,6,9,10,15,16,17,19,20
+
+
+1 a) Q=2.26E+6 J
+  b)  N=2.8E+4 stairs
+  c) N=6990 stairs
+3. Tf=23.6 C
+6. Tf = (m_Al*c_Al + m_c*c_w)*Tc + M_h*C_w*T_h
+       --------------------------------------
+         m_Al*c_Al + m_c*c*w + M_h*C*w
+9. a) T=25.8 C
+   b) As shown above, the symbolic result from part (a)
+      shows no dependence on mass. Both the change in
+      gravitational energy and the change in internal
+      energy of the system depend on the mass, so the
+      mass cancels.
+10. Q_needed = 1.22E+5 J
+15. a) W=-4PiVi
+    b) It is proportional to the square of the volume,
+       according to T=(Pi/nRVi)V^2
+16. a) Wi-f = -12E+6 J
+    b) Wf-i = +12E+6 J
+17. Q=-720 J
+19. a) Vf = 0.041 m^3
+    b) W = 5.48 kJ
+    c) Q = -5.48 kJ
+20. a) W=-3.1 kJ
+    b) Delta E_int = 37.6 kJ
+
+Check Ch. 19 #17, 19 

@@ -1,0 +1,42 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 11 (Ch. 11)
+
+Assigned:
+Problems 
+Ch. 11 Problems: 20,23,34,37,47,48,53,54
+
+20. 1060 revs or 6670 rad or 1.2e+6 degrees
+23. a) Use a_cm = (gsin theta)/(1+f)  {f=2/5 for sphere}
+       a_cm = 3.5 m/s^2
+    b) Use x = 1/2 a_cm t^2
+       x = 15.75 m
+34. Use L = r x p
+    L = 2 kg m^2/s into page (or -k)
+37. a) Use L=r x p 
+       L = 45 k  kg m^2/s
+    b) Use torque = r x F
+       torque = 10 k Nm
+47. a) Use I_rod = 1/12 ML^2,  L = I*w,  w=alpha t
+    alpha = 4.19 rad/s^2 
+    so w(t=10s) = 41.9 rad/s, and L(t=10) = 30,200 kg m^2/s.
+    Also L(t=20s) = 60,400 kg m^2/s (Key is missing this!)
+    b) Use torque = (Delta L)/(Delta t) 
+       torque = 3020 N m 
+48. a) Use L = Iw,  w=2*pi/P, I=2/5(M)(R^2)
+       L =  2.1e+40 kg m^2/s
+    b) If alpha = 10^-14 rad/s^2, torque = I*alpha
+       torque = 1.12e+24 Nm opposing the spin
+53. Use  I_1 w_1 = I_2 w_2   and w = 2*pi/P
+     P_fin = 60.5 sec or 7e-4 days
+54. Use Sum (L_i) = Sum (L_f)   and L=Iw
+     w_fin = 0.66 rad/s  CW (clockwise)
+    What % of KE lost?  Use %= 100*(K_f-K_i)/K_i
+      99 % lost
+
+Check
+
+#47 &  #66.  -1/2 pt for any conceptual question missing.
+         -1/2 pt for 2-4 problems with no work
+         -1 pt for >4 problems with no work.

@@ -1,0 +1,46 @@
+
+P231 Homework 8
+New 9th Ed.
+Ch. 10 P. 3,4,5,7,12,15,19,27,29,30,39,40,43,45,48,49
+
+[OLD: Serway and Jewett  8th Ed.
+Ch. 10 P. 3,4,5,7,12,13,17,22,25,28,29,33,35,37,38,45,46 ]
+
+Ch. 10
+3. a) 5.0 rad, 10.0 rad/s, 4.0 rad/s^2
+   b) 53 rad, 22.0 rad/s, 4.0 rad/s^2
+4. 144 rad
+5. a) 4.0 rad/s^2
+   b) 18.0 rad
+7. a) 5.24 s
+   b) 27.4 rad
+12. 50 rev
+15. a) 0.18 rad/s
+    b) 8.10 m/s^2 toward the center
+19. a) 8.0 rad/s
+    b) 8.0 m/s,  
+    c) a_tot=64.1 m/s^2  (not 64.0)
+       direction of accel vector is 3.58 deg w/r/to radius to P.
+    d) 9.0 rad
+27. -3.55 Nm
+29.  T=21.5 N
+30. a) 1.03 s 
+    b) 10.3 rev
+39. a) 5.8 kg m^2
+    b) Yes, the height of door is unnecessary.
+40. Show that the minimum I for two masses, M and
+m occurs when the axis of rotation passes through x=mL/(M+m).
+[This should be done by taking a 1st derivative of I=Mx^2+m(L-x)^2
+ w/r/to x.]  Show that Icm = L^2 * Mm/(M+m).
+[This should be done by plugging the x found in the 
+first part into the expression for Icm.]
+  (b) Icm = (mu)L^2 where mu=Mm/(M+m)
+43. (11/12)mL^2    (parallel-axis thm)
+45. a) Iz=143 kgm^2
+    b) k_R = 2.57x10^3 J
+48. K=276 J
+49. K_R = 1.03X10^-3 J (could be 1.02 or 1.04 are
+                        acceptable - rounding.)
+
+
+

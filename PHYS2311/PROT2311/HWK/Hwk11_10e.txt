@@ -1,0 +1,33 @@
+
+P2311 Homework 10
+Serway and Jewett 10th Ed.
+
+Ch. 18 P. 2,3,7,10,13,19,20,23,26 
+
+2. a) T_F = 107 F
+   b) Yes, the normal body temperature is 98.6 F, so the
+      patient has a high fever and needs immediate attention.
+
+3. a) T_F = -109 F
+   b) T_K = 195 K
+
+7. 3.27 cm
+
+10. a) Delta A = 0.109 cm^2
+    b) The ring can only expand outwards due to contact forces,
+       so the area of the hole increases.
+
+13. a) T = 437 C
+    b) T= 2100 C
+
+19. N=1.5x10^29 molecules
+20. a) m=1.17E-3 kg
+    b) F = 0.0115 N
+    c) F = 1.01 kN
+    d) The molecules must be moving very fast to hit
+       the walls hard.
+23. N=2.42E+11 molecules
+26. m1 - m2 = (P*V*M/R)*(1/T1 - 1/T2)
+
+Please check Ch. 18, #10 and #23  
+

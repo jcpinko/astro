@@ -1,0 +1,35 @@
+
+P2311 Homework 9
+
+10th Ed.:
+Ch. 10 P. 2,3,4,9,14,15,17,23,25,28
+
+2. 144 rad
+3. a) alpha = 4.0 rad/s^2
+   b) 18.0 rad
+4. a) 3.5 rad
+   b) The angular displacement would increase by a factor
+      of 4.
+9. a) 25.0 rad/s
+   b) alpha = 39.8 rad/s^2
+   c) 0.628 sec
+14. net torque = -3.55 Nm  (clockwise)
+15. a) 1.03 sec
+    b) 10.3 rev  (64.7 rad)
+17. a) torque = 24.0 Nm
+    b) alpha = 0.0356 rad/s^2
+    c) a_t = 1.07 m/s^2
+23. Iy'=1/2 M L^2
+25. a) Ix = 92.0 kg m^2
+    b) K_R = 184 J
+    c) v_1 = 6.0 m/s, v_2=4.0 m/s,  v_3 = 8.0 m/s.
+    d) K_tot = 72.0 +16 +96 J = 184 J
+    e) The kinetic energies in parts (b) and (d) are
+       the same.
+28. v = sqrt [ 2(m1-m2)gh / (m1+m2+I/R^2) ]
+    omega = v/R = sqrt [ 2(m1-m2)gh / (m1R^2+M2R^2 + I) ]
+
+
+
+
+

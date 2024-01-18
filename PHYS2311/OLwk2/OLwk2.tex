@@ -1,0 +1,136 @@
+\documentclass[12pt,epsf]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \input astro.tex
+
+% Page enlargement commands
+\setlength{\topmargin}{-0.3in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\textwidth}{7in}
+\setlength{\textheight}{9in}
+
+% \setlength{\baselineskip}{10pt}
+% \setlength{\parskip}{-0.2in}
+\renewcommand{\baselinestretch}{0.8}
+
+% \usepackage[dvips]{color}
+% Enables these features ...
+% \textcolor{colorname}{text} %writes text in a color which can be specified 
+% by name (black, white, red, green, blue or a color name you've defined), 
+% RGB components, or grayscale. 
+% \colorbox{colorname}{text} %writes text in a box with a colored background, can generate blinking
+% text. 
+% \fcolorbox{framecolor}{boxcolor}{text} %writes text in a colored frame. 
+% \pagecolor{colorname} %sets the color of the page's background. 
+% \definecolor{colorname}{color specification} %lets you define new color names.
+% \definecolor{gold}{rgb}{0.85,0.66,0} 
+
+
+\begin{document}
+
+% Original Lecture and Date:
+% Chapter 3 outline.
+%
+
+\noindent 
+
+\begin{centering}
+{\Huge Physics 231.  Week 2. Motion in One Dimension. }
+\end{centering}
+\bigskip 
+
+\Large
+Outline: Motion in 1D
+
+\begin{enumerate}
+\item Specifying the position of our "particle" (e.g., the center-of-mass
+of a person, car, etc.)
+\begin{enumerate}
+	\item Give distance from a reference position
+        \item [Ex.] A wall in a room containing two people could define x=0.  "Mo is located at x=5'." then means that Mo is 5' to the right of the wall.
+	\item 1D problems are graphically shown on a number line 
+	\begin{enumerate}
+          \item the reference position is at x=0
+	  \item it can be horizontal or vertical as befits the problem
+	  \item there are 2 possible directions of motion, + (positive x) or -
+	\end{enumerate}
+	\item 2D and 3D problems are graphically shown on cartesian coordinate systems
+	\item Distance vs displacement
+	\begin{enumerate}
+	  \item distance = path length = $d$
+	  \item displacement = difference in final and initial positions = $\Delta \vec{x}$
+	  \item $\Delta \vec{x} = \vec{x}_{fin} - \vec{x}_{in}$, where $\vec{x}_{in}$
+and $\vec{x}_{fin}$ are the initial and final position vectors
+	  \item distance is a scalar
+	  \item displacement is a vector
+	  \item in 1D, a vector's direction is inferred by the sign (e.g., 
+``-" means the negative $x$ direction)
+	  \item $\left| \vec{x} \right|$ = the magnitude or length of displacement vector
+	  \item in 1D, $d \geq \left|\vec{x}\right|$ 
+	  \item in 1D, $d = \left|\vec{x}\right|$ if there are no reversals in direction.  
+	\end{enumerate}
+\end{enumerate}
+\item Average speed vs average velocity
+  \begin{enumerate}
+  \item Average speed = $\bar{v} = \frac{path~length}{\Delta t}=
+\frac{d}{\Delta t}$
+  \item Average velocity = $\bar{\vec{v}_x} = \frac{displacement}{\Delta t}=
+\frac{\Delta \vec{x}}{\Delta t}$
+  \item [Ex.] Mo walks 5\'\ left, 6\'\ right, 1\'\ left, and 8\'\ right in 30 seconds.  
+What were his average speed and velocity? Ans. 0.66\'\/s and +0.27\'\/s $\hat{x}$.
+\end{enumerate}
+\item Instantaneous velocity and speed
+  \begin{enumerate}
+  \item instantaneous velocity: $\vec{v}_{inst}=^{\rm ~~~lim}_{\Delta t \rightarrow 0} = \frac{\Delta \vec{x}}{\Delta t}$
+  \item instantaneous speed: $v_{inst} = \left| \vec{v}_{inst} \right|$
+  \item [Note:] This goes against previous trend ...
+  \item [Q:] Is $d=\left| \Delta \vec{x} \right|$? (Is distance just the magnitude of displacement?) Ans: No
+  \item [Q:] Is $v_{avg} = \left| \vec{v}_{avg} \right|$ ?  Ans: No
+  \item [Q:] Is $v_{inst} = \left| \vec{v}_{inst} \right|$ ?  Ans: yes
+  \item Example: P.6.
+  \item Example: P.9.
+  \end{enumerate}
+\item Acceleration = rate of change of velocity
+  \begin{enumerate}
+  \item Average acceleration:  $\bar{\vec{a}} = \frac{\Delta \vec{v}}{\Delta t}$
+  \item Instantaneous acceleration: $\vec{a} = ^{\rm ~~~lim}_{\Delta t \rightarrow 0} = \frac{\Delta \vec{v}}{\Delta t} $
+  \item Acceleration is caused by a force. $\vec{a} \propto \vec{F}$.
+  \item Direction of $\vec{a}$ is indicated by sign.
+    \begin{itemize}
+    \item $\vec{a} > 0 \longrightarrow \vec{a}$ points in $+x$ direction.
+    \item $\vec{a} < 0 \longrightarrow \vec{a}$ points in $-x$ direction.
+    \item If $\vec{a}$ and $\vec{v}$ are in same direction, object is speeding up
+    \item If $\vec{a}$ and $\vec{v}$ are in opposite direction, object is slowing up
+    \item [Ex.] A car positioned left of the origin is speeding up as it 
+	travels to the right.  What are the signs of $x$, $v$, and $a$? Ans:
+        -, +, and +.
+    \item [Ex.] P.17.
+    \end{itemize}
+  \end{enumerate}
+\item Motion diagrams: pictures showing an objects x, v and a at evenly spaced
+intervals of time.
+\item One-dimensional motion with constant acceleration - equations
+  \begin{enumerate}
+  \item Velocity equations
+	\begin{enumerate}
+	\item $\vec{v}=\frac{d\vec{x}}{d t}$ ~~~~~(for any acceleration)
+        \item $\vec{v}=\vec{a}t + \vec{v_i}$ ~~~~~(uniform a)
+        \item $\bar{\vec{v}}=\frac{v_f + v_i}{2}$ ~~~~~(uniform a)
+	\end{enumerate}
+  \item Position equations
+	\begin{enumerate}
+	\item $\Delta x=\int_{t_i}^{t_f}v dt$  ~~~~~(any acceleration)
+        \item $x(t) = \frac{1}{2}at^2 + v_i t + x_i$  ~~~~~(uniform a)
+	\item $\Delta x = x_f - x_i = \bar{v}t$, so $x_f=x_i+(\frac{v_i+v_f}{2})t$ ~~~~~(uniform a)
+	\item $v_f^2 - v_i^2 = 2 a_x (x_f - x_i)$ ~~~~~(uniform a)
+	\end{enumerate}
+  \item Use these equations for 1D motion problems with uniform acceleration.
+	\begin{itemize}
+	\item [Ex.] P. 23.
+	\item Free fall problems. ($\left|a\right| = g = 9.8 m/s^2$)
+	\item [Ex.] P. 43.
+	\end{itemize}
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}

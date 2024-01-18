@@ -1,0 +1,52 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 8 (Ch. 8)
+
+Assigned:
+Problems 
+Ch. 8 Concept Q's: 1, 5, 7, 9, 17
+      Problems: 21, 23, 25, 26, 27, 29, 32, 33, 36, 40, 43
+
+Ch. 8 Concept Qs:
+1. The potential energy of a system can be negative because its value is relative to a defined point.
+5. The vertical height from the ground to the object 
+7. A force that takes energy away from the system that can’t be recovered if 
+  we were to reverse the action.
+9. The change in kinetic energy is the net work. Since conservative forces are 
+ path independent, when you are back to the same point the kinetic and 
+ potential energies are exactly the same as the beginning. During the trip the 
+ total energy is conserved, but both the potential and kinetic energy change. 
+17. Four times the original height would double the impact speed.
+
+Ch 8 Problems
+21. a. −200J b.−200J c.−100J d.−300J        c
+23. a. .068 J, b. -.068 J, c. .068 J, d. 068 J, e. -.068 J, f. 46 cm       c
+25. -120 J       c
+26. F(x) = - d U/ dx  = -a/x^2 + 2b/x^3 
+27. a) (2a/b)^1/6   
+   b) 0     
+   c) ~ x^6 NO F(x) = 12a/x^13 - 6b/x^7  KEY WRONG 
+29. 14 m/s  or  v_f = 13.7 m/s 
+32. W_res = -190 J
+33. Solution manual just says "proof" (not helpful).
+   Instead use Delta K = - Delta U   (cons of mech energy)
+               1/2 m (v_f^2 - v_i^2) = -mg(h_f - h_i)
+                      v_f^2 - v_i^2 = 20 g
+                      v_f = sqrt( 20*9.8 + 15^2 ) = sqrt(617)=24.8
+   To show independence from direction try using kinematic equations
+   for two extreme cases: A) throw straight up, B) throw straight down.
+       A) v_yf^2 - v_yi^2 = 2 a_y (y_f - y_i) 
+            v_yf^2 - 15^2 = 2 (-9.8) (0 - 20 )
+            v_yf^2 = 617,  so v_yf = 24.8 m/s
+       B) same as above except v_yi^2 = (-15)^2 instead of (15)^2.
+36. a) 4.13 m
+    b) No, unless there is air resistance and/or the vine has mass.
+       If these factors exist, then Tarzan won't swing as high on
+       a longer rope.
+40. 6.8 N down ramp  (-6.8N i)
+43. 3.5 cm     check
+
+Check
+
+#21 &  #40.  -1/2 pt for any conceptual question missing.

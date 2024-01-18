@@ -1,0 +1,37 @@
+
+University Physics (OpenStax) Vol 1, 2021
+
+P2311 Homework 6 (Ch. 6)
+
+Assigned:
+Problems 
+Ch. 6 P 26,43,48,53,54,63,65,66,67,73
+           (65-73 on centripetal force)
+
+Ch 6 Problems
+  26. T1=93.6N, T2=155.6N, T3=200 N
+  43. a) 2 m/s^2
+      b) 7.8 N
+      c) 2.0 m/s
+  48. a) 588 N
+      b) 1.96 m/s^2
+  53. a = g(sin 0 - mu_k cos 0)  (0=theta)
+  54. a = Fnet/m with Fnet = mg*sin5 + 0.1mg*cos5
+      a = g (sin5 + 0.1*cos5) so a = 1.83 m/s^2
+  63. a) 46.5 N,  
+      b) Book answer (0.629 m/s^2) is wrong! --should be--> 0.66 m/s^2
+       soln: a = Fnet,x / m
+             Fnet,x = Fcos25 - f_k    with f_k = 0.03(mg-Fsin 25)
+                                           f_k = 12.64 N
+                                      and F = 46.5 N
+          so Fnet,x = 42.14 - 12.64 = 29.5 N
+         and a = 29.5 / 45 = 0.66 m/s^2
+  65. a) 483 N,  b) 17.4 N,  c. 2.24, 0.0807
+  66. Fc = 3944 N
+  67. 4.14 degrees
+  73.  a) F_seat = 179.4 N
+       b) F_seat = 290.5 N  
+       c) v = 8.28 m/s
+
+Check
+#43 and #54.
