@@ -8,7 +8,7 @@ Ch. 2 Homework
                Prob. 1,2,4
 (Other answers are also shown for completeness.)
 
-1. What contributions were made to astronomy by Chinese and Islamic
+X1. What contributions were made to astronomy by Chinese and Islamic
 astronomers during the Dark Ages in Europe?
   The Chinese contributed a calendar and records of 
   celestial events like comets and novae which are still used today.
@@ -25,10 +25,12 @@ astronomers during the Dark Ages in Europe?
   the Sun.  The superior planets were also modelled as moving on 
   epicycles which moved on deferents, but the deferents were
   beyond the Sun.  The stars were on the most distant "sphere".
-  It was accepted well into the European rennaissance because it
+    It was accepted well into the European rennaissance because it
   was adopted by the Catholic Church who saw it as consistent with
-  the Bible.
-3. The benefit of our current knowledge lets us see flaws in the
+  the Bible. It should also be mentioned that, during the "dark ages"
+  of Europe, the Arab culture revered Ptolemy's work and built upon
+  it.  
+X3. The benefit of our current knowledge lets us see flaws in the
   Ptolemaic model of the universe.  What is its basic flaw?
   The basic flaw of the Ptolemaic model is that the Earth
   is fixed at the center.  It is also complex, but that is not so
@@ -43,9 +45,11 @@ astronomers during the Dark Ages in Europe?
   explain daily motions and the Earth orbited the Sun to
   explain annual motions of the Sun.  The planets no longer
   had to move in loops, but only appear to because of the 
-  Earth's motion.  It was still flawed in that it insisted 
-  on circular paths and uniform speeds.
-5. What is a scientific theory?  Can a theory ever be proved to be true?
+  Earth's motion.  He established the order of the planets.  He
+  suggested that the sphere of stars was too far from the Sun 
+  for us to notice parallax.  His model was still flawed in that 
+  it insisted on circular paths, epicycles, and uniform speeds.
+X 5. What is a scientific theory?  Can a theory ever be proved to be true?
   A theory, in its weakest definition, is just a hypothesis. 
   For its stronger definition, it is a set of related ideas 
   which describe a large collection of observations.
@@ -176,17 +180,15 @@ Important OLD EDITION QUESTION:
 ]
 
 Mult Choice
-1. a
+X1. a
 2. d
 3. b
 4. c
------
 5. c
 6. a
 7. c
-------
-8. b
-9. c
+X8. b
+X9. c
 10. a
 
 Probs.
