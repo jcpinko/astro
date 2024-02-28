@@ -53,8 +53,8 @@ Problems:
 48. F_f = m(g-[v^2/2(x-x0)) = 6.3 N
 
 
-Please check               Tot= 10 pts
-Prob. 13,42 (  pt,  pt)
-MiscQ. --- (0.5 pt each)
+Will check               Tot= 10 pts
+Prob. 13,42 (1 pt, 1 pt)
+MiscQ. 1,3  (0.5 pt each)
 
 
