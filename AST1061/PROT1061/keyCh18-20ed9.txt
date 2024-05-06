@@ -181,10 +181,13 @@ Ch. 20
 
 1. Why don't stars live forever?  Which types of stars live the
    longest?
-	Because they have a limited supply of "fuel" for the fusion
-	processes in their cores.  The low mass stars live the longest,
+	Stars eventually run out of "fuel" for the core fusion
+	processes which keep them stable. The low mass stars live the longest,
 	even though they have less fuel, because they burn their fuel
-	at such a slow rate.
+	at such a slow rate.  The rate of fuel burning is proportional
+        to their luminosity, which goes roughly as mass to the 4th power.
+        The lifetime is then the mass (of fuel) / Lum (rate of fuel burning),
+        so T_lifetime ~ M/M^4 = M^-3.
 
 2. How long can a star like the Sun keep burning hydrogen in its core?
 	About 10 billion years.

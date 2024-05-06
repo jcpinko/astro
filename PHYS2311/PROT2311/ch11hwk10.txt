@@ -14,6 +14,7 @@ Problems:
                    (I/2I) w = w_f   or w_f = 1/2 w
 5. L_i = L_f   so I_i w_i = I_f w_f
               and I_f = I_i (w_i)/w_f) = (4.9)(0.66/2.5) = 1.3 kg m^2
+    She does this by moving arms and legs closer to the spin axis.
 36. a) L = r_perp p = dmv 
               or  p = mvd directed into the plane of the page.
     b) L = rxp = 0 or r_perp = 0.  So L = 0
