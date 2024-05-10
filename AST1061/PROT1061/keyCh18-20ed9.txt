@@ -97,8 +97,11 @@ of a star like the Sun.
 	the shape of the cloud.
 
 3. What is an evolutionary track?
-        It is a curve on the H-R diagram which shows the path a star
-        of a given main sequence mass will take as it evolves.
+        It is a curve on the H-R diagram which shows the path that a star
+        of a given main sequence mass will take as it evolves. It may take
+        the form of a dashed line for stages (like planetary nebula) in 
+        which the star's surface is ill-defined.  The track depends mostly on initial
+        mass, but also on composition (e.g., He/H ration).
 
 7. What are T-Tauri stars?
 	A T-Tauri star is a protostar that has heated up to the point in 

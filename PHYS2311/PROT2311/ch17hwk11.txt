@@ -19,7 +19,8 @@ Ch. 17
    The change for Super Invar is 1/60 of the change for steel.
 11. Use Delta V = B Vo Delta T = 1.89E-2 m^3,
     so density at higher temp is M/V = 981 kg/m^3
-20. T_final = -213 deg C
+*20. (Do+Delta D)_iron = (Do+Delta D)_brass leads to
+     Delta T = -228 C, so T_final = -228+15 = -213 deg C
 30. a) T(K) = 331 K
     b) 303 K
     c) 218 K
@@ -30,7 +31,7 @@ Ch. 17
       At 4000 C, 6.4%,  At 15E+6 C, 0.0018 %
 34. PV/T is fixed so T_2 = T_1(P_2/P_1)(V_2/V_1)
                      T_2 = 1302 K or 1029 C
-35. V_2 = 1.42 m^3
+*35. V_2 = 1.42 m^3
 37. rho = M/V = 1.25 kg/m^3
 43. T_2 = 333 C
 
