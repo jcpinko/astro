@@ -1,0 +1,45 @@
+Giancoli 5th Ed.
+
+Hwk 12  (Due 5/10/24)        10 point hwk
+Ch. 19 
+
+MisConQ. 7, 10-13
+
+Problems: 
+Ch. 19 P. 1,6,8,9,30,32,33,35,36,40,49
+
+MisConQ
+7. d
+10. d
+11. d
+12. b
+13. c
+
+Problems
+1. Delta T = Q/mc =0.54.  So Tf = 10+0.54 = 10.54 C.
+6. m = Q/c(Delta T)    250 kg in 1 hr.
+8. Q = mc(Delta T)  =  6.0x10^6 J
+9. c = Q/m(Delta T) = 2100 J/(kg C)
+30. Set KE_bullet = Q = mc(Delta T) + mL,   m_ice = 5.2E-3 kg or 5.2 g
+32. a) Delta E_int = 0
+    b) Q = Delta E + W = 4.3E+3 J
+33. Draw a P vs V graph showing two processes.
+    Process A is an isobaric compression.  Process B is an isothermal expansion.
+35. a) The work done at constant pressure is W = P(Delta V)
+       W = 1.9E+5 J
+    b) Delta E_int = Q-W = 4.9E+5 J
+    c) Graph of P vs V shows horizontal (isobaric expansion) process at P=1 atm
+       with volume increasing from 2.2 to 4.2 m^3.
+36. a) W = P(Delta V) = 0 J
+    b) Delta E_int = Q-W = -425 kJ.
+40. a) W = nRTln(V2/V1) = 5440 J
+    b) Delta E_int = Q-W = 0 (isothermal), so Q=W = 5440 J
+    c) Delta E_int = 0
+49. E_int = 7/2 nRT (seven d.o.f.) = 3.85E+5 J
+
+
+Please check    
+Prob.  (1pt),   (1pt)            Tot= 10 pts
+MisConQ.  --- (0.5 pt each)
+
+
