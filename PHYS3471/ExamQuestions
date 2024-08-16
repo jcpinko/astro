@@ -1,0 +1,345 @@
+Presentation questions for the Final Exam
+
+ - Modified slightly by Dr. Pinkney
+
+---------------------------------------------------------
+Nicole B. on Dark Energy:
+
+1) Which is NOT a way that astronomers studied dark energy or
+dark matter and the expansion of the universe?
+A) Type Ia Supernova
+B) Sound waves (Baryonic Acoustic Oscillations)
+C) Gamma rays
+D) Light Distortions (gravitational lensing)
+E) All are ways to study dark energy/dark matter
+
+   Answer: E  
+   I rephrased the question and choices B and D slightly.
+   "Type Ia SN" (A) provided the first evidence for dark energy in 1998.
+   "Sound waves" (B) are referred to as "Baryonic Acoustic Oscillations" by
+   astrophysicists.  They are observed by mapping the Cosmic Microwave
+   Background.  The power spectrum of this map constrains cosmological
+   models including the amount of dark energy and dark matter in the
+   universe.
+   "gamma rays" (C) is *almost* the best answer.  They don't provide much
+   direct information on the expansion of the universe or dark energy.
+   However, they have been detected near the center of the Milky Way and
+   Andromeda galaxies and were possibly produced by dark matter.
+   (Some forms of dark matter can be involved in particle-antiparticle
+   annihilation which produces gamma rays.)
+   "Light distortions" refers to gravitational lensing.  There are
+   different types of gravitational lensing (weak, strong, micro-).  
+   The weak lensing of background galaxies by foreground clusters of 
+   galaxies has given us the greatest insight into dark matter by
+   showing us the total matter present. 
+
+
+2) Why do astronomers use the Type Ia Supernovae to 
+study the expansion of the universe?
+A) They are extremely luminous explosions
+B) Their apparent brightness is always the same
+C) The reaction is the same thus the luminosity is always the same
+D) They are very close to Earth so observations are relatively easy
+E) Both A and C
+   
+    Answer: E
+
+    Yes, Type Ia's are a very good "standard candle".  Type II's do
+    not involve a white dwarf at the Chandrasehkar limit (1.4M_sun)
+    and so they are not quite as consistent with their peak luminosity.
+    Quasars are also luminous nuclei of galaxies but they are
+    not as good of a standard candle as Type Ia's because of random
+    beaming angles.  In contrast, Type Ia's are fairly isotropic in 
+    their output.  In choice C "The reaction is the same" refers to
+    the way all Type I's are a runaway thermonuclear reaction (fusion
+    of C and O) taking place in a ~1.44 M_sun white dwarf.
+
+--------------------------------------------------------
+Justin Chapman on Pseudobulges:
+
+1. True or False: The Milky Way hosts a pseudobulge.
+
+  Ans: T
+  Pseudobulges are associated with bars and the MW has a bar.
+  Bars drive inflows of gas which can form additional stars in
+  the inner part of the galaxy.  This is probably the main 
+  mechanism for building pseudobulges, hence the "association".
+  Our bulge appears a bit flattened from our perspective, which
+  is a characteristic of pseudobulges.  It also has a net 
+  rotation, as would be expected if it was built out of a
+  rotating bar.
+
+2. Compared to classical bulges, pseudobulges have
+  a) a higher rate of star formation
+  b) a lower rate of star formation
+  c) the same rate of star formation
+  d) no star formation
+
+  Ans: A
+  I've changed "stellar formation" to "star formation" since it is
+  shorter and it's what astronomers say. "Stellar" goes with "evolution".
+  "SFR" stands for "Star Formation Rate".
+
+---------------------------------------------------------
+Anthony DeNoi on Planet IX:
+
+1) What is the perihelion (r_p) and semi-major axis (a) requirement in 
+   order for an object to be considered a sednoid ?
+
+  A) r_p > 30AU and a > 50AU
+  B) r_p > 50AU and a > 100AU
+  C) r_p > 50AU and a > 150AU
+  D) r_p > 60AU and a > 100AU
+  E) There's no such thing as a sednoid
+     Answer: C
+     The Perihelion must be > 50 AU and the semi-major axis (SM) 
+     is > 150 AU
+     The choices used to look like:
+     "P: >30AU and SM: >50AU" but I like "a" for semi-major axis
+     and "P" looked like period.
+
+2) __________ is the fraction of incident solar radiation on an
+   object which is diffusely reflected.
+Original question:
+2) __________ is the measure of diffused reflection of solar
+   radiation based on the total solar radiation it encounters.
+
+     Answer: albedo
+   The original question seems to use a definition given by Wikipedia, 
+   which I don't like.  A simpler definition of albedo is the fraction 
+   of incident light that is reflected from a surface.  Requiring "solar" 
+   radiation helps standardize the quantity since reflectance can depend on
+   the light source's color.   Specifying "diffuse" is referring to the 
+   way reflection can be either diffuse (in all directions) or specular 
+  (obeying the law of reflection).  Diffuse reflection contributes more 
+   to the brightness of an object than specular reflection. (A polished 
+   metal sphere will have only specular reflection and will not look as
+   bright as a sphere painted, say, matte white or even grey. The polished
+   sphere would contain a virtual image of the light source with a
+   magnificatio <1.)
+
+---------------------------------------------------------
+
+Brandon E. on Hubble Constant:
+
+1) T or F: The two methods for determining the Hubble constant 
+are cosmic gamma radiation and spectroscopic observations at known 
+distances.
+    Answer: F
+     False because of the word "gamma".  Cosmic *microwave* radiation
+     can however be used to determine Ho.  Even if the word "microwave"
+     was used, those who work in the field would probably still say "False"
+     because there are so many myriad methods and some don't fall cleanly
+     into one of these two bins.  For example, one method uses the 
+     Sunyaev-Zel'dovich effect (SZE), which is a temperature change of 
+     the CMB caused by the microwave photons passing
+     through a hot cluster of galaxies.  One needs to measure the 
+     redshift of the cluster, its x-rays and the CMB to apply
+     the method.  So it doesn't really fall into one of the 
+     original categories, it falls into both.  
+
+2) The Hubble constant derived from spectroscopic observations 
+is ______ that derived using CMB.
+  A) Higher than
+  B) Lower than
+  C) The same as
+    Answer:  A 
+    The Hubble constant is around 73 km/s/Mpc using galaxies and 
+    supernovae, while the CMB gives Ho ~ 68 km/s/Mpc
+         
+---------------------------------------------------------
+
+Claire G. on IceCube
+
+1) True or False: Neutrinos are the most abundant particle in the
+   universe
+    Answer: F   
+   Photons were most abundant. Neutrinos were claimed to be 2nd most 
+   abundant, but we don't yet know what constitutes dark matter and 
+   dark energy which make up most of the mass-energy of the 
+   universe, so it is risky to say neutrinos are the 2nd most
+   abundent.  It is probably the neutrino specialists that say
+   this the most.  There is a similar trend (which you may have
+   heard in our own physics department) in which plasma 
+   physicists claim that over 99% of the universe is a plasma.
+   Well, the universe contains much more dark matter than baryonic
+   matter, and dark matter cannot be a plasma, so the statement
+   is clearly wrong.  It is even arguable that the baryonic
+   matter of the universe is <99% plasma.  For example, in Milky-Way
+   like galaxies, the mass in cold gas is 10% of the star mass.
+
+2) Which of the following is not an application of neutrino
+   observations?
+
+  a) Locate black holes
+  b) Early detection of supernovas
+  c) Locate new galaxies
+  d) Look for Lorentz violations
+    Answer: C  (locate new galaxies)
+  The original question was "Which of the following do we NOT use 
+  neutrinos to do?"
+  "Locate black holes" is a great application of high energy
+  neutrino observations which can determine a direction to the
+  source (e.g., IceCube).  Black holes themselves do not produce
+  the neutrinos, but their accretion disks can create a jet of
+  relativistic particles which can then interact and decay into
+  neutrinos which will be high energy because their parent particles
+  were high energy.
+
+---------------------------------------------------------
+
+Tyler Kennedy on Kepler's Legacy:
+
+1) The Kepler telescope uses which of these methods that observe the
+   dips in brightness as a  planet passes in front of it?
+
+  A)  Doppler method
+  B)  Transit method
+  C)  Orbit method
+  D)  Kepler method
+  Ans: B
+  The "Transit method" requires high precision photometry of all 
+  of the stars in a large field of view detector.  The decrease
+  in brightness of the star is usually <<1%. 
+  The "Orbit method" is not really a thing, nor is the "Kepler method".
+  But the "Doppler method" describes a real approach to finding
+  exoplanets which involves high precision spectroscopy of the
+  parent star to detect its wobble due to the pull of the planet.
+
+2) T or F.  The observations found from the Kepler telescope
+  suggest that there are more planets than stars in the galaxy.
+  Ans: T
+  Would this also imply that the average number of planets per
+  star found by kepler is greater than 1?  No, because in order
+  to detect a transit the planet has to have an orbital plane
+  viewed very close to edge on.  So they have to do a statistical
+  correction, assuming randomly inclined planet orbits, to infer 
+  that many stars with no dimming must also have planets.
+
+--------------------------------------------------------------
+
+Alex Lutheran:
+
+1. What type of black holes have been securely detected in the centers 
+of galaxies?
+  A) Primordial Black Holes
+  B) Stellar Black Holes
+  C) Intermediate Black Holes
+  D) Supermassive Black Holes
+  Ans: D
+  The original question was "What type of black holes are found at the
+  center of galaxies?".  But there is circumstantial evidence that
+  stellar black holes are found at the centers of galaxies (because
+  supernovae remnants are found in them). Also, IMBH candidates have been
+  found in X-ray data for the centers of galaxies like M82 and IC342.  If
+  primoridial BH or mini-BH exist, they may also be at the
+  centers of galaxies.  So I wanted to make choice D stand out
+  as the correct one.
+
+2. T or F : Stellar dynamics is a useful way to determine Black Hole 
+  Masses in galaxies with A LOT of dust.
+  Ans: F  
+  Dust interferes with stellar kinematics partly because it blocks
+  star light from behind the dust blobs (modeling assumes that you
+  are adding up light equally from the close and far sides of an 
+  axisymmetric galaxy).  Also, dust is accompanied by gas whose
+  emission lines can overlap and even coincide with the absorption 
+  lines that are used to obtain the stellar kinematics.  Stellar
+  kinematics require precise knowledge of absorption line shapes.
+
+--------------------------------------------------------------
+
+Nathan McCutcheon
+
+1. What type of gravitational waves have astrophysicists detected
+  with LIGO and VIRGO?
+  a) Burst Gravitational Waves
+  b) Stochastic Gravitational Waves
+  c) Continuous Gravitational Waves
+  d) Compact Binary Inspiral Gravitational Waves
+  ANS: D
+I only changed the spelling of "astrophysisist". :)
+All of the choices are actual, theoretical phenomena.
+
+2. T or F: Gravitational waves from a neutron star merger lost
+  intensity as expected for a 3+1 dimensional universe.
+  ANS: T
+This refers to the one GW detection (so far) of a neutron
+star merger.
+
+--------------------------------------------------------------
+
+Matt Sibila on Dark Matter free dwarfs
+
+1. T or F: Dwarf spheroidal galaxies tend to have a smaller 
+  mass-to-light ratio than the Milky Way.
+  ANS: F
+The original question was "Dwarf galaxies tend to have a smaller 
+Mhalo/Mstars than the Milky Way".  The Van Dokkum paper about
+N1052-DF2 used "M_halo/M_stars", so this is excusable, but 
+astronomers generally prefer "mass to light ratio" (M/L) when 
+addressing both stellar populations and the amount of dark matter 
+in galaxies or clusters of galaxies.  "Mhalo" suggests the mass 
+of the halo, which includes stars, and so confuses the issue.
+As Table 24.1 shows, the "stellar halo" is referring to just the 
+stellar portion (of the MW) while a separate column is for 
+"dark matter halo".  
+So "M_halo" is supposed to mean the dark matter component, but 
+I think it was a bad choice by van Dokkum.  They are also using
+"M_stars/M_halo" in some of their work, to further confuse.  
+More about M/L:
+Chapter 24 gives the M/L_B for the bulge and thin disk of the 
+Milky Way, both M/L~3.  Tables 25.3 and 25.4 gives M/L for
+6 types of ellipticals, including 3 types of dwarfs.  The
+highest is for dwarf spheroidals (dSph) with M/L=5-100.
+N1052-DF2 is none of these 6 types, it is an Ultra Diffuse
+Galaxy (UDG), much larger than dSph's, but also expected to 
+have large amounts of DM.  A famous example of a UDG is
+dragonfly-44 with an M/L_I ~ 40 - it has the same mass as MW 
+but 1/100 the luminosity.
+
+
+2. Which dwarf galaxy was found to have little dark matter?
+  A) NGC1052
+  B) NGC1052-DF2
+  C) M82
+  D) Large Magellanic Cloud
+   ANS: B
+
+--------------------------------------------------------------
+
+Peter Smith
+
+1. What is the minimum length a semi-major axis is required for
+something to be considered a trans-Neptunian object (in AU)?
+  a. 39.6 AU (Pluto's semi-major axis)
+  b. 30.1 AU
+  c. 43.704 AU (Albions semi-major axis)
+  d. 45.7 AU (Makemakes semi-major axis)
+  ANS: B
+30.1 AU refers to the orbit of Neptune.
+
+2. What is the area called where many TNO's exist and describe
+it's characteristics.
+   ANS: The Kuiper belt is a region filled with many small icy bodies. 
+It ranges from 30 AU to 100 AU and is home to many dwarf planets.
+
+Problem: there are definitely trends within the 30-100 AU 
+region begging for subdivisions into classes.  So the "classical
+kuiper belt" has been defined to include only R<50 AU.
+Beyond 50, you have Sednoids, "scattered disk" and "detached
+population" objects.
+
+I think I would prefer:
+
+2. What is the area called where TNO's have orbital periods
+between that of Pluto and twice that of Neptune?
+   ANS: the classical Kuiper Belt.
+
+A plot of eccentricity vs semi-major axis shows a clump of
+objects at R=39 AU which have a 3:2 resonance with Neptune.
+Pluto is included in this group and so they are called "Plutinos".
+Between 40 and 48 AU, there is a dense clump of points which
+is the classical Kuiper Belt.  (These are divided into two
+groups, the hot and cold KBOs, where the cold ones
+have low orbital inclinations.)
