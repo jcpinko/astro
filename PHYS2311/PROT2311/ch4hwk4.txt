@@ -38,7 +38,7 @@ Problems:
        then the normal force on the box will be 0 N.
        If you assume the box is stationary, the normal force 
        must be negative, -24 N, (down) implying a sticky surface.
-33. a) F_net = T + T - mg = 0,  so 2T=mg
+33. a) F_net on g+b = T + T - mg = 0,  so 2T=mg   (m=m_girl+bucket)
        and T=1/2 (mg) = 382.2 N
     b) T goes up by 1.15x to 439.53 N.
        F_net = T + T - mg = ma,
