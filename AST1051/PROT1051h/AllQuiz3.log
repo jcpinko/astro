@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2024.3.19)  24 SEP 2024 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2024.3.19)  27 SEP 2024 08:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -40,7 +40,7 @@ File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [thmsa].
 
-No file AllQuiz3.aux.
+(./AllQuiz3.aux)
 \openout1 = `AllQuiz3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -63,7 +63,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
-[1
+ [1
 
 ] [2] [3]
 Overfull \hbox (0.76999pt too wide) in paragraph at lines 253--255
@@ -79,8 +79,8 @@ five known plan-ets and the $[]$
 
 [4] (./AllQuiz3.aux) ) 
 Here is how much of TeX's memory you used:
- 462 strings out of 483108
- 6869 string characters out of 5964656
+ 464 strings out of 483108
+ 6895 string characters out of 5964656
  238033 words of memory out of 5000000
  15557 multiletter control sequences out of 15000+600000
  539836 words of font info for 49 fonts, out of 8000000 for 9000
