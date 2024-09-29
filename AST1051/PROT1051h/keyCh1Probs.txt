@@ -59,7 +59,7 @@ c) 1 second?  How long does it take for the Moon to move d) its
 own diameter?
     The Moon moves at 360/27.3 = 13.2 deg/day relative to the stars.  
  This converts to a) 0.508 deg/hour, b) 0.0085 deg/min, c) 0.00014 deg/sec.
-    But it's more convenienty to use:
+    But it's more convenient to use:
  a) 0.508 deg/hour, b) 0.508 arcmin/min, c) 0.508 arcsec/sec
  d) The Moon's angular diameter is 0.518 deg, so .518/.508 = 1.02 hrs.
 
