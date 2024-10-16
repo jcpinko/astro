@@ -36,9 +36,9 @@ Points:
    Kmax = Etot-Umin  =  7.95 x 10^33
    or Kmax = <k>(1+e/1-e) = 7.95 x 10^33  J
 
-3 Supposed to use M = 3 Rg sig^2 / G
-  a) 1.4x10^5 M_sun  = 2.8x10^35 kg  
-  b) 5.6x10^5  M_sun  = 1.12x10^36 kg
-  May have used M = 5 R sig^2 / G    (not as good) 
+3 Supposed to use M = 5 b_g sig^2 / G
   a) 2.3x10^5 M_sun  
   b) 9.3x10^5 M_sun  
+  May have used M = 3 R_g sig^2 / G    
+  a) 1.4x10^5 M_sun  = 2.8x10^35 kg  
+  b) 5.6x10^5  M_sun  = 1.12x10^36 kg
