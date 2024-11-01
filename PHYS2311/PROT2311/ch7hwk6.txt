@@ -55,6 +55,6 @@ Problems:
 
 Please check               Tot= 10 pts
 Prob. 20, 45 (1 pt, 1 pt)
-MiscQ. 1,3,5--- (0.5 pt each)
+MiscQ. 1,3,5 (0.5 pt each)
 
 

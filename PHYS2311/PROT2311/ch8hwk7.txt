@@ -54,5 +54,3 @@ Problems:
 Please check   
 Prob. 12 (1pt), 29 (2pt)            Tot= 10 pts
 MiscQ. --- (0.5 pt each)
-
-
