@@ -6,7 +6,8 @@ Ch. 19
 MisConQ. 7, 10-13
 
 Problems: 
-Ch. 19 P. 1,6,8,9,30,32,33,35,36,40,49
+Ch. 19 P. 1,6,8,9,30,32,33,35,36,40,49  < no!
+       P. 1,6,8,9,20,21,32,33,35,36,40,49 < actually assigned
 
 MisConQ
 7. d
@@ -20,7 +21,8 @@ Problems
 6. m = Q/c(Delta T)    250 kg in 1 hr.
 8. Q = mc(Delta T)  =  6.0x10^6 J
 9. c = Q/m(Delta T) = 2100 J/(kg C)
-30. Set KE_bullet = Q = mc(Delta T) + mL,   m_ice = 5.2E-3 kg or 5.2 g
+20. Q = mL_v so m=Q/Lv = 1.6 kg
+21. Q=Qh + Qmelt = mcDT + mLf = 8.0x10^6 J.
 32. a) Delta E_int = 0
     b) Q = Delta E + W = 4.3E+3 J
 33. Draw a P vs V graph showing two processes.
@@ -36,6 +38,8 @@ Problems
     b) Delta E_int = Q-W = 0 (isothermal), so Q=W = 5440 J
     c) Delta E_int = 0
 49. E_int = 7/2 nRT (seven d.o.f.) = 3.85E+5 J
+
+[ 30. Set KE_bullet = Q = mc(Delta T) + mL,   m_ice = 5.2E-3 kg or 5.2 g ]
 
 
 Please check    
