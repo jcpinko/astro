@@ -1,7 +1,0 @@
-AuthName "Private PHYS1051 Page"
-SSLRequireSSL
-AuthType CAS
-require valid-user
-# require user j-pinkney 
-# Note: no htpasswd file needed.
-# AuthzLDAPAuthoritative off
