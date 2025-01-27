@@ -66,6 +66,7 @@ MiscQ.
 8. d
 10. d
 
+------------------------------
 Please check   Tot= 10 pts
 Prob. 6,23   (1pt,1.5pt )
 MiscQ.       (-- pt each)
