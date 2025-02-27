@@ -32,8 +32,8 @@ Ch. 2 questions on "1D motion"
 Ch. 3 questions on "2D motion and vectors"
 1. d
 2. a
-3. d
-4. c
+3. d-> e correction
+4. c-> b correction
 5. b
 6. a
 7. e
