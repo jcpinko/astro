@@ -1,8 +1,8 @@
 Giancoli 5th Ed.
 
-Hwk 10  (Due 4/26/23)        10 point hwk
+Hwk 10  (Due )        10 point hwk
 Ch. 17 P. 3,4,8,10,11,20,30,33,34,35,37,43  
-    18 P. 1,6 <-- not assigned
+    18 P. 1,6 <-- also assigned
 
 MisConQ
 
@@ -35,7 +35,7 @@ Ch. 17
 37. rho = M/V = 1.25 kg/m^3
 43. T_2 = 333 C
 
-Ch. 18            <-- not assigned
+Ch. 18            <-- 
 1. v_rms = sqrt(3KT/m) = 6E+3 m/s
 6. a) K_avg = 5.65e-21 J
    b) K_tot = 3700 J
