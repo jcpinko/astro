@@ -11,7 +11,7 @@ Problems
 5. Q = 1.64e-8 C
 6. flux1 = -2Q/e_0, flux2 = 0, flux3 = -Q/e_0, flux4 = 0, 
    flux5 = +2Q/e_0
-9. Q_enc = -1.5e-6 C
+9. Q_enc = -1.5e-6 C  (book answer is off)
 10. Q_enc/(6e_0)
 13. 7.97e-11 C
 17. a) E= Q / (4*pi*e_0*r^2)
