@@ -50,5 +50,5 @@ Misconceptual Questions
 
 
 Please check
-Prob.  10, 35 
-MiscQ  1,3,5,7,9
+Prob.  10, 20 (1pt ea)
+MiscQ  6,7,8,9 (1/2 pt ea)
