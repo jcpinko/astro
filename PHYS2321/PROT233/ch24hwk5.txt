@@ -37,5 +37,5 @@ Misconceptual Questions
 
 
 Please check
-Prob.  10 (1pt), 21 (1.5 pts)
-MiscQ   1,9,11,13 (1/2 ea)
+Prob.  22 (1pt), 39 (1 pts)
+MiscQ   11,13 (1/2 ea)
