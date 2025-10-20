@@ -140,6 +140,9 @@ Ch. 4 Discussion  1,2,5,8-12,15
    a single electron.  A rare isotope is deuterium which has a neutron
    joined to the proton.  ]
 
+8. What does it mean to say that a physical quantity is quantized?
+   Why do you think light is quantized?
+
    When a physical quantity is quantized, it means that it can take 
    on only specific values rather than a continuous range of values.
    We think light is quantized because of experiments like the photo-
