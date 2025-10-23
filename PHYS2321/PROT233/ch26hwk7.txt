@@ -1,7 +1,7 @@
 Giancoli 5th Ed.
 
 Hwk 7            5 point hwk
-Ch. 26 P. 1,2,5,7,12,17,31
+Ch. 26 P. 1,2,5,7,12,17,33
 
 Ch. 26  Problems: 
 1. a) Vab=5.91 V
@@ -17,6 +17,9 @@ Ch. 26  Problems:
 17. a) R_eq = 588 ohms
     b) I_tot = V/R_eq = .0851 A
        I = .0624 A through left-most vertical resistor
+33. 
+
+Another example:
 31. Use loop rules and junction rule to
     find I1=-0.8026 A
          I2=2.308 A
