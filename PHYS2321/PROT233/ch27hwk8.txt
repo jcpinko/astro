@@ -1,9 +1,29 @@
 Giancoli 5th Ed.
 
 Hwk 8  (Due 10/21/22)        10 point hwk
+Ch. 26 P. 1,2,5,7,12,33
 Ch. 27 P. 3-5,10,13,17,21,28,33,39,49
 
-Problems: 
+Ch. 26 Problems:
+1. a) Vab=5.91 V
+   b) Vab=5.99 V
+2. Vab = 4(emf - Ir) = IR
+      r = [emf - (IR/4)h]/I  = 0.2 ohm
+5. V=IR_2  where I=emf/(R_1+R_2)
+   V=8.6 V
+7. R_eq = (5/100)^{-1} = 20 ohms = n(10 ohms)
+   so n=2
+12. a) V = IR = (Vtot/8R)R = Vtot/8 = 120 / 8 = 15 V
+    b) R=V_tot/8I = 23 ohms  and P=I^2R =9.8 W
+17. a) R_eq = 588 ohms
+    b) I_tot = V/R_eq = .0851 A
+       I = .0624 A through left-most vertical resistor
+33.  I2 = 0.27 A, left
+     I1 = 0.60 A, left
+     (also, I3 = 0.8762 A)
+
+
+Ch. 27 Problems: 
 3. a) F/l = IBsin(theta) = 6.7 N/m
    b) F/l = IBsin(theta) = 3.8 N/m
 4. I = F_max/(lB) = 1.86 A
@@ -26,7 +46,7 @@ Problems:
 49. a) F_E = F_B , qE=qvB, v=E/B=5.85e+6 m/s.
 
 
-Please check   Tot= 10 pts
-Prob.  13 28
+Please check               Tot= 10 pts
+Ch. 27 Prob.  13 28
 
 

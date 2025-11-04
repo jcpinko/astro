@@ -17,7 +17,9 @@ Ch. 26  Problems:
 17. a) R_eq = 588 ohms
     b) I_tot = V/R_eq = .0851 A
        I = .0624 A through left-most vertical resistor
-33. 
+33.  I2 = 0.27 A, left
+     I1 = 0.60 A, left
+     (also, I3 = 0.8762 A)
 
 Another example:
 31. Use loop rules and junction rule to
