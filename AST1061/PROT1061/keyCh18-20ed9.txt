@@ -42,10 +42,11 @@ Ch. 20 RD 1,2,8,9,11,13
     "spin-flip" transition of hydrogen (the electron flips its
     spin from parallel to anti-parallel relative to the proton).
     This radiation is extremely important to astronomers because
-    it is emitted by gas clouds making up galaxies (especially spirals)
+    it is emitted by gas clouds making up galaxies (especially the
+    disks and arms of spirals), it is not blocked by dust,
     and doppler shifting of the line allows them to figure out 
-    the motions of the different parts of the galaxies.  21-cm
-    radiation has given us the best mapping of our Milky Way galaxy.
+    the motions of and distances to different parts of the galaxies.  
+    21-cm radiation has given us the best maps of our Milky Way galaxy.
 
 [15. How does a molecular cloud differ from other interstellar
     matter?
@@ -227,9 +228,11 @@ Ch. 20
 
 8. What is the internal structure of a star on the asymptotic
     giant branch?
-        A star on the asymptotic giant branch has a carbon
-        core and is fusing Helium into carbon in a shell.  (Above
-        that He shell would be the usual H and Helium.)
+        A star on the asymptotic giant branch has an inert carbon
+        core surrounded by a shell undergoing fusion of Helium into 
+        carbon, and a shell of H to He fusion.  (Above
+        that, would be non-burning H and Helium expanding and growing
+        in pulsations.)
 
 9. What is a planetary nebula?  Why do so many P.N. appear as rings?
         A planetary nebula is the blown off outer atmosphere of an
