@@ -42,6 +42,17 @@ Since the Hubble flow is an expansion of space itself, galaxies are not
 rushing outward into unoccupied parts of the universe. The universe is 
 evenly filled with matter but space is expanding, which gives rise to an 
 appearance of galaxies flying outward from us.
+Also, if the cosmological principle holds, the universe must look
+the same from every point in the universe.  Therefore, there can't
+be an edge to the universe where you see galaxies in one direction
+but not in the other.
+Furthermore, space-time has a measureable "curvature".  Positive
+curvature is analogous to the surface of a balloon.  If you draw
+a line as straight as possible on the surface of a baloon, it
+will eventually come back to the starting point, NEVER reaching
+an edge.  Similarly, a laser beam fired in a 3D universe with
+positive curvature will eventually return to its starting point
+(hitting you in the back of the head).
 
 [ 6. Where did the Big Bang occur?
   It occurred equally everwhere.  ]
