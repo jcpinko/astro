@@ -1,0 +1,99 @@
+Giancoli 5th Ed.
+
+Last Hwk (13?)  (Due 12/12/25)        10 point hwk
+Ch. 32 P. 3-5,11-15,19,21,34,35,39,41,55,56
+    MiscQ. 2-12 even 
+Ch. 33 P. 1,2,5,6,10,16
+    MiscQ. 1-8 all 
+
+Problems: 
+3. Use sum of interior angles of a triangle is 180 degrees.
+   The requested angle is 13 degrees.
+4. x = 0.78 m
+5. deflection angle = 2*phi
+11. d_o = 15 cm
+12. Use d_i = -m*d_o, then use mirror equation
+    to solve for f = (d_o d_i)/(d_o + d_i) = -9.6 m
+13. a) f = r/2 = 12 cm
+    b) mirror equation gives d_i = 17 cm.
+    c) image is inverted since M will be negative
+14. f=r/2=-2.1cm (convex mirror). 
+    Use mirror equation to find d_i = -1.94 cm.
+    So the image is behind the surface of the ball, virtual, 
+    and upright
+15. r=6.3 m
+19. a) (Must draw picture showing 2-4 rays and an 
+        upright image with d_i = -6 cm.)
+    b) Mirror equation gives d_i = -6 cm
+    c) hi=h(M) = 1.3 mm
+21. a) drawing (2 or more rays) shows that |m|<1 for a d_o > r.
+       drawing (2 or more rays) shows that |m|>1 for d_o < r.
+    b) mirror equation used to show that
+       m = -r/(2d_o-r) so,
+       If d_o>r, (2d_o-r)>r and |m|=r/(>r)<1
+       If d_o<r, (2d_o-r)<r and |m|=r/(<r)>1
+34. n=c/v = 1.31
+35. a) ethyl alcohol: v = c/n = 2.21e+8 m/s
+    b) Lucite:  v=c/n = 2.00e+8 m/s
+    c) Crown glass:  v=c/n = 1.97e+8 m/s
+39. Use Snell's law to find theta1=55 deg.
+    Then angle of interest = 90-55 = 35 deg.
+41. theta_1 = 2theta_2 = 71.8 deg.
+55. n_liquid = 1.26
+56. R>74.1 cm
+
+MiscQ.
+2. e
+4. a
+6. c
+8. c
+10. c
+12. a
+
+
+Ch. 33 P. 1,2,5,6,10,16
+    MiscQ. 1-8 all 
+
+Problems: 
+1. (a) do = 630 mm
+   (b) do = 635 mm
+2. (a) converging lens
+   (b) P = 1/f = 6.06 Diopters
+5. (a) di = 106 mm
+   (b) di = 109 mm
+   (c) di = 117 mmm
+   (d) Use 1/do,min + 1/di,max = 1/f with di,max=132mm
+       do,min = 513 mm (.513 m)
+6. (a) di = -32 cm
+         Image is on front side of lens (same as stamp).
+   (b) m=-di/do = +2.15 x
+10. (a) real image implies f > 0, di>0, and M<0.
+        So di=-mdo = 2.5do. 
+        do = 105 mm
+    (b) do = 45 mm
+16. (a) do = 0.105 m
+    hi = m*ho = (-di/do)*ho = 5118 mm, or 5.1 m.
+    (b) The image is unchanged, but the image
+        distance for the 2nd lens has changed
+        di2 = (do2f2)/(do2-f2) = 29.1 cm to
+        the right of diverging lens.
+
+MiscQ.
+1. c
+2. e
+3. c
+4. d
+5. c
+6. c
+7. d
+8. e
+
+Check   Tot= 10 pts
+Ch. 32 Prob.   (1pt each)
+       MiscQ.   (0.5 pt each)
+
+Please check   Tot= 10 pts
+Ch. 33 Prob.    (1pt each)
+       MiscQ.   (0.5 pt each)
+
+
