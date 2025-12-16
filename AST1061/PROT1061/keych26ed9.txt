@@ -52,7 +52,9 @@ a line as straight as possible on the surface of a baloon, it
 will eventually come back to the starting point, NEVER reaching
 an edge.  Similarly, a laser beam fired in a 3D universe with
 positive curvature will eventually return to its starting point
-(hitting you in the back of the head).
+(hitting you in the back of the head).  We are more likely living
+in a flat or open universe, so this doesn't happen, and instead the
+beam continues indefinitely without reaching an edge.
 
 [ 6. Where did the Big Bang occur?
   It occurred equally everwhere.  ]
@@ -87,11 +89,11 @@ is like a saddle surface, and a "flat" universe is like a flat plane.
 On a surface, one can draw parallel lines and they will stay parallel
 on a flat plane, diverge on a saddle, and converge on a sphere.
 In 3 dimensional space, we can "draw parallel lines" by firing two
-lasers parallel to one another.  In a curved universe the beams will 
+lasers parallel to one another.  In a curved, closed universe the beams will 
 eventually converge together (and then go all the way around the 
 universe to return to the starting point). In a flat universe,
 the beams stay parallel and never return.  Actual measurements to
-determine flatness are done by counting galaxies in different
+determine flatness can be done by counting galaxies in different
 redshift ranges.  If the universe is flat, the counts will go
 up as a function of distance/redshift such that you get 8 times
 more galaxies with every doubling of distance.  If the universe
