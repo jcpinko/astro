@@ -29,7 +29,7 @@ Problems:
     x-x0 = v_avg Dt = 113.7 m ~ 110 m
     v^2=v0^2 + 2a(x-x0)  so x-x0  = 114.1 m ~ 110 m
     (Slight differences due to rounding.)
-36. v^2 =v0^2 + 2a(x-x0) so a = 3.67 m/s^2
+36. v^2 =v0^2 + 2a(x-x0) so a = 3.67 m/s^2, t=v/a=3.13 s
 37. x-x0 = (v0-v)t/2 = 1.20E+2 m
 38. v^2 = v0^2 + 2a(x-x0) gives v = 23 m/s
 53. a) y = y0 + v0t + at^2/2  with v0=0
@@ -47,9 +47,10 @@ Problems:
        the same height as which it was hit.
 
 MiscQ.
+None
 
 Please check   Tot= 10 pts
-Prob. 7, 26  (1pt,1pt)
+Prob.  36  (1pt)
 MiscQ. --- (0.5 pt each)
 
 
