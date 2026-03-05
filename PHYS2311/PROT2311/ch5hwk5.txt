@@ -1,6 +1,6 @@
 Giancoli 5th Ed.
 
-Hwk 5  (Do for Wed 2/26)        10 point hwk
+Hwk 5  (Do for Fri 2/27)        10 point hwk
 Ch. 5 P. 1-3,6,7,19,23,35,36,38,45  
     MisConQ.  (none)
 
@@ -28,11 +28,11 @@ Problems:
 36. a) a_R =v^2/r = 1.21 m/s^2
     b) F_R = ma_R = 22.5 kg * 1.207 m/s^2 = 27.2 N
 38. a_R = v^2/r = 57.42 m/s^2 convert to g's -> 5.86 g's.
-45. r = v^2 / mu_s*g = 28.1 m (or 30 m)
+45. r = v^2 / mu_s*g = 28.1 m (or ~30 m) would be the minimum radius of curv.
 
 
 Please check               Tot= 10 pts
-Prob. 19,36 (1 pt, 1 pt)
+Prob. 2,45 (1 pt, 1 pt)
 MiscQ. --- (0.5 pt each)
 
 
