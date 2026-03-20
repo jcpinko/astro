@@ -27,7 +27,7 @@ Problems:
     No, the vine length doesn't matter so long as it is long enough
     to allow her to rise 1.3 m.
 13. Use Delta U_g = - Delta K and solve for v_i
-    v_i = sqrt(2gy_2) = 4.89 m/s .   (The angle is not used.)
+    v_i = sqrt(2gy_2) = 4.89 m/s . (The angle is not used.) (Book soln wrong)
 17. If the KE is all converted into spring PE,
     1/2mv^2 = 1/2kx_f^2 so that k = mv^2/x_f^2 = 1.6E+5 N/m
 19. a) Use Delta U_s + Delta U_g + Delta k = 0 , 
