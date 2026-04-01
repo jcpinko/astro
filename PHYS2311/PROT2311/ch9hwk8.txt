@@ -1,6 +1,6 @@
 Giancoli 5th Ed.
 
-Hwk 8  (Due )        10 point hwk
+Hwk 8  (Due ...)        10 point hwk
 Ch. 9 P. 1,2,4-6,8,9,18,21,23,28,29,37,38,47,54,55
     MisConQ. 1-13 (odd) 
     Ch. 8 P. 56, 61
@@ -53,6 +53,6 @@ Ch. 8
 
 Please check   
 Prob. 18 (1pt), 29 (1pt)            Tot= 10 pts
-MisConQ. 5,7,9 --- (0.5 pt each)
+MisConQ. 7,9 --- (0.5 pt each)
 
 
