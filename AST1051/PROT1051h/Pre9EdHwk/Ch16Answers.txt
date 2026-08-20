@@ -1,0 +1,47 @@
+
+Homework KEY
+Chapter 16 The Sun
+
+Review and Discussion
+
+1.  The main regions of the Sun are shown in Fig 16.2.
+    The core includes the from center out to 200,000 km,
+    the radiation/radiative zone is the next shell out
+    to 500,000 km, and the convective zone takes up 
+    most of the remaining space out to 700,000 km.
+    Above these interior zones are the atmosphere including
+    the photosphere (300 km thick), the chromosphere (~1500 km
+    thick, the transition zone (~8000 km thick), and
+    the corona (extends out into the solar wind in some places).
+
+2. The mass of the Sun is 2x10^30 kg, while the Earth is
+   only 4x10^24 kg.  So the Sun is about 300,000 times
+   more massive than the Earth.
+
+3. The solar surface is 5800 K, and the core is about 15
+   million K. 
+
+4. Luminosity is the total amount of energy leaving the Sun
+   in the form of EM radiation in all directions per second.
+   It can be measured in units of Watts.  It is a measure of
+   the true brightness of the Sun and other stars.  It is
+   determined by measuring the amount of energy/second passing 
+   through a detector on the top of the Earth's atmosphere, and
+   then multiplying that the ratio of the surface area of
+   a sphere with a radius of 1 AU to the area of the detector.
+
+15. The solar cycle is 22 years long because each consecutive
+   11 year sunspot cycle has a reversal in the polarity of the
+   sunspot pairs.
+
+16. Sunspots, flares and prominances all tend to happen in the
+   same region and so their causes should be related to the 
+   strong, kinked magnetic field lines that pierce the Sun's
+   surface at the locations of sunspots.  Sunspots are caused
+   by the inhibition of convection in regions of strong magnetic
+   fields at (and just under) the Sun's surface.  Flares are
+   short-lived outbursts whose cause is not well understood,
+   but is related to magnetic "reconnection" events.  Prominances
+   are less energetic and long-lived outbursts of particles
+   that form arches above the Sun tracing out the magnetic field lines.
+   

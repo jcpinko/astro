@@ -1,0 +1,423 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=iso-8859-15">
+  <meta http-equiv="CONTENT-TYPE"
+ content="text/html; charset=iso-8859-15">
+  <meta name="GENERATOR"
+ content="Mozilla/4.79 [en] (X11; U; Linux 2.4.18-10 i686) [Netscape]">
+  <meta name="CREATED" content="20020908;15572000">
+  <meta name="CHANGEDBY" content="Jason Pinkney">
+  <meta name="CHANGED" content="20020909;11133100">
+  <title>PHYSICS 252 "Planetary Astronomy" Spring 2005-2006, Jason
+Pinkney</title>
+  <style>
+	<!--
+		A:link { color: #0000ff }
+		A:visited { color: #800080 }
+	-->
+	</style>
+</head>
+<body bgcolor="#ffffe1" link="#0000ff" vlink="#800080">
+<h1>
+<a name="PHYSICS_252"></a><b><font size="+2">PHYSICS 252 ``Planetary
+Astronomy''&nbsp; Spring 2005-2006</font></b></h1>
+Credits: 4.00
+<br>
+Department: <font color="#006600">Physics and Astronomy</font>
+<br>
+Class Home page:
+http://www2.onu.edu/~j-pinkney/AST252/syll-ast252.html&nbsp;
+(this page!)
+<p>Instructor: <b>Dr. Jason Pinkney</b>
+<br>
+Office hours&nbsp; in 111 Science Annex at&nbsp; <a
+ href="http://www2.onu.edu/%7Ej-pinkney/schedS2006.html">these
+times</a> .
+<br>
+Email <a href="mailto:j-pinkney@onu.edu">j-pinkney@onu.edu</a> or call
+419-772-2740.
+<br>
+Instructor's Home page:
+<a href="http://www2.onu.edu/%7Ej-pinkney/">http://www2.onu.edu/~j-pinkney/</a>
+</p>
+<p>Class time and place:&nbsp; MTRF, 12:00-10:50 am, Meyer 114 </p>
+<p>-------------------------------------------
+</p>
+<p><font color="#ff0000"><font size="+2">NEW STUFF</font></font>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; (Watch this spot for new links, solutions,
+etc.)
+<br>
+
+<p><a href="http://www.purplemath.com/modules/translat.htm">
+  This is a nice link about solving word problems. </a>
+&nbsp;
+</p>
+<p><a href="./OLw1/">
+  Week 1 outline.  Powers of 10. </a>
+</p>
+
+<!--  <p> Begin </p>
+<p><a href="./OLw2/">
+  Week 2 outline.  Celestial Sphere through eclipses. </a>
+</p>
+<p><a href="./OLw3/">
+  Week 3 outline.  The Copernican Revolution.  </a>
+</p>
+<p><a href="./Wk4OL/">
+  Week 4 outline.  Solar System Exploration.  </a>
+</p>
+<p><a href="./Wk5OL/wk5OL.html">
+  Week 5 outlines.  The Earth.  The Moon and Mercury (see textbook CD). </a>
+</p>
+<p><a href="./Wk6OL/wk6OL.html">
+  Week 6 presentation.  Venus (see text CD). </a>
+</p>
+<p><a href="./Wk7OL/wk7OL.html">
+  Week 7 presentation. Mars.  </a>
+</p>
+<p><a href="./Wk8OL/wk8OL.html">
+  Week 8 presentation.  Jupiter (see text CD).  </a>
+</p>
+<p><a href="./OLw10/OLw10.html">
+  Week 9, 10 outlines.  Saturn, Uranus, Neptune, Pluto, Debris.  </a>
+</p>
+<p><a href="./survey/survey.html">
+  Pre-course survey.  (Practice for final.).  </a>
+</p>
+<p><a href="./quizall/quizall.html">
+  Concatenation of previous quizzes.  (Practice for final.).  </a>
+</p>
+	END HIDDEN STUFF
+ -->
+
+<p><font size="+1">---------------------------------------</font>
+</p>
+<p><b>Text:</b> <a
+ href="http://wps.prenhall.com/esm_chaisson_astronomytoday_5">Astronomy
+Today</a>, 5th Edition.&nbsp; By Chaisson and McMillan.
+</p>
+<p><b>Course Description:</b>
+<br>
+This course is an introduction to astronomy. Astronomy has so many
+subfields that it is impossible to cover them all in one quarter.
+Hence,
+this course deals with the solar system and leaves out a great deal of
+material on the stars, galaxies and cosmology. We discuss not only
+planets, but the myriad moons of those planets, comets, asteroids,
+and the Sun in our solar system. We now have data on extrasolar planets
+(planets around other stars) which challenge our theories of
+solar system evolution.
+<br>
+A major theme of this quarter is learning by comparison.
+The term "comparitive planetology" is often used to describe how
+we can verify our hypotheses about the Earth by comparing it to the
+other planets (especially Venus and Mars). Similarly, we are now
+refining our overall view of the formation of our solar system
+by comparing to extrasolar systems.
+<br>
+I plan on taking you out to use telescopes and look at the sky.
+Mars is still well placed during winter quarter, as is Saturn, and
+Jupiter should be observable later in the quarter. Try to ``keep an
+eye on the sky" during this course and bring your questions to class.
+</p>
+<p>A tentative calendar of topics is outlined <a href="#sched">below</a>.<br>
+<b>Schedule</b>
+(tentative):
+<br>
+&nbsp;
+</p>
+<table border="5" cellspacing="2" cellpadding="5" nosave="">
+  <tbody>
+    <tr>
+      <td>Week of</td>
+      <td>Topic</td>
+      <td>Chapter(s)</td>
+      <td>Graded material (not complete)</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>12/1</td>
+      <td>Syllabus. Survey of Universe.</td>
+      <td>1</td>
+      <td>quiz1</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>12/8</td>
+      <td>Naked Eye Universe - the celestial sphere</td>
+      <td>1</td>
+      <td>quiz2</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>12/15</td>
+      <td>History of Cosmology</td>
+      <td>2</td>
+      <td>Exam I</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>12/20-1/4</td>
+      <td>Christmas Recess</td>
+      <td>_</td>
+      <td>_</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>1/5</td>
+      <td>Solar System Overview, Earth<br>
+      </td>
+      <td>6, 7<br>
+      </td>
+      <td>quiz3</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>1/12</td>
+      <td>Moon, Mercury, Venus</td>
+      <td>8,9<br>
+      </td>
+      <td>quiz4</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>1/19</td>
+      <td>Venus, Mars </td>
+      <td>9,10<br>
+      </td>
+      <td>quiz5</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>1/26 </td>
+      <td>Jupiter, Saturn<br>
+      </td>
+      <td>11,12<br>
+      </td>
+      <td>Exam II.</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>2/2</td>
+      <td>Saturn, Uranus and Neptune<br>
+      </td>
+      <td>12,13<br>
+      </td>
+      <td>quiz6</td>
+    </tr>
+    <tr bgcolor="#c3a373">
+      <td>2/9 </td>
+      <td>Pluto and Solar System Debris<br>
+      </td>
+      <td>13, 14<br>
+      </td>
+      <td>quiz7</td>
+    </tr>
+    <tr bgcolor="#c3a373" nosave="">
+      <td>2/16 </td>
+      <td>&nbsp;Formation of Planetary Systems<br>
+      </td>
+      <td nosave="">15<br>
+      </td>
+      <td>quiz8</td>
+    </tr>
+    <tr bgcolor="#c7ab73">
+      <td>2/25 Wed</td>
+      <td>Final at 8:00-10:00 AM(!), usual classroom.</td>
+      <td>_</td>
+      <td>Comprehensive Final exam.</td>
+    </tr>
+  </tbody>
+</table>
+<p><br>
+</p>
+<p style="margin-bottom: 0in;"><b>Grading:</b>
+<br>
+&nbsp;
+<table border="5" cellspacing="2" cellpadding="5" bgcolor="#c3a373">
+  <tbody>
+    <tr>
+      <td><br>
+      </td>
+      <td><br>
+      </td>
+      <td><br>
+      </td>
+    </tr>
+    <tr>
+      <td>In-class</td>
+      <td>Homework, activities, participation</td>
+      <td>25%</td>
+    </tr>
+    <tr>
+      <td>Quizzes</td>
+      <td>Quizzes (drop lowest grade)</td>
+      <td>25%</td>
+    </tr>
+    <tr>
+      <td>Exams</td>
+      <td>There will be two exams and a final.</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td><br>
+      </td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+&nbsp;
+</p>
+<center>
+<p>Your final letter grade is assigned roughly as follows:</p>
+</center>
+<center>
+<table border="1" cellspacing="3" cellpadding="8" width="260" nosave="">
+  <caption>
+  <center></center>
+  <br>
+  </caption><col width="36"><col width="59"><col width="39"><col
+ width="59"><col width="59"><col width="60"><tbody>
+    <tr>
+      <td width="36">
+      <div align="right">&lt;55</div>
+      </td>
+      <td width="39">
+      <div align="right">55-70</div>
+      </td>
+      <td width="59">
+      <div align="right">70-80</div>
+      </td>
+      <td width="59">
+      <div align="right">80-90</div>
+      </td>
+      <td width="60">
+      <div align="right">90-100</div>
+      </td>
+    </tr>
+    <tr nosave="">
+      <td width="36">
+      <center>F</center>
+      </td>
+      <td width="39">
+      <center>D</center>
+      </td>
+      <td width="59" nosave="">
+      <center>C</center>
+      </td>
+      <td width="59">
+      <center>B</center>
+      </td>
+      <td width="60">
+      <center>A</center>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</center>
+<p>I will not to grade any "harder" than the above. However, if the
+class
+mean drops below 75, I will grade more leniently.
+</p>
+<p><b><font size="+0">Course Policies</font></b>
+</p>
+<p><i>Attendance </i>is important for doing well in this course.&nbsp;
+Absenteeism can directly lower your grade if you miss a quiz or a
+homework discussion.
+<br>
+&nbsp; Let me know in advance (e-mail is good) if you plan
+to miss for a <b><i>valid reason</i></b> (e.g. your team is on the
+road,
+you are sick, you have a family emergency).&nbsp; <u>If you miss a
+quiz
+or exam because of an emergency, let me know as soon as possible, and
+provide
+proof of the emergency.</u>
+</p>
+<p><i>Homework</i> will consist mainly of reading and preparing to
+discuss review questions from the textbook. You may also try your hand
+at
+working problems from the textbook. Math ability (or lack thereof)
+will not have a great influence on graded material, but you should try
+to improve your problem solving skills during this course. &nbsp;
+Homework will not be accepted after it
+has been graded. If you foresee yourself missing a deadline because of
+an excusable absence, again, let me know ahead of time. Written
+assignments will be scored to varying degrees on completeness and
+correctness, but not every problem will be corrected.
+I encourage you to discuss homework with your classmates.
+</p>
+<p><i>Quizzes </i>will be given on non-exam weeks.&nbsp; They will
+consist
+of about 10 multiple choice/short answer questions.&nbsp; They cover
+the
+assigned reading and especially the material discussed in class.&nbsp;
+You can only make up a quiz that was missed because of a valid conflict
+or emergency.&nbsp; Also, you can only make up the quiz before the
+answers
+are revealed (usually the next period). For this reason, I will drop
+your
+lowest quiz score.
+</p>
+<p><i>Exams </i>will be given roughly every 3 weeks. These will weigh
+most
+heavily towards your class grade. The final exam will be comprehensive,
+but will emphasize the last 2-3 weeks of material.
+</p>
+<p><i>Disruptions. </i>You can ask questions during class and even
+laugh
+like a donkey when I tell a joke, but don't interfere with the learning
+of the students around you.&nbsp; Class begins at 10:00 AM.&nbsp; Don't
+be late or you may face public humiliation. You might also miss a
+quiz.&nbsp;&nbsp;
+In general, do not disrupt the class or you may be asked to leave.
+</p>
+<p><i>Cheating</i> will not be tolerated. During tests, do not use
+outside
+references like laptops, calculators, or notes UNLESS I explicitly
+allow
+them. Do not look at another person's quiz or exam while you are taking
+one. Also, if you suspect someone is copying your answers, try to
+prevent
+it by moving or shielding your answers. The penalty for cheating is a
+zero
+score for the quiz or exam.
+</p>
+<p><i>Calculators</i>. I encourage you to use a calculator in this
+class.
+A simple calculator will suffice.
+</p>
+<p><i>Tutoring</i> is available. You are welcome to drop by during my
+office
+hours, or you can try to make an appointment. I will look for a
+previous
+astronomy student to provide tutoring. Stay tuned.&nbsp; You can also
+try
+the tutors provided by A&amp;S, although they may not have astronomy
+experience,
+they can probably do any math problem in this class. Science tutoring
+sessions usually occur on Thursday evenings, starting at 7:00 PM.<br>
+</p>
+<p style="margin-bottom: 0in;"><b>Lab (astro minors only):</b>
+<br>
+The lab for this class is Physics 255. Please sign up for this lab
+during the first week if you are an astronomy minor. Otherwise, you
+do not need the lab. Tentative meeting time is
+Wednesday, 10:00-noon. We will meet on the second week of class.<br>
+&nbsp;
+<table border="5" cellspacing="3" cellpadding="3" width="90%"
+ bgcolor="#ffffff" bordercolor="#003fcc">
+  <caption><br>
+  </caption><col width="74*"><col width="90*"><col width="92*"><tbody>
+    <tr>
+      <td width="29%">&nbsp; <a
+ href="http://www.exploratorium.edu/learning_studio/cool/astronomy.html">Cool
+Astro Links </a></td>
+      <td width="35%"><a href="http://www2.onu.edu/%7Ej-pinkney">Pinkney's
+Homepage</a></td>
+      <td width="36%"><a href="http://www.onu.edu/A+S/physics">The ONU
+Physics
+Homepage</a></td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<p><!-- Cut out stuff ... --><!-- tr --><!-- td --><!-- li --><!-- a href="saturn.html" Saturn /a /li --><!-- td --><!-- Plot its position over several weeks and see its rings and moons with --><!-- a telescope /td --><!-- /tr --></p>
+</body>
+</html>

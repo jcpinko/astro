@@ -1,0 +1,462 @@
+
+
+Units of Chapter 7 
+
+
+7.1 Overall Structure of Planet Earth 
+7.2 Earths Atmosphere 
+Why Is the Sky Blue? 
+The Greenhouse Effect and Global Warming 
+7.3 Earths Interior 
+Earths Rapidly Spinning Core 
+
+Units of Chapter 7 (cont.) 
+
+
+7.4 Surface Activity 
+Radioactive Dating 
+7.5 Earth’s Magnetosphere 
+7.6 The Tides 
+
+7.1 Overall Structure of Planet Earth 
+• 
+Mantle 
+• 
+Two-part core 
+• 
+Thin crust 
+• 
+Hydrosphere 
+(oceans) 
+• 
+Atmosphere 
+• 
+Magnetosphere 
+
+7.2 Earth’s Atmosphere 
+• 
+The blue curve 
+shows the 
+temperature at 
+each altitude 
+• 
+Troposphere is 
+where convection 
+takes place— 
+responsible for 
+weather 
+
+7.2 Earth’s Atmosphere 
+Convection depends on warming of 
+ground by the Sun 
+
+
+
+7.2 Earth’s Atmosphere 
+Ionosphere is ionized by solar radiation and is 
+good conductor 
+
+Reflects radio waves in the AM range, but 
+transparent to FM and TV 
+
+Ozone layer is between ionosphere and 
+mesosphere; absorbs ultraviolet radiation 
+
+
+7.2 Earth’s Atmosphere 
+Chlorofluorocarbons (CFCs) have been 
+damaging the ozone layer, resulting in ozone 
+hole 
+
+
+See 
+Animation 
+
+
+
+7.2 Earth’s Atmosphere 
+Surface heating: 
+
+• 
+Sunlight that is not reflected is 
+absorbed by Earth’s surface, warming it 
+• 
+Surface re-radiates as infrared thermal 
+radiation 
+• 
+Atmosphere absorbs some infrared, 
+causing further heating 
+
+7.2 Earth’s Atmosphere 
+This is known as the 
+
+
+greenhouse effect 
+
+
+
+More Precisely 7-1: Why Is the Sky Blue? 
+
+
+Scattering of light by air 
+depends on the 
+wavelength of the light 
+—the wavelength of 
+blue light is closer to 
+the size of air 
+molecules, so it is 
+scattered most 
+strongly. The amount of 
+molecular scattering is 
+proportional to the 
+inverse fourth power of 
+the wavelength. 
+
+
+
+More Precisely 7-1: Why Is the Sky Blue? 
+
+
+When the Sun is close 
+to the horizon, light is 
+scattered by dust in the 
+air. The more dust, the 
+more scattering; if there 
+is enough, the blue light 
+is greatly diminished, 
+leaving a red glow in 
+the sky. 
+
+
+
+7.2 Earth’s Atmosphere 
+Earth’s atmosphere has evolved: 
+
+• 
+Primary atmosphere contained hydrogen, 
+helium; these escaped Earth’s gravity 
+• 
+Secondary atmosphere, from volcanic 
+activity, mostly nitrogen and CO2 released 
+• 
+Life appeared, creating atmospheric 
+oxygen. CO2 partly absorbed by oceans and 
+rock. 
+
+
+Discovery 7-1: The Greenhouse 
+Effect and Global Warming 
+
+
+Modern society has 
+increased CO2 levels in 
+the atmosphere. 
+
+A corresponding 
+increase in global 
+average temperature 
+has been seen as well. 
+
+Dramatic melting. 
+
+Can we turn around the 
+trend? 
+
+
+
+The Greenhouse Effect and Global 
+Warming 
+
+
+Some possible consequences of global 
+warming: 
+
+• 
+Rise in sea level 
+• 
+More severe weather 
+• 
+Crop failures (as climate zones change) 
+• 
+Expansion of deserts 
+• 
+Spread of tropical diseases away from the 
+tropics 
+
+7.3 Earth’s Interior 
+Currently accepted 
+model: 
+
+
+
+7.3 Earthquakes probe Earth's interior 
+Seismic waves: 
+Earthquakes produce both 
+pressure and shear waves. 
+Pressure waves are 
+longitudinal and will travel 
+through both liquids and 
+solids. 
+Shear waves are transverse 
+and will not travel through 
+liquid, as liquids do not 
+resist shear forces. 
+Wave speed depends on 
+the density of the material. 
+
+
+
+7.3 Earth’s Interior 
+We can use the pattern of reflections during 
+Earth 
+
+earthquakes to deduce interior structure of 
+
+7.3 Earth’s Interior 
+The Core is the densest, containing the 
+highest concentration of iron and nickel. It is 
+metallic (mostly metal). 
+
+The outer core is liquid; inner core is solid, 
+due to pressure 
+
+Mantle is much less dense than core, and 
+more rocky than metallic. We learn of the 
+mantles composition from the volcanic lava 
+which originates at the greatest depths. 
+
+
+Discovery 7-2 
+Earth’s “Rapidly” Spinning Core 
+
+
+Analysis of seismic 
+waves shows inner 
+core rotating slightly 
+faster than rest of 
+Earth—about 1° faster 
+per year. 
+
+
+
+7.3 Earth’s Interior 
+Earth was probably 
+molten when formed 
+and remelted due to 
+bombardment by space 
+debris. 
+
+Differentiation occurred 
+-heavier materials sank 
+to the center. 
+
+Radioactivity provides 
+a continuing source of 
+heat. 
+
+
+
+7.4 Surface Activity 
+At plate boundaries, get earthquakes and 
+volcanoes 
+
+
+
+7.4 Surface Activity 
+Continental drift: Entire Earth’s surface is 
+covered with crustal plates, which can move 
+independently 
+
+
+
+7.4 Surface Activity 
+This is a subduction zone, where one plate 
+slides below another 
+
+
+
+7.4 Surface Activity 
+A plate colliding with another can also raise 
+it, resulting in very high mountains 
+
+
+
+7.4 Surface Activity 
+Plates can also slide 
+along each other, 
+creating faults where 
+many earthquakes 
+occur 
+
+
+
+7.4 Surface Activity 
+Finally, plates can move away from each other, 
+creating rifts 
+
+
+
+7.4 Surface Activity & Magnetic fields 
+The new crust created at rift 
+zones preserves the 
+magnetic field present at the 
+time it solidified. From this, 
+we can tell that field 
+reversals occur about every 
+500,000 years. 
+
+
+
+More Precisely 7-2: 
+Radioactive Dating 
+
+
+The number of protons in an atom’s 
+nucleus determines which element it is. 
+However, there may be different isotopes 
+of the same element, with the same 
+number of protons but different numbers 
+of neutrons. Many of these isotopes are 
+unstable and undergo radioactive decay. 
+This decay is characterized by a half-life T: 
+
+Fraction of material remaining = (1/2)t/T 
+
+
+
+More Precisely 7-2: 
+Radioactive Dating 
+
+
+This plot shows the fraction of the original 
+sample remaining as a function of time 
+
+
+
+More Precisely 7-2: 
+Radioactive Dating 
+
+
+Half-lives have been measured in the 
+laboratory for almost all known isotopes. 
+Knowing these, we can use them for 
+determining the age of samples by looking 
+at isotope ratios. 
+
+The most useful isotope for dating rock 
+samples is uranium-238, which has a half-
+life of 4.5 billion years, comparable to the 
+age of the Earth. 
+
+
+Radioactive Dating 
+
+
+The dating process involves measuring 
+the ratio between the parent nucleus and 
+the daughter nucleus (lead-206 in the case 
+of uranium-238) 
+
+
+
+7.4 Surface Activity 
+Plate motion is driven by convection 
+
+
+
+
+7.4 Surface Activity 
+If we follow the continental drift backwards, the 
+continents merge into one, called Pangaea 
+
+
+
+7.5 Earth’s Magnetosphere 
+The magnetosphere is the region around 
+the Earth where charged particles from the 
+solar wind are trapped 
+
+
+
+7.5 Earth’s Magnetosphere 
+These charged particles are trapped in areas 
+called the Van Allen belts, where they spiral 
+around the magnetic field lines 
+
+
+
+7.5 Earth’s Magnetosphere 
+Near the poles, the Van Allen belts intersect 
+the atmosphere. The charged particles can 
+escape; when they do, they create glowing 
+light called aurorae. 
+
+
+
+7.6 The Tides 
+Tides are due to the gravitational force on 
+Earth from Moon—force on the near side of 
+Earth is greater than the force on far side. 
+Water can flow freely in response. 
+
+
+
+7.6 The Tides 
+The Sun has less 
+effect because it 
+is farther away, 
+but it does 
+modify the lunar 
+tides 
+
+
+
+7.6 The Tides 
+Tides tend to exert a “drag” force on the Earth, 
+slowing its rotation. 
+
+This will continue until the Earth rotates 
+synchronously with the Moon, so that the same 
+side of the Earth always points toward the Moon. 
+
+
+
+Summary of Chapter 7 
+
+
+• 
+Earth’s structure, from inside out: Core, mantle, 
+crust, hydrosphere, atmosphere, magnetosphere 
+• 
+Atmosphere is mostly nitrogen and oxygen; 
+thins rapidly with increasing altitude 
+• 
+Greenhouse effect keeps Earth warmer than it 
+would otherwise be 
+• 
+Study interior by studying seismic waves 
+• 
+Crust is made of plates that move 
+independently 
+
+Summary of Chapter 7 (cont.) 
+
+
+• 
+Movement at plate boundaries can cause 
+earthquakes, volcanic activity, mountain ranges, 
+and rifts 
+• 
+New crust formed at rifts shows evidence of 
+magnetic field reversals 
+• 
+Earth’s magnetic field traps charged particles 
+from solar wind 
+• 
+Tides are caused by gravitational effects of 
+Moon and Sun 
+
+
+------------------------------------------------
+This outline template was created by Pearson Addison Weseley
+and modified slightly by J. Pinkney.

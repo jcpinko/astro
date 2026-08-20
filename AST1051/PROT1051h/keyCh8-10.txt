@@ -1,0 +1,164 @@
+
+Astro Today 9th Ed.
+Ch. 8 Moon and Mercury
+Discussion 3,5,6,7,15 
+
+3. Employ the concept of escape speed to explain why the Moon
+and Mercury have no significant atmospheres.
+	Both the Moon and Mercury have low masses and, therefore, weak 
+surface gravities and low escape velocities. To make matters worse, 
+both objects experience high daytime temperatures because they are 
+in the inner solar system and rotating slowly. At these temperatures, 
+most if not all atmospheric molecules will have velocities in excess 
+of these low escape velocities.  Neither object, then, has been able 
+to hold an atmosphere.
+
+5. What does it mean to say that Mercury has a 3:2 spin orbit
+resonance?  Why didn't Mercury settle into a synchronous
+orbit around the Sun, as the Moon did around Earth?
+Mercury's orbit is not synchronous with its rotation in a 1 to 1 
+ratio, like the Moon, but in a 3 to 2 ratio. It rotates 3 times (relative
+to the stars) for every two orbits around the Sun. This was the result of 
+Mercury's highly eccentric orbit and allows the same side of Mercury to face 
+the Sun every other orbit at perihelion. It is at perihelion that 
+the tidal forces are the strongest on Mercury and this forced the
+denser side of Mercury to face the Sun every other orbit.  
+If Mercury maintained it's perihelion speed for its entire orbit, it 
+would have a 1:1 spin-orbit resonance.  So it's as if Mercury
+DOES have a 1:1 resonance assuming a circular orbit with a radius
+equal to the perihelion distance from the Sun.
+
+6. What is a scarp?  How are scarps thought to have formed?
+Why do scientists think that the scarps on Mercury formed after
+most meteoritic bombardment ended?
+
+A scarp is basically a cliff that extends a greater distance
+than the vertical drop of the cliff.  On Mercury, the scarps drop
+off a few km and extend as far as 400 km.  They probably formed
+during a cooling stage of the planet when the interior temperature
+dropped and it actually shrunk in size causing the crust to wrinkle.  
+This stage appears to have happened after most of the heavy
+bombardment because the scarps cross the craters more than the
+craters overlap and erase the scarps.
+
+7. What is the primary source of erosion on the Moon?  Why is the
+average rate of lunar erosion so much less than on Earth?
+
+There is no water or wind erosion and no change due to plate tectonics 
+because none of these exist on the Moon. The primary source of 
+erosion on the Moon is cratering, especially by micrometeors. While 
+meteors do strike the airless Moon very frequently, Earth has many 
+more sources of erosion.
+
+15. How is the varying thickness of the lunar crust related to the
+presence or absence of maria on the Moon?
+
+When the lunar material differentiated, Earth's tidal forces played 
+an important role in the Moon's internal development. Denser mantle 
+material settled closer to the Earth; lighter crustal material 
+settled farther away. Therefore, the mantle is somewhat “off-center,” 
+and the crust on the near side of the Moon is thinner than the crust 
+on the far side. Because of this difference in crust thickness, 
+lava was able to erupt more easily onto the near side when large
+meteoroids struck, and maria formed more easily. On the far side, 
+the crust was harder to penetrate and maria were generally unable to form.
+
+----------------------------------------------------------
+
+AT 9th edition
+Ch. 9 
+Discussion 3,8,11,14
+
+3. What is our current best explanation of Venus's slow, retrograde
+spin?  
+
+Our best explanation is that Venus was struck by a large object at 
+just the right angle and speed to slow and even reverse its spin.
+
+8. What component of Venus' atmosphere causes the planet to be
+so hot?  Explain why there is so much of this gas in the atmosphere
+of Venus, compared with its presence in Earth's atmosphere.
+What happend to all the water that Venus must have had when the
+planet formed?
+The main component contributing to the greenhouse effect on
+Venus is carbon dioxide.  However, the cloud droplets of sulfuric
+acid and the sulfur dioxide also play a role in trapping heat.
+There is more CO2 in Venus' atmosphere than Earth's because much of
+Earth's CO2 is trapped in oceans.  Venus has lost its water due
+to the runaway greenhouse effect.  As the CO2 level increased,
+the atmospheric temperature increased forcing surface water into
+the vapor form.  That water vapor diffused up to the upper atmosphere
+where it was dissociated into H and O2 which were light enough to
+escape the planet altogether.
+
+11. How are the impact craters of Venus different from those found on
+other bodies in the solar system?
+
+There are very few small impact craters on Venus, because meteoroids 
+smaller than about 1 km are destroyed as they travel through the thick 
+atmosphere. The smaller impact craters that do exist appear to have been 
+created by larger bodies that shattered prior to impact. There are also 
+few very large craters, but such large meteoroids were more common in 
+the very early days of the solar system, and ancient large craters 
+may have been filled in by more recent lava flows on the surface.
+
+14. Given that Venus, like Earth, has a partially molten iron-rich
+core, why doesn't Venus also have a magnetic field?
+
+The dynamo effect for creating a magnetic field requires a liquid,
+electrically conductive interior and rapid rotation.  Venus lacks
+the rapid rotation since it takes 243 Earth days to rotate once 
+relative to the stars.
+
+----------------------------------------------------------
+
+AT 9th Ed.
+Ch. 10 Mars
+Disc. 5,6,8,9
+
+5. Describe the major large-scale surface features of Mars.
+	Mars has the Tharsis bulge, a high altitude region mostly
+in the Northern hemisphere which contains the largest shield volcanoes
+in the solar system.  On the Eastern side of the Tharsis bulge is
+the huge, canyon-like fault Valles Marineris.  The Northern part of
+the  planet is systematically lower in altitude and younger than
+the southern half, as indicated by a lower crater density and more
+signs of flooding by water.  The southern hemisphere
+contains its own, low-altitude region: the circular Hellas Basin.
+
+6. Why were Martian volcanoes able to grow so large? 
+	Mar's surface has a lower surface gravity than Earth and
+Venus which allows mountains to reach a greater height before
+the crust can no longer support them.  Another factor is the lack
+of plate tectonics on Mars, which allows hot spots under the crust
+to feed the same volcano indefinitely.  
+
+8. What is the evidence that water once flowed on Mars?  Is there
+liquid water on Mars today?
+Many examples of runoff channels and outflow channels exist on
+Mars.  Runoff channels are like old river channels, while outflow
+channels are caused by more catastrophic, large-scale flooding
+(like the breaking of a natural dam).  There are also what appear
+to be lake shores that receded over time.  Martian rovers have
+found "blueberries" and white silica deposits which were probably
+formed in liquid water environments.
+There are several observations pointing towards possible liquid
+water on Mars today, but they all have alternative explanations.
+For example, the "brine flows" or RSL (Recurrent Slope Lineae)
+look like water stains that change with the season, but they
+are probably just granular flows (because they only occur on 
+slopes greater than ~25 degrees).  There are also gullies and
+alluvial fans that are probably younger than 2 million years,
+which is young compared to the age of any large scale feature
+on Mars.
+
+9. Is there water on Mars today, in any form?
+	Yes.  It exists in small quantities in the atmosphere and
+can sometimes even form fog.  It exists as ice on the polar ice caps.
+Large quantities are also hidden under the surface as a "permafrost"
+in latitudes over 50 degrees away from the equator.
+Recently, brine lakes have been detected by ground-penetrating 
+radar 1.5 km under the surface near the Martian South Pole.
+These are thought to be liquid water with dissolved salts which
+prevent the water from freezing.
+

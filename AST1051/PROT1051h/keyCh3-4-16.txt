@@ -1,0 +1,288 @@
+
+Astro 1061 Homework
+8th Ed
+Chapters 3, 4, 16
+
+Assigned:
+  Ch. 3 R&D 1,2,4-6,8-13,15
+  Ch. 4 R&D 1-2,5    (also shown 8-12,15)
+  Ch. 16 R&D 1-5 (only one of 4 and 5 needed)
+
+Ch. 3
+ R&D
+1. What is a wave?
+A: A disturbance in a medium or field that travels carrying
+energy and information.
+
+2. What is the relationship between wavelength, wave frequency,
+and wave velocity?
+A: The golden rule of waves relates all three: v = w*f, where
+v is velocity, w is wavelength and f is the frequency.
+Basically, there is an inverse relationship between wavelength
+and frequency when wave velocity is held fixed.  So, an increase
+in wavelength is accompanied by a decrease in frequency.
+
+4. What's so special about c?
+A: c is the speed of light in a vacuum.  It is the fastest
+speed there is.  All forms of E-M radiation travel at the
+speed c in a vacuum.  (In a medium, the speeds vary a little
+depending on wavelength.) It is also special in that a given
+beam of light will have the same speed as measured in
+any inertial reference frame.
+
+5. Name the colors that make up white light. What is it about
+these colors that causes us to perceive them differently?
+A: Red, Orange, Yellow, Green, Blue, (Indigo), Violet = ROYGBIV.
+These are in order of decreasing wavelength and increasing 
+frequency.  The different cone cells of our eyes differ in
+their sensitivity to different colors presumably because
+different colors correspond to different photon energies.
+
+6. What effect does a positive charge have on a nearby
+negatively charged particle?
+A: A positive (+) charge attracts a negative (-) charge,
+meaning that it exerts a force on that particle which,
+unless countered by another force, will pull the negative
+particle towards it.
+
+8. Why is light referred to as an electromagnetic wave?
+A:  Because it is electric and magnetic fields that 
+change as the wave passes.
+
+9. What do radio waves, infrared radiation, visible light,
+ultraviolet radiation, X-rays, and gamma rays have in common?
+How do they differ?
+A: All the types of E-M radiation consist of varying electric
+and magnetic fields.  They also all travel at the speed
+of light, c, in a vacuum.  They differ in their frequencies
+and wavelengths.  They also differ in how well they
+transmit through matter.
+
+10. In what parts of the electromagnetic spectrum is the
+atmosphere transparent enough for ground-based astronomy?
+A: Light from space makes it all the way to the ground
+if it is in the visible range (400-800 nm), or in certain
+parts of the radio and infrared ranges.  Gamma rays,
+x-rays, and most UV is blocked by the atmosphere.
+
+11. What is a blackbody?  What are the main characteristics
+ of the radiation it emits?
+A: A blackbody is an idealized object that absorbs all radiation
+falling on it.  It also emits radiation with a particular
+continuous spectrum (the "Planck" or "blackbody" spectrum) 
+which has a single peak that depends only on the temperature
+of the blackbody.  (The higher the temperature, the
+shorter the wavelength of peak radiation.)
+
+12. What does Wien's law reveal about stars in the sky?
+A: that stars with a bluish color have higher surface
+temperatures than red stars.
+
+13. In terms of its blackbody curve, describe what
+happens as a red-hot glowing coal cools.
+A: The rate of energy emission in the form of E-M waves
+will decrease as the coal cools down.  Also, the
+wavelength of maximum intensity will increase
+as it cools.
+
+15. If Earth were completely blanketed with clouds and
+we couldn't see the sky, could we learn about the realm
+beyond the clouds?  What forms of radiation might be
+received?
+A:  Radio waves would be our only way of learning about
+space - radio astronomy can be done on cloudy days.
+
+Multiple Choice
+1. A
+2. C
+3. B
+4. B
+5. D
+6. A
+7. B
+8. D
+9. A
+10. B
+
+  Ch. 4 R&D 1-2,5,8-12,15
+1. What is an absorption spectrum? An emission spectrum?
+How are they related?
+An absorption spectrum is created when the light from a source
+of a continuous spectrum (e.g., a blackbody) shines through a 
+gas. It looks like the continuous spectrum, but with sudden
+drops in intensity at specific wavelengths.  The dips in
+intensity are called absorption lines. (If the spectrum is
+displayed as a horizontal band of light, the abs. lines are dark
+vertical bands.)
+An emission spectrum has very little continuum (mostly dark)
+but with sudden spikes in intensity at specific wavelengths.
+It can be created by observing an excited gas with no light
+source behind it.
+The two are related because an emission spectrum and absorption
+spectrum can be created by the SAME gas depending on the
+line of sight to the gas.  The wavelengths that have spikes
+of intensity (emission) are the same as the wavelengths with dips in
+intensity (absorption).  For both spectra, the wavelengths
+of the lines depend on the elements present in the gas (e.g.,
+hydrogen or sodium).
+
+2. Describe the basic components of a simple spectroscope.
+The basic structure of a spectroscope consists of a slit, 
+a disperser, and an eyepiece or screen. The slit turns the light 
+into a narrow beam. The disperser (prism or diffraction grating) 
+spreads the beam of light out into its various wavelengths or colors. 
+The eyepiece or screen then allows the spectrum to be observed and 
+photographed.
+
+5. In the particle description of light, what is color?
+Different colors correspond to different photon energies.
+The energy of a photon particle is directly proportional to frequency, 
+so red light has the lowest frequency and energy per photon in the 
+visible spectrum, and violet has the highest energy per photon.
+
+--------------------  Start of extra answers
+
+[ 8. What does it mean to say that a physical quantity is quantized?
+When a physical quantity is quantized it means that the quantity 
+can take on only specific discrete values rather than having an 
+infinite number of possible values.  ('Quantized' is almost the 
+opposite of 'continuous'.)
+
+[ 9. What is the normal condition for atoms?  What is an excited atom? 
+What are orbitals?
+Normally the number of electrons in an atom equals the number of protons 
+in the nucleus, and the electrons are in their lowest energy level, 
+the “ground state.” When an atom is excited, an electron absorbs 
+energy from an outside source and moves to a higher energy orbital. 
+The precisely-defined energy states or energy levels are referred 
+to as orbitals. They are the regions surrounding the nucleus that 
+can be occupied by electrons.
+
+[ 10. Why do excited atoms absorb and reemit radiation at characteristic
+frequencies?
+In order for a photon to be absorbed by an electron, it must have an 
+energy that is precisely equal to the energy difference between the 
+energy level occupied by the electron and a higher energy level. When 
+the electron absorbs the photon, it moves immediately to the higher 
+energy level. Very quickly thereafter the electron moves back down to a 
+lower energy level by emitting a photon. The emitted photon must have 
+an amount of energy equal to the energy difference between the two 
+levels. These discrete amounts of photon energy translate into 
+particular frequencies of radiation.
+
+[ 11. How are absorption and emission lines produced in a stellar
+spectrum?  What information might absorption lines in the spectrum 
+of a star reveal about a cloud of cool gas lying between us and 
+the star?
+  The hot, dense core of a star produces a continuous spectrum. 
+However, this light passes through a cooler layer of gas that 
+comprises the outer atmosphere of the star. Specific wavelengths are 
+absorbed by the atoms of this gas and the resulting spectrum appears 
+as an absorption spectrum, a continuous spectrum with specific 
+wavelengths missing. Since different elements absorb different 
+types of light, the wavelengths that are missing can tell us what 
+elements are found in the outer layers of the star. Emission lines 
+are not normally found in a stellar spectrum, unless the gases in the 
+outer layers of the star are unusually hot. However, in some cases, a hot, 
+low density layer can form or can be found in clouds of gas between 
+stars and those clouds give off an emission spectrum. In this case, 
+the wavelengths of the emission lines can tell
+
+[ 12. Why might spectral lines of an element in a star's spectrum
+be weak, even though that element is abundant in the star?
+  The absorption lines in a star could be weak because that element is 
+scarce in that star. However, it is possible that the element could be 
+abundant – even the majority of the star’s composition – and not produce 
+strong lines, if the electrons of most of the atoms of that element 
+are not in a condition to absorb light. For example, the H-alpha absorption 
+line of hydrogen results from electrons jumping from the second to the 
+third atomic orbital. If a star’s outer atmosphere is rather cool, 
+relatively few atoms have electrons that have absorbed enough energy 
+to jump to the second excited state or higher; most are in the ground 
+state. Hence, the second to third level transition occurs rarely, and 
+the wavelength of light corresponding to the H-alpha absorption line is 
+rarely absorbed. A weak spectral line results. If the star is very hot, 
+then the electrons of most the hydrogen atoms may have too much energy, 
+and may have left the atoms entirely. Such stars are mostly hydrogen, 
+but the ionized hydrogen has no electrons to absorb light. Only a few 
+are capable of absorbing, and so the lines of hydrogen are again weak.
+
+[ 15. List three properties of a star that can be determined from
+observations of its spectrum.
+  Many stellar properties can be deduced from the spectrum: Radial 
+velocity of the star, elemental abundances, temperature, rate of 
+rotation, presence of turbulence, strength of magnetic field, and 
+atmospheric pressure.
+
+Ch. 4 Mult Choice
+1. C 
+2. C 
+3. D 
+4. C 
+5. B 
+6. B 
+7. B 
+8. B 
+9. B 
+10. D 
+
+--------------------------------  End of extra answers
+
+Ch. 16 
+
+1. Name and briefly describe the main regions of the Sun.  How
+hot is the solar surface?  The solar core?
+    The main regions of the Sun are shown in Fig 16.2.
+    The core includes the from center out to 200,000 km,
+    the radiation/radiative zone is the next shell out
+    to 500,000 km, and the convective zone takes up
+    most of the remaining space out to 700,000 km.
+    Above these interior zones are the atmosphere including
+    the photosphere (300 km thick), the chromosphere (~1500 km
+    thick, the transition zone (~8000 km thick), and
+    the corona (extends out into the solar wind in some places).
+
+2. What is luminosity, and how is it measured in the Sun?
+   Luminosity is the total amount of energy leaving the Sun
+   in the form of EM radiation in all directions per second.
+   It can be measured in units of Watts.  It is a measure of
+   the true brightness of the Sun and other stars.  It is
+   determined by measuring the amount of energy/second passing
+   through a detector on the top of the Earth's atmosphere, and
+   then multiplying that the ratio of the surface area of
+   a sphere with a radius of 1 AU to the area of the detector.
+
+3. How do scientists construct models of the Sun?
+   They manipulate and evaluate 4 structural equations in order
+   to obtain temperature, density, luminosity and other properties 
+   as a function of depth (or radius).  A "solar model" is
+   in fact as simple as a big table of these quantities, with
+   each row corresponding to a different depth (or radius).
+   Their key boundary values are the radius of the Sun, the
+   surface temperature and the overall luminosity of the Sun.
+   They also use helioseismology to constrain models of the interior.
+
+4. What is helioseismology, and what does it tell us about
+the Sun?
+   Helioseismology is the study of vibrations on (and in) the
+   the Sun.  They are analogous to seismic waves (especially P-waves)
+   on the Earth, but they propogate through the gases of the Sun.
+   They are longitudinal pressure waves, just like sound, but 
+   with frequencies way below the audible limit.  Since the waves
+   propogate through the interior and curve (refract) in response
+   to changes in density/temperature, they can constrain models
+   of the Sun's interior and gas flows.  Specifically, GONG data 
+   has provided detailed information about the temperature, density, 
+   rotation, and convective state of the Sun's interior.  It has
+   also indicated the nature of a 40-year circulation pattern and
+   differential rotation above the radiative zone.
+
+5. How do observations of the surface of the Sun tell us
+about conditions in the solar interior?
+   (See previous answer which is almost the same.)
+   It is analogous to tapping certain fruits and vegatables to 
+   determine freshness - the vibrations you provide will cause
+   resonances in the fruit which will have a different quality in
+   fresh vs rotten fruit.  Similarly, the main modes of vibration
+   of the Sun would be different if the Sun's structure, or total,
+   size or mass changed.
