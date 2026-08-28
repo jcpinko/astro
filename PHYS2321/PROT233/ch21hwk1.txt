@@ -20,8 +20,11 @@ Problems
                  or:  F_top = 200 N away from center of triangle
     Bot right charge: F_BR = 173.4 i - 100.1 j  N  
                  or:  F_BR = 200 N away from center of triangle
+                 or:  F_BR = 200 N 60 degrees below +x axis
     Bot left charge: F_BL = -173.4 i - 100.1 j  N
                  or:         200 N away from center of triangle
+                 or:  F_BL = 200 N 60 degrees below -x axis
+    Note: Textbook answer is wrong.
 
 Misconceptual Questions
 1. a
