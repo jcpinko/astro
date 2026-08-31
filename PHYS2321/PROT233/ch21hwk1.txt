@@ -24,7 +24,7 @@ Problems
     Bot left charge: F_BL = -173.4 i - 100.1 j  N
                  or:         200 N away from center of triangle
                  or:  F_BL = 200 N 60 degrees below -x axis
-    Note: Textbook answer is wrong.
+    Note: Textbook answer has wrong directions.
 
 Misconceptual Questions
 1. a
@@ -38,7 +38,7 @@ However, since 2 Q is now located at the origin with 1 Q on the positive x-axis,
 the force on 1 Q will now be toward the origin, or in the negative x-direction.
 
 3. e
-A common misconception is that the object with the greater charge and smaller mass 
-has a greater force of attraction. However, Newton’s third law applies here. 
-The force of attraction is the same for both lightning bugs.
+A common misconception is that the object with the greater charge and smaller 
+mass has a greater force of attraction. However, Newton’s third law applies 
+here.  The force of attraction is the same for both lightning bugs.
 
