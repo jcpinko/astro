@@ -42,7 +42,7 @@ Problems:
 35  V = K int { dq/r }  where dq = sigma(2*pi*R*dR)
     V = sigma/2{eps_0} [sqrt(x^2+R_2^2) - sqrt(x^2+R_1^2)]
 36. V = K int { dq/r }  over the semicircle
-    V = k Q / r_0  but r_0 = l/pi  so
+    V = k Q / r_0  but r_0 = l/pi  (where l=lambda) so
     V = k Q pi/l   (or V = Q/4*e_0*l )
 43. Delta V = - E*(Delta x)   when E is uniform
     Delta x = x_0 - x_1
