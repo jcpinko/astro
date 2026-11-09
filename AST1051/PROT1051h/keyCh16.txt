@@ -31,29 +31,45 @@ multiplied by the surface area of a sphere which encompasses the Sun and
 whose radius is 1 AU.
 
 3. How do scientists construct models of the Sun?
-Knowing basic facts about the Sun, especially the fact that it is made 
-primarily of light gasses such as hydrogen and helium, and knowing how such 
-gasses behave under conditions of high pressure and temperature, allows 
-astronomers to model the entire structure of the Sun. The model is correct 
-if it successfully predicts observed properties of the Sun, such as its 
-luminosity, radius, and temperature. Some of the input information to the 
-model is uncertain, but the results suggest how correct this input data is. 
-By making slight adjustments in the input parameters, the model is adjusted 
-until its predictions are in agreement with all the observed properties. 
-Once the model “works,” astronomers are then able to learn from the model 
-about the properties in the interior of the Sun. Models are used as a test 
-to see whether we fully understand the structure and processes of objects. 
-They are also then used to predict properties that may not be directly 
-observable. Models also make predictions of observables that help us further 
+First, a "model" of the Sun is basically a table of properties like
+temperature, density and depth (or radius).  Each row of the table
+correspondes to a different depth.  The surface properties can be measured
+directly, while the interior properties have to be calculated using
+four "structural equations" of stars.  One of these equations is 
+"hydrostatic equilibrium", which basically says that there is a balance
+between the force of gravity pulling inward and a gas pressure gradiant
+pushing outward.  This should be true at every depth if the Sun is 
+stable with a fixed radius.  
+The model is adjusted so that a few key observations are satisfied,
+including the radius of the Sun, its total mass, its composition,
+and its total luminosity.
+For example, if you divide the Sun up into spherical shells, you can 
+calulate the mass of each shell as its density times its volume.  Then,
+when you add all of those masses up, it should equal the total mass of
+the Sun.  If it doesn't, the densities need to be tweaked.
+You also need to have enough high temperature and high density layers
+near the core to produce the total luminosity of the Sun, which
+comes from fusion of H to He. The dependence of fusion rate as a 
+function of density and T had to be figured out in the field of 
+nuclear physics.
+
+Models also make predictions of observables that help us further 
 test the validity of the model. 
 
 4. What is helioseismology, and what does it tell us about the Sun?
-Helioseismology is the study of waves that ripple across the surface of 
-the Sun. Some of these waves travel from deep inside the Sun. Their 
-appearance on the surface provides information about the interior of the 
-Sun that cannot otherwise be observed, such as temperature, density, and 
-rotation speed.  In a similar manner seismic waves from the Earth can 
-tell us about the Earth’s interior.
+Helioseismology is the study of sound waves (longitudinal pressure waves)
+that propogate throughout the Sun.  Certain frequencies resonate with
+the Sun leading to standing wave patterns on the surface which can be
+detected through spectroscopy.  The main resonant frequency is 0.0033 Hz,
+corresponding to a 5 minute period.  
+The source of the sound waves is a steady din of convection along with
+occasional, sporadic flare explosions. The waves propogate through
+the interior of the Sun, refracting in a way that depends on the density
+of the gases, and then reappearing at the surface.  In this way, the
+surface vibrations tell us about the interior of the Sun.
+(In a similar manner seismic waves from the Earth can tell us about the 
+Earth’s interior, but Earth's crust can sustain transverse S-waves as
+well as P-waves while the Sun only allows P-waves.)
 
 [5. How do observations of the Sun's surface tell us about conditions in the 
 solar interior?
@@ -75,8 +91,9 @@ ionized. Such a gas is more opaque to radiation. At the outer edge of the
 radiation zone, all of the radiation has been absorbed by the gas. This 
 heats the gas and it physically rises, while cooler gas from the surface 
 falls. This is the region of convection. The energy is transported by 
-convection to the photosphere. Here, the density of the gas is so low that 
-radiation can freely escape into space, and travel in a straight line to Earth.
+convection to the photosphere. Above the photosphere, the density of the 
+gas is so low that radiation can freely escape into space, and travel in a 
+straight line to Earth.
 
 7. Why does the Sun appear to have a sharp edge?
 Virtually all the visible radiation we receive from the Sun comes from 
