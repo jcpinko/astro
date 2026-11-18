@@ -114,7 +114,7 @@ and eventually became "protoplanets".  These evolved through
 processes like differentiation into the planets.
 
 10. Why are the Jovians so much more massive than the terrestrials?
-The gases were able to condense into ices a join with 
+The gases were able to condense into ices and join with 
 rock and metals to form much larger planet cores in the outer
 solar system.  These cores could then gravitationally attract 
 even the lightest gases (H and He) to further build the
@@ -227,8 +227,8 @@ that is pushed outside of Mars' orbit may end up joining with the
 gas planets. ]
 
 Conceptual Self-Test: Multiple Choice
-
-Long key:
+             Odds 1.A 3.A 5.A 7.C  9.C
+Long key:     1.A  2.D  3.A  4.C  5.A  6.B  7.C  8.D  9.C  10.C
 1. A planet's mass can most easily be determined by measuring the
    planets _____
    A) moon's orbits
